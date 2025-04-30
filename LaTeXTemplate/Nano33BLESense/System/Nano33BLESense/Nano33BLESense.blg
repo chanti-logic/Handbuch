@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Nano33BLESense.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 31880 items from 5000.
+Database file #1: Nano33BLESense-blx.bib
+Database file #2: ../../../MLbib/Jetson.bib
+Database file #3: ../../../MLbib/Literature.bib
+Database file #4: ../../../MLbib/MyLiterature.bib
+Biblatex version: 3.20
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 192 entries,
+            6402 wiz_defined-function locations,
+            2444 strings with 54587 characters,
+and the built_in function-call counts, 1285909 in all, are:
+= -- 91877
+> -- 28581
+< -- 8890
++ -- 39700
+- -- 15262
+* -- 85137
+:= -- 133211
+add.period$ -- 0
+call.type$ -- 192
+change.case$ -- 279
+chr.to.int$ -- 1120
+cite$ -- 470
+duplicate$ -- 137413
+empty$ -- 116720
+format.name$ -- 10438
+if$ -- 260199
+int.to.chr$ -- 0
+int.to.str$ -- 618
+missing$ -- 0
+newline$ -- 5867
+num.names$ -- 9571
+pop$ -- 68232
+preamble$ -- 1
+purify$ -- 5211
+quote$ -- 0
+skip$ -- 40831
+stack$ -- 0
+substring$ -- 160168
+swap$ -- 31025
+text.length$ -- 6226
+text.prefix$ -- 306
+top$ -- 1
+type$ -- 6503
+warning$ -- 0
+while$ -- 16184
+width$ -- 0
+write$ -- 5676
