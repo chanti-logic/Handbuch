@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: DemonstratorSchrittmotor.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: tikz/AufbauSchrittmotor.aux
+A level-1 auxiliary file: tikz/FlussdiagrammProgramm.aux
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 11440 items from 5000.
+Database file #1: DemonstratorSchrittmotor-blx.bib
+Database file #2: ../Documents/Myliterature.bib
+Warning--I didn't find a database entry for "SM.2022"
+Biblatex version: 3.20
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 45 entries,
+            6402 wiz_defined-function locations,
+            1570 strings with 34077 characters,
+and the built_in function-call counts, 247623 in all, are:
+= -- 16047
+> -- 4966
+< -- 2160
++ -- 4416
+- -- 1603
+* -- 17075
+:= -- 21663
+add.period$ -- 0
+call.type$ -- 45
+change.case$ -- 44
+chr.to.int$ -- 128
+cite$ -- 88
+duplicate$ -- 26619
+empty$ -- 24271
+format.name$ -- 2579
+if$ -- 53215
+int.to.chr$ -- 0
+int.to.str$ -- 186
+missing$ -- 0
+newline$ -- 1533
+num.names$ -- 2786
+pop$ -- 15500
+preamble$ -- 1
+purify$ -- 1224
+quote$ -- 0
+skip$ -- 10319
+stack$ -- 0
+substring$ -- 26501
+swap$ -- 7295
+text.length$ -- 1550
+text.prefix$ -- 81
+top$ -- 1
+type$ -- 1518
+warning$ -- 0
+while$ -- 2720
+width$ -- 0
+write$ -- 1489
+(There was 1 warning)

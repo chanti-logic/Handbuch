@@ -1,0 +1,38 @@
+A24-04 IMU
+
+Kann man verwenden:
+2.4 Terminal Adapter Board
+
+2.6  Entwicklerboard - Motorsteuerung DEBO MotoDriver2 L298N
+2.7  Getriebemotor mit Rad
+
+4 IMU
+
+5 Arduino IDE
+
+6.1 Funktion Motoren
+
+7 Kalibrierung
+
+8 Programmierung
+
+A24-16 
+SD-Karte
+Batterie-Anzeige
+
+A24_20 Feuchtigkeit, Temperatur, Luftdruck
+DHT22
+Luftdruck und Feuchtigkeit
+
+A24-21 PWMProjektAudioLight
+Mikrophone
+allgemeine Beschreibung
+Shield
+LED
+PWM
+
+A24-27 DemonstratorSchrittmotor 
+Encoder
+
+
+

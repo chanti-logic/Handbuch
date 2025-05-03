@@ -1,0 +1,39 @@
+\babel@toc {ngerman}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {code}{\numberline {5.1}{\ignorespaces Blink.py}}{35}{code.caption.28}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {code}{\numberline {6.1}{\ignorespaces Einbindung der Bibliotheken}}{39}{code.caption.30}%
+\contentsline {code}{\numberline {6.2}{\ignorespaces define-Anweisungen}}{40}{code.caption.31}%
+\contentsline {code}{\numberline {6.3}{\ignorespaces globale Variablen}}{42}{code.caption.33}%
+\contentsline {code}{\numberline {6.4}{\ignorespaces void setup}}{42}{code.caption.34}%
+\contentsline {code}{\numberline {6.5}{\ignorespaces void loop}}{43}{code.caption.35}%
+\contentsline {code}{\numberline {6.6}{\ignorespaces void updateLEDs}}{44}{code.caption.36}%
+\contentsline {code}{\numberline {6.7}{\ignorespaces void updateDisplay}}{44}{code.caption.37}%
+\contentsline {code}{\numberline {6.8}{\ignorespaces bool findReference}}{44}{code.caption.38}%
+\contentsline {code}{\numberline {6.9}{\ignorespaces void handleInterrupt}}{45}{code.caption.39}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {code}{\numberline {8.1}{\ignorespaces Testprogramm für den Schrittmotor}}{66}{code.caption.55}%
+\contentsline {code}{\numberline {8.2}{\ignorespaces Testprogramm für das OLED-Display}}{74}{code.caption.63}%
+\contentsline {code}{\numberline {8.3}{\ignorespaces Testprogramm für die LED}}{75}{code.caption.64}%
+\contentsline {code}{\numberline {8.4}{\ignorespaces Testprogramm für die Taster}}{76}{code.caption.65}%
+\contentsline {code}{\numberline {8.5}{\ignorespaces Testprogramm für die Taster mit Debounce}}{77}{code.caption.66}%
+\contentsline {code}{\numberline {8.6}{\ignorespaces Testprogramm für den Encoder}}{78}{code.caption.67}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
