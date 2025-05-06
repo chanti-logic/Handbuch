@@ -9,7 +9,7 @@
 \usepackage{longtable}
 \usepackage{geometry}
 \usepackage{hyperref}
-\usepackage{tocbibind}
+\usepackage[nottoc]{tocbibind}
 \usepackage{enumitem}
 \usepackage[most]{tcolorbox} 
 
@@ -48,39 +48,46 @@
 		\end{flushleft}
 	\end{titlepage}
 	
-		\vspace*{\fill}
-		\begin{center}
+	\vspace*{\fill}
+	\begin{center}
 		\begin{tcolorbox}[
-					colback=white!95!gray,
-					colframe=black,
-					width=0.9\textwidth,
-					boxrule=0.5mm,
-					arc=2mm,
-					auto outer arc,
-					drop shadow
-					]
-  	\textbf{Vielen Dank für Ihren Kauf und viel Erfolg} \\
-    ...beim Einsatz Ihres neuen \textbf{Schrittmotor-Demonstrators!}\\[1em]
-
-    Sie haben sich für ein innovatives Lehr- und Anschauungsgerät entschieden, das die typischen Bewegungsabläufe eines Schrittmotors auf anschauliche Weise darstellt.  
-
-    Der Demonstrator überzeugt durch eine intuitive Bedienung, visuelles Feedback per OLED-Display und Status-LED sowie eine stabile Bauform – ideal für Schulung, Labor und Demonstration.\\
-
-    \medskip
-    \centering
-    \textbf{Und jetzt, viel Spaß beim Ansteuern!}
-    \end{tcolorbox}
-    \end{center}
-    \vspace*{\fill}
+			colback=white!95!gray,
+			colframe=black,
+			width=0.9\textwidth,
+			boxrule=0.5mm,
+			arc=2mm,
+			auto outer arc,
+			drop shadow
+			]
+			\textbf{Vielen Dank für Ihren Kauf und viel Erfolg} \\
+			...beim Einsatz Ihres neuen \textbf{Schrittmotor-Demonstrators!}\\[1em]
+			
+			Sie haben sich für ein innovatives Lehr- und Anschauungsgerät entschieden, das die typischen Bewegungsabläufe eines Schrittmotors auf anschauliche Weise darstellt.  
+			
+			Der Demonstrator überzeugt durch eine intuitive Bedienung, visuelles Feedback per OLED-Display und Status-LED sowie eine stabile Bauform – ideal für Schulung, Labor und Demonstration.\\
+			
+			\medskip
+			\centering
+			\textbf{Und jetzt, viel Spaß beim Ansteuern!}
+		\end{tcolorbox}
+	\end{center}
+	\vspace*{\fill}
+	
+	\pagenumbering{roman} 
+	\setcounter{page}{-1}  
+	
 	
 	\tableofcontents
 	\listoffigures
 	\listoftables
 	
+	\cleardoublepage         
+	\pagenumbering{arabic}  
+	\setcounter{page}{1} 
 	
 	
-    	%\chapter{Hinweise}
-		\chapter{Sicherheitshinweise}
+	%\chapter{Hinweise}
+	\chapter{Sicherheitshinweise}
 	\begin{itemize}[leftmargin=1.5em]
 		\textbf{Seien Sie bitte sehr vorsichtig bei jeder Interaktion mit dem Demonstrator. Bei diesesm Demonstrator handelt es sich um ein elektrisches Gerät mit beweglichen Teilen:}
 		
@@ -179,7 +186,7 @@
 		
 	\end{itemize}
 	
-		
+	
 	\chapter{Bedienung}
 	\section{Inbetriebnahme}
 	\begin{itemize}[leftmargin=1.5em]
@@ -294,31 +301,27 @@
 	\chapter{Wartung}
 	\begin{itemize}[leftmargin=1.5em]
 		
-		Der Demonstrator ist grundsätzlich wartungsarm. Dennoch sollten zur Sicherstellung der Lebensdauer und Funktionalität regelmäßig einige einfache Maßnahmen durchgeführt werden. \\[0,75cm]
+		Der Demonstrator ist grundsätzlich wartungsarm. Dennoch sollten zur Sicherstellung der Lebensdauer und Funktionalität regelmäßig einige einfache Maßnahmen durchgeführt werden. \\[0.75cm]
 		
 		\textbf{Empfohlene Wartungsschritte:}
 		
-		\item Führung reinigen: 
+		\item \textbf{Führung reinigen:}  \\
+		Vor jedem Ausschalten empfiehlt sich eine Reinigung der Linearführung mit einem fusselfreien Papiertuch. Auf Schmiermittel kann verzichtet werden, da ein trockener Lauf für didaktische Zwecke ausreicht. Eine wöchentliche Reinigung bei regelmäßigem Betrieb wird empfohlen.
 		
-		Vor jedem Ausschalten empfiehlt sich eine Reinigung der Linearführung mit einem fusselfreien Papiertuch. Auf Schmiermittel kann verzichtet werden, da ein trockener Lauf für didaktische Zwecke ausreicht. \\
+		\item \textbf{Spindel kontrollieren:}  \\
+		Die Spannung der Spindel sollte regelmäßig überprüft werden. Ein zu lockerer Spindel führt zu ungenauer Bewegung, ein zu straffer zu erhöhtem Verschleiß. Die Spindelspannung sollte nachjustiert werden, wenn sie sich durch Temperatur, Transport oder längeren Betrieb verändert hat. 
 		
-		\item Spindel kontrollieren: 
+		\item \textbf{Mechanik prüfen:}  \\
+		Alle mechanischen Verbindungen sollten nach längerem Betrieb auf festen Sitz überprüft werden. Besonders wichtig sind die Lagerungen an den Enden der Spindel sowie die Führungsschiene. Nachziehen sollte vorsichtig und ohne Überdrehen erfolgen.
 		
-		Die Spannung der Spindel sollte regelmäßig überprüft werden. Ein zu lockerer Spindel führt zu ungenauer Bewegung, ein zu straffer zu erhöhtem Verschleiß. \\
+		\item \textbf{Elektronik und Kabel:}  \\
+		Lose oder beschädigte Kabel können zu Fehlfunktionen führen oder das System im Betrieb gefährden. Bei sichtbaren Schäden sind die betroffenen Komponenten sofort auszutauschen. Steckverbindungen sollten fest einrasten und ggf. nachgesteckt werden.
 		
-		\item Mechanik prüfen: 
-		
-		Alle Schraubverbindungen und Halterungen sollten nach längerem Einsatz kontrolliert und ggf. nachgezogen werden. \\
-		
-		\item Elektronik und Kabel: 
-		
-		Achten Sie auf lose oder beschädigte Kabel. Steckverbindungen regelmäßig prüfen. \\
-		
-		\item OLED-Display:
-		
-		Bei statischer Anzeige kann sich ein Einbrennen der OLED-Pixel ergeben. Die Software sollte so gestaltet sein, dass sich die Anzeige regelmäßig ändert oder sich abschaltet. \\
+		\item \textbf{OLED-Display:}  \\
+		Bei statischer Anzeige (z. B. dauerhaftem Einblenden der aktuellen Stufe) besteht die Gefahr des Einbrennens der OLED-Pixel. Daher sollte die Software so gestaltet sein, dass das Display regelmäßig Inhalte wechselt oder sich bei Inaktivität automatisch abschaltet. 
 		
 	\end{itemize}
+	
 	
 	\chapter{Anleitung zur Fehlerbehebung}
 	\begin{table}[h]
@@ -329,11 +332,14 @@
 			Motor bewegt sich nicht & Keine Spannung / defekte LED / defekter Treiber & Stromversorgung prüfen, Status-LED beachten \\ \hline
 			Ungewöhnliche Geräusche & Spindel zu locker oder zu straff, Führung verschmutzt & Spindelspannung justieren, Führung reinigen \\ \hline
 			Schlitten bleibt nach Referenzfahrt stehen & Endschalter nicht korrekt angeschlossen / ausgelöst & Kabel prüfen, Schaltermechanik testen \\ \hline
-			Bewegung ungleichmäßig oder ruckelnd & Mechanischer Widerstand, fehlerhafte Encoderwerte & Inbetriebnahme Protokol zu Spindel-Prüfung wiederholen, Führungen reinigen, Encoder testen \\ \hline
+			Bewegung ungleichmäßig oder ruckelnd & Mechanischer Widerstand, fehlerhafte Encoderwerte & Inbetriebnahme-Protokoll zu Spindel-Prüfung wiederholen, Führungen reinigen, Encoder testen \\ \hline
+			OLED-Display bleibt dunkel & Keine I2C-Verbindung / falsche Adressierung / defektes Display & Verkabelung prüfen, I2C-Adresse kontrollieren, ggf. Display ersetzen \\ \hline
+			LED zeigt keine Farbe & Fehlerhafte Ansteuerung / defekte LED / Kurzschluss & Code überprüfen, LED-Anschluss kontrollieren, ggf. ersetzen \\ \hline
 		\end{tabular}
 		\caption{Anleitung zur Fehlerbehebung}
 		\label{tab:fehlerbehebung}
 	\end{table}
+	
 	
 	\chapter{Haftungsausschluss}
 	\begin{itemize}[leftmargin=1.5em]
