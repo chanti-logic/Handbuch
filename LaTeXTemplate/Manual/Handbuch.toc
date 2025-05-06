@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {3.1}Inbetriebnahme}{9}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Bewegungsablauf}{10}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Bewegungsstufen}{11}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Wartung}{13}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Anleitung zur Fehlerbehebung}{14}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Haftungsausschluss}{15}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Technische Daten}{16}{chapter.7}%
+\contentsline {chapter}{\numberline {4}Wartung}{12}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Anleitung zur Fehlerbehebung}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Haftungsausschluss}{14}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Technische Daten}{15}{chapter.7}%

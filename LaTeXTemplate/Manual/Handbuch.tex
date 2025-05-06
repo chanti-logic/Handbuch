@@ -11,8 +11,9 @@
 \usepackage{hyperref}
 \usepackage{tocbibind}
 \usepackage{enumitem}
+\usepackage[most]{tcolorbox} 
 
-\geometry{left=3cm, right=2.5cm, top=3cm, bottom=3cm}
+\geometry{left=3cm, right=2.5cm, top=2cm, bottom=3cm}
 
 \begin{document}
 	
@@ -47,32 +48,30 @@
 		\end{flushleft}
 	\end{titlepage}
 	
-	\vspace*{\fill} % Startet vertikal zentriert
-	\begin{center}
-		\begin{tcolorbox}[colback=white!95!gray,
-			colframe=black,
-			width=0.9\textwidth,
-			boxrule=0.5mm,
-			arc=2mm,
-			auto outer arc,
-			%harp corners=south,
-			drop shadow]
-            \textbf{Vielen Dank für Ihren Kauf und viel Erfolg} \\
-           ...beim Einsatz             Ihres neuen \textbf{Schrittmotor-Demonstrators!}\\
+		\vspace*{\fill}
+		\begin{center}
+		\begin{tcolorbox}[
+					colback=white!95!gray,
+					colframe=black,
+					width=0.9\textwidth,
+					boxrule=0.5mm,
+					arc=2mm,
+					auto outer arc,
+					drop shadow
+					]
+  	\textbf{Vielen Dank für Ihren Kauf und viel Erfolg} \\
+    ...beim Einsatz Ihres neuen \textbf{Schrittmotor-Demonstrators!}\\[1em]
 
-           Sie haben sich für ein innovatives Lehr- und Anschauungsgerät entschieden, das die typischen Bewegungsabläufe eines Schrittmotors auf anschauliche Weise darstellt.  
+    Sie haben sich für ein innovatives Lehr- und Anschauungsgerät entschieden, das die typischen Bewegungsabläufe eines Schrittmotors auf anschauliche Weise darstellt.  
 
-           Der Demonstrator überzeugt durch eine intuitive Bedienung, visuelles Feedback per OLED-Display und Status-LED sowie eine kompakte, stabile Bauform – ideal für Schulung, Labor und Demonstration.
+    Der Demonstrator überzeugt durch eine intuitive Bedienung, visuelles Feedback per OLED-Display und Status-LED sowie eine stabile Bauform – ideal für Schulung, Labor und Demonstration.\\
 
-           Wir wünschen Ihnen viel Freude beim Arbeiten mit Ihrem neuen Gerät!
-			
-			\medskip
-			\centering
-			\textbf{Und jetzt, viel Spaß beim Ausprobieren und Dekorieren!}
-		\end{tcolorbox}
-	\end{center}
-	\vspace*{\fill} % Schließt vertikale Zentrierung ab
-	
+    \medskip
+    \centering
+    \textbf{Und jetzt, viel Spaß beim Ansteuern!}
+    \end{tcolorbox}
+    \end{center}
+    \vspace*{\fill}
 	
 	\tableofcontents
 	\listoffigures
@@ -109,22 +108,22 @@
 	\chapter{Übersicht}
 	\section{Beschreibung}
 	\begin{itemize}[leftmargin=1.5em]
-		Der Demonstrator veranschaulicht die typischen Bewegungsabläufe eines Schrittmotors anhand eines Linearschlittens. Dieser bewegt sich auf einer Linearführung und wird über einen Trapezgewindespindel (Leitspindel) mit einem NEMA17-Schrittmotor angetrieben. Der Antrieb erfolgt dabei in fünf verschiedenen Geschwindigkeitsstufen, die mithilfe eines Drehencoders auswählbar sind. Die ausgewählte Stufe wird über ein OLED-Display angezeigt, die Systemzustände über eine farbige Status-LED signalisiert. Das Gerät ist so konzipiert, dass es sich einfach auf einer stabilen, ebenen Fläche betreiben lässt.  
+		Der Demonstrator veranschaulicht die typischen Bewegungsabläufe eines Schrittmotors anhand eines Linearschlittens. Dieser bewegt sich auf einer Linearführung und wird über einen Trapezgewindespindel (Leitspindel) mit einem NEMA17-Schrittmotor angetrieben. Der Antrieb erfolgt dabei in fünf verschiedenen Geschwindigkeitsstufen, die mithilfe eines Drehencoders auswählbar sind. Die ausgewählte Stufe wird über ein OLED-Display angezeigt, die Systemzustände über eine farbige Status-LED signalisiert. Das Gerät ist so konzipiert, dass es sich einfach auf einer stabilen, ebenen Fläche betreiben lässt.\\  
 		
-		\item Lieferumfang: 
+		\item \textbf{Lieferumfang:} 
 		
 		Schrittmotor-Demonstrator\\
 		
 		Netzanschlusskabel\\
 		
-		\item Aufstellhinweise: 
+		\item \textbf{Aufstellhinweise:} 
 		
 		Nur auf stabiler, ebener Fläche betreiben\\
 		Vor Feuchtigkeit, direkter Sonneneinstrahlung und Hitzequellen schützen\\
 		
 		Keine Objekte auf oder in den Bewegungsbereich des Geräts stellen\\
 		
-		\item Netzanschluss: 
+		\item \textbf{Netzanschluss:}  
 		
 		Das Gerät verfügt über eine integrierte Netzbuchse auf der Rückseite\\
 		
@@ -167,7 +166,7 @@
 		
 		\item USB-Port:
 		
-		Ermöglicht eine direkte Steuerung des Motors und das Speichern von Bewegungsparametern.
+		Ermöglicht eine direkte Steuerung des Motors und das Speichern von Bewegungsparametern.\\
 		
 	\end{itemize}
 	
@@ -198,7 +197,7 @@
 		
 		\item Ist die Spindel auf beiden Seiten axial fixiert, kann eine Verspannung entstehen. Achten Sie darauf, dass nur das Motorende als Festlager ausgeführt ist, während das andere Ende als Loslager fungiert.
 		
-		\item Weist die Spindel eine Abweichung oder einen schrägen Verlauf zur Linearführung auf, justieren Sie sie so, dass sie exakt parallel zur Führung verläuft. Justieren Sie dafür die Montagepunkte nach, indem Sie den Aufbau auf Winkelgenauigkeit prüfen und betroffene Schrauben lösen, anpassen und anziehen.\\
+		\item Weist die Spindel eine Abweichung oder einen schrägen Verlauf zur Linearführung auf, justieren Sie sie so, dass sie exakt parallel zur Führung verläuft. Justieren Sie dafür die Montagepunkte nach, indem Sie den Aufbau auf Winkelgenauigkeit prüfen und betroffene Schrauben lösen, anpassen und anziehen.\\ 
 		
 		
 		\textbf{2. Stromversorgung:}
