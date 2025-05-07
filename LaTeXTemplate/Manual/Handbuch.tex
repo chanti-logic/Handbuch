@@ -12,8 +12,18 @@
 \usepackage[nottoc]{tocbibind}
 \usepackage{enumitem}
 \usepackage[most]{tcolorbox} 
+\usepackage{titlesec}  % Paket zum Anpassen von Überschriften
 
 \geometry{left=3cm, right=2.5cm, top=2cm, bottom=3cm}
+
+\renewcommand{\chaptername}{} 
+\renewcommand{\thechapter}{\arabic{chapter}}
+
+
+
+% Kapitelstil neu definieren:
+\titleformat{\chapter}[hang]{\normalfont\huge\bfseries}{\thechapter\quad}{0pt}{} 
+
 
 \begin{document}
 	
@@ -68,7 +78,7 @@
 			
 			\medskip
 			\centering
-			\textbf{Und jetzt, viel Spaß beim Ansteuern!}
+			\textbf{Und jetzt, viel Freude bei der Anwendung!}
 		\end{tcolorbox}
 	\end{center}
 	\vspace*{\fill}
@@ -88,8 +98,9 @@
 	
 	%\chapter{Hinweise}
 	\chapter{Sicherheitshinweise}
+			\textbf{Seien Sie bitte sehr vorsichtig bei jeder Interaktion mit dem Demonstrator. Bei diesesm Demonstrator handelt es sich um ein elektrisches Gerät mit beweglichen Teilen:}
 	\begin{itemize}[leftmargin=1.5em]
-		\textbf{Seien Sie bitte sehr vorsichtig bei jeder Interaktion mit dem Demonstrator. Bei diesesm Demonstrator handelt es sich um ein elektrisches Gerät mit beweglichen Teilen:}
+
 		
 		\item Das Gerät ist nur für den Innenbereich bestimmt. Setzen Sie den Demonstrator keiner Feuchtigkeit aus.
 		Halten Sie den Demonstrator in einer trockenen Umgebung in einem Mindestabstand von 30 cm zu anderen
@@ -114,29 +125,34 @@
 	
 	\chapter{Übersicht}
 	\section{Beschreibung}
+	
+	Der Demonstrator veranschaulicht die typischen Bewegungsabläufe eines Schrittmotors anhand eines Linearschlittens. Dieser bewegt sich auf einer Linearführung und wird über einen Trapezgewindespindel (Leitspindel) mit einem NEMA17-Schrittmotor angetrieben. Der Antrieb erfolgt dabei in fünf verschiedenen Geschwindigkeitsstufen, die mithilfe eines Drehencoders auswählbar sind. Die ausgewählte Stufe wird über ein OLED-Display angezeigt, die Systemzustände über eine farbige Status-LED signalisiert. Das Gerät ist so konzipiert, dass es sich einfach auf einer stabilen, ebenen Fläche betreiben lässt.\\ 
+	
 	\begin{itemize}[leftmargin=1.5em]
-		Der Demonstrator veranschaulicht die typischen Bewegungsabläufe eines Schrittmotors anhand eines Linearschlittens. Dieser bewegt sich auf einer Linearführung und wird über einen Trapezgewindespindel (Leitspindel) mit einem NEMA17-Schrittmotor angetrieben. Der Antrieb erfolgt dabei in fünf verschiedenen Geschwindigkeitsstufen, die mithilfe eines Drehencoders auswählbar sind. Die ausgewählte Stufe wird über ein OLED-Display angezeigt, die Systemzustände über eine farbige Status-LED signalisiert. Das Gerät ist so konzipiert, dass es sich einfach auf einer stabilen, ebenen Fläche betreiben lässt.\\  
+		 
 		
-		\item \textbf{Lieferumfang:} 
+		\item\textbf{Lieferumfang:} 
 		
 		Schrittmotor-Demonstrator\\
 		
 		Netzanschlusskabel\\
 		
-		\item \textbf{Aufstellhinweise:} 
+		\item\textbf{Aufstellhinweise:} 
 		
 		Nur auf stabiler, ebener Fläche betreiben\\
 		Vor Feuchtigkeit, direkter Sonneneinstrahlung und Hitzequellen schützen\\
 		
 		Keine Objekte auf oder in den Bewegungsbereich des Geräts stellen\\
 		
-		\item \textbf{Netzanschluss:}  
+		\item\textbf{Netzanschluss:}  
 		
 		Das Gerät verfügt über eine integrierte Netzbuchse auf der Rückseite\\
 		
-		Nach Anschluss des Kabels an eine geeignete 230 V-Steckdose kann der Demonstrator über den vorderseitigen Power-Schalter eingeschaltet werden\\
+		Nach Anschluss des Kabels an eine geeignete 230\ V-Steckdose kann der Demonstrator über den vorderseitigen Power-Schalter eingeschaltet werden\\
 		
 	\end{itemize}
+	\newpage
+	
 	\section {Aufbau}
 	\subsection {Elemente auf der Frontblende }
 	\begin{itemize}[leftmargin=1.5em]
@@ -169,7 +185,7 @@
 		
 		\item Netzbuchse: 
 		
-		Hier wird das mitgelieferte Netzkabel angeschlossen. Die Stromversorgung erfolgt über ein internes Netzteil mit 230 V AC auf 12 V DC Wandlung. \\
+		Hier wird das mitgelieferte Netzkabel angeschlossen. Die Stromversorgung erfolgt über ein internes Netzteil mit 230\ V AC auf 12\ V DC Wandlung. \\
 		
 		\item USB-Port:
 		
@@ -189,10 +205,12 @@
 	
 	\chapter{Bedienung}
 	\section{Inbetriebnahme}
-	\begin{itemize}[leftmargin=1.5em]
+
 		Die Inbetriebnahme des Demonstrators erfolgt in mehreren definierten Schritten, um einen sicheren und zuverlässigen Betrieb zu gewährleisten. Besonders wichtig ist dabei die korrekte Spindelspannung, die Stromversorgung sowie die saubere Initialisierung der Steuerung. \\[0,75cm]
 		
-		\textbf{1. Spindel prüfen:}
+		\noindent\textbf{1. Spindel prüfen:}
+		
+	    \begin{itemize}[leftmargin=1.5em]
 		
 		\item Drehen Sie die Spindel manuell und beobachten Sie deren Laufverhalten und Leichtgängigkeit. Folgen Sie den weiteren Punkten bei erhöhtem Widerstand, Ruckeln, unparallelem oder unrundem Verhalten 
 		
@@ -205,75 +223,91 @@
 		\item Ist die Spindel auf beiden Seiten axial fixiert, kann eine Verspannung entstehen. Achten Sie darauf, dass nur das Motorende als Festlager ausgeführt ist, während das andere Ende als Loslager fungiert.
 		
 		\item Weist die Spindel eine Abweichung oder einen schrägen Verlauf zur Linearführung auf, justieren Sie sie so, dass sie exakt parallel zur Führung verläuft. Justieren Sie dafür die Montagepunkte nach, indem Sie den Aufbau auf Winkelgenauigkeit prüfen und betroffene Schrauben lösen, anpassen und anziehen.\\ 
+	    \end{itemize}
 		
 		
-		\textbf{2. Stromversorgung:}
+		\noindent\textbf{2. Stromversorgung:}
+		
+		\begin{itemize}[leftmargin=1.5em]
 		
 		\item Stecken Sie das mitgelieferte Netzkabel in die Netzbuchse an der linken Seite. 
 		\item Achten Sie auf den festen Sitz beider Enden (am Gerät und an der Steckdose). 
-		\item Verwenden Sie nur Steckdosen mit 230 V Spannung (kein Trafo, kein Zwischenstecker mit veränderter Spannung). \\
+		\item Verwenden Sie nur Steckdosen mit 230\ V Spannung (kein Trafo, kein Zwischenstecker mit veränderter Spannung). \\
+    	\end{itemize}
 		
-		\textbf{3. Einschalten:}
 		
+		
+		\noindent\textbf{3. Einschalten:}
+		
+		\begin{itemize}[leftmargin=1.5em]
 		\item Betätigen Sie den Power-Schalter auf der Vorderseite. 
 		\item Das OLED-Display zeigt den Boot-Status („Start...“) an. 
 		\item Nach wenigen Sekunden erscheint „Startbereit – Stufe 1“. 
 		\item Die Status-LED leuchtet nun grün, was den Bereitschaftsmodus signalisiert. \\
+    	\end{itemize}
 		
-		\textbf{4. Auswahl der Bewegungsstufe:}
+		\noindent\textbf{4. Auswahl der Bewegungsstufe:}
+		\begin{itemize}[leftmargin=1.5em]
 		
 		\item Drehen Sie den Encoder im Uhrzeigersinn, um die nächste Stufe (2–5) auszuwählen. 
 		\item Gegen den Uhrzeigersinn gelangen Sie zu niedrigeren Stufen. 
 		\item Die aktuell ausgewählte Stufe wird direkt auf dem OLED angezeigt. \\
+    	\end{itemize}
 		
-		\textbf{5. Starten des Ablaufs:}
+		\noindent\textbf{5. Starten des Ablaufs:}
+		\begin{itemize}[leftmargin=1.5em]
 		
 		\item Drücken Sie den Start-Taster auf der Frontblende. 
 		\item Das System fährt automatisch zur Referenzposition (Endschalter) und beginnt dann den gewählten Bewegungszyklus. 
 		\item Der Ablauf endet automatisch nach einem vollständigen Bewegungszyklus. \\
+    	\end{itemize}
 		
-		\textbf{6. Stoppen:}
+		\noindent\textbf{6. Stoppen:}
+		\begin{itemize}[leftmargin=1.5em]
 		
 		\item Ein manuelles Stoppen ist nicht vorgesehen. Nach jedem Zyklus kehrt das System automatisch in den Bereitschaftsmodus zurück. \\
 		
-	\end{itemize}
+    	\end{itemize}
+    \newpage
 	
-	\section{Bewegungsablauf}
-	\begin{itemize}[leftmargin=1.5em]
-		Der Bewegungsablauf demonstriert die Fähigkeit eines Schrittmotors, präzise, wiederholbare Bewegungen mit einstellbaren Geschwindigkeiten durchzuführen. Dabei wird der Schlitten des Motors entlang der Linearführung hin- und herbewegt. Das Verhalten folgt einem klar strukturierten Zyklus: \\[0,75cm]
-		
-		\textbf{Ablaufstruktur pro Stufe:}
-		
-		\item Start bei Referenzposition:
-		
-		Nach dem Einschalten oder Drücken des Start-Tasters fährt der Schlitten zur Startposition (erfasst durch den Endschalter). \\
-		
-		\item Beschleunigungsphase:
-		
-		Der Schlitten wird gleichmäßig auf die gewünschte Geschwindigkeit hochgefahren. Dies erfolgt stufenweise, um Ruckbildung zu vermeiden. \\
-		
-		\item Konstante Geschwindigkeit: 
-		
-		Nach Erreichen der Zielgeschwindigkeit fährt der Schlitten über die definierte Strecke (z. B. von 5 cm auf 30 cm). \\
-		
-		\item Verzögerungsphase: 
-		
-		Kurz vor dem Erreichen des Endpunkts wird die Geschwindigkeit reduziert, bis der Schlitten zum Stillstand kommt. \\
-		
-		\item Rückfahrt: 
-		
-		Der Ablauf wird in umgekehrter Richtung wiederholt (zurück zur Ausgangsposition). Auch hier erfolgt wieder Beschleunigung, konstante Fahrt, Verzögerung. \\
-		
-		\item Wiederholung: 
-		
-		Der Zyklus wird mehrfach durchlaufen (z. B. 3×), abhängig von der Programmierung.\\ 
-		
-		Während des gesamten Ablaufs zeigt das OLED-Display den aktuellen Status (z. B. „Programm wird ausgeführt – Stufe V“) und die LED signalisiert die Bereitschaft (grün) bzw. Fehlermeldung (rot). \\
-		
-	\end{itemize}
+\section{Bewegungsablauf}
+
+\setlength{\leftskip}{1.5em} % Ganzen Abschnitt einrücken
+
+Der Bewegungsablauf demonstriert die Fähigkeit eines Schrittmotors, präzise, wiederholbare Bewegungen mit einstellbaren Geschwindigkeiten durchzuführen. Dabei wird der Schlitten des Motors entlang der Linearführung hin- und herbewegt. Das Verhalten folgt einem klar strukturierten Zyklus: \\[0.75cm]
+
+% "Ablaufstruktur pro Stufe:" ohne Einzug
+\noindent\textbf{Ablaufstruktur pro Stufe:}
+
+\begin{itemize}[leftmargin=1.5em, itemsep=1em, topsep=0.5em]
+	\item \textbf{Start bei Referenzposition:} \\
+	Nach dem Einschalten oder Drücken des Start-Tasters fährt der Schlitten zur Startposition (erfasst durch den Endschalter).
 	
+	\item \textbf{Beschleunigungsphase:} \\
+	Der Schlitten wird gleichmäßig auf die gewünschte Geschwindigkeit hochgefahren. Dies erfolgt stufenweise, um Ruckbildung zu vermeiden.
+	
+	\item \textbf{Konstante Geschwindigkeit:} \\
+	Nach Erreichen der Zielgeschwindigkeit fährt der Schlitten über die definierte Strecke (z. B. von 5\,cm auf 30\,cm).
+	
+	\item \textbf{Verzögerungsphase:} \\
+	Kurz vor dem Erreichen des Endpunkts wird die Geschwindigkeit reduziert, bis der Schlitten zum Stillstand kommt.
+	
+	\item \textbf{Rückfahrt:} \\
+	Der Ablauf wird in umgekehrter Richtung wiederholt (zurück zur Ausgangsposition). Auch hier erfolgt wieder Beschleunigung, konstante Fahrt, Verzögerung.
+	
+	\item \textbf{Wiederholung:} \\
+	Der Zyklus wird mehrfach durchlaufen (z. B. 3×), abhängig von der Programmierung.
+\end{itemize}
+
+% Letzten Absatz ohne Einzug
+\noindent
+Während des gesamten Ablaufs zeigt das OLED-Display den aktuellen Status (z. B. „Programm wird ausgeführt – Stufe V“) und die LED signalisiert die Bereitschaft (grün) bzw. Fehlermeldung (rot).
+
+\setlength{\leftskip}{0pt} % Einzug zurücksetzen
+\newpage
+
 	\section{Bewegungsstufen}
-	\begin{itemize}[leftmargin=1.5em]
+
 		
 		Der Demonstrator besitzt fünf fest definierte Bewegungsstufen, die sich durch verschiedene Geschwindigkeiten unterscheiden. Sie wurden so gewählt, dass der Unterschied zwischen den Stufen deutlich sichtbar und spürbar ist. Die Geschwindigkeit wird durch den Arduino softwareseitig via Stepper-Timing gesteuert.\\
 		
@@ -294,33 +328,47 @@
 		
 		\vspace{0.5em}
 		
-		\\Diese Werte sind softwareseitig definiert und können bei Bedarf über den Arduino-Code angepasst werden.
+		Diese Werte sind softwareseitig definiert und können bei Bedarf über den Arduino-Code angepasst werden.
 		
-	\end{itemize}
+
 	
-	\chapter{Wartung}
-	\begin{itemize}[leftmargin=1.5em]
-		
-		Der Demonstrator ist grundsätzlich wartungsarm. Dennoch sollten zur Sicherstellung der Lebensdauer und Funktionalität regelmäßig einige einfache Maßnahmen durchgeführt werden. \\[0.75cm]
-		
-		\textbf{Empfohlene Wartungsschritte:}
-		
-		\item \textbf{Führung reinigen:}  \\
-		Vor jedem Ausschalten empfiehlt sich eine Reinigung der Linearführung mit einem fusselfreien Papiertuch. Auf Schmiermittel kann verzichtet werden, da ein trockener Lauf für didaktische Zwecke ausreicht. Eine wöchentliche Reinigung bei regelmäßigem Betrieb wird empfohlen.
-		
-		\item \textbf{Spindel kontrollieren:}  \\
-		Die Spannung der Spindel sollte regelmäßig überprüft werden. Ein zu lockerer Spindel führt zu ungenauer Bewegung, ein zu straffer zu erhöhtem Verschleiß. Die Spindelspannung sollte nachjustiert werden, wenn sie sich durch Temperatur, Transport oder längeren Betrieb verändert hat. 
-		
-		\item \textbf{Mechanik prüfen:}  \\
-		Alle mechanischen Verbindungen sollten nach längerem Betrieb auf festen Sitz überprüft werden. Besonders wichtig sind die Lagerungen an den Enden der Spindel sowie die Führungsschiene. Nachziehen sollte vorsichtig und ohne Überdrehen erfolgen.
-		
-		\item \textbf{Elektronik und Kabel:}  \\
-		Lose oder beschädigte Kabel können zu Fehlfunktionen führen oder das System im Betrieb gefährden. Bei sichtbaren Schäden sind die betroffenen Komponenten sofort auszutauschen. Steckverbindungen sollten fest einrasten und ggf. nachgesteckt werden.
-		
-		\item \textbf{OLED-Display:}  \\
-		Bei statischer Anzeige (z. B. dauerhaftem Einblenden der aktuellen Stufe) besteht die Gefahr des Einbrennens der OLED-Pixel. Daher sollte die Software so gestaltet sein, dass das Display regelmäßig Inhalte wechselt oder sich bei Inaktivität automatisch abschaltet. 
-		
-	\end{itemize}
+\chapter{Wartung}
+
+
+Der Demonstrator ist grundsätzlich wartungsarm. Dennoch sollten zur Sicherstellung der Lebensdauer und Funktionalität regelmäßig einige einfache Maßnahmen durchgeführt werden. \\[0.75cm]
+ 
+
+\textbf{Empfohlene Wartungsschritte:}
+
+\setlength{\leftskip}{1.5em} 
+
+\begin{itemize}[leftmargin=1.5em]
+	\item \textbf{Führung reinigen:} 
+\end{itemize}
+Vor jedem Ausschalten empfiehlt sich eine Reinigung der Linearführung mit einem fusselfreien Papiertuch. Auf Schmiermittel kann verzichtet werden, da ein trockener Lauf für didaktische Zwecke ausreicht. Eine wöchentliche Reinigung bei regelmäßigem Betrieb wird empfohlen.
+
+\begin{itemize}[leftmargin=1.5em]		
+	\item \textbf{Spindel kontrollieren:} 
+\end{itemize}
+Die Spannung der Spindel sollte regelmäßig überprüft werden. Ein zu lockerer Spindel führt zu ungenauer Bewegung, ein zu straffer zu erhöhtem Verschleiß. Die Spindelspannung sollte nachjustiert werden, wenn sie sich durch Temperatur, Transport oder längeren Betrieb verändert hat. 
+
+\begin{itemize}[leftmargin=1.5em]		
+	\item \textbf{Mechanik prüfen:}  
+\end{itemize}
+Alle mechanischen Verbindungen sollten nach längerem Betrieb auf festen Sitz überprüft werden. Besonders wichtig sind die Lagerungen an den Enden der Spindel sowie die Führungsschiene. Nachziehen sollte vorsichtig und ohne Überdrehen erfolgen.
+
+\begin{itemize}[leftmargin=1.5em]		
+	\item \textbf{Elektronik und Kabel:}  
+\end{itemize}
+Lose oder beschädigte Kabel können zu Fehlfunktionen führen oder das System im Betrieb gefährden. Bei sichtbaren Schäden sind die betroffenen Komponenten sofort auszutauschen. Steckverbindungen sollten fest einrasten und ggf. nachgesteckt werden.
+
+\begin{itemize}[leftmargin=1.5em]		
+	\item \textbf{OLED-Display:}  
+\end{itemize}
+Bei statischer Anzeige (z. B. dauerhaftem Einblenden der aktuellen Stufe) besteht die Gefahr des Einbrennens der OLED-Pixel. Daher sollte die Software so gestaltet sein, dass das Display regelmäßig Inhalte wechselt oder sich bei Inaktivität automatisch abschaltet.
+
+\setlength{\leftskip}{0pt} % Setzt den linken Einzug zurück auf 0, wenn nötig		
+
 	
 	
 	\chapter{Anleitung zur Fehlerbehebung}
@@ -342,11 +390,11 @@
 	
 	
 	\chapter{Haftungsausschluss}
-	\begin{itemize}[leftmargin=1.5em]
+
 		Die Nutzung des Demonstrators erfolgt auf eigene Verantwortung. Die Inhalte dieses Handbuchs sind mit größter Sorgfalt erstellt worden. Dennoch übernehmen die Ersteller keine Haftung für Personen- oder Sachschäden, die durch die Anwendung, Fehlbedienung oder Modifikation des Geräts entstehen. \\
 		
 		Insbesondere bei Eigenumbauten, Spannungsänderungen oder Eingriffen in die Elektronik erlischt jegliche Gewährleistung. Die Einhaltung aller Sicherheits- und Bedienhinweise liegt im Verantwortungsbereich der Benutzer. 
-	\end{itemize}
+
 	
 	
 	\chapter{Technische Daten}

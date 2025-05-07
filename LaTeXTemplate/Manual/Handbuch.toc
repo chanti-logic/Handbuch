@@ -10,9 +10,9 @@
 \contentsline {subsection}{\numberline {2.2.3}Elemente auf der Heckblende}{4}{subsection.2.2.3}%
 \contentsline {chapter}{\numberline {3}Bedienung}{5}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Inbetriebnahme}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Bewegungsablauf}{6}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Bewegungsstufen}{7}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Wartung}{8}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Anleitung zur Fehlerbehebung}{9}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Haftungsausschluss}{10}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Technische Daten}{11}{chapter.7}%
+\contentsline {section}{\numberline {3.2}Bewegungsablauf}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Bewegungsstufen}{8}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Wartung}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Anleitung zur Fehlerbehebung}{10}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Haftungsausschluss}{11}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Technische Daten}{12}{chapter.7}%

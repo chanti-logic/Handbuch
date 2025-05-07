@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.15)  6 MAY 2025 21:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.15)  7 MAY 2025 07:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -746,7 +746,19 @@ File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
 (c:/texlive/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
 Library (tcolorbox): 'tcbposter.code.tex' version '6.4.1'
-)) (c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)) (c:/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box87
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen300
+\ttl@minus=\dimen301
+\ttl@toksa=\toks43
+\titlewidth=\dimen302
+\titlewidthlast=\dimen303
+\titlewidthfirst=\dimen304
+)
+(c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count350
 )
@@ -756,37 +768,37 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 )
 \openout1 = `Handbuch.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
  (c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count351
-\scratchdimen=\dimen300
-\scratchbox=\box87
+\scratchdimen=\dimen305
+\scratchbox=\box88
 \nofMPsegments=\count352
 \nofMParguments=\count353
-\everyMPshowfont=\toks43
+\everyMPshowfont=\toks44
 \MPscratchCnt=\count354
-\MPscratchDim=\dimen301
+\MPscratchDim=\dimen306
 \MPnumerator=\count355
 \makeMPintoPDFobject=\count356
-\everyMPtoPDFconversion=\toks44
+\everyMPtoPDFconversion=\toks45
 ) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -830,7 +842,7 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 28.
 (./Handbuch.out) (./Handbuch.out)
 \@outlinefile=\write4
 \openout4 = `Handbuch.out'.
@@ -843,12 +855,12 @@ Package hyperref Info: Link coloring OFF on input line 18.
 {c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/texmf-dist
 /fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/texmf-dist/fonts/enc/dvip
 s/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 62--64
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
@@ -865,7 +877,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 	\listoffigures
+l.91 	\listoffigures
                      [0
 
 ] (./Handbuch.lof)
@@ -887,100 +899,50 @@ l.81 	\listoffigures
 ]
 Kapitel 1.
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.94 		\item D
-              as Gerät ist nur für den Innenbereich bestimmt. Setzen Sie d...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.115 	\chapter
+l.126 	\chapter
                {Übersicht} [1
 
 
 ]
 Kapitel 2.
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 		\item \textbf
-                     {Lieferumfang:}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (10.70808pt too wide) in paragraph at lines 118--120
-\T1/cmr/m/n/12 wird �ber einen Tra-pe-z-ge-win-de-spin-del (Leit-spin-del) mit 
-ei-nem NEMA17-Schrittmotor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
-
- []
-
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.137 ...hluss des Kabels an eine geeignete 230 
-                                                  V-Steckdose kann der Demon...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
@@ -989,72 +951,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--138
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
 
 
 [3]
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.172 ...gt über ein internes Netzteil mit 230 
-                                                  V AC auf 12 V DC Wandlun...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.172 ...nternes Netzteil mit 230 V AC auf 12 
-                                                  V DC Wandlung. \\
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
@@ -1063,39 +997,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--186
 [4]
 Kapitel 3.
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.197 		\item D
-               rehen Sie die Spindel manuell und beobachten Sie deren Laufve...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
 
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.214 ...m Verwenden Sie nur Steckdosen mit 230 
-                                                  V Spannung (kein Trafo, ke...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
 
@@ -1104,288 +1016,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--215
 [5
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
-
- []
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.247 		\item S
-               tart bei Referenzposition:
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
-
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+ 
  []
-
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.257 ...itten über die definierte Strecke (z. 
-                                                  B. von 5 cm auf 30 cm)...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.257 ... die definierte Strecke (z. B. von 5 
-                                                  cm auf 30 cm). \\
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.257 ...rte Strecke (z. B. von 5 cm auf 30 
-                                                  cm). \\
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
-
- []
-
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.269 ...r Zyklus wird mehrfach durchlaufen (z. 
-                                                  B. 3×), abhängig von der...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
-
- []
-
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.271 ... OLED-Display den aktuellen Status (z. 
-                                                  B. „Programm wird ausgef...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
-
- []
-
-
-Overfull \hbox (54.38138pt too wide) in paragraph at lines 282--291
- [][] 
- []
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.299 	\end{itemize}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
 
 
 
 [7]
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
+ []
+
+
+Overfull \hbox (54.38138pt too wide) in paragraph at lines 316--325
+ [][] 
+ []
+
+
+
+[8]
 Kapitel 4.
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.308 		\item \textbf
-                     {Führung reinigen:}  \\
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Unicode character   (U+202F)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.321 		Bei statischer Anzeige (z. 
-                                     B. dauerhaftem Einblenden der aktuellen...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-
-[8
-
-]
-Kapitel 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--332
-[]\T1/cmr/m/n/12 Motor be-wegt sich
- []
-
-
-Underfull \hbox (badness 1910) in paragraph at lines 332--332
-\T1/cmr/m/n/12 fen, Status-LED be-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 333--333
-[]\T1/cmr/m/n/12 Ungew�hnliche Ge-
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 333--333
-[]\T1/cmr/m/n/12 Spindelspannung jus-
- []
-
-
-Underfull \hbox (badness 2538) in paragraph at lines 334--334
-[]\T1/cmr/m/n/12 Endschalter nicht kor-rekt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
-[]\T1/cmr/m/n/12 Bewegung un-gleich-
- []
-
-
-Underfull \hbox (badness 3482) in paragraph at lines 335--335
-[]\T1/cmr/m/n/12 Mechanischer Wi-der-stand,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
-[]\T1/cmr/m/n/12 Inbetriebnahme-
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 335--335
-\T1/cmr/m/n/12 Pr�fung wie-der-ho-len,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 335--335
-\T1/cmr/m/n/12 F�h-run-gen rei-ni-gen,
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 336--336
-[]\T1/cmr/m/n/12 OLED-Display bleibt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--336
-[]\T1/cmr/m/n/12 Keine I2C-Verbindung
- []
-
-
-Underfull \hbox (badness 3229) in paragraph at lines 336--336
-\T1/cmr/m/n/12 / falsche Adres-sie-rung /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--336
-[]\T1/cmr/m/n/12 Verkabelung pr�-fen,
- []
-
-
-Underfull \hbox (badness 6725) in paragraph at lines 336--336
-\T1/cmr/m/n/12 I2C-Adresse kon-trol-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--336
-\T1/cmr/m/n/12 lie-ren, ggf. Dis-play
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-[]\T1/cmr/m/n/12 Code �ber-pr�-fen,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-\T1/cmr/m/n/12 LED-Anschluss
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-\T1/cmr/m/n/12 kon-trol-lie-ren, ggf.
  []
 
 
@@ -1393,23 +1068,100 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--337
 [9
 
 ]
-Kapitel 6.
+Kapitel 5.
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.349 	\end{itemize}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
+[]\T1/cmr/m/n/12 Motor be-wegt sich
+ []
 
 
-Overfull \hbox (0.50221pt too wide) in paragraph at lines 346--349
-\T1/cmr/m/n/12 Insbesondere bei Ei-ge-num-bau-ten, Span-nungs-�n-de-run-gen ode
-r Ein-grif-fen in die Elek-
+Underfull \hbox (badness 1910) in paragraph at lines 380--380
+\T1/cmr/m/n/12 fen, Status-LED be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+[]\T1/cmr/m/n/12 Ungew�hnliche Ge-
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 381--381
+[]\T1/cmr/m/n/12 Spindelspannung jus-
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 382--382
+[]\T1/cmr/m/n/12 Endschalter nicht kor-rekt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]\T1/cmr/m/n/12 Bewegung un-gleich-
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 383--383
+[]\T1/cmr/m/n/12 Mechanischer Wi-der-stand,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]\T1/cmr/m/n/12 Inbetriebnahme-
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 383--383
+\T1/cmr/m/n/12 Pr�fung wie-der-ho-len,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+\T1/cmr/m/n/12 F�h-run-gen rei-ni-gen,
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 384--384
+[]\T1/cmr/m/n/12 OLED-Display bleibt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--384
+[]\T1/cmr/m/n/12 Keine I2C-Verbindung
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 384--384
+\T1/cmr/m/n/12 / falsche Adres-sie-rung /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--384
+[]\T1/cmr/m/n/12 Verkabelung pr�-fen,
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 384--384
+\T1/cmr/m/n/12 I2C-Adresse kon-trol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--384
+\T1/cmr/m/n/12 lie-ren, ggf. Dis-play
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+[]\T1/cmr/m/n/12 Code �ber-pr�-fen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+\T1/cmr/m/n/12 LED-Anschluss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+\T1/cmr/m/n/12 kon-trol-lie-ren, ggf.
  []
 
 
@@ -1417,10 +1169,27 @@ r Ein-grif-fen in die Elek-
 [10
 
 ]
-Kapitel 7.
+Kapitel 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+
+Overfull \hbox (0.50633pt too wide) in paragraph at lines 396--397
+[]\T1/cmr/m/n/12 Insbesondere bei Ei-ge-num-bau-ten, Span-nungs-�n-de-run-gen o
+der Ein-grif-fen in die Elek-
+ []
+
 
 
 [11
+
+]
+Kapitel 7.
+
+
+[12
 
 ] (./Handbuch.aux)
  ***********
@@ -1431,13 +1200,13 @@ Package rerunfilecheck Info: File `Handbuch.out' has not changed.
 (rerunfilecheck)             Checksum: 3481361B48A401E5363C44062ADDDA0F;2357.
  ) 
 Here is how much of TeX's memory you used:
- 28556 strings out of 469625
- 569448 string characters out of 5477767
- 990168 words of memory out of 5000000
- 54879 multiletter control sequences out of 15000+600000
+ 28849 strings out of 469625
+ 573375 string characters out of 5477767
+ 995336 words of memory out of 5000000
+ 55167 multiletter control sequences out of 15000+600000
  639536 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,10n,105p,649b,648s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,10n,105p,648b,648s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/
 texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/texmf-dist/font
 s/type1/public/cm-super/sfbx1440.pfb><c:/texlive/texmf-dist/fonts/type1/public/
@@ -1446,10 +1215,10 @@ cm-super/sfbx1728.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx24
 ive/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/texmf-dist/
 fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/texmf-dist/fonts/type1/pub
 lic/cm-super/sftt1440.pfb>
-Output written on Handbuch.pdf (16 pages, 187663 bytes).
+Output written on Handbuch.pdf (17 pages, 187197 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 275 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
+ 37 named destinations out of 1000 (max. 500000)
  293 words of extra memory for PDF output out of 10000 (max. 10000000)
 
