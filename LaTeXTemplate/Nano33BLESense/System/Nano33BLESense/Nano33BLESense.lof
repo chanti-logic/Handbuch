@@ -299,29 +299,35 @@
 \contentsline {figure}{\numberline {58.7}{\ignorespaces Graph für Abweichung der Temperatur}}{495}{figure.caption.285}%
 \contentsline {figure}{\numberline {58.8}{\ignorespaces Graph für Abweichung des Luftdrucks}}{495}{figure.caption.286}%
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {61.1}{\ignorespaces NRF Connect Application}}{501}{figure.61.1}%
-\contentsline {figure}{\numberline {61.2}{\ignorespaces Landing page}}{502}{figure.61.2}%
-\contentsline {figure}{\numberline {61.3}{\ignorespaces List of devices}}{503}{figure.61.3}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {59.1}{\ignorespaces Anschluss des Sensors ans den Arduino Nano 33 BLE Sense}}{498}{figure.caption.287}%
+\contentsline {figure}{\numberline {59.2}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{499}{figure.caption.289}%
+\contentsline {figure}{\numberline {59.3}{\ignorespaces Installation der TimerOne Bibliothek}}{500}{figure.caption.290}%
+\contentsline {figure}{\numberline {59.4}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{500}{figure.caption.291}%
+\contentsline {figure}{\numberline {59.5}{\ignorespaces wird noch in Code umgewandelt!}}{502}{figure.caption.292}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {62.1}{\ignorespaces NRF Connect Application}}{509}{figure.62.1}%
+\contentsline {figure}{\numberline {62.2}{\ignorespaces Landing page}}{510}{figure.62.2}%
+\contentsline {figure}{\numberline {62.3}{\ignorespaces List of devices}}{511}{figure.62.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {68.1}{\ignorespaces Bernstein polynomial of degree $3$}}{527}{figure.caption.288}%
-\contentsline {figure}{\numberline {68.2}{\ignorespaces Bézier curve for example \ref {KPunkte4Beispiel} }}{528}{figure.caption.289}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {69.1}{\ignorespaces Smoothing a corner with the help of an arc - triangle}}{529}{figure.caption.290}%
-\contentsline {figure}{\numberline {69.2}{\ignorespaces Angular change with blending arc}}{531}{figure.caption.291}%
-\contentsline {figure}{\numberline {69.3}{\ignorespaces Curvature progression for a blending arc}}{531}{figure.caption.292}%
-\contentsline {figure}{\numberline {69.4}{\ignorespaces Maximum range for a blending arc of a circle - $L(\varepsilon =const, \alpha )$}}{532}{figure.caption.293}%
-\contentsline {figure}{\numberline {69.5}{\ignorespaces Deviation when specifying the distance $L$ when rounding with a circular arc}}{532}{figure.caption.294}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {70.1}{\ignorespaces Programme flow chart \glqq Corner rounding\grqq }}{547}{figure.caption.297}%
-\contentsline {figure}{\numberline {70.2}{\ignorespaces Programme flowchart \glqq Selection of the rounding strategies\grqq }}{548}{figure.caption.298}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {69.1}{\ignorespaces Bernstein polynomial of degree $3$}}{535}{figure.caption.294}%
+\contentsline {figure}{\numberline {69.2}{\ignorespaces Bézier curve for example \ref {KPunkte4Beispiel} }}{536}{figure.caption.295}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {70.1}{\ignorespaces Smoothing a corner with the help of an arc - triangle}}{537}{figure.caption.296}%
+\contentsline {figure}{\numberline {70.2}{\ignorespaces Angular change with blending arc}}{539}{figure.caption.297}%
+\contentsline {figure}{\numberline {70.3}{\ignorespaces Curvature progression for a blending arc}}{539}{figure.caption.298}%
+\contentsline {figure}{\numberline {70.4}{\ignorespaces Maximum range for a blending arc of a circle - $L(\varepsilon =const, \alpha )$}}{540}{figure.caption.299}%
+\contentsline {figure}{\numberline {70.5}{\ignorespaces Deviation when specifying the distance $L$ when rounding with a circular arc}}{540}{figure.caption.300}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {71.1}{\ignorespaces Programme flow chart \glqq Corner rounding\grqq }}{555}{figure.caption.303}%
+\contentsline {figure}{\numberline {71.2}{\ignorespaces Programme flowchart \glqq Selection of the rounding strategies\grqq }}{556}{figure.caption.304}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

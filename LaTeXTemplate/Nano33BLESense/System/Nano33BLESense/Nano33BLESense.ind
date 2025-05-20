@@ -1,10 +1,10 @@
 \begin{theindex}
 
-  \item 3D printer, 555
+  \item 3D printer, 563
 
   \indexspace
 
-  \item      Programmable Logic Controller, 553
+  \item      Programmable Logic Controller, 561
   \item  File
     \subitem ../images/, 81
     \subitem .doxyfile, 76
@@ -18,9 +18,9 @@
     \subitem Arduino\_LSM9DS1.h, 249
     \subitem ArduinoBLE, 412
     \subitem ArduinoBLE.h, 410
-    \subitem Blink.ino, 552
+    \subitem Blink.ino, 560
     \subitem blink.ino, 61, 62
-    \subitem Blink.py, 550
+    \subitem Blink.py, 558
     \subitem blnik.ino, 57
     \subitem BuiltinLED.cpp, 102
     \subitem BuiltinLED.h, 102
@@ -62,7 +62,7 @@
     \subitem Nano33BLESenseLE, 48
     \subitem Nano33BLESenseLED, 49, 50
     \subitem output.wav, 182
-    \subitem PackageExample.py, 517
+    \subitem PackageExample.py, 525
     \subitem PDM.h, 202
     \subitem pdm.h, 200, 201
     \subitem PowerLED.cpp, 108
@@ -113,27 +113,27 @@
 
   \indexspace
 
-  \item CAGD, 555
-    \subitem Splines, 555
+  \item CAGD, 563
+    \subitem Splines, 563
   \item CCD-Sensor, 33, 382
   \item Charge-Coupled-Device
     \subitem  \emph  {see} CCD, 33
   \item CIE, 33, 387
   \item CMOS-Sensor, 33, 382
-  \item CNN, 33, 553
+  \item CNN, 33, 561
   \item Commission Internationale de l'Eclairage
     \subitem  \emph  {see} CIE, 33
   \item Complementary Metal-Oxide-Semiconductor
     \subitem  \emph  {see} CMOS, 33
   \item Computerized Numerical Control
-    \subitem  \emph  {see} {CNN}, 33, 553
+    \subitem  \emph  {see} {CNN}, 33, 561
 
   \indexspace
 
-  \item Example, 517
-    \subitem Description, 517
-    \subitem Installation, 517
-    \subitem Introduction, 517
+  \item Example, 525
+    \subitem Description, 525
+    \subitem Installation, 525
+    \subitem Introduction, 525
 
   \indexspace
 
@@ -199,7 +199,7 @@
     \subitem Pin 23, 114
     \subitem Pin 24, 114
     \subitem Pin 25, 106, 108
-  \item PLC, \see{         Programmable Logic Controller}{553}
+  \item PLC, \see{         Programmable Logic Controller}{561}
   \item PPG, 33, 430
   \item Printed Circuit Board
     \subitem \emph  {see} PB, 33, 277
@@ -225,9 +225,9 @@
   \item Serial Peripheral Interface
     \subitem  \emph  {see} SPI, 33, 283
   \item Speicherprogrammierbare Steuerung
-    \subitem  \emph  {see} SPS, 33, 553
+    \subitem  \emph  {see} SPS, 33, 561
   \item SPI, 33, 283, 483, 484
-  \item SPS, 33, 553
+  \item SPS, 33, 561
 
   \indexspace
 
