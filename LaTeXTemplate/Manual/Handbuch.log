@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.3)  15 MAY 2025 19:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.3)  25 MAY 2025 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1082,19 +1082,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--175
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
-
- []
-
-
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
@@ -1103,17 +1098,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--203
 [4]
 Kapitel 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
@@ -1122,36 +1117,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 236--237
 [5
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
  
  []
 
 
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
 
-Overfull \hbox (54.38138pt too wide) in paragraph at lines 321--330
+Overfull \hbox (54.38138pt too wide) in paragraph at lines 316--325
  [][] 
  []
 
@@ -1160,7 +1155,7 @@ Overfull \hbox (54.38138pt too wide) in paragraph at lines 321--330
 [8]
 Kapitel 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 339--340
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
 
@@ -1171,83 +1166,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 339--340
 ]
 Kapitel 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--381
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
 []\T1/cmr/m/n/12 Motor be-wegt sich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--382
+Underfull \hbox (badness 10000) in paragraph at lines 377--377
 []\T1/cmr/m/n/12 Ungewöhnliche Ge-
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 382--382
+Underfull \hbox (badness 1371) in paragraph at lines 377--377
 []\T1/cmr/m/n/12 Spindelspannung jus-
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 383--383
+Underfull \hbox (badness 2538) in paragraph at lines 378--378
 []\T1/cmr/m/n/12 Endschalter nicht kor-rekt
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--384
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 []\T1/cmr/m/n/12 Bewegung un-gleich-
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 384--384
+Underfull \hbox (badness 3482) in paragraph at lines 379--379
 []\T1/cmr/m/n/12 Mechanischer Wi-der-stand,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--384
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 \T1/cmr/m/n/12 feh-ler-haf-te Dreh-schal-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--384
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 []\T1/cmr/m/n/12 Inbetriebnahme-
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 384--384
+Underfull \hbox (badness 1082) in paragraph at lines 379--379
 \T1/cmr/m/n/12 Prüfung wie-der-ho-len,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--384
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
 \T1/cmr/m/n/12 Füh-run-gen rei-ni-gen,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--385
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
 []\T1/cmr/bx/n/12 OLED-Display
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--385
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
 []\T1/cmr/m/n/12 Verkabelung prü-fen,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--386
-[]\T1/cmr/bx/n/12 Status-LED \T1/cmr/m/n/12 zeigt
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--386
-[]\T1/cmr/m/n/12 Code über-prü-fen,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--386
-\T1/cmr/m/n/12 LED-Anschluss
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--386
-\T1/cmr/m/n/12 kon-trol-lie-ren, ggf.
  []
 
 
@@ -1257,12 +1232,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 386--386
 ]
 Kapitel 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
 
  []
 
 
-Overfull \hbox (0.50633pt too wide) in paragraph at lines 397--398
+Overfull \hbox (0.50633pt too wide) in paragraph at lines 392--393
 []\T1/cmr/m/n/12 Insbesondere bei Ei-ge-num-bau-ten, Span-nungs-än-de-run-gen o
 der Ein-grif-fen in die Elek-
  []
@@ -1287,12 +1262,12 @@ Package rerunfilecheck Info: File `Handbuch.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28879 strings out of 473523
- 583033 string characters out of 5714631
- 1006562 words of memory out of 5000000
+ 583159 string characters out of 5714631
+ 1005562 words of memory out of 5000000
  51604 multiletter control sequences out of 15000+600000
  571548 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,10n,105p,690b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,10n,105p,617b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
 1440.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecbx1728.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -1305,7 +1280,7 @@ eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\perew\AppData\Loca
 l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:\Users\perew\AppDat
 a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/perew/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Handbuch.pdf (17 pages, 174866 bytes).
+Output written on Handbuch.pdf (17 pages, 174374 bytes).
 PDF statistics:
  570 PDF objects out of 1000 (max. 8388607)
  37 named destinations out of 1000 (max. 500000)

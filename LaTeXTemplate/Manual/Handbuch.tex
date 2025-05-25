@@ -126,7 +126,7 @@
 	\chapter{Übersicht}
 	\section{Beschreibung}
 	
-	Der Demonstrator veranschaulicht die typischen Bewegungsabläufe eines Schrittmotors anhand eines Linearschlittens. Dieser bewegt sich auf einer Linearführung und wird über einen \textbf{Trapezgewindespindel} mit einem \textbf{NEMA17-Schrittmotor} angetrieben. Der Antrieb erfolgt dabei in fünf verschiedenen Geschwindigkeitsstufen, die mithilfe eines \textbf{Drehencoders} auswählbar sind. Die ausgewählte Stufe wird über ein \textbf{OLED-Display} angezeigt, die Systemzustände über eine farbige \textbf{Status-LED} signalisiert. Das Gerät ist so konzipiert, dass es sich einfach auf einer stabilen, ebenen Fläche betreiben lässt.\\ 
+	Der Demonstrator veranschaulicht die typischen Bewegungsabläufe eines Schrittmotors anhand eines Linearschlittens. Dieser bewegt sich auf einer Linearführung und wird über einen \textbf{Trapezgewindespindel} mit einem \textbf{NEMA17-Schrittmotor} angetrieben. Der Antrieb erfolgt dabei in fünf verschiedenen Geschwindigkeitsstufen, die mithilfe eines \textbf{Drehencoders} auswählbar sind. Die ausgewählte Stufe wird über ein \textbf{OLED-Display} angezeigt. Das Gerät ist so konzipiert, dass es sich einfach auf einer stabilen, ebenen Fläche betreiben lässt.\\ 
 	
 	\begin{itemize}[leftmargin=1.5em]
 		 
@@ -164,10 +164,6 @@
 		\item \textbf{OLED-Display:} 
 		
 		Zeigt die aktuell ausgewählte Bewegungsstufe sowie den Gerätestatus „Start...“, „Bereit“, „In Bewegung“ an.\\
-		
-		\item \textbf{Status-LED:}
-		
-		Zeigt in unterschiedlichen Farben, Grün für Bereitschaft, Rot für Fehlermeldung, den Systemstatus visuell an. Sie befindet sich deutlich sichtbar neben dem \textbf{OLED-Display.}\\ 
 		
 		\item \textbf{Drehschalter:} 
 		
@@ -243,8 +239,7 @@
 		\begin{itemize}[leftmargin=1.5em]
 		\item Betätigen Sie den \textbf{Power-Schalter} auf der Vorderseite. 
 		\item Das \textbf{OLED-Display} zeigt den Boot-Status „Start...“ an. 
-		\item Nach wenigen Sekunden erscheint „Startbereit – Stufe 1“. 
-		\item Die \textbf{Status-LED} leuchtet nun grün, was den Bereitschaftsmodus signalisiert. \\
+		\item Nach wenigen Sekunden erscheint „Startbereit – Stufe 1“. \\
     	\end{itemize}
 		
 		\noindent\textbf{4. Auswahl der Bewegungsstufe:}
@@ -306,7 +301,7 @@ Der Bewegungsablauf demonstriert die Fähigkeit eines Schrittmotors, präzise, w
 
 % Letzten Absatz ohne Einzug
 \noindent
-Während des gesamten Ablaufs zeigt das \textbf{OLED-Display} den aktuellen Status an und die \textbf{Status-LED} signalisiert die Bereitschaft bzw. Fehlermeldung.
+Während des gesamten Ablaufs zeigt das \textbf{OLED-Display} den aktuellen Status an und signalisiert die Bereitschaft bzw. Fehlermeldung.
 
 \setlength{\leftskip}{0pt} % Einzug zurücksetzen
 \newpage
@@ -383,7 +378,7 @@ Bei statischer Anzeige besteht die Gefahr des Einbrennens der OLED-Pixel. Ein Au
 			Schlitten bleibt nach Referenzfahrt stehen & Endschalter nicht korrekt angeschlossen / ausgelöst & Kabel prüfen, Schaltermechanik testen \\ \hline
 			Bewegung ungleichmäßig oder ruckelnd & Mechanischer Widerstand, fehlerhafte Drehschalterwerte & Inbetriebnahme-Protokoll zu Spindel-Prüfung wiederholen, Führungen reinigen, \textbf{Drehschalter} testen \\ \hline
 			\textbf{OLED-Display} bleibt dunkel & defektes Display & Verkabelung prüfen, ggf. Display ersetzen \\ \hline
-			\textbf{Status-LED} zeigt keine Farbe & Fehlerhafte Ansteuerung / defekte LED / Kurzschluss & Code überprüfen, LED-Anschluss kontrollieren, ggf. ersetzen \\ \hline
+
 		\end{tabular}
 		\caption{Anleitung zur Fehlerbehebung}
 		\label{tab:fehlerbehebung}
