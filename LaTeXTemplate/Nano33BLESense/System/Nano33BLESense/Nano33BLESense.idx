@@ -1,398 +1,187 @@
-\indexentry{ADC}{33}
-\indexentry{Analog to Digital Converter! \emph  {see} ADC}{33}
-\indexentry{AOP}{33}
-\indexentry{Acoustic Overload Point! \emph  {see} AOP}{33}
-\indexentry{bpm}{33}
-\indexentry{beats per minute! \emph  {see} bpm}{33}
-\indexentry{CCD-Sensor}{33}
-\indexentry{Charge-Coupled-Device! \emph  {see} CCD}{33}
-\indexentry{CIE}{33}
-\indexentry{Commission Internationale de l'Eclairage! \emph  {see} CIE}{33}
-\indexentry{CMOS-Sensor}{33}
-\indexentry{Complementary Metal-Oxide-Semiconductor! \emph  {see} CMOS}{33}
-\indexentry{CNN}{33}
-\indexentry{Computerized Numerical Control! \emph  {see} {CNN}}{33}
-\indexentry{GPIO}{33}
-\indexentry{General Purpose Input Output! \emph  {see} GPIO}{33}
-\indexentry{HR}{33}
-\indexentry{Heart rate! \emph  {see} {HR}}{33}
-\indexentry{I\textsuperscript  {2}C}{33}
-\indexentry{Inter-Integrated Circuit! \emph  {see} I\textsuperscript  {2}C}{33}
-\indexentry{IDE}{33}
-\indexentry{Integrated Development Environment! \emph  {see} IDE}{33}
-\indexentry{IMU}{33}
-\indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{33}
-\indexentry{JST}{33}
-\indexentry{Japan Solderless Terminal! \emph  {see} JST}{33}
-\indexentry{LED}{33}
-\indexentry{Light Emitting Diode! \emph  {see} {LED}}{33}
-\indexentry{mcd}{33}
-\indexentry{Millicandela! \emph  {see} {mcd}}{33}
-\indexentry{PCB}{33}
-\indexentry{Printed Circuit Board!\emph  {see} PB}{33}
-\indexentry{PDM}{33}
-\indexentry{Pulse Density Modulation! \emph  {see} PDM}{33}
-\indexentry{PPG}{33}
-\indexentry{Photoplethysmographie! \emph  {see} PPG}{33}
-\indexentry{PWM Signal}{33}
-\indexentry{Pulse with Modulation! \emph  {see} PWM Signal}{33}
-\indexentry{SCL}{33}
-\indexentry{Serial Clock! \emph  {see} SCL}{33}
-\indexentry{SD}{33}
-\indexentry{Secure Digital! \emph  {see} SD}{33}
-\indexentry{SDA}{33}
-\indexentry{Serial Data! \emph  {see} SDA}{33}
-\indexentry{SPI}{33}
-\indexentry{Serial Peripheral Interface! \emph  {see} SPI}{33}
-\indexentry{SPS}{33}
-\indexentry{Speicherprogrammierbare Steuerung! \emph  {see} SPS}{33}
-\indexentry{tf}{33}
-\indexentry{TensorFlow\! \emph  {see} {tf}}{33}
-\indexentry{UART}{33}
-\indexentry{Universal Asynchronous Receiver Transmitter! \emph  {see} UART}{33}
-\indexentry{VCC}{33}
-\indexentry{Voltage at the Common Collector! \emph  {see} VCC}{33}
-\indexentry{WPPLS}{33}
-\indexentry{White-point Preserving Least Square! \emph  {see} {WPPLS}}{33}
-\indexentry{ File!MySketch.ino}{46}
-\indexentry{ File!MySketch}{46}
-\indexentry{ File!Arduino}{46}
-\indexentry{ File!Nano33BLESenseLE}{48}
-\indexentry{ File!libraries}{48}
-\indexentry{ File!libraries}{48}
-\indexentry{ File!libraries}{49}
-\indexentry{ File!libraries}{49}
-\indexentry{ File!Nano33BLESenseLED}{49}
-\indexentry{ File!libraries}{50}
-\indexentry{ File!libraries}{50}
-\indexentry{ File!Nano33BLESenseLED}{50}
-\indexentry{ File!Nano33BLESenseLED}{50}
-\indexentry{ File!blnik.ino}{57}
-\indexentry{ File!blink.ino}{61}
-\indexentry{ File!blink.ino}{61}
-\indexentry{ File!blink.ino}{61}
-\indexentry{ File!blink.ino}{62}
-\indexentry{ File!blink.ino}{62}
-\indexentry{Integrated Development Environment! \emph  {see} IDE}{62}
-\indexentry{IDE}{62}
-\indexentry{ File!File/Examples/01.Basics}{62}
-\indexentry{ File!Fade}{62}
-\indexentry{ File!doxygen-1.12.0-setup.exe}{66}
-\indexentry{ File!graphviz-12.2.1 (64-bit) EXE installer}{68}
-\indexentry{ File!doxygen.exe}{70}
-\indexentry{ File!.doxyfile}{76}
-\indexentry{ File!.ino}{77}
-\indexentry{ File!index.html}{79}
-\indexentry{ File!index.html}{79}
-\indexentry{ File!index.html}{79}
-\indexentry{ File!../images/}{81}
-\indexentry{ File!images}{81}
-\indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{88}
-\indexentry{IMU}{88}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{IMU}{91}
-\indexentry{ File!Mag\_raw.txt}{92}
-\indexentry{Acoustic Overload Point! \emph  {see} AOP}{93}
-\indexentry{AOP}{93}
-\indexentry{Pulse Density Modulation! \emph  {see} PDM}{93}
-\indexentry{PDM}{93}
-\indexentry{LED!Built-in LED}{101}
-\indexentry{Pin!Pin 13}{101}
-\indexentry{ File!BuiltinLED.h}{102}
-\indexentry{Pin!Pin 13}{102}
-\indexentry{ File!BuiltinLED.cpp}{102}
-\indexentry{Pin!Pin 13}{103}
-\indexentry{LED!Power LED}{105}
-\indexentry{Light Emitting Diode! \emph  {see} {LED}}{105}
-\indexentry{LED}{105}
-\indexentry{LED}{105}
-\indexentry{LED}{105}
-\indexentry{LED}{105}
+\indexentry{AOP}{19}
+\indexentry{Acoustic Overload Point! \emph  {see} AOP}{19}
+\indexentry{CNN}{19}
+\indexentry{Computerized Numerical Control! \emph  {see} {CNN}}{19}
+\indexentry{GPIO}{19}
+\indexentry{General Purpose Input Output! \emph  {see} GPIO}{19}
+\indexentry{IDE}{19}
+\indexentry{Integrated Development Environment! \emph  {see} IDE}{19}
+\indexentry{IMU}{19}
+\indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{19}
+\indexentry{LED}{19}
+\indexentry{Light Emitting Diode! \emph  {see} {LED}}{19}
+\indexentry{mcd}{19}
+\indexentry{Millicandela! \emph  {see} {mcd}}{19}
+\indexentry{PDM}{19}
+\indexentry{Pulse Density Modulation! \emph  {see} PDM}{19}
+\indexentry{PWM Signal}{19}
+\indexentry{Pulse with Modulation! \emph  {see} PWM Signal}{19}
+\indexentry{SPS}{19}
+\indexentry{Speicherprogrammierbare Steuerung! \emph  {see} SPS}{19}
+\indexentry{VCC}{19}
+\indexentry{Voltage at the Common Collector! \emph  {see} VCC}{19}
+\indexentry{ File!MySketch.ino}{32}
+\indexentry{ File!MySketch}{32}
+\indexentry{ File!Arduino}{32}
+\indexentry{ File!Nano33BLESenseLE}{34}
+\indexentry{ File!libraries}{34}
+\indexentry{ File!libraries}{34}
+\indexentry{ File!libraries}{35}
+\indexentry{ File!libraries}{35}
+\indexentry{ File!Nano33BLESenseLED}{35}
+\indexentry{ File!libraries}{36}
+\indexentry{ File!libraries}{36}
+\indexentry{ File!Nano33BLESenseLED}{36}
+\indexentry{ File!Nano33BLESenseLED}{36}
+\indexentry{ File!blnik.ino}{43}
+\indexentry{ File!blink.ino}{47}
+\indexentry{ File!blink.ino}{47}
+\indexentry{ File!blink.ino}{47}
+\indexentry{ File!blink.ino}{48}
+\indexentry{ File!blink.ino}{48}
+\indexentry{Integrated Development Environment! \emph  {see} IDE}{48}
+\indexentry{IDE}{48}
+\indexentry{ File!File/Examples/01.Basics}{48}
+\indexentry{ File!Fade}{48}
+\indexentry{ File!doxygen-1.12.0-setup.exe}{52}
+\indexentry{ File!graphviz-12.2.1 (64-bit) EXE installer}{54}
+\indexentry{ File!doxygen.exe}{56}
+\indexentry{ File!.doxyfile}{62}
+\indexentry{ File!.ino}{63}
+\indexentry{ File!index.html}{65}
+\indexentry{ File!index.html}{65}
+\indexentry{ File!index.html}{65}
+\indexentry{ File!../images/}{67}
+\indexentry{ File!images}{67}
+\indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{74}
+\indexentry{IMU}{74}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{IMU}{77}
+\indexentry{ File!Mag\_raw.txt}{78}
+\indexentry{Acoustic Overload Point! \emph  {see} AOP}{79}
+\indexentry{AOP}{79}
+\indexentry{Pulse Density Modulation! \emph  {see} PDM}{79}
+\indexentry{PDM}{79}
+\indexentry{LED!Built-in LED}{87}
+\indexentry{Pin!Pin 13}{87}
+\indexentry{ File!BuiltinLED.h}{88}
+\indexentry{Pin!Pin 13}{88}
+\indexentry{ File!BuiltinLED.cpp}{88}
+\indexentry{Pin!Pin 13}{89}
+\indexentry{LED!Power LED}{91}
+\indexentry{Light Emitting Diode! \emph  {see} {LED}}{91}
+\indexentry{LED}{91}
+\indexentry{LED}{91}
+\indexentry{LED}{91}
+\indexentry{LED}{91}
+\indexentry{LED}{91}
+\indexentry{LED}{92}
+\indexentry{Pin!Pin 25}{92}
+\indexentry{Pulse with Modulation! \emph  {see} PWM Signal}{92}
+\indexentry{PWM Signal}{92}
+\indexentry{LED}{92}
+\indexentry{LED}{92}
+\indexentry{ File!LED.h}{92}
+\indexentry{ File!LED.cpp}{93}
+\indexentry{ File!PowerLED.h}{94}
+\indexentry{Pin!Pin 25}{94}
+\indexentry{ File!PowerLED.cpp}{94}
+\indexentry{LED}{96}
+\indexentry{ File!SignsOfLife.h}{96}
+\indexentry{ File!SignsOfLife.cpp}{96}
+\indexentry{LED!Built-in RGB-LED}{99}
+\indexentry{LED}{99}
+\indexentry{LED}{99}
+\indexentry{LED}{99}
+\indexentry{PWM Signal}{99}
+\indexentry{LED}{99}
+\indexentry{LED}{99}
+\indexentry{LED}{99}
+\indexentry{LED}{99}
+\indexentry{LED}{99}
+\indexentry{PWM Signal}{99}
+\indexentry{LED}{99}
+\indexentry{LED}{99}
+\indexentry{Millicandela! \emph  {see} {mcd}}{100}
+\indexentry{mcd}{100}
+\indexentry{Pin!Pin 22,23,24}{100}
+\indexentry{LED}{100}
+\indexentry{LED}{100}
+\indexentry{ File!RGBLED.h}{100}
+\indexentry{Pin!Pin 22}{100}
+\indexentry{Pin!Pin 23}{100}
+\indexentry{Pin!Pin 24}{100}
+\indexentry{ File!RGBLED.cpp}{101}
+\indexentry{LED}{101}
+\indexentry{LED!Colors}{102}
+\indexentry{LED}{103}
+\indexentry{PWM Signal}{103}
+\indexentry{LED}{103}
+\indexentry{LED}{103}
+\indexentry{LED}{103}
+\indexentry{LED}{103}
+\indexentry{LED!Brightness}{105}
 \indexentry{LED}{105}
 \indexentry{LED}{106}
-\indexentry{Pin!Pin 25}{106}
-\indexentry{Pulse with Modulation! \emph  {see} PWM Signal}{106}
-\indexentry{PWM Signal}{106}
 \indexentry{LED}{106}
-\indexentry{LED}{106}
-\indexentry{ File!LED.h}{106}
-\indexentry{ File!LED.cpp}{107}
-\indexentry{ File!PowerLED.h}{108}
-\indexentry{Pin!Pin 25}{108}
-\indexentry{ File!PowerLED.cpp}{108}
-\indexentry{LED}{110}
-\indexentry{ File!SignsOfLife.h}{110}
-\indexentry{ File!SignsOfLife.cpp}{110}
-\indexentry{LED!Built-in RGB-LED}{113}
-\indexentry{LED}{113}
-\indexentry{LED}{113}
-\indexentry{LED}{113}
-\indexentry{PWM Signal}{113}
-\indexentry{LED}{113}
-\indexentry{LED}{113}
-\indexentry{LED}{113}
-\indexentry{LED}{113}
-\indexentry{LED}{113}
-\indexentry{PWM Signal}{113}
-\indexentry{LED}{113}
-\indexentry{LED}{113}
-\indexentry{Millicandela! \emph  {see} {mcd}}{114}
-\indexentry{mcd}{114}
-\indexentry{Pin!Pin 22,23,24}{114}
-\indexentry{LED}{114}
-\indexentry{LED}{114}
-\indexentry{ File!RGBLED.h}{114}
-\indexentry{Pin!Pin 22}{114}
-\indexentry{Pin!Pin 23}{114}
-\indexentry{Pin!Pin 24}{114}
-\indexentry{ File!RGBLED.cpp}{115}
-\indexentry{LED}{115}
-\indexentry{LED!Colors}{116}
-\indexentry{LED}{117}
-\indexentry{PWM Signal}{117}
-\indexentry{LED}{117}
-\indexentry{LED}{117}
-\indexentry{LED}{117}
-\indexentry{LED}{117}
-\indexentry{LED!Brightness}{119}
-\indexentry{LED}{119}
-\indexentry{LED}{120}
-\indexentry{LED}{120}
-\indexentry{Push Button! Built-in Push Button}{123}
-\indexentry{Pin!Pin 11}{123}
-\indexentry{Pin!Pin 11}{124}
-\indexentry{ File!Arduino\_APDS9960}{141}
-\indexentry{ File!Arduino\_APDS9960}{141}
-\indexentry{ File!Arduino\_APDS9960}{146}
-\indexentry{ File!Arduino\_APDS9960}{146}
-\indexentry{ File!output.wav}{182}
-\indexentry{ File!smoothedAudio.wav}{189}
-\indexentry{ File!sound1.wav}{199}
-\indexentry{ File!sound2.wav}{199}
-\indexentry{ File!sound3.wav}{199}
-\indexentry{ File!pdm.h}{200}
-\indexentry{ File!pdm.h}{201}
-\indexentry{ File!PDM.h}{202}
-\indexentry{PDM}{202}
-\indexentry{ File!SimpleAccelerometer}{223}
-\indexentry{ File!Wire.h}{225}
-\indexentry{ File!SSD1306Ascii.h}{225}
-\indexentry{ File!LSM6DSOXSensor.h}{239}
-\indexentry{ File!Wire.h}{249}
-\indexentry{ File!Wire.h}{249}
-\indexentry{ File!Kalman.h}{249}
-\indexentry{ File!Kalman.h}{249}
-\indexentry{ File!Arduino\_LSM9DS1.h}{249}
-\indexentry{ File!Arduino\_LSM9DS1.h}{249}
-\indexentry{ File!Arduino LSM9DS1.h}{250}
-\indexentry{ File!Kalman.h}{250}
-\indexentry{ File!wire.h}{250}
-\indexentry{ File!Wire.h}{251}
-\indexentry{ File!Wire.h}{251}
-\indexentry{ File!Wire.h}{251}
-\indexentry{Voltage at the Common Collector! \emph  {see} VCC}{268}
-\indexentry{VCC}{268}
-\indexentry{ File!TestBattery.ino}{268}
-\indexentry{ File!TestBattery.ino}{270}
-\indexentry{IDE}{270}
-\indexentry{Push Button! Built-in Push Button}{271}
-\indexentry{Pin!Pin 11}{271}
-\indexentry{Pin!Pin 11}{272}
-\indexentry{Printed Circuit Board!\emph  {see} PB}{277}
-\indexentry{PCB}{277}
-\indexentry{Japan Solderless Terminal! \emph  {see} JST}{282}
-\indexentry{JST}{282}
-\indexentry{Serial Peripheral Interface! \emph  {see} SPI}{283}
-\indexentry{SPI}{283}
-\indexentry{LED}{285}
-\indexentry{LED}{285}
-\indexentry{LED}{289}
-\indexentry{LED}{289}
-\indexentry{LED}{289}
-\indexentry{LED}{289}
-\indexentry{LED}{289}
-\indexentry{LED}{289}
-\indexentry{LED}{289}
-\indexentry{LED}{290}
-\indexentry{LED}{290}
-\indexentry{LED}{290}
-\indexentry{LED}{290}
-\indexentry{LED}{290}
-\indexentry{LED}{290}
-\indexentry{LED}{290}
-\indexentry{LED}{291}
-\indexentry{LED!Standard LED}{291}
-\indexentry{LED}{291}
-\indexentry{PWM Signal}{291}
-\indexentry{LED}{292}
-\indexentry{LED}{292}
-\indexentry{Pin!Pin 14}{294}
-\indexentry{LED!Standard RGB-LED}{297}
-\indexentry{LED}{297}
-\indexentry{LED}{297}
-\indexentry{LED}{297}
-\indexentry{PWM Signal}{297}
-\indexentry{LED}{297}
-\indexentry{LED}{297}
-\indexentry{LED}{297}
-\indexentry{LED}{297}
-\indexentry{LED}{298}
-\indexentry{LED}{299}
-\indexentry{LED}{299}
-\indexentry{LED}{299}
-\indexentry{LED}{299}
-\indexentry{LED!Brightness}{299}
-\indexentry{LED}{299}
-\indexentry{LED!Colors}{300}
-\indexentry{LED}{300}
-\indexentry{PWM Signal}{300}
-\indexentry{LED}{300}
-\indexentry{LED}{301}
-\indexentry{ File!cactus\_io\_BME280}{304}
-\indexentry{ File!cactus\_io\_BME280\_I2C}{304}
-\indexentry{ File!cactus\_io\_BME280\_I2C}{304}
-\indexentry{ File!Datei -> SSD1206Ascii -> HelloWorldWire}{305}
-\indexentry{ File!HelloWorldWire}{313}
-\indexentry{ File!Wire.h}{314}
-\indexentry{ File!Adafruit-GFX.h}{314}
-\indexentry{ File!Adafruit-SSD1306.h}{314}
-\indexentry{ File!Hello World}{318}
-\indexentry{ File!Hello World}{320}
-\indexentry{General Purpose Input Output! \emph  {see} GPIO}{322}
-\indexentry{GPIO}{322}
-\indexentry{LED}{322}
-\indexentry{ File!ArduCAM}{329}
-\indexentry{ File!UTFT4ArduCAM\_SPI}{329}
-\indexentry{ File!UTFT4ArduCAM\_SPI}{329}
-\indexentry{ File!UTFT4ArduCAM\_SPI}{329}
-\indexentry{ File!memorysaver.h}{330}
-\indexentry{ File!memorysaver.h}{330}
-\indexentry{ File!Mini\_5MP\_Plus}{330}
-\indexentry{ File!RevC}{330}
-\indexentry{ File!Shield\_V2}{330}
-\indexentry{ File!host\_app}{330}
-\indexentry{ File!RaspberryPi}{330}
-\indexentry{ File!ESP8266}{330}
-\indexentry{ File!camera}{342}
-\indexentry{ File!ConvertToPNG.py}{343}
-\indexentry{ File!imagefile}{343}
-\indexentry{ File!finalpic.png}{343}
-\indexentry{ File!TestENCheader.ino}{344}
-\indexentry{ File!TestENCVoidSetup.ino}{345}
-\indexentry{ File!TestENCVoidLoop.ino}{346}
-\indexentry{ File!TestCameraRawBites320x240x2.ino}{347}
-\indexentry{ File!CameraVisualizerHochkant320x240x2.ino}{348}
-\indexentry{ File!ArduCAM}{351}
-\indexentry{ File!UTFT4ArduCAM\_SPI}{351}
-\indexentry{ File!UTFT4ArduCAM\_SPI}{351}
-\indexentry{ File!UTFT4ArduCAM\_SPI}{351}
-\indexentry{ File!memorysaver.h}{352}
-\indexentry{ File!memorysaver.h}{352}
-\indexentry{ File!Mini\_5MP\_Plus}{352}
-\indexentry{ File!RevC}{352}
-\indexentry{ File!Shield\_V2}{352}
-\indexentry{ File!host\_app}{352}
-\indexentry{ File!RaspberryPi}{352}
-\indexentry{ File!ESP8266}{352}
-\indexentry{CCD-Sensor}{382}
-\indexentry{CMOS-Sensor}{382}
-\indexentry{CIE}{387}
-\indexentry{White-point Preserving Least Square! \emph  {see} {WPPLS}}{388}
-\indexentry{WPPLS}{388}
-\indexentry{ File!Nano33BLE\_Led\_A0.ino}{406}
-\indexentry{ File!Sketch -> Include Library -> Manage Library}{408}
-\indexentry{ File!ArduinoBLE.h}{410}
-\indexentry{ File!ArduinoBLE}{412}
-\indexentry{ File!LSM9DS1}{412}
-\indexentry{ File!LinkStatus.ino}{424}
-\indexentry{ File!LinkStatus.ino}{425}
-\indexentry{ File!TestENC.ino}{426}
-\indexentry{ File!CaptureSingleHexImage.ino}{427}
-\indexentry{beats per minute! \emph  {see} bpm}{429}
-\indexentry{bpm}{429}
-\indexentry{bpm}{429}
-\indexentry{Heart rate! \emph  {see} {HR}}{429}
-\indexentry{HR}{429}
-\indexentry{Photoplethysmographie! \emph  {see} PPG}{430}
-\indexentry{PPG}{430}
-\indexentry{LED}{431}
-\indexentry{Analog to Digital Converter! \emph  {see} ADC}{431}
-\indexentry{ADC}{431}
-\indexentry{ADC}{432}
-\indexentry{LED}{433}
-\indexentry{ File!datalog.txt}{447}
-\indexentry{VCC}{453}
-\indexentry{Serial Clock! \emph  {see} SCL}{453}
-\indexentry{SCL}{453}
-\indexentry{Serial Data! \emph  {see} SDA}{453}
-\indexentry{SDA}{453}
-\indexentry{GPIO}{453}
-\indexentry{Universal Asynchronous Receiver Transmitter! \emph  {see} UART}{453}
-\indexentry{UART}{453}
-\indexentry{Inter-Integrated Circuit! \emph  {see} I\textsuperscript  {2}C}{453}
-\indexentry{I\textsuperscript  {2}C}{453}
-\indexentry{SCL}{454}
-\indexentry{SDA}{454}
-\indexentry{VCC}{454}
-\indexentry{GPIO}{454}
-\indexentry{UART}{454}
-\indexentry{I\textsuperscript  {2}C}{454}
-\indexentry{VCC}{454}
-\indexentry{ File!TestHCSR04 UltraschallsensorTest.ino}{454}
-\indexentry{ File!TestHCSR04.ino}{456}
-\indexentry{IDE}{456}
-\indexentry{Pin!Pin 10}{458}
-\indexentry{VCC}{463}
-\indexentry{ File!TestBattery.ino}{464}
-\indexentry{ File!TestBattery.ino}{464}
-\indexentry{IDE}{464}
-\indexentry{SPI}{483}
-\indexentry{Secure Digital! \emph  {see} SD}{483}
-\indexentry{SD}{483}
-\indexentry{TensorFlow\! \emph  {see} {tf}}{483}
-\indexentry{tf}{483}
-\indexentry{SPI}{483}
-\indexentry{SD}{483}
-\indexentry{tf}{483}
-\indexentry{SPI}{483}
-\indexentry{SPI}{483}
-\indexentry{SD}{483}
-\indexentry{SD}{484}
-\indexentry{SPI}{484}
-\indexentry{SPI}{484}
-\indexentry{ File!SD.h}{484}
-\indexentry{SD}{484}
-\indexentry{SD}{484}
-\indexentry{SD}{484}
-\indexentry{SD}{484}
-\indexentry{IDE}{484}
-\indexentry{SD}{484}
-\indexentry{SD}{484}
-\indexentry{SD}{484}
-\indexentry{SD}{484}
-\indexentry{ File!DHT.h}{490}
-\indexentry{Example}{525}
-\indexentry{Example!Introduction}{525}
-\indexentry{Example!Description}{525}
-\indexentry{Example!Installation}{525}
-\indexentry{ File!PackageExample.py}{525}
-\indexentry{ File!Blink.py}{558}
-\indexentry{ File!Blink.ino}{560}
-\indexentry{Speicherprogrammierbare Steuerung! \emph  {see} SPS}{561}
-\indexentry{SPS}{561}
-\indexentry{Computerized Numerical Control! \emph  {see} {CNN}}{561}
-\indexentry{CNN}{561}
-\indexentry{SPS}{561}
-\indexentry{     Programmable Logic Controller}{561}
-\indexentry{PLC|see{         Programmable Logic Controller}}{561}
-\indexentry{CAGD}{563}
-\indexentry{CAGD!Splines}{563}
-\indexentry{3D printer}{563}
+\indexentry{Push Button! Built-in Push Button}{109}
+\indexentry{Pin!Pin 11}{109}
+\indexentry{Pin!Pin 11}{110}
+\indexentry{ File!SimpleAccelerometer}{137}
+\indexentry{ File!Wire.h}{139}
+\indexentry{ File!SSD1306Ascii.h}{139}
+\indexentry{ File!LSM6DSOXSensor.h}{153}
+\indexentry{ File!Wire.h}{163}
+\indexentry{ File!Wire.h}{163}
+\indexentry{ File!Kalman.h}{163}
+\indexentry{ File!Kalman.h}{163}
+\indexentry{ File!Arduino\_LSM9DS1.h}{163}
+\indexentry{ File!Arduino\_LSM9DS1.h}{163}
+\indexentry{ File!Arduino LSM9DS1.h}{164}
+\indexentry{ File!Kalman.h}{164}
+\indexentry{ File!wire.h}{164}
+\indexentry{ File!Wire.h}{165}
+\indexentry{ File!Wire.h}{165}
+\indexentry{ File!Wire.h}{165}
+\indexentry{Voltage at the Common Collector! \emph  {see} VCC}{182}
+\indexentry{VCC}{182}
+\indexentry{ File!TestBattery.ino}{182}
+\indexentry{ File!TestBattery.ino}{184}
+\indexentry{IDE}{184}
+\indexentry{Push Button! Built-in Push Button}{185}
+\indexentry{Pin!Pin 11}{185}
+\indexentry{Pin!Pin 11}{186}
+\indexentry{ File!HelloWorldWire}{193}
+\indexentry{ File!Wire.h}{194}
+\indexentry{ File!Adafruit-GFX.h}{194}
+\indexentry{ File!Adafruit-SSD1306.h}{194}
+\indexentry{ File!Hello World}{198}
+\indexentry{ File!Hello World}{200}
+\indexentry{General Purpose Input Output! \emph  {see} GPIO}{202}
+\indexentry{GPIO}{202}
+\indexentry{LED}{202}
+\indexentry{Example}{243}
+\indexentry{Example!Introduction}{243}
+\indexentry{Example!Description}{243}
+\indexentry{Example!Installation}{243}
+\indexentry{ File!PackageExample.py}{243}
+\indexentry{ File!Blink.py}{276}
+\indexentry{ File!Blink.ino}{278}
+\indexentry{Speicherprogrammierbare Steuerung! \emph  {see} SPS}{279}
+\indexentry{SPS}{279}
+\indexentry{Computerized Numerical Control! \emph  {see} {CNN}}{279}
+\indexentry{CNN}{279}
+\indexentry{SPS}{279}
+\indexentry{     Programmable Logic Controller}{279}
+\indexentry{PLC|see{         Programmable Logic Controller}}{279}
+\indexentry{CAGD}{281}
+\indexentry{CAGD!Splines}{281}
+\indexentry{3D printer}{281}
