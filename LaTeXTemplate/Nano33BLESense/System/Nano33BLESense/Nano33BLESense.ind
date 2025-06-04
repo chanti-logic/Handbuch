@@ -1,140 +1,140 @@
 \begin{theindex}
 
-  \item 3D printer, 289
+  \item 3D printer, 285
 
   \indexspace
 
-  \item      Programmable Logic Controller, 287
+  \item      Programmable Logic Controller, 283
   \item  File
-    \subitem ../images/, 69
-    \subitem .doxyfile, 64
-    \subitem .ino, 65
-    \subitem Adafruit-GFX.h, 196
-    \subitem Adafruit-SSD1306.h, 196
-    \subitem Arduino, 34
-    \subitem Arduino LSM9DS1.h, 166
-    \subitem Arduino\_LSM9DS1.h, 165
-    \subitem Blink.ino, 286
-    \subitem blink.ino, 49, 50
-    \subitem Blink.py, 284
-    \subitem blnik.ino, 45
-    \subitem BuiltinLED.cpp, 90
-    \subitem BuiltinLED.h, 90
-    \subitem doxygen-1.12.0-setup.exe, 54
-    \subitem doxygen.exe, 58
-    \subitem Fade, 50
-    \subitem File/Examples/01.Basics, 50
-    \subitem graphviz-12.2.1 (64-bit) EXE installer, 56
-    \subitem Hello World, 200, 202
-    \subitem HelloWorldWire, 195
-    \subitem images, 69
-    \subitem index.html, 67
-    \subitem Kalman.h, 165, 166
-    \subitem LED.cpp, 95
-    \subitem LED.h, 94
-    \subitem libraries, 36--38
-    \subitem LSM6DSOXSensor.h, 155
-    \subitem Mag\_raw.txt, 80
-    \subitem MySketch, 34
-    \subitem MySketch.ino, 34
-    \subitem Nano33BLESenseLE, 36
-    \subitem Nano33BLESenseLED, 37, 38
-    \subitem PackageExample.py, 251
-    \subitem PowerLED.cpp, 96
-    \subitem PowerLED.h, 96
-    \subitem RGBLED.cpp, 103
-    \subitem RGBLED.h, 102
-    \subitem SignsOfLife.cpp, 98
-    \subitem SignsOfLife.h, 98
-    \subitem SimpleAccelerometer, 139
-    \subitem SSD1306Ascii.h, 141
-    \subitem TestBattery.ino, 184, 186
-    \subitem Wire.h, 141, 165, 167, 196
-    \subitem wire.h, 166
+    \subitem ../images/, 67
+    \subitem .doxyfile, 62
+    \subitem .ino, 63
+    \subitem Adafruit-GFX.h, 194
+    \subitem Adafruit-SSD1306.h, 194
+    \subitem Arduino, 32
+    \subitem Arduino LSM9DS1.h, 164
+    \subitem Arduino\_LSM9DS1.h, 163
+    \subitem Blink.ino, 282
+    \subitem blink.ino, 47, 48
+    \subitem Blink.py, 280
+    \subitem blnik.ino, 43
+    \subitem BuiltinLED.cpp, 88
+    \subitem BuiltinLED.h, 88
+    \subitem doxygen-1.12.0-setup.exe, 52
+    \subitem doxygen.exe, 56
+    \subitem Fade, 48
+    \subitem File/Examples/01.Basics, 48
+    \subitem graphviz-12.2.1 (64-bit) EXE installer, 54
+    \subitem Hello World, 198, 200
+    \subitem HelloWorldWire, 193
+    \subitem images, 67
+    \subitem index.html, 65
+    \subitem Kalman.h, 163, 164
+    \subitem LED.cpp, 93
+    \subitem LED.h, 92
+    \subitem libraries, 34--36
+    \subitem LSM6DSOXSensor.h, 153
+    \subitem Mag\_raw.txt, 78
+    \subitem MySketch, 32
+    \subitem MySketch.ino, 32
+    \subitem Nano33BLESenseLE, 34
+    \subitem Nano33BLESenseLED, 35, 36
+    \subitem PackageExample.py, 247
+    \subitem PowerLED.cpp, 94
+    \subitem PowerLED.h, 94
+    \subitem RGBLED.cpp, 101
+    \subitem RGBLED.h, 100
+    \subitem SignsOfLife.cpp, 96
+    \subitem SignsOfLife.h, 96
+    \subitem SimpleAccelerometer, 137
+    \subitem SSD1306Ascii.h, 139
+    \subitem TestBattery.ino, 182, 184
+    \subitem Wire.h, 139, 163, 165, 194
+    \subitem wire.h, 164
   \item  Inertial Measurement Unit
-    \subitem  \emph  {see} IMU, 21, 76
+    \subitem  \emph  {see} IMU, 19, 74
 
   \indexspace
 
   \item Acoustic Overload Point
-    \subitem  \emph  {see} AOP, 21, 81
-  \item AOP, 21, 81
+    \subitem  \emph  {see} AOP, 19, 79
+  \item AOP, 19, 79
 
   \indexspace
 
-  \item CAGD, 289
-    \subitem Splines, 289
-  \item CNN, 21, 287
+  \item CAGD, 285
+    \subitem Splines, 285
+  \item CNN, 19, 283
   \item Computerized Numerical Control
-    \subitem  \emph  {see} {CNN}, 21, 287
+    \subitem  \emph  {see} {CNN}, 19, 283
 
   \indexspace
 
-  \item Example, 251
-    \subitem Description, 251
-    \subitem Installation, 251
-    \subitem Introduction, 251
+  \item Example, 247
+    \subitem Description, 247
+    \subitem Installation, 247
+    \subitem Introduction, 247
 
   \indexspace
 
   \item General Purpose Input Output
-    \subitem  \emph  {see} GPIO, 21, 204
-  \item GPIO, 21, 204
+    \subitem  \emph  {see} GPIO, 19, 202
+  \item GPIO, 19, 202
 
   \indexspace
 
-  \item IDE, 21, 50, 186
-  \item IMU, 21, 76, 79
+  \item IDE, 19, 48, 184
+  \item IMU, 19, 74, 77
   \item Integrated Development Environment
-    \subitem  \emph  {see} IDE, 21, 50
+    \subitem  \emph  {see} IDE, 19, 48
 
   \indexspace
 
-  \item LED, 21, 93, 94, 98, 101--103, 105, 107, 108, 204
-    \subitem Brightness, 107
-    \subitem Built-in LED, 89
-    \subitem Built-in RGB-LED, 101
-    \subitem Colors, 104
-    \subitem Power LED, 93
+  \item LED, 19, 91, 92, 96, 99--101, 103, 105, 106, 202
+    \subitem Brightness, 105
+    \subitem Built-in LED, 87
+    \subitem Built-in RGB-LED, 99
+    \subitem Colors, 102
+    \subitem Power LED, 91
   \item Light Emitting Diode
-    \subitem  \emph  {see} {LED}, 21, 93
+    \subitem  \emph  {see} {LED}, 19, 91
 
   \indexspace
 
-  \item mcd, 21, 102
+  \item mcd, 19, 100
   \item Millicandela
-    \subitem  \emph  {see} {mcd}, 21, 102
+    \subitem  \emph  {see} {mcd}, 19, 100
 
   \indexspace
 
-  \item PDM, 21, 81
+  \item PDM, 19, 79
   \item Pin
-    \subitem Pin 11, 111, 112, 187, 188
-    \subitem Pin 13, 89--91
-    \subitem Pin 22, 102
-    \subitem Pin 22,23,24, 102
-    \subitem Pin 23, 102
-    \subitem Pin 24, 102
-    \subitem Pin 25, 94, 96
-  \item PLC, \see{         Programmable Logic Controller}{287}
+    \subitem Pin 11, 109, 110, 185, 186
+    \subitem Pin 13, 87--89
+    \subitem Pin 22, 100
+    \subitem Pin 22,23,24, 100
+    \subitem Pin 23, 100
+    \subitem Pin 24, 100
+    \subitem Pin 25, 92, 94
+  \item PLC, \see{         Programmable Logic Controller}{283}
   \item Pulse Density Modulation
-    \subitem  \emph  {see} PDM, 21, 81
+    \subitem  \emph  {see} PDM, 19, 79
   \item Pulse with Modulation
-    \subitem  \emph  {see} PWM Signal, 21, 94
+    \subitem  \emph  {see} PWM Signal, 19, 92
   \item Push Button
-    \subitem  Built-in Push Button, 111, 187
-  \item PWM Signal, 21, 94, 101, 105
+    \subitem  Built-in Push Button, 109, 185
+  \item PWM Signal, 19, 92, 99, 103
 
   \indexspace
 
   \item Speicherprogrammierbare Steuerung
-    \subitem  \emph  {see} SPS, 21, 287
-  \item SPS, 21, 287
+    \subitem  \emph  {see} SPS, 19, 283
+  \item SPS, 19, 283
 
   \indexspace
 
-  \item VCC, 21, 184
+  \item VCC, 19, 182
   \item Voltage at the Common Collector
-    \subitem  \emph  {see} VCC, 21, 184
+    \subitem  \emph  {see} VCC, 19, 182
 
 \end{theindex}
