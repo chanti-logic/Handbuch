@@ -329,7 +329,7 @@
 \contentsline {chapter}{\numberline {23}Drehwinkel-Encoder}{205}{chapter.23}%
 \contentsline {section}{\numberline {23.1}Encoder}{205}{section.23.1}%
 \contentsline {section}{\numberline {23.2}Drehwinkel-Encoder}{205}{section.23.2}%
-\contentsline {chapter}{\numberline {24}Schrittmotor}{207}{chapter.24}%
+\contentsline {chapter}{\numberline {24}Schrittmotor NEMA 17}{207}{chapter.24}%
 \contentsline {section}{\numberline {24.1}Beschreibung eines Schrittmotors}{207}{section.24.1}%
 \contentsline {subsection}{\numberline {24.1.1}Aufbau und Funktionsweise eines Schrittmotors}{207}{subsection.24.1.1}%
 \contentsline {subsection}{\numberline {24.1.2}Schrittmotor Bauformen}{208}{subsection.24.1.2}%
@@ -344,6 +344,9 @@
 \contentsline {subsubsection}{\nonumberline Lastrückkopplung}{212}{subsubsection*.112}%
 \contentsline {subsubsection}{\nonumberline Erhöhung der Nutzlast mit der Zeit}{212}{subsubsection*.114}%
 \contentsline {section}{\numberline {24.3}Beschreibung des verwendeten Schrittmotors}{212}{section.24.3}%
+\contentsline {section}{\numberline {24.4}Spezifikation}{213}{section.24.4}%
+\contentsline {section}{\numberline {24.5}Anschluss an den DRV8825}{213}{section.24.5}%
+\contentsline {section}{\numberline {24.6}Weiterführende Literatur}{213}{section.24.6}%
 \contentsline {chapter}{\numberline {25}Schrittmotortreiber DRV8825}{215}{chapter.25}%
 \contentsline {section}{\numberline {25.1}Allgemeine Beschreibung eines Motortreibers}{215}{section.25.1}%
 \contentsline {section}{\numberline {25.2}Spezifische Beschreibung des Schrittmotortreibers DRV8825}{215}{section.25.2}%
@@ -478,7 +481,7 @@
 \contentsline {subsection}{\numberline {38.5.9}Module \textcolor {MapleColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-MConstant}}}{274}{subsection.38.5.9}%
 \contentsline {subsection}{\numberline {38.5.10}Module \textcolor {MapleColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-MGeneralMath}}}{274}{subsection.38.5.10}%
 \contentsline {subsection}{\numberline {38.5.11}Module \textcolor {MapleColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-Biarc}}}{275}{subsection.38.5.11}%
-\contentsline {subsubsection}{\nonumberline Data Structure}{275}{subsubsection*.136}%
+\contentsline {subsubsection}{\nonumberline Data Structure}{275}{subsubsection*.137}%
 \contentsline {subsection}{\numberline {38.5.12}Module \textcolor {MapleColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-MBiarc}}}{275}{subsection.38.5.12}%
 \contentsline {section}{\numberline {38.6}Programme Flowchart}{276}{section.38.6}%
 \contentsline {subsection}{\numberline {38.6.1}Overall Flow}{276}{subsection.38.6.1}%
@@ -489,6 +492,6 @@
 \contentsline {chapter}{\numberline {42}CAGD}{285}{chapter.42}%
 \contentsline {chapter}{\numberline {A}drawings with tikz}{287}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Criteria for a good \LaTeX {} project}{291}{appendix.B}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{293}{chapter*.141}%
-\contentsline {chapter}{Stichwortverzeichnis}{299}{chapter*.141}%
-\contentsline {chapter}{Index}{299}{chapter*.141}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{293}{chapter*.142}%
+\contentsline {chapter}{Stichwortverzeichnis}{299}{chapter*.142}%
+\contentsline {chapter}{Index}{299}{chapter*.142}%

@@ -138,14 +138,13 @@
 \contentsline {figure}{\numberline {24.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{208}{figure.caption.103}%
 \contentsline {figure}{\numberline {24.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{210}{figure.caption.106}%
 \contentsline {figure}{\numberline {24.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{211}{figure.caption.110}%
-\contentsline {figure}{\numberline {24.4}{\ignorespaces Drehmoment-Diagramm für den Schrittmotor 42BYG015 \blx@tocontentsinit {0}\cite {Gems.2024}}}{213}{figure.caption.115}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {26.1}{\ignorespaces Anschluss des Sensors ans den Arduino Nano 33 BLE Sense}}{220}{figure.caption.121}%
-\contentsline {figure}{\numberline {26.2}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{221}{figure.caption.123}%
-\contentsline {figure}{\numberline {26.3}{\ignorespaces Installation der TimerOne Bibliothek}}{222}{figure.caption.124}%
-\contentsline {figure}{\numberline {26.4}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{222}{figure.caption.125}%
-\contentsline {figure}{\numberline {26.5}{\ignorespaces wird noch in Code umgewandelt!}}{224}{figure.caption.126}%
+\contentsline {figure}{\numberline {26.1}{\ignorespaces Anschluss des Sensors ans den Arduino Nano 33 BLE Sense}}{220}{figure.caption.122}%
+\contentsline {figure}{\numberline {26.2}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{221}{figure.caption.124}%
+\contentsline {figure}{\numberline {26.3}{\ignorespaces Installation der TimerOne Bibliothek}}{222}{figure.caption.125}%
+\contentsline {figure}{\numberline {26.4}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{222}{figure.caption.126}%
+\contentsline {figure}{\numberline {26.5}{\ignorespaces wird noch in Code umgewandelt!}}{224}{figure.caption.127}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -159,17 +158,17 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {36.1}{\ignorespaces Bernstein polynomial of degree $3$}}{257}{figure.caption.128}%
-\contentsline {figure}{\numberline {36.2}{\ignorespaces Bézier curve for example \ref {KPunkte4Beispiel} }}{258}{figure.caption.129}%
+\contentsline {figure}{\numberline {36.1}{\ignorespaces Bernstein polynomial of degree $3$}}{257}{figure.caption.129}%
+\contentsline {figure}{\numberline {36.2}{\ignorespaces Bézier curve for example \ref {KPunkte4Beispiel} }}{258}{figure.caption.130}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {37.1}{\ignorespaces Smoothing a corner with the help of an arc - triangle}}{259}{figure.caption.130}%
-\contentsline {figure}{\numberline {37.2}{\ignorespaces Angular change with blending arc}}{261}{figure.caption.131}%
-\contentsline {figure}{\numberline {37.3}{\ignorespaces Curvature progression for a blending arc}}{261}{figure.caption.132}%
-\contentsline {figure}{\numberline {37.4}{\ignorespaces Maximum range for a blending arc of a circle - $L(\varepsilon =const, \alpha )$}}{262}{figure.caption.133}%
-\contentsline {figure}{\numberline {37.5}{\ignorespaces Deviation when specifying the distance $L$ when rounding with a circular arc}}{262}{figure.caption.134}%
+\contentsline {figure}{\numberline {37.1}{\ignorespaces Smoothing a corner with the help of an arc - triangle}}{259}{figure.caption.131}%
+\contentsline {figure}{\numberline {37.2}{\ignorespaces Angular change with blending arc}}{261}{figure.caption.132}%
+\contentsline {figure}{\numberline {37.3}{\ignorespaces Curvature progression for a blending arc}}{261}{figure.caption.133}%
+\contentsline {figure}{\numberline {37.4}{\ignorespaces Maximum range for a blending arc of a circle - $L(\varepsilon =const, \alpha )$}}{262}{figure.caption.134}%
+\contentsline {figure}{\numberline {37.5}{\ignorespaces Deviation when specifying the distance $L$ when rounding with a circular arc}}{262}{figure.caption.135}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {38.1}{\ignorespaces Programme flow chart \glqq Corner rounding\grqq }}{277}{figure.caption.137}%
-\contentsline {figure}{\numberline {38.2}{\ignorespaces Programme flowchart \glqq Selection of the rounding strategies\grqq }}{278}{figure.caption.138}%
+\contentsline {figure}{\numberline {38.1}{\ignorespaces Programme flow chart \glqq Corner rounding\grqq }}{277}{figure.caption.138}%
+\contentsline {figure}{\numberline {38.2}{\ignorespaces Programme flowchart \glqq Selection of the rounding strategies\grqq }}{278}{figure.caption.139}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
