@@ -1,10 +1,10 @@
 \begin{theindex}
 
-  \item 3D printer, 281
+  \item 3D printer, 285
 
   \indexspace
 
-  \item      Programmable Logic Controller, 279
+  \item      Programmable Logic Controller, 283
   \item  File
     \subitem ../images/, 67
     \subitem .doxyfile, 62
@@ -14,9 +14,9 @@
     \subitem Arduino, 32
     \subitem Arduino LSM9DS1.h, 164
     \subitem Arduino\_LSM9DS1.h, 163
-    \subitem Blink.ino, 278
+    \subitem Blink.ino, 282
     \subitem blink.ino, 47, 48
-    \subitem Blink.py, 276
+    \subitem Blink.py, 280
     \subitem blnik.ino, 43
     \subitem BuiltinLED.cpp, 88
     \subitem BuiltinLED.h, 88
@@ -39,7 +39,7 @@
     \subitem MySketch.ino, 32
     \subitem Nano33BLESenseLE, 34
     \subitem Nano33BLESenseLED, 35, 36
-    \subitem PackageExample.py, 243
+    \subitem PackageExample.py, 247
     \subitem PowerLED.cpp, 94
     \subitem PowerLED.h, 94
     \subitem RGBLED.cpp, 101
@@ -62,18 +62,18 @@
 
   \indexspace
 
-  \item CAGD, 281
-    \subitem Splines, 281
-  \item CNN, 19, 279
+  \item CAGD, 285
+    \subitem Splines, 285
+  \item CNN, 19, 283
   \item Computerized Numerical Control
-    \subitem  \emph  {see} {CNN}, 19, 279
+    \subitem  \emph  {see} {CNN}, 19, 283
 
   \indexspace
 
-  \item Example, 243
-    \subitem Description, 243
-    \subitem Installation, 243
-    \subitem Introduction, 243
+  \item Example, 247
+    \subitem Description, 247
+    \subitem Installation, 247
+    \subitem Introduction, 247
 
   \indexspace
 
@@ -116,7 +116,7 @@
     \subitem Pin 23, 100
     \subitem Pin 24, 100
     \subitem Pin 25, 92, 94
-  \item PLC, \see{         Programmable Logic Controller}{279}
+  \item PLC, \see{         Programmable Logic Controller}{283}
   \item Pulse Density Modulation
     \subitem  \emph  {see} PDM, 19, 79
   \item Pulse with Modulation
@@ -128,8 +128,8 @@
   \indexspace
 
   \item Speicherprogrammierbare Steuerung
-    \subitem  \emph  {see} SPS, 19, 279
-  \item SPS, 19, 279
+    \subitem  \emph  {see} SPS, 19, 283
+  \item SPS, 19, 283
 
   \indexspace
 

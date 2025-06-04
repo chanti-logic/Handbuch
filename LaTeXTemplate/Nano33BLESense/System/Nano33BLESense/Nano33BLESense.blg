@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2024)
+This is BibTeX, Version 0.99d (TeX Live 2025)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Nano33BLESense.aux
 The style file: biblatex.bst
@@ -17,52 +17,60 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 31880 items from 5000.
+Reallocated field_info (elt_size=4) to 19280 items from 5000.
 Database file #1: Nano33BLESense-blx.bib
 Database file #2: ../../../MLbib/Jetson.bib
 Database file #3: ../../../MLbib/Literature.bib
 Database file #4: ../../../MLbib/MyLiterature.bib
+Warning--I didn't find a database entry for "Babiel.2023"
+Warning--I didn't find a database entry for "Hagl.2021"
+Warning--I didn't find a database entry for "Bernstein.2018"
+Warning--I didn't find a database entry for "Schroder.2021"
+Warning--I didn't find a database entry for "MarcMcComb.2024"
+Warning--I didn't find a database entry for "FaulhaberDriveSystems.2020"
+Warning--I didn't find a database entry for "Gems.2024"
 Biblatex version: 3.20
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 192 entries,
+You've used 95 entries,
             6402 wiz_defined-function locations,
-            2444 strings with 54587 characters,
-and the built_in function-call counts, 1285909 in all, are:
-= -- 91877
-> -- 28581
-< -- 8890
-+ -- 39700
-- -- 15262
-* -- 85137
-:= -- 133211
+            1833 strings with 30173 characters,
+and the built_in function-call counts, 613866 in all, are:
+= -- 42556
+> -- 14823
+< -- 4252
++ -- 19621
+- -- 8538
+* -- 40987
+:= -- 63973
 add.period$ -- 0
-call.type$ -- 192
-change.case$ -- 279
-chr.to.int$ -- 1120
-cite$ -- 470
-duplicate$ -- 137413
-empty$ -- 116720
-format.name$ -- 10438
-if$ -- 260199
+call.type$ -- 95
+change.case$ -- 142
+chr.to.int$ -- 675
+cite$ -- 236
+duplicate$ -- 65175
+empty$ -- 55968
+format.name$ -- 4868
+if$ -- 122920
 int.to.chr$ -- 0
-int.to.str$ -- 618
+int.to.str$ -- 290
 missing$ -- 0
-newline$ -- 5867
-num.names$ -- 9571
-pop$ -- 68232
+newline$ -- 2824
+num.names$ -- 4314
+pop$ -- 33415
 preamble$ -- 1
-purify$ -- 5211
+purify$ -- 2284
 quote$ -- 0
-skip$ -- 40831
+skip$ -- 18917
 stack$ -- 0
-substring$ -- 160168
-swap$ -- 31025
-text.length$ -- 6226
-text.prefix$ -- 306
+substring$ -- 74962
+swap$ -- 15087
+text.length$ -- 3155
+text.prefix$ -- 148
 top$ -- 1
-type$ -- 6503
+type$ -- 3213
 warning$ -- 0
-while$ -- 16184
+while$ -- 7696
 width$ -- 0
-write$ -- 5676
+write$ -- 2730
+(There were 7 warnings)

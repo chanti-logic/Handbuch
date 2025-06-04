@@ -168,20 +168,20 @@
 \indexentry{General Purpose Input Output! \emph  {see} GPIO}{202}
 \indexentry{GPIO}{202}
 \indexentry{LED}{202}
-\indexentry{Example}{243}
-\indexentry{Example!Introduction}{243}
-\indexentry{Example!Description}{243}
-\indexentry{Example!Installation}{243}
-\indexentry{ File!PackageExample.py}{243}
-\indexentry{ File!Blink.py}{276}
-\indexentry{ File!Blink.ino}{278}
-\indexentry{Speicherprogrammierbare Steuerung! \emph  {see} SPS}{279}
-\indexentry{SPS}{279}
-\indexentry{Computerized Numerical Control! \emph  {see} {CNN}}{279}
-\indexentry{CNN}{279}
-\indexentry{SPS}{279}
-\indexentry{     Programmable Logic Controller}{279}
-\indexentry{PLC|see{         Programmable Logic Controller}}{279}
-\indexentry{CAGD}{281}
-\indexentry{CAGD!Splines}{281}
-\indexentry{3D printer}{281}
+\indexentry{Example}{247}
+\indexentry{Example!Introduction}{247}
+\indexentry{Example!Description}{247}
+\indexentry{Example!Installation}{247}
+\indexentry{ File!PackageExample.py}{247}
+\indexentry{ File!Blink.py}{280}
+\indexentry{ File!Blink.ino}{282}
+\indexentry{Speicherprogrammierbare Steuerung! \emph  {see} SPS}{283}
+\indexentry{SPS}{283}
+\indexentry{Computerized Numerical Control! \emph  {see} {CNN}}{283}
+\indexentry{CNN}{283}
+\indexentry{SPS}{283}
+\indexentry{     Programmable Logic Controller}{283}
+\indexentry{PLC|see{         Programmable Logic Controller}}{283}
+\indexentry{CAGD}{285}
+\indexentry{CAGD!Splines}{285}
+\indexentry{3D printer}{285}
