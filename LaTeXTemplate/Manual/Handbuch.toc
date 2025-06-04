@@ -16,3 +16,4 @@
 \contentsline {chapter}{\numberline {5}Anleitung zur Fehlerbehebung}{10}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Haftungsausschluss}{11}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Technische Daten}{12}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Materialliste}{13}{chapter.8}%

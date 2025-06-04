@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.3)  25 MAY 2025 17:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.3)  4 JUN 2025 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -866,50 +866,60 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthlast=\dimen298
 \titlewidthfirst=\dimen299
 )
+(C:\Users\perew\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen300
+\ar@mcellbox=\box87
+\extrarowheight=\dimen301
+\NC@list=\toks44
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box88
+)
 (C:\Users\perew\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
-\l__pdf_internal_box=\box87
+\l__pdf_internal_box=\box89
 ) (Handbuch.aux
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported  on input line 8.
 )
 \openout1 = `Handbuch.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 (C:\Users\perew\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count350
-\scratchdimen=\dimen300
-\scratchbox=\box88
+\scratchdimen=\dimen302
+\scratchbox=\box90
 \nofMPsegments=\count351
 \nofMParguments=\count352
-\everyMPshowfont=\toks44
+\everyMPshowfont=\toks45
 \MPscratchCnt=\count353
-\MPscratchDim=\dimen301
+\MPscratchDim=\dimen303
 \MPnumerator=\count354
 \makeMPintoPDFobject=\count355
-\everyMPtoPDFconversion=\toks45
+\everyMPtoPDFconversion=\toks46
 )
 (C:\Users\perew\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -955,7 +965,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 28.
+Package hyperref Info: Link coloring OFF on input line 29.
 (Handbuch.out) (Handbuch.out)
 \@outlinefile=\write4
 \openout4 = `Handbuch.out'.
@@ -966,12 +976,12 @@ Package hyperref Info: Link coloring OFF on input line 28.
 [1
 
 {C:/Users/perew/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
@@ -988,7 +998,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.91 	\listoffigures
+l.92 	\listoffigures
                      [0
 
 ] (Handbuch.lof)
@@ -1016,44 +1026,44 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.126 	\chapter
+l.127 	\chapter
                {Ãœbersicht} [1
 
 
 ]
 Kapitel 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--144
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
@@ -1062,34 +1072,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
@@ -1098,17 +1108,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--199
 [4]
 Kapitel 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
 
  []
 
@@ -1117,36 +1127,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--233
 [5
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
 
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
  
  []
 
 
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
  []
 
 
-Overfull \hbox (54.38138pt too wide) in paragraph at lines 316--325
+Overfull \hbox (56.38135pt too wide) in paragraph at lines 317--326
  [][] 
  []
 
@@ -1155,7 +1165,7 @@ Overfull \hbox (54.38138pt too wide) in paragraph at lines 316--325
 [8]
 Kapitel 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
@@ -1166,63 +1176,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 334--335
 ]
 Kapitel 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--376
-[]\T1/cmr/m/n/12 Motor be-wegt sich
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 377--377
-[]\T1/cmr/m/n/12 Ungewöhnliche Ge-
+[]|\T1/cmr/m/n/12 Motor be-wegt sich
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 377--377
-[]\T1/cmr/m/n/12 Spindelspannung jus-
+Underfull \hbox (badness 10000) in paragraph at lines 378--378
+[]|\T1/cmr/m/n/12 Ungewöhnliche Ge-
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 378--378
-[]\T1/cmr/m/n/12 Endschalter nicht kor-rekt
+Underfull \hbox (badness 1371) in paragraph at lines 378--378
+[]|\T1/cmr/m/n/12 Spindelspannung jus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
-[]\T1/cmr/m/n/12 Bewegung un-gleich-
+Underfull \hbox (badness 2538) in paragraph at lines 379--379
+[]|\T1/cmr/m/n/12 Endschalter nicht kor-rekt
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 379--379
-[]\T1/cmr/m/n/12 Mechanischer Wi-der-stand,
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
+[]|\T1/cmr/m/n/12 Bewegung un-gleich-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
+Underfull \hbox (badness 3482) in paragraph at lines 380--380
+[]|\T1/cmr/m/n/12 Mechanischer Wi-der-stand,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
 \T1/cmr/m/n/12 feh-ler-haf-te Dreh-schal-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
-[]\T1/cmr/m/n/12 Inbetriebnahme-
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
+[]|\T1/cmr/m/n/12 Inbetriebnahme-
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 379--379
+Underfull \hbox (badness 1082) in paragraph at lines 380--380
 \T1/cmr/m/n/12 Prüfung wie-der-ho-len,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--379
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
 \T1/cmr/m/n/12 Füh-run-gen rei-ni-gen,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--380
-[]\T1/cmr/bx/n/12 OLED-Display
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+[]|\T1/cmr/bx/n/12 OLED-Display
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--380
-[]\T1/cmr/m/n/12 Verkabelung prü-fen,
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+[]|\T1/cmr/m/n/12 Verkabelung prü-fen,
  []
 
 
@@ -1232,12 +1242,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 380--380
 ]
 Kapitel 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
 
  []
 
 
-Overfull \hbox (0.50633pt too wide) in paragraph at lines 392--393
+Overfull \hbox (0.50633pt too wide) in paragraph at lines 393--394
 []\T1/cmr/m/n/12 Insbesondere bei Ei-ge-num-bau-ten, Span-nungs-än-de-run-gen o
 der Ein-grif-fen in die Elek-
  []
@@ -1252,37 +1262,134 @@ Kapitel 7.
 
 [12
 
-] (Handbuch.aux)
+]
+Kapitel 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
+[]|\T1/cmr/m/n/12 101-60-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+[]|[]$\T1/cmtt/m/n/12 www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
+[]|[]$\T1/cmtt/m/n/12 www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+[]|[]$\T1/cmtt/m/n/12 www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--431
+[]|\T1/cmr/m/n/12 GRV CA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+[]|[]$\T1/cmtt/m/n/12 www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
+[]|\T1/cmr/m/n/12 NKSK 200
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
+[]|\T1/cmr/m/n/12 RAFI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+[]|\T1/cmr/m/n/12 RAFI
+ []
+
+
+Overfull \hbox (15.95868pt too wide) in paragraph at lines 442--442
+[]|\T1/cmr/m/n/12 Potentiometerknopf 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\T1/cmr/m/n/12 AV 32543
+ []
+
+
+Overfull \hbox (12.43443pt too wide) in paragraph at lines 447--447
+[]|\T1/cmr/m/n/12 Entwicklungsboard 
+ []
+
+
+Overfull \hbox (3.29779pt too wide) in paragraph at lines 449--449
+[]|\T1/cmr/m/n/12 Entwicklerboards 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--449
+[]|\T1/cmr/m/n/12 DEBO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+[]|[]$\T1/cmtt/m/n/12 www .
+ []
+
+
+Overfull \hbox (18.72964pt too wide) in paragraph at lines 453--453
+[]|\T1/cmr/m/n/12 STECKBOARD
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--455
+[]|\T1/cmr/m/n/12 DELOCK
+ []
+
+
+Overfull \hbox (51.8806pt too wide) in alignment at lines 416--457
+ [] [] [] [] [] [] [] 
+ []
+
+[13
+
+]
+
+[14] (Handbuch.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `Handbuch.out' has not changed.
-(rerunfilecheck)             Checksum: 3481361B48A401E5363C44062ADDDA0F;2357.
+(rerunfilecheck)             Checksum: E70E0C0EC0541ED7E667F1139CC359B5;2466.
  ) 
 Here is how much of TeX's memory you used:
- 28879 strings out of 473523
- 583159 string characters out of 5714631
- 1005562 words of memory out of 5000000
- 51604 multiletter control sequences out of 15000+600000
- 571548 words of font info for 65 fonts, out of 8000000 for 9000
+ 28961 strings out of 473523
+ 584339 string characters out of 5714631
+ 1037892 words of memory out of 5000000
+ 51679 multiletter control sequences out of 15000+600000
+ 571861 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,10n,105p,617b,653s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
-1440.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbx1728.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\tcrm1200.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1200.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\perew\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\perew\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\perew\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:\Users\perew\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/perew/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Handbuch.pdf (17 pages, 174374 bytes).
+ <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
+1200.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecbx1440.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx1728.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1200.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\perew\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\perew\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\perew\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\perew\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\perew\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk> <C:\Users\perew\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/p
+erew/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Handbuch.pdf (19 pages, 193604 bytes).
 PDF statistics:
- 570 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 635 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
