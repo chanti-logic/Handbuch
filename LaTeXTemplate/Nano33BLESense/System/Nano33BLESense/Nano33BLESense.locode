@@ -5,69 +5,66 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {6.1}{\ignorespaces Simple example using of the builtin microphone of the Arduino Nano 33 BLE Sense}}{80}{code.caption.34}%
+\contentsline {code}{\numberline {6.1}{\ignorespaces Simple example using of the builtin microphone of the Arduino Nano 33 BLE Sense}}{82}{code.caption.34}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {8.1}{\ignorespaces Header file without comments for using the Built-in LED}}{88}{code.8.1}%
-\contentsline {code}{\numberline {8.2}{\ignorespaces Code file without comments for using the Built-in LED}}{88}{code.8.2}%
-\contentsline {code}{\numberline {8.3}{\ignorespaces Simple sketch without comments to control the built-in LED}}{89}{code.8.3}%
-\contentsline {code}{\numberline {8.4}{\ignorespaces Simple sketch to test the built-in LED}}{89}{code.8.4}%
-\contentsline {code}{\numberline {8.5}{\ignorespaces A simple watch dog: A simple watchdog: the built-in LED is switched on for 1 second every 30 seconds.}}{90}{code.8.5}%
+\contentsline {code}{\numberline {8.1}{\ignorespaces Header file without comments for using the Built-in LED}}{90}{code.8.1}%
+\contentsline {code}{\numberline {8.2}{\ignorespaces Code file without comments for using the Built-in LED}}{90}{code.8.2}%
+\contentsline {code}{\numberline {8.3}{\ignorespaces Simple sketch without comments to control the built-in LED}}{91}{code.8.3}%
+\contentsline {code}{\numberline {8.4}{\ignorespaces Simple sketch to test the built-in LED}}{91}{code.8.4}%
+\contentsline {code}{\numberline {8.5}{\ignorespaces A simple watch dog: A simple watchdog: the built-in LED is switched on for 1 second every 30 seconds.}}{92}{code.8.5}%
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {9.1}{\ignorespaces Header file without comments for using a LED}}{93}{code.9.1}%
-\contentsline {code}{\numberline {9.2}{\ignorespaces Code file without comments for using a LED}}{93}{code.9.2}%
-\contentsline {code}{\numberline {9.3}{\ignorespaces Header file with doxygen comments for using the Power LED}}{94}{code.9.3}%
-\contentsline {code}{\numberline {9.4}{\ignorespaces Code file with doxygen comments for using the Power LED}}{94}{code.9.4}%
-\contentsline {code}{\numberline {9.5}{\ignorespaces Simple sketch to control the power LED}}{94}{code.9.5}%
-\contentsline {code}{\numberline {9.6}{\ignorespaces Simple sketch to check the battery state using the power LED}}{95}{code.9.6}%
-\contentsline {code}{\numberline {9.7}{\ignorespaces Simple code for signs of life}}{96}{code.9.7}%
-\contentsline {code}{\numberline {9.8}{\ignorespaces Simple code for signs of life}}{96}{code.9.8}%
-\contentsline {code}{\numberline {9.9}{\ignorespaces Simple sketch to check the battery state using the power LED}}{97}{code.9.9}%
+\contentsline {code}{\numberline {9.1}{\ignorespaces Header file without comments for using a LED}}{95}{code.9.1}%
+\contentsline {code}{\numberline {9.2}{\ignorespaces Code file without comments for using a LED}}{95}{code.9.2}%
+\contentsline {code}{\numberline {9.3}{\ignorespaces Header file with doxygen comments for using the Power LED}}{96}{code.9.3}%
+\contentsline {code}{\numberline {9.4}{\ignorespaces Code file with doxygen comments for using the Power LED}}{96}{code.9.4}%
+\contentsline {code}{\numberline {9.5}{\ignorespaces Simple sketch to control the power LED}}{96}{code.9.5}%
+\contentsline {code}{\numberline {9.6}{\ignorespaces Simple sketch to check the battery state using the power LED}}{97}{code.9.6}%
+\contentsline {code}{\numberline {9.7}{\ignorespaces Simple code for signs of life}}{98}{code.9.7}%
+\contentsline {code}{\numberline {9.8}{\ignorespaces Simple code for signs of life}}{98}{code.9.8}%
+\contentsline {code}{\numberline {9.9}{\ignorespaces Simple sketch to check the battery state using the power LED}}{99}{code.9.9}%
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {10.1}{\ignorespaces Header file without comments for using the RGB-LED}}{100}{code.10.1}%
-\contentsline {code}{\numberline {10.2}{\ignorespaces Code file without comments for using the RGB-LED}}{101}{code.10.2}%
-\contentsline {code}{\numberline {10.3}{\ignorespaces Simple sketch to test the RGB LED}}{101}{code.10.3}%
-\contentsline {code}{\numberline {10.4}{\ignorespaces value between 0 and 255 to write to the RGB LED}}{103}{code.10.4}%
-\contentsline {code}{\numberline {10.5}{\ignorespaces Different brightness levels for the RGB-LED colors}}{105}{code.10.5}%
-\contentsline {code}{\numberline {10.6}{\ignorespaces A simple watch dog: A simple watchdog: the built-in RGB-LED is switched on for 1 second every 30 seconds.}}{106}{code.10.6}%
+\contentsline {code}{\numberline {10.1}{\ignorespaces Header file without comments for using the RGB-LED}}{102}{code.10.1}%
+\contentsline {code}{\numberline {10.2}{\ignorespaces Code file without comments for using the RGB-LED}}{103}{code.10.2}%
+\contentsline {code}{\numberline {10.3}{\ignorespaces Simple sketch to test the RGB LED}}{103}{code.10.3}%
+\contentsline {code}{\numberline {10.4}{\ignorespaces value between 0 and 255 to write to the RGB LED}}{105}{code.10.4}%
+\contentsline {code}{\numberline {10.5}{\ignorespaces Different brightness levels for the RGB-LED colors}}{107}{code.10.5}%
+\contentsline {code}{\numberline {10.6}{\ignorespaces A simple watch dog: A simple watchdog: the built-in RGB-LED is switched on for 1 second every 30 seconds.}}{108}{code.10.6}%
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {11.1}{\ignorespaces Defining the built-in button's pin as an input.}}{110}{code.11.1}%
-\contentsline {code}{\numberline {11.2}{\ignorespaces Read the built-in button's state}}{110}{code.11.2}%
-\contentsline {code}{\numberline {11.3}{\ignorespaces Simple sketch to test the push button and the built-in LED}}{110}{code.11.3}%
-\contentsline {code}{\numberline {11.4}{\ignorespaces Simple sketch connects the push button with an interrupt.}}{112}{code.11.4}%
+\contentsline {code}{\numberline {11.1}{\ignorespaces Defining the built-in button's pin as an input.}}{112}{code.11.1}%
+\contentsline {code}{\numberline {11.2}{\ignorespaces Read the built-in button's state}}{112}{code.11.2}%
+\contentsline {code}{\numberline {11.3}{\ignorespaces Simple sketch to test the push button and the built-in LED}}{112}{code.11.3}%
+\contentsline {code}{\numberline {11.4}{\ignorespaces Simple sketch connects the push button with an interrupt.}}{114}{code.11.4}%
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {12.1}{\ignorespaces Example code for the sensor LPS22HB on the Arduino Nano 33 BLE Sense}}{118}{code.12.1}%
-\contentsline {code}{\numberline {12.2}{\ignorespaces Simple sketch calibrating the sensor LPS22HB}}{120}{code.12.2}%
-\contentsline {code}{\numberline {12.3}{\ignorespaces Sketch for the Arduino Nano 33 BLE Sense to switch the sensor LPS22HB into sleep mode}}{122}{code.12.3}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {code}{\numberline {14.1}{\ignorespaces Example Microphone}}{149}{code.caption.77}%
-\contentsline {code}{\numberline {14.2}{\ignorespaces Example IMU (Accelerometer and Gyroscope)}}{149}{code.caption.78}%
-\contentsline {code}{\numberline {14.3}{\ignorespaces Example ADPS-9960}}{150}{code.caption.79}%
+\contentsline {code}{\numberline {12.1}{\ignorespaces Example code for the sensor LPS22HB on the Arduino Nano 33 BLE Sense}}{120}{code.12.1}%
+\contentsline {code}{\numberline {12.2}{\ignorespaces Simple sketch calibrating the sensor LPS22HB}}{122}{code.12.2}%
+\contentsline {code}{\numberline {12.3}{\ignorespaces Sketch for the Arduino Nano 33 BLE Sense to switch the sensor LPS22HB into sleep mode}}{124}{code.12.3}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {code}{\numberline {17.1}{\ignorespaces Simple sketch using the sensor LSM9DS1 detection}}{165}{code.17.1}%
+\contentsline {code}{\numberline {14.1}{\ignorespaces Example Microphone}}{151}{code.caption.77}%
+\contentsline {code}{\numberline {14.2}{\ignorespaces Example IMU (Accelerometer and Gyroscope)}}{151}{code.caption.78}%
+\contentsline {code}{\numberline {14.3}{\ignorespaces Example ADPS-9960}}{152}{code.caption.79}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {20.1}{\ignorespaces Beispiel-Sketch zum Testen der Batterie}}{183}{code.caption.87}%
-\addvspace {10\p@ }
-\contentsline {code}{\numberline {21.1}{\ignorespaces Defining the built-in button's pin as an input.}}{186}{code.21.1}%
-\contentsline {code}{\numberline {21.2}{\ignorespaces Read the built-in button's state}}{186}{code.21.2}%
-\contentsline {code}{\numberline {21.3}{\ignorespaces Simple sketch to test the push button and the built-in LED}}{186}{code.21.3}%
-\contentsline {code}{\numberline {21.4}{\ignorespaces Simple sketch connects the push button with an interrupt.}}{188}{code.21.4}%
-\addvspace {10\p@ }
-\contentsline {code}{\numberline {22.1}{\ignorespaces Monitoring}}{195}{code.22.1}%
-\contentsline {code}{\numberline {22.2}{\ignorespaces Start and stop sampling}}{196}{code.22.2}%
-\contentsline {code}{\numberline {22.3}{\ignorespaces Conversion of the microphone signal}}{196}{code.22.3}%
-\contentsline {code}{\numberline {22.4}{\ignorespaces OLED-Aktualisierung}}{196}{code.22.4}%
-\contentsline {code}{\numberline {22.5}{\ignorespaces Simple program for OLED displays}}{200}{code.22.5}%
-\addvspace {10\p@ }
-\contentsline {code}{\numberline {23.1}{\ignorespaces Testprogramm für den Encoder}}{206}{code.caption.102}%
+\contentsline {code}{\numberline {17.1}{\ignorespaces Simple sketch using the sensor LSM9DS1 detection}}{167}{code.17.1}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {code}{\numberline {20.1}{\ignorespaces Beispiel-Sketch zum Testen der Batterie}}{185}{code.caption.87}%
+\addvspace {10\p@ }
+\contentsline {code}{\numberline {21.1}{\ignorespaces Defining the built-in button's pin as an input.}}{188}{code.21.1}%
+\contentsline {code}{\numberline {21.2}{\ignorespaces Read the built-in button's state}}{188}{code.21.2}%
+\contentsline {code}{\numberline {21.3}{\ignorespaces Simple sketch to test the push button and the built-in LED}}{188}{code.21.3}%
+\contentsline {code}{\numberline {21.4}{\ignorespaces Simple sketch connects the push button with an interrupt.}}{190}{code.21.4}%
+\addvspace {10\p@ }
+\contentsline {code}{\numberline {22.1}{\ignorespaces Monitoring}}{197}{code.22.1}%
+\contentsline {code}{\numberline {22.2}{\ignorespaces Start and stop sampling}}{198}{code.22.2}%
+\contentsline {code}{\numberline {22.3}{\ignorespaces Conversion of the microphone signal}}{198}{code.22.3}%
+\contentsline {code}{\numberline {22.4}{\ignorespaces OLED-Aktualisierung}}{198}{code.22.4}%
+\contentsline {code}{\numberline {22.5}{\ignorespaces Simple program for OLED displays}}{202}{code.22.5}%
+\addvspace {10\p@ }
+\contentsline {code}{\numberline {23.1}{\ignorespaces Testprogramm für den Encoder}}{208}{code.caption.102}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
@@ -81,9 +78,13 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {39.1}{\ignorespaces \glqq Hello World\grqq {} in Python -- Variant 1}}{280}{code.caption.140}%
 \addvspace {10\p@ }
-\contentsline {code}{\numberline {40.1}{\ignorespaces \glqq Hello World\grqq {} in Python -- Variant 1}}{282}{code.caption.141}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {code}{\numberline {40.1}{\ignorespaces \glqq Hello World\grqq {} in Python -- Variant 1}}{284}{code.caption.144}%
+\addvspace {10\p@ }
+\contentsline {code}{\numberline {41.1}{\ignorespaces \glqq Hello World\grqq {} in Python -- Variant 1}}{286}{code.caption.145}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
