@@ -1,0 +1,130 @@
+%%%%%%%%%%%%
+%
+% $Autor: Crety $
+% $Datum: 2025-05-25 $
+% $Pfad: TemplateSensor $
+% $Version: 4250 $
+% !TeX spellcheck = en_GB/de_DE
+% !TeX encoding = utf8
+% !TeX root = filename 
+% !TeX TXS-program:bibliography = txs:///biber
+%
+%%%%%%%%%%%%
+\usepackage{comment}
+\usepackage{graphicx}
+
+% Structure
+\chapter{Stufen-Drehschalter}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{StufenDrehschalter/BildStufenDrehschalter.png}
+	\caption{Stufen Drehschalter Typ 2x6}
+	\label{fig:BildStufenDrehschalter}
+\end{figure}
+
+\section{Allgemeine Beschreibung des Drehschalters}
+
+Der Stufen-Drehschalter (im folgenden DS genannt) besteht aus einem mit der drehbaren Welle verbundenen Kontaktfinger, der bei Drehung um einen bestimmten Winkel jeweils nacheinander mit einem von mehreren auf dem Umfang angeordneten Kontakten verbunden wird. Um größere Kontaktsicherheit zu gewährleisten ist die Mechanik rastend ausgeführt. Ein regulärer DS besitzt  12 Kontakte im Umfang, jeweils um 30 Grad versetzt. Der Kontakt rastet nach einer 30 Grad Drehung der Welle etwas ein. 
+
+Um ein Überdrehen zu verhindern (Kontakt A von 1 auf 12 oder von 12 auf 1, siehe unten), ist ein mechanischer Endanschlag integriert. Aufgrund der Rasterung ist die Drehung der Welle schwergängig; daher wird ein Drehknopf zur erleichterten Bedienung verwendet.
+ 
+
+
+Ein DS kann unterschiedliche Ausführungen haben. Die Aufteilung der 12 Außenkontakte kann in unterschiedlichen Gruppen ausgelegt sein. Typischerweise bestehen die Gruppen der Außenkontakte jeweils aus 12, 6, 4, oder 3 Kontakten. Jede Gruppe besitzt einen eigenen Innenkontakt (s. unten). Da alle Innenkontakte mit der Achse mechanisch fest verbunden sind ist es möglich pro Rasterdrehung der Achse bis zu 4 Kontakte gleichzeitig zu schließen. 
+
+Die typischen Bezeichnungen dieser DS sind 1x12, 2x6, 3x4 und 4x3. 
+
+
+Desweiteren sind auch die folgenden seltenen Kombinationen vertreten : 
+
+60 Grad :  1x6, 2x3, 3x2 und 4x2 
+
+90 Grad :  1x4, 2x2 und 3x2 
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{StufenDrehschalter/WinkelStufenDrehschalter.jpg}
+	\caption{Beispiele für Stufen-Drehschalters}
+	\label{fig:ArtenStufenDrehschalter}
+\end{figure} 
+
+Ebenfalls ist es möglich, dass mehrere dieser Ebenen in beliebiger Kombination hintereinander auf der Achse positioniert werden können, was den Funktionsumfang weiter vergrößert. 
+
+
+
+\section{Spezifische Beschreibung des Drehschalters}
+
+Eine der Anforderungen an den SchrittmotorDemonstrator  ist, daß sich die Geschwindigkeit des Antriebs in 6  Stufen (0 – 5 wobei 0 = Stillstand ist) regeln lässt. Zur Steuerung des Antriebs wird ein Arduino Microcontroller (im folgenden MC genannt) gewählt wobei eine Eingabeeinheit für die Soll-Geschwindigkeit des Antriebsmotors dienen soll. 
+
+Für dieses Projekt wird ein mechanischer DS Typ 2x6 gewählt, um die 6 verschiedenen Geschwindigkeitsstufen darzustellen. Das heißt nach sechs 30 Grad Drehungen soll ein weiterdrehen der Achse aufgrund des Anschlags nicht möglich sein. Die zweite Gruppe der Kontakte bleibt für diese Anwendung ungenutzt. Ein Typ 1x6 war nicht verfügbar. 
+
+
+\subsection{Anschluss des Stufen-Drehschalters mit dem Arduino Nano 33 BLE Sense}
+
+Der Arduino Nano 33 BLE Sense verfügt über 18 digitale Eingänge, die zur Erfassung von Schaltzuständen verwendet werden können. Ein Stufen-Drehschalter (DS) ermöglicht die Auswahl eines von mehreren festen Schaltzuständen, indem jeweils ein Kontakt mit dem gemeinsamen Masseanschluss (GND) verbunden wird.
+In Abbildung xx ist gezeigt wie der DS korrekt an den Arduino Nano 33 BLE Sense angeschlossen wird:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{StufenDrehschalter/BF.png}
+	\caption{Anschluss des Stufen Drehschalters an den Arduino Nano 33 BLE Sense}
+	\label{fig:AnschlussArduinoDS}
+\end{figure}
+
+\section{Test}
+
+\subsection{Code-Beispiel}
+
+Im Folgenden ist ein Beispiel gegeben, in dem der DS an drei Positionen mit Ausgabe über das Command Fenster getestet wird (Abbildung xx).
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{StufenDrehschalter/BeispielStufenDrehschalter.jpg}
+	\caption{Beispiel Anschluss für das Testen eines Stufen-Drehschalters}
+	\label{fig:CodeStufenDrehschalter}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{StufenDrehschalter/CodeStufenDrehschalter.png}
+	\caption{Beispiel Code für das Testen eines Stufen-Drehschalters}
+	\label{fig:CodeStufenDrehschalter}
+\end{figure}
+
+\begin{comment}
+\begin{code}[H]
+	\caption{Einfacher Code zum Testen des Stufen-Drehschalters}
+	\label{code:StufenDrehschalter}
+	\ArduinoExternal{}{../../Code/Arduino/StufenDrehschalter}
+\end{code}
+\end{comment}
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|l|c|}
+		\hline
+		\textbf{Spezifikation} & \textbf{Wert} \\
+		\hline
+		Modell & Stufen Drehschalter Typ 2x6 \\
+		Polzahl & 2 \\
+		Positionen & 6 \\
+		Schalter-Durchmesser & 27,5 mm \\
+		Achsdurchmesser & 6 mm \\
+		Achslänge & 50 mm \\
+		Gewindestutzen & M 10 x 0,75 \\
+		Schaltstrom & 250 V / 0,15 A  \\
+		Belastungsgrenze & 300 V / 5 A   \\
+		\hline
+	\end{tabular}
+	\caption{Spezifikationen des Stufen Drehschalter Typ 2x6}
+	\label{tab:SpezifikationStufenDrehschalter}
+\end{table}
+
+
+\section{Weiterführende Literatur}
+
+\textcolor{red}{einfügen}
+
