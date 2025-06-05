@@ -2,173 +2,176 @@
 \babel@toc {english}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Menu Button}}{25}{figure.2.1}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Arduino IDE 2.3.3 Download}}{26}{figure.2.2}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Summary of DownloadOptions}}{27}{figure.2.3}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Arduino IDE Create Agent Installation}}{27}{figure.2.4}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Arduino Setup Installation options}}{28}{figure.2.5}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Arduino Setup Installation Folder}}{28}{figure.2.6}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Arduino IDE Sketch}}{28}{figure.2.7}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Steps for Installation}}{29}{figure.2.8}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces ArduinoIDE Create Agent Installation}}{29}{figure.2.9}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Open the Download folder}}{30}{figure.2.10}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Copy to the Applications Folder}}{30}{figure.2.11}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Arduino IDE Sketch}}{31}{figure.2.12}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Overview}}{32}{figure.2.13}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Sketchbook}}{32}{figure.2.14}%
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Board Manager}}{33}{figure.2.15}%
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Library Manager}}{33}{figure.2.16}%
-\contentsline {figure}{\numberline {2.17}{\ignorespaces Command Prompt with Administrator Privileges}}{35}{figure.2.17}%
-\contentsline {figure}{\numberline {2.18}{\ignorespaces Command Prompt}}{35}{figure.2.18}%
-\contentsline {figure}{\numberline {2.19}{\ignorespaces Including the Nano33BLESenseLED Library}}{36}{figure.2.19}%
-\contentsline {figure}{\numberline {2.20}{\ignorespaces Serial Monitor}}{37}{figure.2.20}%
-\contentsline {figure}{\numberline {2.21}{\ignorespaces Examples}}{38}{figure.2.21}%
-\contentsline {figure}{\numberline {2.22}{\ignorespaces Debugging Example}}{38}{figure.2.22}%
-\contentsline {figure}{\numberline {2.23}{\ignorespaces Autocomplete}}{39}{figure.2.23}%
-\contentsline {figure}{\numberline {2.24}{\ignorespaces Menu Bar Option}}{39}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Menu Button}}{27}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Arduino IDE 2.3.3 Download}}{28}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Summary of DownloadOptions}}{29}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Arduino IDE Create Agent Installation}}{29}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Arduino Setup Installation options}}{30}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Arduino Setup Installation Folder}}{30}{figure.2.6}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Arduino IDE Sketch}}{30}{figure.2.7}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Steps for Installation}}{31}{figure.2.8}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces ArduinoIDE Create Agent Installation}}{31}{figure.2.9}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Open the Download folder}}{32}{figure.2.10}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Copy to the Applications Folder}}{32}{figure.2.11}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Arduino IDE Sketch}}{33}{figure.2.12}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Overview}}{34}{figure.2.13}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Sketchbook}}{34}{figure.2.14}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Board Manager}}{35}{figure.2.15}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Library Manager}}{35}{figure.2.16}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Command Prompt with Administrator Privileges}}{37}{figure.2.17}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Command Prompt}}{37}{figure.2.18}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Including the Nano33BLESenseLED Library}}{38}{figure.2.19}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Serial Monitor}}{39}{figure.2.20}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Examples}}{40}{figure.2.21}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Debugging Example}}{40}{figure.2.22}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Autocomplete}}{41}{figure.2.23}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Menu Bar Option}}{41}{figure.caption.5}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Arduino Mbed OS Nano Boards Installation}}{44}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Select the Connected board - here Arduino Nano 33 BLE Sense}}{44}{figure.caption.6}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Arduino Nano 33 BLE Sense Reset Button}}{45}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces green and orange Builtin-LED}}{46}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Select Available Port for Uploading Arduino Sketch}}{46}{figure.caption.7}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Upload the Program in Arduino board}}{47}{figure.caption.8}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Setting the Port}}{47}{figure.caption.9}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces LED Example Sketch}}{48}{figure.4.8}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces LED-Built Example}}{48}{figure.4.9}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Arduino Mbed OS Nano Boards Installation}}{46}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Select the Connected board - here Arduino Nano 33 BLE Sense}}{46}{figure.caption.6}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Arduino Nano 33 BLE Sense Reset Button}}{47}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces green and orange Builtin-LED}}{48}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Select Available Port for Uploading Arduino Sketch}}{48}{figure.caption.7}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Upload the Program in Arduino board}}{49}{figure.caption.8}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Setting the Port}}{49}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces LED Example Sketch}}{50}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces LED-Built Example}}{50}{figure.4.9}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Exmaple output of Graphviz}}{51}{figure.5.1}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Start image from the website \textcolor {blue}{\url {https://doxygen.nl/}}}}{52}{figure.5.2}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Download area from the website \textcolor {blue}{\url {https://doxygen.nl/}}}}{52}{figure.5.3}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Query after the complete installation during the installation process of doxygen}}{53}{figure.5.4}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Query after the complete installation during the installation process of doxygen}}{53}{figure.5.5}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Start image from the website \textcolor {blue}{\url {https://www.graphviz.org/}}}}{54}{figure.5.6}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Download area from the website \textcolor {blue}{\url {https://www.graphviz.org/download/}}}}{54}{figure.5.7}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Query for adding the Graphviz path to the system variable \textcolor {ShellColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-PATH}}}}{55}{figure.5.8}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Query for the path to Graphviz}}{55}{figure.5.9}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Query for the start menu of Graphviz}}{56}{figure.5.10}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces DoxyWizard tab ``Wizard'' - Project}}{57}{figure.5.11}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces DoxyWizard tab ``Wizard'' - Mode}}{58}{figure.5.12}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces DoxyWizard tab ``Wizard'' - Diagrams}}{58}{figure.5.13}%
-\contentsline {figure}{\numberline {5.14}{\ignorespaces DoxyWizard tab ``Wizard'' - Output}}{59}{figure.5.14}%
-\contentsline {figure}{\numberline {5.15}{\ignorespaces DoxyWizard tab ``Wizard'' - Expert - Build}}{60}{figure.5.15}%
-\contentsline {figure}{\numberline {5.16}{\ignorespaces DoxyWizard tab ``Wizard'' - Expert - Dot}}{61}{figure.5.16}%
-\contentsline {figure}{\numberline {5.17}{\ignorespaces DoxyWizard tab ``Wizard'' - Run}}{62}{figure.5.17}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Exmaple output of Graphviz}}{53}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Start image from the website \textcolor {blue}{\url {https://doxygen.nl/}}}}{54}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Download area from the website \textcolor {blue}{\url {https://doxygen.nl/}}}}{54}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Query after the complete installation during the installation process of doxygen}}{55}{figure.5.4}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Query after the complete installation during the installation process of doxygen}}{55}{figure.5.5}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Start image from the website \textcolor {blue}{\url {https://www.graphviz.org/}}}}{56}{figure.5.6}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Download area from the website \textcolor {blue}{\url {https://www.graphviz.org/download/}}}}{56}{figure.5.7}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Query for adding the Graphviz path to the system variable \textcolor {ShellColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-PATH}}}}{57}{figure.5.8}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Query for the path to Graphviz}}{57}{figure.5.9}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Query for the start menu of Graphviz}}{58}{figure.5.10}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces DoxyWizard tab ``Wizard'' - Project}}{59}{figure.5.11}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces DoxyWizard tab ``Wizard'' - Mode}}{60}{figure.5.12}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces DoxyWizard tab ``Wizard'' - Diagrams}}{60}{figure.5.13}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces DoxyWizard tab ``Wizard'' - Output}}{61}{figure.5.14}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces DoxyWizard tab ``Wizard'' - Expert - Build}}{62}{figure.5.15}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces DoxyWizard tab ``Wizard'' - Expert - Dot}}{63}{figure.5.16}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces DoxyWizard tab ``Wizard'' - Run}}{64}{figure.5.17}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Arduino Nano 33 BLE Sense Rev. 2, see \href {https://store.arduino.cc/arduino-nano-33-ble-sense}{Arduino Store}}}{72}{figure.6.1}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Arduino Nano 33 BLE Sense Rev. 1}}{73}{figure.6.2}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Arduino Nano 33 BLE Sense Lite}}{74}{figure.6.3}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces \relax }}{75}{figure.6.4}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Pin assignment of the Arduino Nano 33 BLE Sense}}{76}{figure.6.5}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Circuit diagram microphone}}{81}{figure.caption.33}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Connection with BLE and smartphone}}{82}{figure.6.7}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Simple sketch to seen Arduino battery }}{82}{figure.6.8}%
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Arduino Nano 33 BLE Pin Configuration}}{84}{figure.caption.35}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Arduino Nano 33 BLE Sense Rev. 2, see \href {https://store.arduino.cc/arduino-nano-33-ble-sense}{Arduino Store}}}{74}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Arduino Nano 33 BLE Sense Rev. 1}}{75}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Arduino Nano 33 BLE Sense Lite}}{76}{figure.6.3}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces \relax }}{77}{figure.6.4}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Pin assignment of the Arduino Nano 33 BLE Sense}}{78}{figure.6.5}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Circuit diagram microphone}}{83}{figure.caption.33}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Connection with BLE and smartphone}}{84}{figure.6.7}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Simple sketch to seen Arduino battery }}{84}{figure.6.8}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Arduino Nano 33 BLE Pin Configuration}}{86}{figure.caption.35}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Arduino Nano 33 BLE Sense's Reset Button}}{85}{figure.7.1}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Arduino Nano 33 BLE Sense's Reset Button}}{87}{figure.7.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Arduino Nano 33 BLE Sense's built-in LED with Pin 13}}{87}{figure.8.1}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Arduino Nano 33 BLE Sense's built-in LED with Pin 13}}{89}{figure.8.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Arduino Nano 33 BLE Sense's Power LED with Pin 25}}{91}{figure.9.1}%
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Arduino Nano 33 BLE Sense's Power LED with Pin 25}}{93}{figure.9.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Arduino Nano 33 BLE Sense's RGB LED with Pin 22, Pin 23, and Pin 24}}{99}{figure.10.1}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Arduino Nano 33 BLE Sense's RGB LED with Pin 22, Pin 23, and Pin 24}}{101}{figure.10.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {11.1}{\ignorespaces The Tiny Machine Learning Shield}}{109}{figure.11.1}%
+\contentsline {figure}{\numberline {11.1}{\ignorespaces The Tiny Machine Learning Shield}}{111}{figure.11.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {12.1}{\ignorespaces Arduino Nano 33 BLE Sense's pressure and temperature sensor LPS22HB}}{115}{figure.12.1}%
+\contentsline {figure}{\numberline {12.1}{\ignorespaces Arduino Nano 33 BLE Sense's pressure and temperature sensor LPS22HB}}{117}{figure.12.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {13.1}{\ignorespaces Examples in the library \textcolor {PythonColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-Arduino\_LSM9DS1}}}}{125}{figure.caption.42}%
-\contentsline {figure}{\numberline {13.2}{\ignorespaces \emph {Axis Acceleration of Accelerometer Sensor}}}{128}{figure.caption.43}%
-\contentsline {figure}{\numberline {13.3}{\ignorespaces \emph {Angular Speed of Gyroscope Sensor}}}{129}{figure.caption.44}%
-\contentsline {figure}{\numberline {13.4}{\ignorespaces Library setup in Arduino IDE}}{129}{figure.caption.45}%
-\contentsline {figure}{\numberline {13.5}{\ignorespaces \textbf {Pin connections LSM9DS1}}}{131}{figure.caption.50}%
-\contentsline {figure}{\numberline {13.6}{\ignorespaces \textbf {Pin description LSM9DS1}}}{132}{figure.caption.53}%
-\contentsline {figure}{\numberline {13.7}{\ignorespaces \textbf {Sensor Characteristics}}}{133}{figure.caption.56}%
-\contentsline {figure}{\numberline {13.8}{\ignorespaces \textbf {Temperature Sensor Characteristics}}}{133}{figure.caption.59}%
-\contentsline {figure}{\numberline {13.9}{\ignorespaces \textbf {Absolute Maximum Temperature }}}{134}{figure.caption.62}%
-\contentsline {figure}{\numberline {13.10}{\ignorespaces \textbf {Accelerometer and gyroscope block diagram}}}{134}{figure.caption.65}%
-\contentsline {figure}{\numberline {13.11}{\ignorespaces \textbf {Magnetometer block diagram}}}{135}{figure.caption.68}%
-\contentsline {figure}{\numberline {13.12}{\ignorespaces \textbf {LSM9DS1 electrical connections}}}{136}{figure.caption.71}%
-\contentsline {figure}{\numberline {13.13}{\ignorespaces Output des Testprogramms}}{137}{figure.caption.72}%
-\contentsline {figure}{\numberline {13.14}{\ignorespaces Der Programmablaufplan}}{138}{figure.caption.73}%
-\contentsline {figure}{\numberline {13.15}{\ignorespaces Anzeige des Arduino OLED Displays sobald der Arduino eingeschaltet ist}}{143}{figure.caption.74}%
-\contentsline {figure}{\numberline {13.16}{\ignorespaces Ausgabe von Messdaten}}{143}{figure.caption.75}%
-\contentsline {figure}{\numberline {13.17}{\ignorespaces Der Reset Button des Arduino}}{144}{figure.caption.76}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {17.1}{\ignorespaces LSM9DS1 axis on this card}}{161}{figure.17.1}%
-\contentsline {figure}{\numberline {17.2}{\ignorespaces LSM9DS1 axis on this card}}{161}{figure.17.2}%
-\contentsline {figure}{\numberline {17.3}{\ignorespaces Explication of pin mode}}{163}{figure.17.3}%
-\contentsline {figure}{\numberline {17.4}{\ignorespaces Wire include }}{164}{figure.17.4}%
-\contentsline {figure}{\numberline {17.5}{\ignorespaces Board card installation}}{164}{figure.17.5}%
-\contentsline {figure}{\numberline {17.6}{\ignorespaces Library choice }}{164}{figure.17.6}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {18.1}{\ignorespaces Design of OAK-D Pro camera}}{170}{figure.caption.81}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {19.1}{\ignorespaces Das Tiny Machine Learning Kit}}{175}{figure.caption.83}%
-\contentsline {figure}{\numberline {19.2}{\ignorespaces Das Tiny Machine Learning Shield}}{176}{figure.19.2}%
-\contentsline {figure}{\numberline {19.3}{\ignorespaces Pin-Belegung des Tiny Machine Learning Shields}}{176}{figure.19.3}%
-\contentsline {figure}{\numberline {19.4}{\ignorespaces Das OV7675 Kameramodul}}{177}{figure.caption.84}%
-\contentsline {figure}{\numberline {19.5}{\ignorespaces Ein USB-A auf Micro-USB Kabel}}{177}{figure.caption.85}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {20.1}{\ignorespaces Montage des Clips}}{180}{figure.20.1}%
-\contentsline {figure}{\numberline {20.2}{\ignorespaces Komplettes System mit Batterie}}{180}{figure.20.2}%
-\contentsline {figure}{\numberline {20.3}{\ignorespaces Batterieclip für 9-Volt-Block\blx@tocontentsinit {0}\cite {Reichelt:2024a}}}{182}{figure.caption.86}%
-\contentsline {figure}{\numberline {20.4}{\ignorespaces Voltage Sensor 170640 von dem Hersteller \textit {Shenzhen Global Technology Co., Ltd}\blx@tocontentsinit {0}\cite {Shenzhen:2015}}}{182}{figure.20.4}%
-\contentsline {figure}{\numberline {20.5}{\ignorespaces Testoutput des Spannungssensors}}{184}{figure.caption.88}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {21.1}{\ignorespaces The Tiny Machine Learning Shield}}{185}{figure.21.1}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {22.1}{\ignorespaces Gesamter Schaltplan}}{192}{figure.caption.89}%
-\contentsline {figure}{\numberline {22.2}{\ignorespaces Beispiele in der OLED Bibliothek}}{193}{figure.caption.90}%
-\contentsline {figure}{\numberline {22.3}{\ignorespaces Testausgabe des OLED Display}}{194}{figure.caption.91}%
-\contentsline {figure}{\numberline {22.4}{\ignorespaces Code Einlesen/Zählen}}{195}{figure.caption.92}%
-\contentsline {figure}{\numberline {22.5}{\ignorespaces Code Messungssteuerung}}{195}{figure.caption.93}%
-\contentsline {figure}{\numberline {22.6}{\ignorespaces Code }}{197}{figure.caption.94}%
-\contentsline {figure}{\numberline {22.7}{\ignorespaces Pins des OLED-Displays.}}{197}{figure.caption.95}%
-\contentsline {figure}{\numberline {22.8}{\ignorespaces Stationärer Aufbau der Wetterstation}}{198}{figure.caption.96}%
-\contentsline {figure}{\numberline {22.9}{\ignorespaces Pfad des Testprogramms.}}{199}{figure.caption.97}%
-\contentsline {figure}{\numberline {22.10}{\ignorespaces Erste Ausgabe Display}}{200}{figure.caption.98}%
-\contentsline {figure}{\numberline {22.11}{\ignorespaces Das Display zur Ausgabe der Messwerte}}{201}{figure.caption.99}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {24.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{208}{figure.caption.103}%
-\contentsline {figure}{\numberline {24.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{210}{figure.caption.106}%
-\contentsline {figure}{\numberline {24.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{211}{figure.caption.110}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {26.1}{\ignorespaces Anschluss des Sensors ans den Arduino Nano 33 BLE Sense}}{220}{figure.caption.122}%
-\contentsline {figure}{\numberline {26.2}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{221}{figure.caption.124}%
-\contentsline {figure}{\numberline {26.3}{\ignorespaces Installation der TimerOne Bibliothek}}{222}{figure.caption.125}%
-\contentsline {figure}{\numberline {26.4}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{222}{figure.caption.126}%
-\contentsline {figure}{\numberline {26.5}{\ignorespaces wird noch in Code umgewandelt!}}{224}{figure.caption.127}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {29.1}{\ignorespaces NRF Connect Application}}{231}{figure.29.1}%
-\contentsline {figure}{\numberline {29.2}{\ignorespaces Landing page}}{232}{figure.29.2}%
-\contentsline {figure}{\numberline {29.3}{\ignorespaces List of devices}}{233}{figure.29.3}%
+\contentsline {figure}{\numberline {13.1}{\ignorespaces Examples in the library \textcolor {PythonColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-Arduino\_LSM9DS1}}}}{127}{figure.caption.42}%
+\contentsline {figure}{\numberline {13.2}{\ignorespaces \emph {Axis Acceleration of Accelerometer Sensor}}}{130}{figure.caption.43}%
+\contentsline {figure}{\numberline {13.3}{\ignorespaces \emph {Angular Speed of Gyroscope Sensor}}}{131}{figure.caption.44}%
+\contentsline {figure}{\numberline {13.4}{\ignorespaces Library setup in Arduino IDE}}{131}{figure.caption.45}%
+\contentsline {figure}{\numberline {13.5}{\ignorespaces \textbf {Pin connections LSM9DS1}}}{133}{figure.caption.50}%
+\contentsline {figure}{\numberline {13.6}{\ignorespaces \textbf {Pin description LSM9DS1}}}{134}{figure.caption.53}%
+\contentsline {figure}{\numberline {13.7}{\ignorespaces \textbf {Sensor Characteristics}}}{135}{figure.caption.56}%
+\contentsline {figure}{\numberline {13.8}{\ignorespaces \textbf {Temperature Sensor Characteristics}}}{135}{figure.caption.59}%
+\contentsline {figure}{\numberline {13.9}{\ignorespaces \textbf {Absolute Maximum Temperature }}}{136}{figure.caption.62}%
+\contentsline {figure}{\numberline {13.10}{\ignorespaces \textbf {Accelerometer and gyroscope block diagram}}}{136}{figure.caption.65}%
+\contentsline {figure}{\numberline {13.11}{\ignorespaces \textbf {Magnetometer block diagram}}}{137}{figure.caption.68}%
+\contentsline {figure}{\numberline {13.12}{\ignorespaces \textbf {LSM9DS1 electrical connections}}}{138}{figure.caption.71}%
+\contentsline {figure}{\numberline {13.13}{\ignorespaces Output des Testprogramms}}{139}{figure.caption.72}%
+\contentsline {figure}{\numberline {13.14}{\ignorespaces Der Programmablaufplan}}{140}{figure.caption.73}%
+\contentsline {figure}{\numberline {13.15}{\ignorespaces Anzeige des Arduino OLED Displays sobald der Arduino eingeschaltet ist}}{145}{figure.caption.74}%
+\contentsline {figure}{\numberline {13.16}{\ignorespaces Ausgabe von Messdaten}}{145}{figure.caption.75}%
+\contentsline {figure}{\numberline {13.17}{\ignorespaces Der Reset Button des Arduino}}{146}{figure.caption.76}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {17.1}{\ignorespaces LSM9DS1 axis on this card}}{163}{figure.17.1}%
+\contentsline {figure}{\numberline {17.2}{\ignorespaces LSM9DS1 axis on this card}}{163}{figure.17.2}%
+\contentsline {figure}{\numberline {17.3}{\ignorespaces Explication of pin mode}}{165}{figure.17.3}%
+\contentsline {figure}{\numberline {17.4}{\ignorespaces Wire include }}{166}{figure.17.4}%
+\contentsline {figure}{\numberline {17.5}{\ignorespaces Board card installation}}{166}{figure.17.5}%
+\contentsline {figure}{\numberline {17.6}{\ignorespaces Library choice }}{166}{figure.17.6}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {18.1}{\ignorespaces Design of OAK-D Pro camera}}{172}{figure.caption.81}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {19.1}{\ignorespaces Das Tiny Machine Learning Kit}}{177}{figure.caption.83}%
+\contentsline {figure}{\numberline {19.2}{\ignorespaces Das Tiny Machine Learning Shield}}{178}{figure.19.2}%
+\contentsline {figure}{\numberline {19.3}{\ignorespaces Pin-Belegung des Tiny Machine Learning Shields}}{178}{figure.19.3}%
+\contentsline {figure}{\numberline {19.4}{\ignorespaces Das OV7675 Kameramodul}}{179}{figure.caption.84}%
+\contentsline {figure}{\numberline {19.5}{\ignorespaces Ein USB-A auf Micro-USB Kabel}}{179}{figure.caption.85}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {20.1}{\ignorespaces Montage des Clips}}{182}{figure.20.1}%
+\contentsline {figure}{\numberline {20.2}{\ignorespaces Komplettes System mit Batterie}}{182}{figure.20.2}%
+\contentsline {figure}{\numberline {20.3}{\ignorespaces Batterieclip für 9-Volt-Block\blx@tocontentsinit {0}\cite {Reichelt:2024a}}}{184}{figure.caption.86}%
+\contentsline {figure}{\numberline {20.4}{\ignorespaces Voltage Sensor 170640 von dem Hersteller \textit {Shenzhen Global Technology Co., Ltd}\blx@tocontentsinit {0}\cite {Shenzhen:2015}}}{184}{figure.20.4}%
+\contentsline {figure}{\numberline {20.5}{\ignorespaces Testoutput des Spannungssensors}}{186}{figure.caption.88}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {21.1}{\ignorespaces The Tiny Machine Learning Shield}}{187}{figure.21.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {22.1}{\ignorespaces Gesamter Schaltplan}}{194}{figure.caption.89}%
+\contentsline {figure}{\numberline {22.2}{\ignorespaces Beispiele in der OLED Bibliothek}}{195}{figure.caption.90}%
+\contentsline {figure}{\numberline {22.3}{\ignorespaces Testausgabe des OLED Display}}{196}{figure.caption.91}%
+\contentsline {figure}{\numberline {22.4}{\ignorespaces Code Einlesen/Zählen}}{197}{figure.caption.92}%
+\contentsline {figure}{\numberline {22.5}{\ignorespaces Code Messungssteuerung}}{197}{figure.caption.93}%
+\contentsline {figure}{\numberline {22.6}{\ignorespaces Code }}{199}{figure.caption.94}%
+\contentsline {figure}{\numberline {22.7}{\ignorespaces Pins des OLED-Displays.}}{199}{figure.caption.95}%
+\contentsline {figure}{\numberline {22.8}{\ignorespaces Stationärer Aufbau der Wetterstation}}{200}{figure.caption.96}%
+\contentsline {figure}{\numberline {22.9}{\ignorespaces Pfad des Testprogramms.}}{201}{figure.caption.97}%
+\contentsline {figure}{\numberline {22.10}{\ignorespaces Erste Ausgabe Display}}{202}{figure.caption.98}%
+\contentsline {figure}{\numberline {22.11}{\ignorespaces Das Display zur Ausgabe der Messwerte}}{203}{figure.caption.99}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {24.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{210}{figure.caption.103}%
+\contentsline {figure}{\numberline {24.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{212}{figure.caption.106}%
+\contentsline {figure}{\numberline {24.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{213}{figure.caption.110}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {26.1}{\ignorespaces Anschluss des Sensors ans den Arduino Nano 33 BLE Sense}}{222}{figure.caption.122}%
+\contentsline {figure}{\numberline {26.2}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{223}{figure.caption.124}%
+\contentsline {figure}{\numberline {26.3}{\ignorespaces Installation der TimerOne Bibliothek}}{224}{figure.caption.125}%
+\contentsline {figure}{\numberline {26.4}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{224}{figure.caption.126}%
+\contentsline {figure}{\numberline {26.5}{\ignorespaces wird noch in Code umgewandelt!}}{226}{figure.caption.127}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {27.1}{\ignorespaces Installation der U8g2 Bibliothek}}{229}{figure.caption.130}%
+\contentsline {figure}{\numberline {27.2}{\ignorespaces wird noch in Code umgewandelt!}}{229}{figure.caption.131}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {36.1}{\ignorespaces Bernstein polynomial of degree $3$}}{257}{figure.caption.129}%
-\contentsline {figure}{\numberline {36.2}{\ignorespaces Bézier curve for example \ref {KPunkte4Beispiel} }}{258}{figure.caption.130}%
+\contentsline {figure}{\numberline {30.1}{\ignorespaces NRF Connect Application}}{235}{figure.30.1}%
+\contentsline {figure}{\numberline {30.2}{\ignorespaces Landing page}}{236}{figure.30.2}%
+\contentsline {figure}{\numberline {30.3}{\ignorespaces List of devices}}{237}{figure.30.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {37.1}{\ignorespaces Smoothing a corner with the help of an arc - triangle}}{259}{figure.caption.131}%
-\contentsline {figure}{\numberline {37.2}{\ignorespaces Angular change with blending arc}}{261}{figure.caption.132}%
-\contentsline {figure}{\numberline {37.3}{\ignorespaces Curvature progression for a blending arc}}{261}{figure.caption.133}%
-\contentsline {figure}{\numberline {37.4}{\ignorespaces Maximum range for a blending arc of a circle - $L(\varepsilon =const, \alpha )$}}{262}{figure.caption.134}%
-\contentsline {figure}{\numberline {37.5}{\ignorespaces Deviation when specifying the distance $L$ when rounding with a circular arc}}{262}{figure.caption.135}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {38.1}{\ignorespaces Programme flow chart \glqq Corner rounding\grqq }}{277}{figure.caption.138}%
-\contentsline {figure}{\numberline {38.2}{\ignorespaces Programme flowchart \glqq Selection of the rounding strategies\grqq }}{278}{figure.caption.139}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {37.1}{\ignorespaces Bernstein polynomial of degree $3$}}{261}{figure.caption.133}%
+\contentsline {figure}{\numberline {37.2}{\ignorespaces Bézier curve for example \ref {KPunkte4Beispiel} }}{262}{figure.caption.134}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {38.1}{\ignorespaces Smoothing a corner with the help of an arc - triangle}}{263}{figure.caption.135}%
+\contentsline {figure}{\numberline {38.2}{\ignorespaces Angular change with blending arc}}{265}{figure.caption.136}%
+\contentsline {figure}{\numberline {38.3}{\ignorespaces Curvature progression for a blending arc}}{265}{figure.caption.137}%
+\contentsline {figure}{\numberline {38.4}{\ignorespaces Maximum range for a blending arc of a circle - $L(\varepsilon =const, \alpha )$}}{266}{figure.caption.138}%
+\contentsline {figure}{\numberline {38.5}{\ignorespaces Deviation when specifying the distance $L$ when rounding with a circular arc}}{266}{figure.caption.139}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {39.1}{\ignorespaces Programme flow chart \glqq Corner rounding\grqq }}{281}{figure.caption.142}%
+\contentsline {figure}{\numberline {39.2}{\ignorespaces Programme flowchart \glqq Selection of the rounding strategies\grqq }}{282}{figure.caption.143}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
