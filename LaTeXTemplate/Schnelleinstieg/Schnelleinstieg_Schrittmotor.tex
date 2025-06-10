@@ -47,8 +47,8 @@
 		\draw [ color={rgb,255:red,0; green,163; blue,41} , fill={rgb,255:red,0; green,163; blue,41}] (13.5,3) circle (0.25cm);
 		\node [font=\LARGE, color={rgb,255:red,255; green,255; blue,255}] at (9.5,2.5) {1};
 		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (12,2.5) {2};
-		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (13.5,2) {3};
-		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (13.5,3) {4};
+		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (13.5,3) {3};
+		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (13.5,2) {4};
 		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (14,4.25) {5};
 		\end{tikzpicture}
 		\caption{Elemente auf der Frontblende des Demonstrators}
@@ -63,7 +63,7 @@
 		\item \textbf{Einschalten:}
 		\begin{itemize}
 			\item Gerät über Ein/Ausschalter (Figure \ref{tikz:Frontblende}: 5) einschalten.
-			\item Bitte warten, bis OLED-Display (Figure \ref{tikz:Frontblende}: 1) "xxxxxx" anzeigt, dann ist das System bereit.
+			\item Bitte warten, bis OLED-Display (Figure \ref{tikz:Frontblende}: 1) "SYSTEM AKTIV; Willkommen!; Stufe waehlen" anzeigt, dann ist das System bereit.
 		\end{itemize}
 		\item \textbf{Bewegungsstufe auswählen:}
 		\begin{itemize}
@@ -76,7 +76,7 @@
 		\end{itemize}
 		\item \textbf{Stoppen:}
 		\begin{itemize}
-			\item Der Bewegungsablauf stoppt automatisch, wenn der Motor in den Endschalter fährt.
+			\item Der Bewegungsablauf stoppt automatisch, wenn der Motor in den Endschalter fährt. Nach Ende des Bewegungsablaufs, kann die gemessene Geschwindigkeit des Geschwindigkeitssensors auf dem OLED-Display abgelesen werden. 
 			\item Wenn der Bewegungsablauf durch einen Notfall unterbrochen werden muss, dann betätigen Sie den roten Stopp-Knopf (Figure \ref{tikz:Frontblende}: 4).
 		\end{itemize}
 	\end{enumerate}
@@ -87,13 +87,13 @@
 			\centering
 			\begin{tabular}{|c|c|}
 				\hline
-				\textbf{Bewegungsstufe} & \textbf{Geschwindigkeit in mm/s} \\
+				\textbf{Bewegungsstufe} & \textbf{Geschwindigkeit in cm/s} \\
 				\hline
-				1 & 10 \\
-				2 & 20 \\
-				3 & 30 \\
-				4 & 40 \\
-				5 & 50 \\
+				1 & 1,33 \\
+				2 & 2,00 \\
+				3 & 2,22 \\
+				4 & 2,50 \\
+				5 & 3,33 \\
 				\hline
 			\end{tabular}
 			\caption{Bewegungsstufen}
