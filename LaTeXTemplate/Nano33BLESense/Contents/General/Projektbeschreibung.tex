@@ -1,0 +1,57 @@
+%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% $Autor: Wings $
+% $Datum: 2020-07-24 09:05:07Z $
+% $Pfad: GDV/Vortraege/latex - Ausarbeitung/Kapitel/Einleitung.tex $
+% $Version: 4732 $
+%
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Projektbeschreibung}
+
+\section{Einleitung}
+
+Im Rahmen dieses Projekts wurde ein vorhandener CNC-Tisch erweitert, um einen seiner Schrittmotoren als Demonstrator mit variabler Geschwindigkeitsregelung zu betreiben. Ziel war es, die technische Integration und Ansteuerung über einen Arduino Nano 33 BLE Sense umzusetzen und gleichzeitig eine benutzerfreundliche Bedienoberfläche zu schaffen.
+
+\section{Zielsetzung}
+
+Die Hauptaufgabe bestand darin, einen Schrittmotor des CNC-Tisches in mehreren Geschwindigkeitsstufen betreiben zu können. Die Steuerung sollte über einen Arduino Nano 33 BLE Sense erfolgen, wobei die Auswahl der Geschwindigkeit über Bedienelemente möglich sein sollte. Zusätzlich sollte ein optischer Geschwindigkeitssensor vom Typ LM393 die Drehzahl erfassen und zur Kontrolle auf einem Display ausgeben.
+
+\section{Umsetzung}
+
+Die Umsetzung des Projektes erfolgte in mehreren Phasen:
+
+Elektronische Integration:
+
+\begin{itemize}
+	\item Anschluss des A8825-Motortreibers an den Arduino
+	\item Anbindung des LM393-Sensors zur Geschwindigkeitsmessung
+	\item Testbetrieb auf einem separaten Testaufbau vor Montage am CNC-Tisch
+\end{itemize}
+
+Programmierung:
+
+\begin{itemize}
+	\item Entwicklung eines Arduino-Codes zur Ansteuerung des Schrittmotors in verschiedenen Geschwindigkeitsstufen
+	\item Implementierung der Auswertung des Sensorsignals zur Bestimmung der Drehzahl
+	\item Bereitstellung einfacher Benutzerinteraktion (über Dreh-Encoder und OLED-Display)
+\end{itemize}
+
+Mechanische Montage:
+
+\begin{itemize}
+	\item Befestigung der Bauteile direkt am CNC-Tisch
+	\item Konstruktion und Montage einer Blende zur Aufnahme der Bedienelelemente
+\end{itemize}
+
+Test und Inbetriebnahme:
+
+\begin{itemize}
+	\item Durchführung von Funktionstests in allen Geschwindigkeitsstufen
+	\item Abgleich der Sensordaten mit den programmierten Sollwerten
+	\item Dokumentation der Ergebnisse
+\end{itemize}
+
+\section{Ergebnis}
+
+Der Demonstrator zeigt erfolgreich den Betrieb eines CNC-Schrittmotors in mehreren konfigurierbaren Geschwindigkeitsstufen. Die Integration des Sensors erlaubt eine Live-Rückmeldung über die aktuelle Drehzahl. Die Bedienelemente sind über eine selbst konstruierte Blende zugänglich und ermöglichen eine einfache Steuerung durch den Nutzer.

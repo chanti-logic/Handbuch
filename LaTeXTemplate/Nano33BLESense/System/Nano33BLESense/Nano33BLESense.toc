@@ -3,10 +3,11 @@
 \contentsline {chapter}{Contents}{3}{chapter*.1}%
 \contentsline {chapter}{List of Figures}{9}{chapter*.2}%
 \contentsline {chapter}{ List of Listings}{11}{chapter*.3}%
-\contentsline {chapter}{\numberline {1}\textcolor {red}{Introduction}}{15}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Introduction}{15}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Challenges and Solutions}{15}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Structure}{15}{section.1.3}%
+\contentsline {chapter}{\numberline {1}Projektbeschreibung}{15}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Einleitung}{15}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Zielsetzung}{15}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Umsetzung}{15}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Ergebnis}{16}{section.1.4}%
 \contentsline {part}{\numberline {I}Arduino IDE}{17}{part.1}%
 \contentsline {chapter}{\numberline {2}Beschreibung der Software IDE}{19}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Installation der Arduino IDE}{19}{section.2.1}%
