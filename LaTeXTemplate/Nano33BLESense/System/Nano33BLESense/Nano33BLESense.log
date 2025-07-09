@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  8 JUL 2025 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  9 JUL 2025 17:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2047,139 +2047,207 @@ File: tikzlibrary3d.code.tex 2023-01-15 v3.1.10 (3.1.10)
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
 ))
 (../../General/acronyms.tex
-\c@g@acro@adc@int=\count597
-\c@g@acro@ai@int=\count598
-\c@g@acro@aop@int=\count599
-\c@g@acro@ap@int=\count600
-\c@g@acro@api@int=\count601
-\c@g@acro@ARM@int=\count602
-\c@g@acro@bc@int=\count603
-\c@g@acro@ble@int=\count604
-\c@g@acro@bpm@int=\count605
-\c@g@acro@bs@int=\count606
-\c@g@acro@cad@int=\count607
-\c@g@acro@ccd@int=\count608
-\c@g@acro@cci@int=\count609
-\c@g@acro@CIE@int=\count610
-\c@g@acro@cifar@int=\count611
-\c@g@acro@cg@int=\count612
-\c@g@acro@cli@int=\count613
-\c@g@acro@cmos@int=\count614
-\c@g@acro@cnc@int=\count615
-\c@g@acro@cnn@int=\count616
-\c@g@acro@coco@int=\count617
-\c@g@acro@cpu@int=\count618
-\c@g@acro@csi@int=\count619
-\c@g@acro@csp@int=\count620
-\c@g@acro@cuda@int=\count621
-\c@g@acro@cudnn@int=\count622
-\c@g@acro@dac@int=\count623
-\c@g@acro@diy@int=\count624
-\c@g@acro@dll@int=\count625
-\c@g@acro@dnn@int=\count626
-\c@g@acro@ean@int=\count627
-\c@g@acro@esp32@int=\count628
-\c@g@acro@esp32cam@int=\count629
-\c@g@acro@espidf@int=\count630
-\c@g@acro@fp32@int=\count631
-\c@g@acro@flops@int=\count632
-\c@g@acro@fp16@int=\count633
-\c@g@acro@fpga@int=\count634
-\c@g@acro@fps@int=\count635
-\c@g@acro@gnd@int=\count636
-\c@g@acro@gpio@int=\count637
-\c@g@acro@gpgpu@int=\count638
-\c@g@acro@gpu@int=\count639
-\c@g@acro@gtin@int=\count640
-\c@g@acro@hdmi@int=\count641
-\c@g@acro@hr@int=\count642
-\c@g@acro@hw@int=\count643
-\c@g@acro@i2c@int=\count644
-\c@g@acro@i2s@int=\count645
-\c@g@acro@ide@int=\count646
-\c@g@acro@imu@int=\count647
-\c@g@acro@int8@int=\count648
-\c@g@acro@iot@int=\count649
-\c@g@acro@ir@int=\count650
-\c@g@acro@isbn@int=\count651
-\c@g@acro@jst@int=\count652
-\c@g@acro@kdd@int=\count653
-\c@g@acro@ki@int=\count654
-\c@g@acro@knn@int=\count655
-\c@g@acro@led@int=\count656
-\c@g@acro@mcd@int=\count657
-\c@g@acro@MFCC@int=\count658
-\c@g@acro@mimd@int=\count659
-\c@g@acro@ml@int=\count660
-\c@g@acro@mp@int=\count661
-\c@g@acro@nafc@int=\count662
-\c@g@acro@nn@int=\count663
-\c@g@acro@NumPy@int=\count664
-\c@g@acro@ocr@int=\count665
-\c@g@acro@opencl@int=\count666
-\c@g@acro@oled@int=\count667
-\c@g@acro@ov2640@int=\count668
-\c@g@acro@pan@int=\count669
-\c@g@acro@pc@int=\count670
-\c@g@acro@pcb@int=\count671
-\c@g@acro@ppg@int=\count672
-\c@g@acro@PIL@int=\count673
-\c@g@acro@pdm@int=\count674
-\c@g@acro@pla@int=\count675
-\c@g@acro@ppa@int=\count676
-\c@g@acro@pip@int=\count677
-\c@g@acro@pypi@int=\count678
-\c@g@acro@pwm@int=\count679
-\c@g@acro@qr@int=\count680
-\c@g@acro@ram@int=\count681
-\c@g@acro@relu@int=\count682
-\c@g@acro@resnets@int=\count683
-\c@g@acro@rle@int=\count684
-\c@g@acro@rgb@int=\count685
-\c@g@acro@roi@int=\count686
-\c@g@acro@rtos@int=\count687
-\c@g@acro@rpc@int=\count688
-\c@g@acro@RTOS@int=\count689
-\c@g@acro@sd@int=\count690
-\c@g@acro@sda@int=\count691
-\c@g@acro@sd-1@int=\count692
-\c@g@acro@sd-3@int=\count693
-\c@g@acro@scl@int=\count694
-\c@g@acro@ssh@int=\count695
-\c@g@acro@spi@int=\count696
-\c@g@acro@sbc@int=\count697
-\c@g@acro@simd@int=\count698
-\c@g@acro@sm@int=\count699
-\c@g@acro@sp@int=\count700
-\c@g@acro@spp@int=\count701
-\c@g@acro@sps@int=\count702
-\c@g@acro@sram@int=\count703
-\c@g@acro@sw@int=\count704
-\c@g@acro@tf@int=\count705
-\c@g@acro@tfcard@int=\count706
-\c@g@acro@tfl@int=\count707
-\c@g@acro@tpu@int=\count708
-\c@g@acro@uart@int=\count709
-\c@g@acro@ui@int=\count710
-\c@g@acro@uma@int=\count711
-\c@g@acro@upc@int=\count712
-\c@g@acro@usb@int=\count713
-\c@g@acro@vcc@int=\count714
-\c@g@acro@venv@int=\count715
-\c@g@acro@vin@int=\count716
-\c@g@acro@vpu@int=\count717
-\c@g@acro@vm@int=\count718
-\c@g@acro@vnc@int=\count719
-\c@g@acro@vscode@int=\count720
-\c@g@acro@wifi@int=\count721
-\c@g@acro@wppls@int=\count722
-\c@g@acro@yolo@int=\count723
+\c@g@acro@aar@int=\count597
+\c@g@acro@adc@int=\count598
+\c@g@acro@aes@int=\count599
+\c@g@acro@ai@int=\count600
+\c@g@acro@aop@int=\count601
+\c@g@acro@ap@int=\count602
+\c@g@acro@api@int=\count603
+\c@g@acro@ARM@int=\count604
+\c@g@acro@bc@int=\count605
+\c@g@acro@ble@int=\count606
+\c@g@acro@bpm@int=\count607
+\c@g@acro@bs@int=\count608
+\c@g@acro@cad@int=\count609
+\c@g@acro@ccd@int=\count610
+\c@g@acro@cci@int=\count611
+\c@g@acro@ccm@int=\count612
+\c@g@acro@CIE@int=\count613
+\c@g@acro@cifar@int=\count614
+\c@g@acro@cg@int=\count615
+\c@g@acro@cli@int=\count616
+\c@g@acro@cmos@int=\count617
+\c@g@acro@cnc@int=\count618
+\c@g@acro@cnn@int=\count619
+\c@g@acro@coco@int=\count620
+\c@g@acro@cpu@int=\count621
+\c@g@acro@csi@int=\count622
+\c@g@acro@csp@int=\count623
+\c@g@acro@cuda@int=\count624
+\c@g@acro@cudnn@int=\count625
+\c@g@acro@dac@int=\count626
+\c@g@acro@diy@int=\count627
+\c@g@acro@dll@int=\count628
+\c@g@acro@dma@int=\count629
+\c@g@acro@dnn@int=\count630
+\c@g@acro@ean@int=\count631
+\c@g@acro@ecb@int=\count632
+\c@g@acro@emi@int=\count633
+\c@g@acro@esp32@int=\count634
+\c@g@acro@esp32cam@int=\count635
+\c@g@acro@espidf@int=\count636
+\c@g@acro@fp32@int=\count637
+\c@g@acro@flops@int=\count638
+\c@g@acro@fp16@int=\count639
+\c@g@acro@fpga@int=\count640
+\c@g@acro@fps@int=\count641
+\c@g@acro@fpu@int=\count642
+\c@g@acro@gnd@int=\count643
+\c@g@acro@gpio@int=\count644
+\c@g@acro@gpgpu@int=\count645
+\c@g@acro@gpu@int=\count646
+\c@g@acro@gtin@int=\count647
+\c@g@acro@hdmi@int=\count648
+\c@g@acro@hr@int=\count649
+\c@g@acro@hw@int=\count650
+\c@g@acro@hy@int=\count651
+\c@g@acro@ic@int=\count652
+\c@g@acro@i2c@int=\count653
+\c@g@acro@i2s@int=\count654
+\c@g@acro@ide@int=\count655
+\c@g@acro@imu@int=\count656
+\c@g@acro@int8@int=\count657
+\c@g@acro@iot@int=\count658
+\c@g@acro@ir@int=\count659
+\c@g@acro@isbn@int=\count660
+\c@g@acro@jst@int=\count661
+\c@g@acro@kdd@int=\count662
+\c@g@acro@ki@int=\count663
+\c@g@acro@knn@int=\count664
+\c@g@acro@led@int=\count665
+\c@g@acro@mcd@int=\count666
+\c@g@acro@MFCC@int=\count667
+\c@g@acro@mimd@int=\count668
+\c@g@acro@ml@int=\count669
+\c@g@acro@mp@int=\count670
+\c@g@acro@nafc@int=\count671
+\c@g@acro@nn@int=\count672
+\c@g@acro@nfc@int=\count673
+\c@g@acro@NumPy@int=\count674
+\c@g@acro@ocr@int=\count675
+\c@g@acro@opencl@int=\count676
+\c@g@acro@oled@int=\count677
+\c@g@acro@ov2640@int=\count678
+\c@g@acro@pan@int=\count679
+\c@g@acro@pc@int=\count680
+\c@g@acro@pcb@int=\count681
+\c@g@acro@ppg@int=\count682
+\c@g@acro@PIL@int=\count683
+\c@g@acro@pdm@int=\count684
+\c@g@acro@pla@int=\count685
+\c@g@acro@ppa@int=\count686
+\c@g@acro@pip@int=\count687
+\c@g@acro@pypi@int=\count688
+\c@g@acro@pwm@int=\count689
+\c@g@acro@qr@int=\count690
+\c@g@acro@ram@int=\count691
+\c@g@acro@relu@int=\count692
+\c@g@acro@resnets@int=\count693
+\c@g@acro@rle@int=\count694
+\c@g@acro@rgb@int=\count695
+\c@g@acro@roi@int=\count696
+\c@g@acro@rtos@int=\count697
+\c@g@acro@rpc@int=\count698
+\c@g@acro@RTOS@int=\count699
+\c@g@acro@sd@int=\count700
+\c@g@acro@sda@int=\count701
+\c@g@acro@sd-1@int=\count702
+\c@g@acro@sd-3@int=\count703
+\c@g@acro@scl@int=\count704
+\c@g@acro@ssh@int=\count705
+\c@g@acro@spi@int=\count706
+\c@g@acro@sbc@int=\count707
+\c@g@acro@simd@int=\count708
+\c@g@acro@sm@int=\count709
+\c@g@acro@sp@int=\count710
+\c@g@acro@spp@int=\count711
+\c@g@acro@sps@int=\count712
+\c@g@acro@sram@int=\count713
+\c@g@acro@sw@int=\count714
+\c@g@acro@soc@int=\count715
+\c@g@acro@tf@int=\count716
+\c@g@acro@tfcard@int=\count717
+\c@g@acro@tfl@int=\count718
+\c@g@acro@tpu@int=\count719
+\c@g@acro@uart@int=\count720
+\c@g@acro@ui@int=\count721
+\c@g@acro@uma@int=\count722
+\c@g@acro@upc@int=\count723
+\c@g@acro@usb@int=\count724
+
+
+! LaTeX Error: Command \c@g@acro@soc@int already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.775 }
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Control sequence \g__acro_soc_pages_seq already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.775 }
+       
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence '\g__acro_soc_pages_seq'
+but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->\s__seq 
+
+
+
+! LaTeX Error: Control sequence \g__acro_soc_barriers_seq already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.775 }
+       
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\g__acro_soc_barriers_seq' but this name has already been used elsewhere.
+
+The current meaning is:
+  macro:->\s__seq 
+
+
+
+Package acro Warning: You tried to set the property `id' on line 775.
+(acro)                This property has to have a unique value and thus 
+(acro)                cannot be set to `soc' since this value is already
+(acro)                talen.
+
+\c@g@acro@vcc@int=\count725
+\c@g@acro@venv@int=\count726
+\c@g@acro@vin@int=\count727
+\c@g@acro@vpu@int=\count728
+\c@g@acro@vm@int=\count729
+\c@g@acro@vnc@int=\count730
+\c@g@acro@vscode@int=\count731
+\c@g@acro@wifi@int=\count732
+\c@g@acro@wppls@int=\count733
+\c@g@acro@yolo@int=\count734
 ) (../../General/Hyphenations.tex
 (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
 \MT@toks=\toks65
 \MT@tempbox=\box169
-\MT@count=\count724
+\MT@count=\count735
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
 \MT@prot@toks=\toks66
@@ -2188,7 +2256,7 @@ LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen401
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count725
+\MT@listname@count=\count736
 
 (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
@@ -2208,8 +2276,8 @@ LaTeX Info: Redefining \microtypesetup on input line 3065.
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count726
-\@quotereset=\count727
+\@quotelevel=\count737
+\@quotereset=\count738
 (./Nano33BLESense.aux
 
 LaTeX Warning: Label `fig:ArduinoNano33BLESenseResetButton' multiply defined.
@@ -2311,16 +2379,16 @@ Package tocbasic Warning: `tocbibind' redefinition of `\listoftables'
 
 (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count728
+\scratchcounter=\count739
 \scratchdimen=\dimen402
 \scratchbox=\box170
-\nofMPsegments=\count729
-\nofMParguments=\count730
+\nofMPsegments=\count740
+\nofMParguments=\count741
 \everyMPshowfont=\toks67
-\MPscratchCnt=\count731
+\MPscratchCnt=\count742
 \MPscratchDim=\dimen403
-\MPnumerator=\count732
-\makeMPintoPDFobject=\count733
+\MPnumerator=\count743
+\makeMPintoPDFobject=\count744
 \everyMPtoPDFconversion=\toks68
 ) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -2352,9 +2420,9 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count734
+\BKM@id=\count745
 ))
-\c@lstlisting=\count735
+\c@lstlisting=\count746
 Package tocbasic Info: setting babel extension for `lol' on input line 42.
 \scr@dte@lstlisting@maxnumwidth=\skip128
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 42
@@ -2473,6 +2541,26 @@ LaTeX Font Warning: Font shape `T1/pcr/bx/ui' undefined
 
 LaTeX Font Warning: Font shape `T1/pcr/m/In' undefined
 (Font)              using `T1/pcr/m/n' instead on input line 42.
+
+
+! LaTeX Error: Control sequence \g__acro_soc_barriers_intarray already
+(LaTeX)        defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.42 \begin{document}
+                     
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\g__acro_soc_barriers_intarray' but this name has already been used
+elsewhere.
+
+The current meaning is:
+  select font cmr10 at 0.00217pt
+
 
 
 (c:/texlive/2025/texmf-dist/tex/latex/translations/translations-basic-dictionar
@@ -4316,46 +4404,6 @@ LaTeX Warning: Citation 'Ard.2024' on page 65 undefined on input line 31.
 Package biblatex Info: Reference segment=27 on input line 34.
 Package biblatex Info: Setting label 'refsegment:027' on input line 34.
 
-! Package acro Error: You've requested acronym `soc' on line 36 but you
-(acro)                apparently haven't defined it, yet!
-(acro)                Maybe you've misspelled `soc'?
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.36 ...asierend auf dem Nordic nRF52840-\ac{soc}.
-                                                   Trotz seiner kompakten Ba...
-
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
-
-
-LaTeX Warning: Reference `ArduinoNano33BLESense1' on page 65 undefined on input
- line 36.
-
-
-! Package acro Error: You've requested acronym `fpu' on line 36 but you
-(acro)                apparently haven't defined it, yet!
-(acro)                Maybe you've misspelled `fpu'?
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.36 ...erdem besitzt der Prozessor eine \ac{fpu},
-                                                   die eine effiziente Abarb...
-
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
-
-
 LaTeX Warning: Citation 'Arm.2020' on page 65 undefined on input line 36.
 
 
@@ -4403,63 +4451,10 @@ LaTeX Warning: Citation 'AT.2015' on page 66 undefined on input line 49.
 LaTeX Warning: Citation 'Ard.2024' on page 66 undefined on input line 49.
 
 
-! Package acro Error: You've requested acronym `ic' on line 53 but you
-(acro)                apparently haven't defined it, yet!
-(acro)                Maybe you've misspelled `ic'?
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.53 ...aus einem Sensorelement und einer \ac{ic}-
-                                                  Schnittstelle, die eine Ko...
-
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
-
-
 LaTeX Warning: Citation 'STM2.2017' on page 66 undefined on input line 53.
 
 
 LaTeX Warning: Citation 'Ard.2024' on page 66 undefined on input line 53.
-
-
-! Package acro Error: You've requested acronym `ic' on line 59 but you
-(acro)                apparently haven't defined it, yet!
-(acro)                Maybe you've misspelled `ic'?
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.59 ...pazitiven Sensorelement und einer \ac{ic}-
-                                                  Schnittstelle.
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
-
-
-! Package acro Error: You've requested acronym `ic' on line 61 but you
-(acro)                apparently haven't defined it, yet!
-(acro)                Maybe you've misspelled `ic'?
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.61 Audiosensoren hergestellt. Die \ac{ic}-
-                                            Schnittstelle wird in einem spez...
-
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
 
 
 LaTeX Warning: Citation 'Gehrke.2022' on page 66 undefined on input line 61.
@@ -4478,24 +4473,6 @@ Type <return> to continue.
                                                   
 l.61 ...SPL. Der MP34DT05-A ist in einem \ac{smd}-
                                                   kompatiblen, \ac{emi}-gesc...
-
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
-
-
-! Package acro Error: You've requested acronym `emi' on line 61 but you
-(acro)                apparently haven't defined it, yet!
-(acro)                Maybe you've misspelled `emi'?
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.61 ...t in einem \ac{smd}-kompatiblen, \ac{emi}-
-                                                  geschirmten Top-Port-Gehä...
 
 
 LaTeX does not know anything more about this error, sorry.
@@ -4548,11 +4525,11 @@ l.72 		\input{tikz/ArduinoPinout}
 
  
 Here is how much of TeX's memory you used:
- 98784 strings out of 473190
- 2630511 string characters out of 5719979
- 3848702 words of memory out of 5000000
- 120365 multiletter control sequences out of 15000+600000
- 678306 words of font info for 318 fonts, out of 8000000 for 9000
+ 99804 strings out of 473190
+ 2672643 string characters out of 5719979
+ 3875130 words of memory out of 5000000
+ 121383 multiletter control sequences out of 15000+600000
+ 681983 words of font info for 331 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  108i,12n,134p,10909b,3188s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
