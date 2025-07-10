@@ -29,11 +29,11 @@ Der DRV8825 ist ein Motortreiber, der vor für bipolare Schrittmotoren wie hier 
  
 Der Motor lässt sich über den DRV8825 von Vollschritt bis 1/32-Schritt einstellen. Er verfügt über einen konfigurierbaren Abklingmodus (tritt bei Erreichen des Stromlimits ein), sodass langsames, schnelles oder gemischtes Abklingen verwendet werden kann. Außerdem besitzt er einen stromsparenden Schlafmodus, der die interne Schaltung abschaltet und den Ruhestromverbrauch minimiert. 
 
-Der DRV8825 verfügt über Schutzfunktionen für Überstrom, Kurzschluss, Unterspannung und Übertemperatur. Außerdem werden Fehler über den nFAULT-Pin (siehe Abbildung xx) signalisiert. 
+Der DRV8825 verfügt über Schutzfunktionen für Überstrom, Kurzschluss, Unterspannung und Übertemperatur. Außerdem werden Fehler über den nFAULT-Pin signalisiert. 
 
 \subsection{Anschluss des Treibers mit dem Arduino Nano 33 BLE Sense}
 
-Tabelle xx kann entnommen werde, wie der DRV8825 an den Arduino Nano 33 BLE Sense angeschlossen wird. Tabelle xx zeigt, wie der DRV8825 an den Schrittmotor NEMA 17-04 angeschlossen wird. 
+Tabelle \autoref{tab:PinDRV8825-Arduino} kann entnommen werde, wie der DRV8825 an den Arduino Nano 33 BLE Sense angeschlossen wird. Tabelle \autoref{tab:PinDRV8825-Motor} zeigt, wie der DRV8825 an den Schrittmotor NEMA 17-04 angeschlossen wird. 
 
 \begin{table}[htpb]
 	\centering
@@ -72,7 +72,7 @@ Tabelle xx kann entnommen werde, wie der DRV8825 an den Arduino Nano 33 BLE Sens
 
 \section{Spezifikationen}
 
-Die Spezifikationen sind in Tabelle xx und xx zu sehen.
+Die Spezifikationen sind in Tabelle \autoref{tab:maxSpezifikationDRV8825} und \autoref{tab:SpezifikationDRV8825} zu sehen.
 
 \begin{table}[htpb]
 	\centering
@@ -119,13 +119,33 @@ Nach dem Kalibrieren des Treibers kann der Schrittmotor angeschlossen werden.
 
 \section{Einfaches Beispiel mit Code}
 
-\begin{figure}[htpb]
-	\centering
-	\includegraphics[width=1\textwidth]{DRV8825/Code.jpg}
-	\label{fig:BeispielCodeDRV8825}
-\end{figure}
+\begin{lstlisting}
+	// Pin-Zuweisung
+	const int stepPin = 3;		//STEP
+	const int dirPin = 4;		//DIR
+	const int enablePin = 5;	//optional: nENBL (LOW = aktiv)
+	
+	void setup() {
+	pinMode(stepPin, OUTPUT);
+	pinMode(dirPin, OUTPIT);
+	pinMode(enablePin, OUTPUT);
+	
+	digitalWrite(enablePin, LOW);	//Treiber aktivieren
+	digitalWrite(dirPin, HIGH);		
+	//Drehrichtung setzen (HIGH oder LOW)
+	}
+	
+	void loop() {
+	// Einen Schritt erzeugen:
+	digitalWrite(stepPin, HIGH);
+	delayMicroseconds(1000);		
+	//Schrittimpulsdauer (kleiner = schneller)
+	digitalWrite(stepPin, LOW);
+	delayMicroseconds(1000);		
+	//Pausenzeit (je nach gewuenschter Drehzahl)
+	}
+\end{lstlisting}
 
 \section{Weiterführende Literatur}
 
 \textcolor{red}{einfügen}
-
