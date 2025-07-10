@@ -10,8 +10,8 @@
 % !TeX TXS-program:bibliography = txs:///biber
 %
 %%%%%%%%%%%%
-\usepackage{comment}
-\usepackage{graphicx}
+
+
 
 % Structure
 \chapter{Stufen-Drehschalter}
@@ -97,10 +97,15 @@ Im Folgenden ist ein Beispiel gegeben, in dem der DS an drei Positionen mit Ausg
 \begin{code}[H]
 	\caption{Einfacher Code zum Testen des Stufen-Drehschalters}
 	\label{code:StufenDrehschalter}
-	\ArduinoExternal{}{../../Code/Arduino/StufenDrehschalter}
+	\ArduinoExternal{}{../../Code/Arduino/StufenDrehschalter/StufenDrehschalter.ino}
 \end{code}
 \end{comment}
 
+
+\lstinputlisting[
+caption={Stufen-Drehschalter Sketch},
+label={lst:stufendreh}
+]{../../Code/Arduino/StufenDrehschalter/StufenDrehschalter.ino}
 
 \begin{table}[H]
 	\centering

@@ -1,0 +1,96 @@
+%%%%%%%%%%%%%%%
+%
+% $Autor: Wings $
+% $Datum: 2020-01-29 07:55:27Z $
+% $Pfad: General/OLED.tex
+% $Version: 1785 $
+%
+%
+%%%%%%%%%%%%%%%
+
+\chapter{Steuerplatine}
+
+
+\section{Allgemeine Beschreibung der Steuerplatine}
+
+Eine Steuerplatine, auch als Steuerungsplatine oder Control Board bezeichnet, ist das zentrale Element in elektronischen Systemen, das für die Verarbeitung von Eingaben, die Steuerung von Abläufen und die Ausgabe von Signalen verantwortlich ist. Sie verwaltet das elektronische Gerät und ermöglicht die Kommunikation zwischen verschiedenen Komponenten.
+
+Grundlegende Funktionen einer Steuerplatine:
+\begin{itemize}
+	\item Signalverarbeitung: Die Steuerplatine empfängt elektrische Signale von Sensoren oder Benutzereingaben und interpretiert diese, um entsprechende Aktionen auszulösen.
+	
+	\item Steuerung von Komponenten: Basierend auf den empfangenen Signalen steuert die Platine verschiedene Aktoren wie Motoren, Relais oder Displays, um die gewünschte Funktion auszuführen.
+	
+	\item Kommunikation: Sie ermöglicht die Kommunikation zwischen verschiedenen Teilen eines Systems oder mit externen Geräten, oft über standardisierte Schnittstellen wie USB, I\textsuperscript{2}C oder SPI.
+	
+	\item Energieverteilung: Die Platine verteilt die benötigte Energie an die angeschlossenen Komponenten und sorgt für eine stabile Stromversorgung innerhalb des Systems
+\end{itemize}
+
+\section{Spezifische Beschreibung der Steuerplatine CNC-TS-V 6}
+
+Das Controller-Board CNC-TS-V 6 ist eine 3-Achsen-GRBL-Steuerkarte, die als zentrale Steuereinheit für CNC-Maschinen fungiert. Es empfängt Steuerbefehle von einem PC oder Mikrocontroller wie einem Arduino, typischerweise über eine USB-Verbindung. Diese Befehle, häufig im GRBL-Format, werden vom Board interpretiert und in präzise Steuerimpulse umgewandelt, die die Bewegungen der Achsenmotoren sowie das Starten und Stoppen der Spindel steuern.
+
+Das Board sendet diese Steuerimpulse an die angeschlossenen Treibermodule, wie beispielsweise A4988 oder DRV8825, die wiederum die Schrittmotoren der CNC-Maschine antreiben. Zudem versorgt das Board sowohl die Treibermodule als auch direkt die Motoren mit der erforderlichen Energie, um einen reibungslosen Betrieb der Maschine zu gewährleisten.
+
+\begin{figure}
+	\includegraphics[width=12cm]{Steuerplatine/BildSteuerplatine.jpg}
+	\caption{Steuerplatine CNC-TS-V 6 mit Anschlüssen}\label{BilSteuerplatine}
+\end{figure}
+
+
+
+
+Technische Daten:
+
+\begin{itemize}
+  \item Firmwarer: GRBL 08
+  \item Spannungsversorgung: 7 - 35 V
+\end{itemize}
+
+
+\section{Anschlüsse}
+
+\subsection{Ausgangssignal}
+\begin{itemize}
+ \item Lüfter: Wird zur Wellenmotorkühlung verwendet 
+ \item Welle: Schließe die Motorwelle an, halte diese mit der Versorgungsspannung, 5A Strom, wenn die Motorleistung der Spindel zu hoch ist, können externe Relais wie der Schalter angeschlossen werden. G-Code M3 offen, M5 geschlossen, mit Version 0.9 der Firmware kann man PWM einstellen, die Geschwindigkeit der Achse regeln und abstimmbaren Laser erreichen 
+ \item Ausgangssignal des X-Achsenmotors: A4988 max. 1,5 A elektrischer Strom 
+ \item Y-Achsen-Motorsignalausgang: A4988 max. 1,5 A  
+ \item Z-Achsen-Motorsignalausgang: A4988 max. 1,5 A 
+\end{itemize}
+
+\subsection{Eingangssignal}
+\begin{itemize}
+	\item Mindestgrenze der X-Achse X- 
+	\item Mindestgrenze der Y-Achse Y- 
+	\item Mindestgrenze der Z-Achse Z- 
+	\item Reset-Taste: Drücke die Taste, um das System neu zu starten. Kann zum Stoppen der Maschine verwendet werden
+\end{itemize}
+
+\subsection{Steuermodul-Anschluss}
+Das Modul wird mit 4-poligen Steckverbindern für 3 Schrittmotoren geliefert. Einer für die X-, einer für die Y- und ein weiterer für die Z-Achse. Stecker Typ: XH 2.54 
+
+Die Pinbelegung ist wie folgt:  B- B+ A- A+
+
+\subsection{Offline Steuerungs-Anschluss}
+Ein externer Offline-Controller kann an den 8-poligen Anschluss angeschlossen werden. Damit ist es möglich, die an das Steuermodul angeschlossene CNC-Fräs-/Graviermaschine ohne einen zusätzlichen PC selbständig zu betreiben. Die Positionierdaten (g-Code) werden in diesem Fall zuvor auf einer Micro-SD-Karte im Offline-Controller gespeichert. 
+
+Pin Belegung: 
+[+5V] [GND] [TxD] [RxD] 
+[+5V] [GND] [Reset] [NC]
+
+
+\section{Programmierung}
+
+
+
+\section{Schaltplan Aufbau}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{StufenDrehschalter/BF.png}
+	\caption{Anschluss des Stufen Drehschalters an den Arduino Nano 33 BLE Sense}
+	\label{fig:AnschlussArduinoDS}
+\end{figure}
+
+
