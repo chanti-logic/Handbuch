@@ -1,122 +1,114 @@
 \begin{theindex}
 
   \item  File
-    \subitem ../images/, 65
-    \subitem .doxyfile, 60
-    \subitem .ino, 61
-    \subitem Arduino, 30
-    \subitem blink.ino, 45, 46
-    \subitem blnik.ino, 41
-    \subitem doxygen-1.12.0-setup.exe, 50
-    \subitem doxygen.exe, 54
-    \subitem Fade, 46
-    \subitem File/Examples/01.Basics, 46
-    \subitem graphviz-12.2.1 (64-bit) EXE installer, 52
-    \subitem images, 65
-    \subitem index.html, 63
-    \subitem libraries, 32--34
-    \subitem MySketch, 30
-    \subitem MySketch.ino, 30
-    \subitem Nano33BLESenseLE, 32
-    \subitem Nano33BLESenseLED, 33, 34
+    \subitem Arduino, 28
+    \subitem blink.ino, 43, 44
+    \subitem blnik.ino, 39
+    \subitem Fade, 44
+    \subitem File/Examples/01.Basics, 44
+    \subitem libraries, 30--32
+    \subitem MySketch, 28
+    \subitem MySketch.ino, 28
+    \subitem Nano33BLESenseLE, 30
+    \subitem Nano33BLESenseLED, 31, 32
   \item  Inertial Measurement Unit
-    \subitem  \emph  {see} IMU, 13, 69
+    \subitem  \emph  {see} IMU, 11, 49
 
   \indexspace
 
-  \item AAR, 13, 72
-  \item ADC, 13, 72
+  \item AAR, 11, 52
+  \item ADC, 11, 52
   \item Advanced Encryption Standard
-    \subitem  \emph  {see} AES, 13, 72
-  \item AES, 13, 72
+    \subitem  \emph  {see} AES, 11, 52
+  \item AES, 11, 52
   \item Analog to Digital Converter
-    \subitem  \emph  {see} ADC, 13, 72
+    \subitem  \emph  {see} ADC, 11, 52
   \item Automatic Address Recognition
-    \subitem  \emph  {see} AAR, 13, 72
+    \subitem  \emph  {see} AAR, 11, 52
 
   \indexspace
 
-  \item BLE, 13, 69, 71
+  \item BLE, 11, 49, 51
   \item Bluetooth Low Energy
-    \subitem  \emph  {see} BLE, 13, 69
+    \subitem  \emph  {see} BLE, 11, 49
 
   \indexspace
 
-  \item CCM, 13, 72
+  \item CCM, 11, 52
   \item Counter with CBC-MAC
-    \subitem  \emph  {see} {CCM}, 13, 72
+    \subitem  \emph  {see} {CCM}, 11, 52
 
   \indexspace
 
   \item Direkt Memory Access
-    \subitem  \emph  {see} DMA, 13, 72
-  \item DMA, 13, 72
+    \subitem  \emph  {see} DMA, 11, 52
+  \item DMA, 11, 52
 
   \indexspace
 
-  \item I\textsuperscript  {2}C, 13, 69--71
-  \item IC, 13, 70, 71
-  \item IDE, 13, 46
-  \item IMU, 13, 69
+  \item I\textsuperscript  {2}C, 11, 49--51
+  \item IC, 11, 50, 51
+  \item IDE, 11, 44
+  \item IMU, 11, 49
   \item Integrated Development Environment
-    \subitem  \emph  {see} IDE, 13, 46
+    \subitem  \emph  {see} IDE, 11, 44
   \item Inter Circuit
-    \subitem  \emph  {see} IC, 13, 70
+    \subitem  \emph  {see} IC, 11, 50
   \item Inter-Integrated Circuit
-    \subitem  \emph  {see} I\textsuperscript  {2}C, 13, 69
+    \subitem  \emph  {see} I\textsuperscript  {2}C, 11, 49
 
   \indexspace
 
-  \item LED, 13, 70
+  \item LED, 11, 50
   \item Light Emitting Diode
-    \subitem  \emph  {see} {LED}, 13, 70
+    \subitem  \emph  {see} {LED}, 11, 50
 
   \indexspace
 
   \item Mini Universal Serial Bus
-    \subitem \emph  {see} MSB, 13, 72
-  \item MUSB, 13, 72
+    \subitem \emph  {see} MSB, 11, 52
+  \item MUSB, 11, 52
 
   \indexspace
 
   \item Near Field Communication
-    \subitem  \emph  {see} {NFC}, 13, 72
-  \item NFC, 13, 72
+    \subitem  \emph  {see} {NFC}, 11, 52
+  \item NFC, 11, 52
 
   \indexspace
 
-  \item OLED, 13, 72
+  \item OLED, 11, 52
   \item Organic Light Emitting Diode
-    \subitem  \emph  {see} {OLED}, 13, 72
+    \subitem  \emph  {see} {OLED}, 11, 52
 
   \indexspace
 
-  \item PDM, 13, 71
+  \item PDM, 11, 51
   \item Pulse Density Modulation
-    \subitem  \emph  {see} PDM, 13, 71
+    \subitem  \emph  {see} PDM, 11, 51
 
   \indexspace
 
-  \item SCL, 13, 72
-  \item SDA, 13, 71, 72
+  \item SCL, 11, 52
+  \item SDA, 11, 51, 52
   \item Serial Clock
-    \subitem  \emph  {see} SCL, 13, 72
+    \subitem  \emph  {see} SCL, 11, 52
   \item Serial Data
-    \subitem  \emph  {see} SDA, 13, 71
+    \subitem  \emph  {see} SDA, 11, 51
   \item Serial Peripheral Interface
-    \subitem  \emph  {see} SPI, 13, 70
-  \item SMD, 13, 71
-  \item SoC, 13, 69
-  \item SPI, 13, 70, 72
+    \subitem  \emph  {see} SPI, 11, 50
+  \item SMD, 11, 51
+  \item SoC, 11, 49
+  \item SPI, 11, 50, 52
   \item Surface-Mounted Device
-    \subitem  \emph  {see} SM, 13, 71
+    \subitem  \emph  {see} SM, 11, 51
   \item System on Chip
-    \subitem  \emph  {see} SoC, 13, 69
+    \subitem  \emph  {see} SoC, 11, 49
 
   \indexspace
 
   \item Ultraviolettstrahlung
-    \subitem  \emph  {see} UV, 13, 70
-  \item UV, 13, 70
+    \subitem  \emph  {see} UV, 11, 50
+  \item UV, 11, 50
 
 \end{theindex}
