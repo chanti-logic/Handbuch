@@ -32,7 +32,7 @@ Es wird ein 2,42 Zoll OLED-Diplay von Joy-IT verwendet. Dabei handelt es sich um
 
 \section{Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}
 
-In Tabelle xx ist gezeigt wie das OLED-Display korrekt an den Arduino Nano 33 BLE Sense angeschlossen wird:
+In \autoref{tab:PinOLED} ist gezeigt wie das OLED-Display korrekt an den Arduino Nano 33 BLE Sense angeschlossen wird:
 
 \begin{table}[htpb]
 	\centering
@@ -53,6 +53,8 @@ In Tabelle xx ist gezeigt wie das OLED-Display korrekt an den Arduino Nano 33 BL
 \end{table}
 
 \section{Spezifikationen}
+
+In \autoref{tab:SpezifikationOLED} sind technische Daten des OLED-Displays aufgelistet.
 
 \begin{table}[htpb]
 	\centering
@@ -83,8 +85,6 @@ In Tabelle xx ist gezeigt wie das OLED-Display korrekt an den Arduino Nano 33 BL
 
 Für die Verwendung des OLED-Displays mit dem Arduino Nano 33 BLE Sense wird die U8g2 by oliver Bibliothek benötigt.
 
-\textcolor{red}{Welche Funktionen werden verwendet + Erklärung}
-
 \subsection{Installation}
 
 Im Folgenden wird erklärt, wie die U8g2 Bibliothek installiert wird.
@@ -93,7 +93,7 @@ Im Folgenden wird erklärt, wie die U8g2 Bibliothek installiert wird.
 	\item Öffnen der Arduino IDE
 	\item Klick auf Sketch, Bibliothek einbinden, Bibliotheken verwalten
 	\item In der Suchleiste U8g2 eingeben
-	\item Klick auf Installieren (Version aus Abbildung xx entnehmen)
+	\item Klick auf Installieren (Version aus \autoref{fig:InstU8g2} entnehmen)
 \end{enumerate}
 
 \begin{figure}[htpb]
@@ -111,12 +111,27 @@ Auf Code-Beispiele für die U8g2 Bibliothek kann man über Datei, Beispiele, U8g
 
 Mit dem Code-Beispiel kann getestet werden, ob das Display korrekt angeschlossen ist. Wenn die Verbindung korrekt ist, dann erscheint auf dem Display "Hello World". 
 
-\begin{figure}[htpb]
-	\centering
-	\includegraphics[width=1\textwidth]{OLEDDisplay/Code.jpg}
-	\caption{wird noch in Code umgewandelt!}
-	\label{fig:BeispielCodeDisplay}
-\end{figure}
+\begin{lstlisting}
+	#include <U8g2lib.h>
+	#include <Wire.h>
+	
+	U8G2_SSD1309_128X64_NONAME2_1_HW_I2C
+	u8g2(U8G2_R0; U8X8_PIN_NONE);
+	
+	//Initialisieren des Displays
+	void setup() {
+	u8g2.begin();
+	}
+	
+	void loop() {
+	u8g2.clearBuffer(); //Bildspeicher loeschen
+	u8g2.setFont(u8g2_font_ncenB08_tr); //Schriftart waehlen
+	u8g2.drawStr(0, 24, "Hello World!"); //Text auf Puffer schreiben
+	u8g2.sendBuffer(); //Puffer an Display senden
+	delay(1000); //1 Sekunde warten
+	}
+\end{lstlisting}
+
 
 \section{Weiterführende Literatur}
 

@@ -129,49 +129,9 @@
 \contentsline {subsection}{\numberline {11.5.1}Installation}{80}{subsection.11.5.1}%
 \contentsline {subsection}{\numberline {11.5.2}Code-Beispiel}{80}{subsection.11.5.2}%
 \contentsline {section}{\numberline {11.6}Einfaches Beispiel mit Code}{80}{section.11.6}%
-\contentsline {section}{\numberline {11.7}Weiterführende Literatur}{80}{section.11.7}%
-\contentsline {chapter}{\numberline {12}\textcolor {red}{Sensor XY}}{83}{chapter.12}%
-\contentsline {section}{\numberline {12.1}General}{83}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Specific Sensor/Actor}{83}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Specification}{83}{section.12.3}%
-\contentsline {section}{\numberline {12.4}Library}{83}{section.12.4}%
-\contentsline {subsection}{\numberline {12.4.1}Description}{83}{subsection.12.4.1}%
-\contentsline {subsection}{\numberline {12.4.2}Installation}{83}{subsection.12.4.2}%
-\contentsline {subsection}{\numberline {12.4.3}Functions}{83}{subsection.12.4.3}%
-\contentsline {section}{\numberline {12.5}Example}{83}{section.12.5}%
-\contentsline {subsection}{\numberline {12.5.1}Manual}{84}{subsection.12.5.1}%
-\contentsline {subsection}{\numberline {12.5.2}Inside the Example}{84}{subsection.12.5.2}%
-\contentsline {subsection}{\numberline {12.5.3}Code}{84}{subsection.12.5.3}%
-\contentsline {subsection}{\numberline {12.5.4}Files}{84}{subsection.12.5.4}%
-\contentsline {section}{\numberline {12.6}Calibration}{84}{section.12.6}%
-\contentsline {section}{\numberline {12.7}Simple Code}{84}{section.12.7}%
-\contentsline {section}{\numberline {12.8}Simple Application}{84}{section.12.8}%
-\contentsline {section}{\numberline {12.9}Tests}{84}{section.12.9}%
-\contentsline {subsection}{\numberline {12.9.1}Simple Function Test}{84}{subsection.12.9.1}%
-\contentsline {subsection}{\numberline {12.9.2}Test all Functions}{84}{subsection.12.9.2}%
-\contentsline {section}{\numberline {12.10}Further Readings}{84}{section.12.10}%
-\contentsline {chapter}{\numberline {13}\textcolor {red}{Actor XY}}{85}{chapter.13}%
-\contentsline {section}{\numberline {13.1}General}{85}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Specific Sensor/Actor}{85}{section.13.2}%
-\contentsline {section}{\numberline {13.3}Specification}{85}{section.13.3}%
-\contentsline {section}{\numberline {13.4}Library}{85}{section.13.4}%
-\contentsline {subsection}{\numberline {13.4.1}Description}{85}{subsection.13.4.1}%
-\contentsline {subsection}{\numberline {13.4.2}Installation}{85}{subsection.13.4.2}%
-\contentsline {subsection}{\numberline {13.4.3}Functions}{85}{subsection.13.4.3}%
-\contentsline {section}{\numberline {13.5}Example}{85}{section.13.5}%
-\contentsline {subsection}{\numberline {13.5.1}Manual}{86}{subsection.13.5.1}%
-\contentsline {subsection}{\numberline {13.5.2}Inside the Example}{86}{subsection.13.5.2}%
-\contentsline {subsection}{\numberline {13.5.3}Code}{86}{subsection.13.5.3}%
-\contentsline {subsection}{\numberline {13.5.4}Files}{86}{subsection.13.5.4}%
-\contentsline {section}{\numberline {13.6}Calibration}{86}{section.13.6}%
-\contentsline {section}{\numberline {13.7}Simple Code}{86}{section.13.7}%
-\contentsline {section}{\numberline {13.8}Simple Application}{86}{section.13.8}%
-\contentsline {section}{\numberline {13.9}Tests}{86}{section.13.9}%
-\contentsline {subsection}{\numberline {13.9.1}Simple Function Test}{86}{subsection.13.9.1}%
-\contentsline {subsection}{\numberline {13.9.2}Test all Functions}{86}{subsection.13.9.2}%
-\contentsline {section}{\numberline {13.10}Further Readings}{86}{section.13.10}%
-\contentsline {part}{\numberline {IV}Anhang}{87}{part.4}%
-\contentsline {chapter}{\numberline {14}Materialliste}{89}{chapter.14}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{91}{chapter*.43}%
-\contentsline {chapter}{Stichwortverzeichnis}{97}{chapter*.43}%
-\contentsline {chapter}{Index}{97}{chapter*.43}%
+\contentsline {section}{\numberline {11.7}Weiterführende Literatur}{81}{section.11.7}%
+\contentsline {part}{\numberline {IV}Anhang}{83}{part.4}%
+\contentsline {chapter}{\numberline {12}Materialliste}{85}{chapter.12}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{87}{chapter*.42}%
+\contentsline {chapter}{Stichwortverzeichnis}{93}{chapter*.42}%
+\contentsline {chapter}{Index}{93}{chapter*.42}%
