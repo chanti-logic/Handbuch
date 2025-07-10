@@ -61,6 +61,25 @@
 			
 			Die Maschine besitzt drei Schrittmotoren vom Typ NEMA 17, die drei Achsen antreiben. Außerdem gibt es einen Spindelmotor, der den Fräser antreiben kann. In diesem Projekt wird nur einer der drei Schrittmotoren betrieben. Die CNC-Fräs- und Graviermaschine verfügt zudem über eine integrierte Steuerplatine. In diesem Projekt wird diese jedoch nicht verwendet, da die Motorsteuerung über einen Arduino Nano 33 BLE Sense erfolgt.
 		}
+		
+				\block{Herausforderungen}
+		{
+			Zu Beginn des Projekts standen bereits Daten und Komponenten eines früheren Aufbaus mit einem Riemenmotor zur Verfügung. Da unser Projekt jedoch auf einen CNC-Tisch umgestellt wurde, konnten nur einzelne Elemente daraus übernommen werden. Die Umstellung brachte zudem mit sich, dass wir uns intensiv in die Funktionsweise des neuen Systems einarbeiten mussten – insbesondere in mechanische Unterschiede wie etwa die Spindel, die sich vom bisherigen Antrieb unterschied.
+			
+			Eine weitere Herausforderung bestand darin, dass keine baulichen Veränderungen am vorhandenen Frästisch erlaubt waren. Das neu zu entwickelnde Gehäuse musste daher exakt auf den bestehenden Aufbau abgestimmt werden, ohne feste Eingriffe am System vorzunehmen.
+			 
+            Auch die Integration des DRV8825-Motortreibers bringt gewisse Einschränkungen mit sich. Zwar funktioniert der Treiber grundsätzlich, kann jedoch ab einer bestimmten Geschwindigkeit nicht mehr zuverlässig betrieben werden. Die auftretende Unruhe im Motorlauf ist auf mechanische Ungenauigkeiten im inneren Aufbau des Wagens zurückzuführen. Diese konnten durch die Feineinstellung der Schrittauflösung nicht behoben werden, da diese Funktion im vorliegenden Aufbau nicht wie vorgesehen arbeitet. Daher wählen wir als Lösung einen reduzierten Geschwindigkeitsbereich, in dem feine Geschwindigkeitsstufen eingesetzt werden, um einen möglichst ruhigen und kontrollierten Betrieb zu gewährleisten.
+		}
+		\colorlet{blocktitlebgcolor}{blue}
+		\block{Zukünftige Projekte}
+		{
+			\begin{itemize}
+				\item Betreiben der weiteren Schrittmotoren am CNC-Tisch
+				\item Stufenlose Einstellung der Geschwindigkeit des Schrittmotors
+				\item Änderung der Geschwindigkeit während des Bewegungsvorgangs
+			\end{itemize}
+			
+		}
 	}
 
 
@@ -69,23 +88,25 @@
 		\colorlet{blocktitlebgcolor}{blue}
 		\block{Elemente auf der Frontblende}
 		{
-
+			\vspace{-3.5cm}
 					\begin{tikzpicture}
-						\tikzstyle{every node}=[font=\LARGE]
-						\draw [ color={rgb,255:red,186; green,186; blue,186} , fill={rgb,255:red,186; green,186; blue,186}] (0,15) rectangle (50,0);
-						\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (28,10.5) rectangle  node {\Large Display} (38,4.5);
-						\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (46,14) rectangle (49,12.5);
-						\node [font=\large, color={rgb,255:red,255; green,0; blue,0}] at (46.5,13.25) {0};
-						\node [font=\large, color={rgb,255:red,255; green,0; blue,0}] at (48.5,13.25) {I};
-						\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (41.5,7.5) circle (1.8cm);
-						\draw [ color={rgb,255:red,255; green,0; blue,0} , fill={rgb,255:red,255; green,0; blue,0}] (47,5) circle (1cm);
-						\draw [ color={rgb,255:red,0; green,163; blue,41} , fill={rgb,255:red,0; green,163; blue,41}] (47,9) circle (1cm);
-						\node [font=\LARGE, color={rgb,255:red,255; green,255; blue,255}] at (33,7.5) {1};
-						\node [font=\LARGE, color={rgb,255:red,255; green,255; blue,255}] at (41.5,7.5) {2};
-						\node [font=\LARGE, color={rgb,255:red,255; green,255; blue,255}] at (47,9) {3};
-						\node [font=\LARGE, color={rgb,255:red,255; green,255; blue,255}] at (47,5) {4};
-						\node [font=\LARGE, color={rgb,255:red,255; green,255; blue,255}] at (47.5,13.25) {5};
+						\tikzstyle{every node}=[font=\large]
+						\draw [ color={rgb,255:red,128; green,128; blue,128} , fill={rgb,255:red,128; green,128; blue,128}] (1.5,6.25) rectangle (27.5,0);
+						\draw [ color={rgb,255:red,18; green,10; blue,69} , fill={rgb,255:red,18; green,10; blue,69}] (16.5,5.25) rectangle (19.5,3.75);
+						\draw [ fill={rgb,255:red,255; green,0; blue,0} , line width=1.4pt ] (25,2.25) circle (0.25cm);
+						\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (22.25,4.5) circle (0.5cm);
+						\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (13.25,9.75) circle (0cm);
+						\draw [ fill={rgb,255:red,43; green,172; blue,4} , line width=1.6pt ] (25,3.75) circle (0.25cm);
+						\draw [line width=2pt] (14.25,6.25) -- (14.25,0);
+						\draw [line width=2pt] (24.5,6.25) -- (25.25,6.5);
+						\draw [line width=2pt] (25.25,6.5) -- (25.25,6.25);
+						\node [font=\large] at (20,4.5) {1};
+						\node [font=\large] at (23.25,4.5) {2};
+						\node [font=\large] at (25.75,3.75) {3};
+						\node [font=\large] at (25.75,2.25) {4};
+						\node [font=\large] at (25.75,5.75) {5};
 					\end{tikzpicture}
+					\vspace{1cm}
 					
 			1 - OLED-Display; 2 - Dreh-Endcoder; 3 - Start-Knopf
 			4 - Stopp-Knopf; 5 - Ein/Aus-Schalter
@@ -103,46 +124,35 @@
 			Der Sensor verfügt über drei Anschlüsse: VCC (Spannungsversorgung), GND (Masse) und OUT (digitaler Ausgang). Er kann mit Mikrocontrollern wie dem Arduino verbunden werden, um die Impulse auszuwerten und die Geschwindigkeit zu berechnen. Die Anzahl der Schlitze auf der Encoderscheibe beeinflusst dabei direkt die Auflösung der Messung. Der LM393-Sensor ist besonders für einfache Anwendungen geeignet, bei denen eine grundlegende Geschwindigkeitsmessung erforderlich ist
 			.
 		}
-	}
-\end{columns}
+		
+			\block{Schrittmotor NEMA 17}
+			{
+				Ein Schrittmotor ist ein elektrischer Motor, der sich nicht kontinuierlich dreht, sondern sich in festen Winkelschritten bewegt. Die Drehung erfolgt durch das schrittweise Umschalten der Ströme in den Wicklungen, wodurch ein rotierendes Magnetfeld erzeugt wird. Der Rotor folgt diesem Feld in diskreten Bewegungen. Ein Vorteil dieser Technik ist, dass eine exakte Positionierung möglich ist, ohne dass ein separates Rückmeldesystem notwendig ist.
+				
+				Es gibt verschiedene Bauformen, unter anderem Permanentmagnet-, Reluktanz- und Hybrid-Schrittmotoren. Letztere sind besonders gebräuchlich und vereinen die Eigenschaften beider anderer Typen.
+				
+				Der NEMA 17 ist eine spezifische Baugröße eines Hybrid-Schrittmotors mit einem Flanschmaß von 1,7 x 1,7 Zoll. Er ist in unterschiedlichen Varianten erhältlich und kann sowohl unipolar als auch bipolar betrieben werden. Der typische NEMA 17 besitzt 200 Schritte pro Umdrehung, was einem Schrittwinkel von 1,8° entspricht. Zur Verbesserung der Auflösung kann ein Mikroschrittbetrieb eingesetzt werden. In der konkreten Anwendung ist der NEMA 17 mit einem Treiber wie dem DRV8825 verbunden, der die Ansteuerung der Phasen übernimmt. Die Auswahl eines passenden NEMA 17 Motors hängt vom benötigten Drehmoment, der Last und der gewünschten Betriebsart ab.
+			}
 
-\begin{columns} 
-	
-	\column{0.5}
-	{
-		\colorlet{blocktitlebgcolor}{blue}
-		\block{Demonstrator Schrittmotor}
-		{
-			\begin{tikzfigure}
-				\includegraphics[width=\linewidth]{SchrittmotorVorne.jpg}
-			\end{tikzfigure}	
-		}
-	}
-	
-	
-	\column{0.5}
-	{
-		\colorlet{blocktitlebgcolor}{blue}
-		\block{Schrittmotor NEMA 17}
-		{
-			Ein Schrittmotor ist ein elektrischer Motor, der sich nicht kontinuierlich dreht, sondern sich in festen Winkelschritten bewegt. Die Drehung erfolgt durch das schrittweise Umschalten der Ströme in den Wicklungen, wodurch ein rotierendes Magnetfeld erzeugt wird. Der Rotor folgt diesem Feld in diskreten Bewegungen. Ein Vorteil dieser Technik ist, dass eine exakte Positionierung möglich ist, ohne dass ein separates Rückmeldesystem notwendig ist.
+			{
+				\colorlet{blocktitlebgcolor}{blue}
+          \block{Demonstrator Schrittmotor}
+          {
+   	      \begin{center}
+	    	\begin{minipage}{0.48\linewidth}
+			 \includegraphics[width=\linewidth]{images/SchrittmotorVorne.jpg}
+		    \end{minipage}
+		    \begin{minipage}{0.48\linewidth}
+		 	\includegraphics[width=\linewidth]{images/SchrittmotorHinten.jpg}
+		    \end{minipage}
+      	\end{center}
+           }
+			}
 			
-			Es gibt verschiedene Bauformen, unter anderem Permanentmagnet-, Reluktanz- und Hybrid-Schrittmotoren. Letztere sind besonders gebräuchlich und vereinen die Eigenschaften beider anderer Typen.
-			
-			Der NEMA 17 ist eine spezifische Baugröße eines Hybrid-Schrittmotors mit einem Flanschmaß von 1,7 x 1,7 Zoll. Er ist in unterschiedlichen Varianten erhältlich und kann sowohl unipolar als auch bipolar betrieben werden. Der typische NEMA 17 besitzt 200 Schritte pro Umdrehung, was einem Schrittwinkel von 1,8° entspricht. Zur Verbesserung der Auflösung kann ein Mikroschrittbetrieb eingesetzt werden. In der konkreten Anwendung ist der NEMA 17 mit einem Treiber wie dem DRV8825 verbunden, der die Ansteuerung der Phasen übernimmt. Die Auswahl eines passenden NEMA 17 Motors hängt vom benötigten Drehmoment, der Last und der gewünschten Betriebsart ab.
-		}
-		\block{Zukünftige Projekte}
-		{
-			\begin{itemize}
-				\item Betreiben der weiteren Schrittmotoren am CNC-Tisch
-				\item Stufenlose Einstellung der Geschwindigkeit des Schrittmotors
-				\item Änderung der Geschwindigkeit während des Bewegungsvorgangs
-			\end{itemize}
-			
-			
-		}
-	}
-\end{columns}
+		
+     }
+    \end{columns}
+   
 
 \end{document}
 
