@@ -1,17 +1,43 @@
 %%%%%%%%%%%%%%%%%%%%
 %
-% $Beschreibung: Dieser Abschnitt enthält alle Informatioenen explizit zur Hardware des Arduino Nano 33 BLE Sense Lite $
-% $Autor:  $
+% $Beschreibung: Dieser Abschnitt enthält alle Informatioenen explizit zur Hardware des Arduino Nano 33 BLE Sense $
+% $Autor: H. Mey, J.Perewersenko, C. Crety $
 % $Datum: 14.06.2024 $
 % $Pfad: DemonstratorSchrittmotor/DeveloperDoc/Contents/de/HardwarebeschreibungArduino.tex $
 % $Version: 6 $
 %
 %
 %%%%%%%%%%%%%%%%%%%
-
 \chapter{Hardwarebeschreibung des Arduino}
 \begin{figure}[htb]
-	%	\input{tikz/ArduinoNano33BLESense}
+
+			\begin{tikzpicture}[scale=0.8]
+			% Arduino Dummy
+			\draw[fill=blue!20] (1,0) rectangle (15,5);
+			
+			% Module
+			\draw[fill=gray!30] (10.8,1) rectangle (14,4) node[pos=0.5, align=center] {P5};
+			\draw[fill=green!30] (14,1) rectangle (15,4) node[pos=0.5, align=center] {};
+			\draw[fill=gray!30] (0.5,1.3) rectangle (2.5,3.7) node[pos=0.5, align=center] {USB};
+			\draw[fill=gray!30] (9.5,1.9) rectangle (10.7,3) node[pos=0.5, align=center] {P1}; % Mikrophone
+			\draw[fill=gray!30] (8,3.1) rectangle (9.2,4.1) node[pos=0.5, align=center] {P2}; % IMU
+			\draw[fill=gray!30] (8,2.1) rectangle (9.4,3) node[pos=0.5, align=center] {P3}; %  Näherungs-,Umgebungslicht-, Farb- und Gestensensor
+			\draw[fill=gray!30] (8.9,0.7) rectangle (9.5,1.3) node[pos=0.5, align=center] {P4}; % Drucksensor
+			\draw[fill=gray!30] (4.4,1.8) rectangle (5.4,3.1) node[pos=0.5, align=center] {};
+			\draw[fill=gray!20] (4.9,2.45) circle (0.25) node[pos=0.5, align=center] {};
+			
+			% Bohrlöcher
+			\draw[fill=white] (1.3,0.3) circle (0.2) node[right=1mm]{};
+			\draw[fill=white] (1.3,4.7) circle (0.2) node[right=1mm]{};
+			\draw[fill=white] (14.7,0.3) circle (0.2) node[right=1mm]{};
+			\draw[fill=white] (14.7,4.7) circle (0.2) node[right=1mm]{};
+			
+			% LED´s
+			\draw[fill=green] (1.5,4) circle (0.25) node[right=3mm] {Power-LED};
+			\draw[fill=orange] (1.5,1) circle (0.25) node[right=3mm] {RGB-LED};
+			\draw[fill=blue!40] (10.3,3.6) circle (0.25) node[above=4mm] {RGB-LED};
+			
+		\end{tikzpicture}
 		\caption{Arduino Nano 33 BLE Sense (Vereinfachte Darstellung)} \label{ArduinoNano33BLESense1}
 		\begin{tabularx}{\textwidth}{|p{1.5cm}|X|}
 			\hline
@@ -33,11 +59,18 @@
 
 \section{Aufbau des Arduinos}
 
-Der Arduino Nano 33 \ac{ble} Sense Lite ist ein Mikrocontroller basierend auf dem Nordic nRF52840-\ac{soc}. Trotz seiner kompakten Bauweise mit einer Größe von 45 x 18 mm verfügt es über mehrere verschiedene integrierte Sensoren, Aktoren und Anschlussschnittstellen (siehe \autoref{ArduinoNano33BLESense1}). Darüber hinaus verfügt der Arduino-Prozessor über 1 MB Flash-Speicher und 256 KB RAM. Bei dem Prozessor handelt es sich um einen Arm\textregistered Cortex-M4F Prozessorkern, welcher mit einer Taktrate von 64 MHz arbeitet und für Mikrocontroller Anwendungen optimiert ist. Dieser bietet eine gute Leistung bei geringen Stromverbrauch und ist auch für Echtzeit-Verarbeitungsaufgaben geeignet. Außerdem besitzt der Prozessor eine \ac{fpu}, die eine effiziente Abarbeitung von Datenverarbeitungsoperationen ermöglicht. Mit Hilfe einer integrierten Steckverbindung (engl. \glqq header \grqq) kann der Mikrocontroller direkt auf ein Board gesteckt werden. \cite{Arm.2020} \cite{Ard.2024}
+Der Arduino Nano 33 \ac{ble} Sense ist ein Mikrocontroller basierend auf dem Nordic nRF52840-\ac{soc}. Trotz seiner kompakten Bauweise mit einer Größe von 45 x 18 mm verfügt es über mehrere verschiedene integrierte Sensoren, Aktoren und Anschlussschnittstellen (siehe \autoref{ArduinoNano33BLESense1}). Darüber hinaus verfügt der Arduino-Prozessor über 1 MB Flash-Speicher und 256 KB RAM. Bei dem Prozessor handelt es sich um einen Arm\textregistered Cortex-M4F Prozessorkern, welcher mit einer Taktrate von 64 MHz arbeitet und für Mikrocontroller Anwendungen optimiert ist. Dieser bietet eine gute Leistung bei geringen Stromverbrauch und ist auch für Echtzeit-Verarbeitungsaufgaben geeignet. Außerdem besitzt der Prozessor eine \ac{fpu}, die eine effiziente Abarbeitung von Datenverarbeitungsoperationen ermöglicht. Mit Hilfe einer integrierten Steckverbindung (engl. \glqq header \grqq) kann der Mikrocontroller direkt auf ein Board gesteckt werden. Der Name Arduino Nano BLE 33 Sense gibt bereits Aufschluss über einiger Eigenschaften und Funktionen des Mikrocontrollers:
+\begin{itemize}
+	\item "Nano": steht für die kleine Bauform
+	\item "33": bedeutet, dass das Board mit 3,3 Volt betrieben wird
+	\item "BLE": zeigt die Unterstützung für Bluetooth Low Energy
+	\item "Sense": weist auf die integrierten Sensoren hin.
+\end{itemize}
+ \cite{Arm.2020} \cite{Ard.2024}
 
 \section{Integrierte Sensorik}
 
-Der Arduino Nano 33 \ac{ble}-Sense Lite verfügt über eine Vielzahl von integrierten Sensoren und Aktoren, mit denen verschiedene Umgebungseigenschaften erfasst werden können. Dazu gehören die in den folgenden Abschnitten beschriebenen Sensoren und Aktoren.
+Der Arduino Nano 33 \ac{ble}-Sense verfügt über eine Vielzahl von integrierten Sensoren und Aktoren, mit denen verschiedene Umgebungseigenschaften erfasst werden können. Dazu gehören die in den folgenden Abschnitten beschriebenen Sensoren und Aktoren.
 
 \subsection{9-Achs-IMU für die Bewegungserkennung (LSM9DS1)}\label{9Achs}
 
@@ -52,6 +85,14 @@ Hierbei handelt sich um einen sehr vielseitigen Sensor. Er dient zur Gestenerken
 
 Der LPS22HB ist ein sehr kompakter Absolutdrucksensor, der auf dem piezoresistiven Prinzip basiert. Er arbeitet als Barometer und verfügt über einen digitalen Ausgang. Zudem ist in diesem Drucksensor ein Temperatursensor integriert, mit welchem Druckmessungen zusätzlich kompensiert werden können. Das Gerät besteht aus einem Sensorelement und einer \ac{ic}-Schnittstelle, die eine Kommunikation zwischen der Sensoreinheit und der Anwendung über \ac{i2c} oder \ac{spi} ermöglicht. Das Sensorelement erfasst den absoluten Druck und besteht aus einer speziell gefertigten, hängenden Membran. Der LPS22HB ist in einem vollständig vergossenem Land-Grid-Array-Gehäuse untergebracht, das kleine Löcher aufweist. Durch diese Öffnung gelangt der externe Druck auf das Sensorelement. Der Betrieb des Sensors ist über einen Temperaturbereich von -40 °C bis +85 °C gewährleistet. \cite{STM2.2017}\cite{Ard.2024}
 Anwendungsbereiche für diesen Sensor sind zum Beispiel: Wetterstationen, Höhenmesser, Luftdrucküberwachung in industriellen Prozessen oder tragbare smarte Geräte, wie Sportuhren oder Smartphones.
+
+\subsection{Sensor für relative Luftfeuchtigkeit und Temperatur (HTS221)}
+
+Der HTS221 ist ein kompakter Sensor zur Messung von relativer Luftfeuchtigkeit und Temperatur. Er enthält ein Sensorelement und eine Mischsignalverarbeitungseinheit, welche die gemessenen Daten über digitale Schnittstellen bereitstellt.
+
+Der Sensor kann über I\textsuperscript{2}C und auch über SPI-Bus angesprochen werden und ist für einen Temperaturbereich von -40°C bis +120°C geeignet. Die Temperaturmessgenauigkeit liegt bei dem HTS221 bei ±0,5°C.
+
+Anwendung findet dieser Sensor in Klimaanlagen, Heiz- und Belüftungssystemen, Kühlschränken, Luftbefeuchtern oder in der industriellen Automatisierung. \cite{Ard.2024}
 	
 \subsection{Digitales Mikrophon (MP34DT05)}
 
@@ -69,7 +110,73 @@ Das MPM3610-Modul ist ein integriert Gleichspannungs- zu Gleichspannungs-Wandler
 Der Arduino Nano 33 \ac{ble}-Sense Lite bietet eine Vielzahl von Schnittstellen (siehe \autoref{arduinopinout}), die das Board mit anderen Komponenten und Geräten einfach verbinden lassen. In diesem Abschnitt sind einige Details zu den wichtigsten Schnittstellen des Boards erläutert.
 
 	\begin{figure}
-%		\input{tikz/ArduinoPinout}
+	\begin{tikzpicture}[scale=2]
+	% Arduino Dummy
+	\draw[fill=blue!20] (0,0) rectangle (6,3);
+	
+	% Pin Beschriftung oben
+	\foreach \x in {0.375,1.125,...,5.625}
+	\draw (\x,3) -- (\x,3.5) node[above] {};
+	\foreach \x in {0.75,1.5,...,5.25}
+	\draw (\x,3) -- (\x,3.25) node[above] {};
+	
+	% Pin Beschriftung unten
+	\foreach \x in {0.375,1.125,...,5.625}
+	\draw (\x,0) -- (\x,-0.5) node[below] {};
+	\foreach \x in {0.75,1.5,...,5.25}
+	\draw (\x,0) -- (\x,-0.25) node[below] {};
+	
+	
+	% Pins oben
+	\node at (0.375,3.65) {D12};
+	\node at (0.75,3.35) {D11};
+	\node at (1.125,3.65) {D10};
+	\node at (1.5,3.35) {D9};
+	\node at (1.875,3.65) {D8};
+	\node at (2.25,3.35) {D7};
+	\node at (2.625,3.65) {D6};
+	\node at (3,3.35) {D5};
+	\node at (3.375,3.65) {D4};
+	\node at (3.75,3.35) {D3};
+	\node at (4.125,3.65) {D2};
+	\node at (4.5,3.35) {GND};
+	\node at (4.875,3.65) {RESET};
+	\node at (5.25,3.35) {RX};
+	\node at (5.625,3.65) {TX};
+	
+	% Pins unten
+	\node at (0.375,-0.65) {D13};
+	\node at (0.75,-0.4) {+3V3};
+	\node at (1.125,-0.65) {AREF};
+	\node at (1.5,-0.4) {A0};
+	\node at (1.875,-0.65) {A1};
+	\node at (2.25,-0.4) {A2};
+	\node at (2.625,-0.65) {A3};
+	\node at (3,-0.4) {A4};
+	\node at (3.375,-0.65) {A5};
+	\node at (3.75,-0.4) {A6};
+	\node at (4.125,-0.65) {A7};
+	\node at (4.5,-0.4) {+5V};
+	\node at (4.875,-0.65) {RESET};
+	\node at (5.25,-0.4) {GND};
+	\node at (5.625,-0.65) {VIN};
+	
+	% Dummys zur Orientierung
+	
+	\draw[fill=gray!30] (4,0.5) rectangle (5.5,2.5) node[pos=0.5, align=center] {Bluetooth-\\Modul};
+	\draw[fill=green!30] (5.5,0.5) rectangle (6,2.5) node[pos=0.5, align=center] {};
+	\draw[fill=gray!30] (-0.5,0.7) rectangle (1,2.3) node[pos=0.5, align=center] {USB};
+	\draw[fill=white] (0.1,2.9) circle (0.075) node[right=1mm]{};
+	\draw[fill=white] (0.1,0.1) circle (0.075) node[right=1mm]{};
+	\draw[fill=white] (5.9,0.1) circle (0.075) node[right=1mm]{};
+	\draw[fill=white] (5.9,2.9) circle (0.075) node[right=1mm]{};
+	
+	% LED´s
+	\draw[fill=green] (0.25,2.5) circle (0.1) node[right=3mm] {Power-LED};
+	\draw[fill=orange] (0.25,0.5) circle (0.1) node[right=3mm] {RGB-LED};
+	\draw[fill=blue!40] (3.5,2) circle (0.1) node[above=4mm] {RGB-LED};
+	
+\end{tikzpicture}
 		\caption{Arduino Nano Pinbelegung \cite{Ard.2024}}
 		\label{arduinopinout}
 	\end{figure}
@@ -116,9 +223,15 @@ Die Platine hat zusätzlich 8 analoge Eingangspins (A0-A7), die wiederum als Ana
 		\\ \cite{Ard.2024}
 	\end{itemize}
 
+\subsection{Reset-Knopf}
+
+Der Arduino Nano 33 BLE Sense verfügt über einen Reset-Knopf, welcher das Neustarten der Platine, das Aktivieren des Bootloader-Modus und das Beheben von Problemen (z.B. bei fehlerhaften Programmen) ermöglicht.
+
+Der Reset-Knopf befindet sich auf der Oberseite der Platine, in unmittelbarer Nähe zum USB-Anschluss. Je nach Anzahl und Geschwindigkeit der Tastendrücke führt er unterschiedliche Aktionen aus. Bei einem einzelnen Druck auf die Taste wird ein Systemneustart veranlasst, dabei wird die Stromversorgung kurzzeitig unterbrochen, sodass sie Platine und das darauf laufende Programm neu startet. Wenn der Reset-Knopf zweimal schnell hintereinander, innerhalb einer Sekunde gedrückt wird, wird der Bootloader-Modus aktiviert. Dieser ist wichtig, um neue Programme hochzuladen oder das Board wiederherzustellen, falls es durch fehlerhafte Programme blockiert wurde. Die Aktivierung des Bootloader-Modus ist daran zu erkennen, dass die eingebaute LED schnell blinkt.\cite{Ard.2024}
+
 \subsection{LED-Lampen}
 
-Im Arduino selbst sind 3 LED´s verbaut, die auch alle programmiert werden können. Diese sind vor allem für die Überprüfung der Sensorik oder Softwareprogrammen nützlich. Zu den LED-Lampen gehören: 
+Im Arduino selbst sind 3 LED´s verbaut, die auch alle programmiert werden können. Diese sind vor allem für die Überprüfung der Sensorik oder Softwareprogrammen nützlich, denn sie können je nach Benutzeraktion oder Programmcode blinken, erlöschen oder dauerhaft leuchten. Zu den LED-Lampen gehören: 
 	\begin{itemize}
 		\item Programmierbare Power-LED (grün): Zeigt an, dass das Arduino-Board eingeschaltet ist.
 		\item Programmierbare LED (orange)
