@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.15)  10 JUL 2025 07:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.15)  10 JUL 2025 09:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,55 +559,74 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip66
 )
+(c:/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count306
+\Gm@cntv=\count307
+\c@Gm@tempcnt=\count308
+\Gm@bindingoffset=\dimen259
+\Gm@wd@mp=\dimen260
+\Gm@odd@mp=\dimen261
+\Gm@even@mp=\dimen262
+\Gm@layoutwidth=\dimen263
+\Gm@layoutheight=\dimen264
+\Gm@layouthoffset=\dimen265
+\Gm@layoutvoffset=\dimen266
+\Gm@dimlist=\toks30
+)
 (c:/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count306
+\l__color_backend_stack_int=\count309
 )
 (./Schnelleinstieg_Schrittmotor.aux)
 \openout1 = `Schnelleinstieg_Schrittmotor.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-Package scrbase Info: activating english \partname on input line 13.
-Package scrbase Info: activating english \chaptername on input line 13.
-Package scrbase Info: activating english \appendixname on input line 13.
-Package scrbase Info: activating english \figurename on input line 13.
-Package scrbase Info: activating english \tablename on input line 13.
-Package scrbase Info: activating english \contentsname on input line 13.
-Package scrbase Info: activating english \listfigurename on input line 13.
-Package scrbase Info: activating english \listtablename on input line 13.
-Package scrbase Info: activating english \bibname on input line 13.
-Package scrbase Info: activating english \indexname on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+Package scrbase Info: activating english \partname on input line 14.
+Package scrbase Info: activating english \chaptername on input line 14.
+Package scrbase Info: activating english \appendixname on input line 14.
+Package scrbase Info: activating english \figurename on input line 14.
+Package scrbase Info: activating english \tablename on input line 14.
+Package scrbase Info: activating english \contentsname on input line 14.
+Package scrbase Info: activating english \listfigurename on input line 14.
+Package scrbase Info: activating english \listtablename on input line 14.
+Package scrbase Info: activating english \bibname on input line 14.
+Package scrbase Info: activating english \indexname on input line 14.
 
 (c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count307
-\scratchdimen=\dimen259
+\scratchcounter=\count310
+\scratchdimen=\dimen267
 \scratchbox=\box66
-\nofMPsegments=\count308
-\nofMParguments=\count309
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count310
-\MPscratchDim=\dimen260
-\MPnumerator=\count311
-\makeMPintoPDFobject=\count312
-\everyMPtoPDFconversion=\toks31
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen268
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks32
 ) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -617,7 +636,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 14.
 
 (./Schnelleinstieg_Schrittmotor.out) (./Schnelleinstieg_Schrittmotor.out)
 \@outlinefile=\write4
@@ -630,7 +649,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 13.
+(scrbook)           before \begin{document} on input line 14.
 
 (c:/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -638,21 +657,59 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (c:/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count313
+\BKM@id=\count316
 ))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=591.5302pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-10.73834pt
+* \headheight=18.125pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=50.75pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 chapter 1.
 
-Overfull \hbox (2.30327pt too wide) in paragraph at lines 29--30
-[]\OT1/cmr/m/n/12 Vermeiden Sie di-rekte Sonnene-in-strahlung sowie W^^?arme- o
-der Feuchtigkeit-squellen. 
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 15.
 
 
-Overfull \hbox (14.59065pt too wide) in paragraph at lines 31--32
+Overfull \hbox (7.4775pt too wide) in paragraph at lines 29--30
 []\OT1/cmr/m/n/12 Halten Sie den Ar-beits-bere-ich des Schrittmo-tor Demon-stra
 -tors frei von Gegenst^^?anden. 
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 35.
 
 
 [1
@@ -661,15 +718,36 @@ Overfull \hbox (14.59065pt too wide) in paragraph at lines 31--32
 
 {c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/texmf-dist
 /fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 90.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 90.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 90.
+
+! LaTeX Error: \begin{itemize} on input line 101 ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 	\end{enumerate}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-[2] (./Schnelleinstieg_Schrittmotor.aux)
+
+[2]
+
+! LaTeX Error: \begin{enumerate} on input line 76 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(./Schnelleinstieg_Schrittmotor.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
@@ -677,24 +755,28 @@ L3 programming layer <2025-03-26>
 Package rerunfilecheck Info: File `Schnelleinstieg_Schrittmotor.out' has not ch
 anged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 76 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 22237 strings out of 469625
- 434549 string characters out of 5477767
- 966670 words of memory out of 5000000
- 48729 multiletter control sequences out of 15000+600000
+ 22714 strings out of 469625
+ 441819 string characters out of 5477767
+ 966671 words of memory out of 5000000
+ 49200 multiletter control sequences out of 15000+600000
  632044 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,9n,107p,10940b,703s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmssbx10.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sf
-rm1200.pfb>
-Output written on Schnelleinstieg_Schrittmotor.pdf (2 pages, 68381 bytes).
+ 110i,8n,107p,10940b,703s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b><c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm1200.pfb>
+Output written on Schnelleinstieg_Schrittmotor.pdf (2 pages, 67993 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
