@@ -20,8 +20,8 @@
 \contentsline {subsection}{\numberline {2.4.2}setup()}{18}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}loop()}{18}{subsection.2.4.3}%
 \contentsline {section}{\numberline {2.5}Erster Programmtest}{19}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Arduino IDE 2.3.x}{21}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Arduino IDE Description}{21}{section.3.1}%
+\contentsline {chapter}{\numberline {3}Arduino IDE 2.3.6}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Beschreibung der Arduino IDE}{21}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Installation of the Arduino IDE}{22}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Download of the Arduino IDE}{22}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Summary of Options}{22}{subsection.3.2.2}%
@@ -88,18 +88,17 @@
 \contentsline {subsection}{\numberline {8.1.2}Schrittmotor Bauformen}{62}{subsection.8.1.2}%
 \contentsline {subsection}{\numberline {8.1.3}Betriebsarten unipolar und bipolar}{63}{subsection.8.1.3}%
 \contentsline {subsection}{\numberline {8.1.4}Mikroschrittverfahren}{63}{subsection.8.1.4}%
-\contentsline {section}{\numberline {8.2}Schrittverluste verhindern}{63}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Auswahl des Schrittmotors}{63}{subsection.8.2.1}%
+\contentsline {section}{\numberline {8.2}Schrittverluste verhindern}{64}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Auswahl des Schrittmotors}{64}{subsection.8.2.1}%
 \contentsline {subsection}{\numberline {8.2.2}Betriebsart}{64}{subsection.8.2.2}%
 \contentsline {subsubsection}{\nonumberline Start-Stopp-Betrieb}{64}{subsubsection*.19}%
-\contentsline {subsubsection}{\nonumberline Beschleunigung und Rampenprofil (Trapezförmig)}{64}{subsubsection*.23}%
+\contentsline {subsubsection}{\nonumberline Beschleunigung und Rampenprofil (Trapezförmig)}{65}{subsubsection*.23}%
 \contentsline {subsection}{\numberline {8.2.3}Externe Ereignisse}{66}{subsection.8.2.3}%
 \contentsline {subsubsection}{\nonumberline Lastrückkopplung}{66}{subsubsection*.26}%
-\contentsline {subsubsection}{\nonumberline Erhöhung der Nutzlast mit der Zeit}{66}{subsubsection*.28}%
-\contentsline {section}{\numberline {8.3}Beschreibung des verwendeten Schrittmotors}{66}{section.8.3}%
+\contentsline {subsubsection}{\nonumberline Erhöhung der Nutzlast mit der Zeit}{67}{subsubsection*.28}%
+\contentsline {section}{\numberline {8.3}Beschreibung des verwendeten Schrittmotors}{67}{section.8.3}%
 \contentsline {section}{\numberline {8.4}Spezifikation}{67}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Anschluss an den DRV8825}{67}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Weiterführende Literatur}{67}{section.8.6}%
+\contentsline {section}{\numberline {8.5}Weiterführende Literatur}{68}{section.8.5}%
 \contentsline {chapter}{\numberline {9}Schrittmotortreiber DRV8825}{69}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Allgemeine Beschreibung eines Motortreibers}{69}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Spezifische Beschreibung des Schrittmotortreibers DRV8825}{69}{section.9.2}%
@@ -174,6 +173,6 @@
 \contentsline {section}{\numberline {13.10}Further Readings}{86}{section.13.10}%
 \contentsline {part}{\numberline {IV}Anhang}{87}{part.4}%
 \contentsline {chapter}{\numberline {14}Materialliste}{89}{chapter.14}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{91}{chapter*.46}%
-\contentsline {chapter}{Stichwortverzeichnis}{97}{chapter*.46}%
-\contentsline {chapter}{Index}{97}{chapter*.46}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{91}{chapter*.45}%
+\contentsline {chapter}{Stichwortverzeichnis}{97}{chapter*.45}%
+\contentsline {chapter}{Index}{97}{chapter*.45}%
