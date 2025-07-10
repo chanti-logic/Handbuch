@@ -49,14 +49,22 @@ Am digitalen Ausgang D0 liegt das durch den LM393 erzeugte Signal an. Dieses kan
 
 \subsection{Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}
 
-In Abbildung xx ist gezeigt wie der Sensor korrekt an den Arduino Nano 33 BLE Sense angeschlossen wird:
+In Tabelle \autoref{tab:AnschlussLM393} ist gezeigt wie der Sensor korrekt an den Arduino Nano 33 BLE Sense angeschlossen wird:
 
-\begin{figure}[htpb]
+\begin{table}[htpb]
 	\centering
-	\includegraphics[width=1\textwidth]{LM393/AnschlussArduino.jpg}
-	\caption{Anschluss des Sensors ans den Arduino Nano 33 BLE Sense}
-	\label{fig:AnschlussArduinoLM393}
-\end{figure}
+	\begin{tabular}{|l|c|}
+		\hline
+		\textbf{Arduino} & \textbf{LM393} \\
+		\hline
+		5V & VCC \\
+		GND & GND \\
+		Pin 2 & D0 \\
+		\hline
+	\end{tabular}
+	\caption{Anschluss Speedsensor LM393 an Arduino Nano 33 BLE Sense}
+	\label{tab:AnschlussLM393}
+\end{table}
 
 
 \section{Spezifikationen}
@@ -84,17 +92,15 @@ In Abbildung xx ist gezeigt wie der Sensor korrekt an den Arduino Nano 33 BLE Se
 
 Für die Verwendung des Sensors mit dem Arduino Nano 33 BLE Sense wird die TimerOne-Bibliothek benötigt. Die TimerOne-Bibliothek wird verwendet, um die Zeitmessung zu ermöglichen, um aus den erzeugten Impulsen des Sensors die Drehzahl zu berechnen.
 
-\textcolor{red}{Welche Funktionen werden verwendet + Erklärung}
-
 \subsection{Installation}
 
 Im Folgenden wird erklärt, wie die TimerOne Bibliothek installiert wird.
 
 \begin{enumerate}
 	\item Öffnen der Arduino IDE
-	\item Klick auf Sketch, Bibliothek einbinden, Bibliotheken verwalten (Abbildung xx)
+	\item Klick auf Sketch, Bibliothek einbinden, Bibliotheken verwalten (Abbildung \autoref{fig:BibTimerOne})
 	\item In der Suchleiste TimerOne eingeben
-	\item Klick auf Installieren (Version aus Abbildung xx entnehmen)
+	\item Klick auf Installieren (Version aus Abbildung \autoref{fig:InstTimerOne} entnehmen)
 \end{enumerate}
 
 \begin{figure}[htpb]
@@ -113,7 +119,7 @@ Im Folgenden wird erklärt, wie die TimerOne Bibliothek installiert wird.
 
 \subsection{Code-Beispiel}
 
-Im Folgenden ist ein Code-Beispiel gegeben, in dem die verwendeten Funktionen erklärt werden. Für weitere Funktionen der Bibliothek kann man über Datei, Beispiele, TimerOne auf verschiedene Beispiel-Codes zugreifen (Abbildung xx).
+Im Folgenden ist ein Code-Beispiel gegeben, in dem die verwendeten Funktionen erklärt werden. Für weitere Funktionen der Bibliothek kann man über Datei, Beispiele, TimerOne auf verschiedene Beispiel-Codes zugreifen (Abbildung \autoref{fig:ExamplesTimerOne1}).
 
 \begin{figure}[htpb]
 	\centering
@@ -130,12 +136,64 @@ Für den LM393 Geschwindigkeitssensor mit Lochscheibe ist keine spezielle Kalibr
 
 Das Beispiel geht davon aus, dass die Lochscheibe auf einer sich rotierenden Welle befestigt ist. Mit dem folgenden Code wird die Drehzahl der Welle alle 5 Sekunden im seriellen Monitor ausgegeben. 
 
-\begin{figure}[htpb]
-	\centering
-	\includegraphics[width=1\textwidth]{LM393/Code.jpg}
-	\caption{wird noch in Code umgewandelt!}
-	\label{fig:BeispielCodeLM393}
-\end{figure}
+\begin{lstlisting}
+	// Import einer Bibliothek
+	#include "TimerOne.h"
+	#define pin 2
+	// benoetigte Variablen
+	int interval, wheel, counter;
+	unsigned long previousMicros, usInterval, calc;
+	
+	void setup() {
+	counter = 0; //counter auf 0 setzen
+	interval = 5; //5 Sekunden Intervall
+	wheel = 20; //Loecher in Encoder-Scheibe
+	
+	//Intervall auf eine Minute hoch rechnen
+	calc = 60 / interval;
+	//Intervallzeit in Mikrosekunden umrechnen
+	usInterval = interval * 1000000;
+	//Anzahl Loecher Encoderscheibe mal 2 ist Anzahl Signalwechsel
+	wheel = wheel *2;
+	
+	//Setzen des analogen Pins als Input
+	pinMode(pin, INPUT);
+	//Timer auf Intervall initialisieren
+	Timer1.initialize(usInterval);
+	attachInterrupt(digitalPinToInterrupt(pin), count, CHANGE);
+	//fuehrt count aus, wenn sich Signal an Pin 2 aendert
+	
+	//fuehrt nach Intervall output aus
+	Timer1.attachInterrupt(output);
+	Serial.begin(9600);
+	}
+	
+	//zaehlen der Encoder-Scheibe
+	void count() {
+	if (micros() - previousMicros >=700){
+	counter++;
+	previousMicros = micros();}
+	}
+	
+	//Ausgabe im seriellen Monitor
+	
+	void output() {
+	Timer1.detachInterrupt(); //unterbricht Timer
+	Serial.print("Drehzahl pro Minute: ");
+	int speed = ((counter)*calc) / wheel;
+	//Berechnung der Umdrehungen pro Minute
+	
+	Serial.println(speed);
+	counter = 0;
+	//Zuruecksetzen des Zaehlers
+	Timer1.attachInterrupt(output);
+	//startet Timer erneut
+	}
+	
+	void loop() {
+	//kein loop notwendig
+	}
+\end{lstlisting}
 
 \section{Tests}
 

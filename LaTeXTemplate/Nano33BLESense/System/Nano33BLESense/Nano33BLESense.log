@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  10 JUL 2025 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  10 JUL 2025 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2747,10 +2747,10 @@ ed!
 (tocbasic)                Currently used number width = 25.55551pt,
 (tocbasic)                Wanted number separation    = 3.99994pt,
 (tocbasic)                Reserved number width       = 23.00003pt on input lin
-e 154.
+e 152.
 
 
-Overfull \hbox (2.55548pt too wide) detected at line 154
+Overfull \hbox (2.55548pt too wide) detected at line 152
 \T1/lmr/m/n/10 12.10. 
  []
 
@@ -2760,10 +2760,10 @@ ed!
 (tocbasic)                Currently used number width = 25.55551pt,
 (tocbasic)                Wanted number separation    = 3.99994pt,
 (tocbasic)                Reserved number width       = 23.00003pt on input lin
-e 174.
+e 172.
 
 
-Overfull \hbox (2.55548pt too wide) detected at line 174
+Overfull \hbox (2.55548pt too wide) detected at line 172
 \T1/lmr/m/n/10 13.10. 
  []
 
@@ -2929,7 +2929,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 chapter 3.
 Package biblatex Info: Reference segment=10 on input line 24.
 Package biblatex Info: Setting label 'refsegment:010' on input line 24.
-<../../Images/Arduino/ArdiunoIDE2/menuboard.png, id=612, 959.585pt x 51.69313pt
+<../../Images/Arduino/ArdiunoIDE2/menuboard.png, id=604, 959.585pt x 51.69313pt
 >
 File: ../../Images/Arduino/ArdiunoIDE2/menuboard.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/menuboard.png>
@@ -2941,7 +2941,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 48.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/MenuButton.png, id=614, 758.835pt x 28.908pt>
+<../../Images/Arduino/ArdiunoIDE2/MenuButton.png, id=606, 758.835pt x 28.908pt>
 
 File: ../../Images/Arduino/ArdiunoIDE2/MenuButton.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/MenuButton.png>
@@ -2977,7 +2977,7 @@ Package biblatex Info: Setting label 'refsegment:011' on input line 74.
 
 [21 <../../Images/Arduino/ArdiunoIDE2/menuboard.png> <../../Images/Arduino/Ardi
 unoIDE2/MenuButton.png>]
-<../../Images/Arduino/ArdiunoIDE2/DownloadInstallation2.2.3.png, id=635, 699.11
+<../../Images/Arduino/ArdiunoIDE2/DownloadInstallation2.2.3.png, id=627, 699.11
 188pt x 411.5375pt>
 File: ../../Images/Arduino/ArdiunoIDE2/DownloadInstallation2.2.3.png Graphic fi
 le (type png)
@@ -2991,7 +2991,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 90.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/SummaryOfOptions.png, id=637, 605.76312pt x 3
+<../../Images/Arduino/ArdiunoIDE2/SummaryOfOptions.png, id=629, 605.76312pt x 3
 60.34625pt>
 File: ../../Images/Arduino/ArdiunoIDE2/SummaryOfOptions.png Graphic file (type 
 png)
@@ -3021,7 +3021,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 LaTeX Warning: Reference `downloading-and-installing-img02' on page 23 undefine
 d on input line 119.
 
-<../../Images/Arduino/ArdiunoIDE2/WindowsDownload.png, id=645, 685.05937pt x 41
+<../../Images/Arduino/ArdiunoIDE2/WindowsDownload.png, id=637, 685.05937pt x 41
 6.05438pt>
 File: ../../Images/Arduino/ArdiunoIDE2/WindowsDownload.png Graphic file (type p
 ng)
@@ -3034,7 +3034,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 124.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/ArduinoSetupInstallationOptions.jpg, id=647, 
+<../../Images/Arduino/ArdiunoIDE2/ArduinoSetupInstallationOptions.jpg, id=639, 
 336.50719pt x 231.86626pt>
 File: ../../Images/Arduino/ArdiunoIDE2/ArduinoSetupInstallationOptions.jpg Grap
 hic file (type jpg)
@@ -3061,7 +3061,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [23 <../../Images/Arduino/ArdiunoIDE2/SummaryOfOptions.png> <../../Images/Ardui
 no/ArdiunoIDE2/WindowsDownload.png>]
-<../../Images/Arduino/ArdiunoIDE2/ArduinoSetupInstallationFolder.jpg, id=656, 3
+<../../Images/Arduino/ArdiunoIDE2/ArduinoSetupInstallationFolder.jpg, id=648, 3
 31.99031pt x 239.39438pt>
 File: ../../Images/Arduino/ArdiunoIDE2/ArduinoSetupInstallationFolder.jpg Graph
 ic file (type jpg)
@@ -3075,7 +3075,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 143.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/ArduinoIDESketch.png, id=658, 753.41475pt x 4
+<../../Images/Arduino/ArdiunoIDE2/ArduinoIDESketch.png, id=650, 753.41475pt x 4
 28.802pt>
 File: ../../Images/Arduino/ArdiunoIDE2/ArduinoIDESketch.png Graphic file (type 
 png)
@@ -3100,7 +3100,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 [24 <../../Images/Arduino/ArdiunoIDE2/ArduinoSetupInstallationOptions.jpg> <../
 ../Images/Arduino/ArdiunoIDE2/ArduinoSetupInstallationFolder.jpg> <../../Images
 /Arduino/ArdiunoIDE2/ArduinoIDESketch.png>]
-<../../Images/Arduino/ArdiunoIDE2/DownloadingAndInstallingImg02.png, id=667, 89
+<../../Images/Arduino/ArdiunoIDE2/DownloadingAndInstallingImg02.png, id=659, 89
 3.3375pt x 502.87875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/DownloadingAndInstallingImg02.png Graphi
 c file (type png)
@@ -3114,7 +3114,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 163.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/macDownload.png, id=671, 685.05937pt x 416.05
+<../../Images/Arduino/ArdiunoIDE2/macDownload.png, id=663, 685.05937pt x 416.05
 438pt>
 File: ../../Images/Arduino/ArdiunoIDE2/macDownload.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/macDownload.png>
@@ -3141,7 +3141,7 @@ diunoIDE2/macDownload.png>]
 Package marginnote Info: Margin note 26.1 is on absolute page 26 on input line 
 188.
 Package marginnote Info: xpos seems to be 113.81102pt on input line 188.
-<../../Images/Arduino/ArdiunoIDE2/OpenTheDownloadFolder.png, id=682, 445.665pt 
+<../../Images/Arduino/ArdiunoIDE2/OpenTheDownloadFolder.png, id=674, 445.665pt 
 x 290.08376pt>
 File: ../../Images/Arduino/ArdiunoIDE2/OpenTheDownloadFolder.png Graphic file (
 type png)
@@ -3155,7 +3155,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 193.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/CopyToTheApplicationsFolder.png, id=684, 991.
+<../../Images/Arduino/ArdiunoIDE2/CopyToTheApplicationsFolder.png, id=676, 991.
 705pt x 505.89pt>
 File: ../../Images/Arduino/ArdiunoIDE2/CopyToTheApplicationsFolder.png Graphic 
 file (type png)
@@ -3168,7 +3168,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 202.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/ArduinoIDESketch2.png, id=686, 1445.4pt x 903
+<../../Images/Arduino/ArdiunoIDE2/ArduinoIDESketch2.png, id=678, 1445.4pt x 903
 .375pt>
 File: ../../Images/Arduino/ArdiunoIDE2/ArduinoIDESketch2.png Graphic file (type
  png)
@@ -3200,7 +3200,7 @@ Package marginnote Info: Margin note 27.1 is on absolute page 27 on input line
 Package marginnote Info: xpos seems to be 113.81102pt on input line 227.
 Package biblatex Info: Reference segment=12 on input line 234.
 Package biblatex Info: Setting label 'refsegment:012' on input line 234.
-<../../Images/Arduino/ArdiunoIDE2/ide2Overview.png, id=696, 893.3375pt x 502.87
+<../../Images/Arduino/ArdiunoIDE2/ide2Overview.png, id=688, 893.3375pt x 502.87
 875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/ide2Overview.png Graphic file (type png)
 
@@ -3229,7 +3229,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 [27 <../../Images/Arduino/ArdiunoIDE2/ArduinoIDESketch2.png>]
 Package biblatex Info: Reference segment=13 on input line 256.
 Package biblatex Info: Setting label 'refsegment:013' on input line 256.
-<../../Images/Arduino/ArdiunoIDE2/localSketchbook.png, id=705, 893.3375pt x 501
+<../../Images/Arduino/ArdiunoIDE2/localSketchbook.png, id=697, 893.3375pt x 501
 .875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/localSketchbook.png Graphic file (type p
 ng)
@@ -3254,7 +3254,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [28 <../../Images/Arduino/ArdiunoIDE2/ide2Overview.png> <../../Images/Arduino/A
 rdiunoIDE2/localSketchbook.png>]
-<../../Images/Arduino/ArdiunoIDE2/boardManager.png, id=714, 893.3375pt x 502.87
+<../../Images/Arduino/ArdiunoIDE2/boardManager.png, id=706, 893.3375pt x 502.87
 875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/boardManager.png Graphic file (type png)
 
@@ -3268,7 +3268,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 285.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/libraryManager.png, id=716, 893.3375pt x 502.
+<../../Images/Arduino/ArdiunoIDE2/libraryManager.png, id=708, 893.3375pt x 502.
 87875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/libraryManager.png Graphic file (type pn
 g)
@@ -3352,7 +3352,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
 [30]
-<../../Images/Arduino/ArdiunoIDE2/mklinkCmd.png, id=734, 447.6725pt x 366.36874
+<../../Images/Arduino/ArdiunoIDE2/mklinkCmd.png, id=726, 447.6725pt x 366.36874
 pt>
 File: ../../Images/Arduino/ArdiunoIDE2/mklinkCmd.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/mklinkCmd.png>
@@ -3374,7 +3374,7 @@ Overfull \hbox (207.91351pt too wide) in paragraph at lines 419--420
 e/report/Code/Nano33BLESense/Nano33BLESenseLED[] 
  []
 
-<../../Images/Arduino/ArdiunoIDE2/cmdSynthax.png, id=736, 672.01062pt x 224.338
+<../../Images/Arduino/ArdiunoIDE2/cmdSynthax.png, id=728, 672.01062pt x 224.338
 12pt>
 File: ../../Images/Arduino/ArdiunoIDE2/cmdSynthax.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/cmdSynthax.png>
@@ -3451,7 +3451,7 @@ o33BLESense/report/Code/Nano33BLESense/Nano33BLESenseLED"
 Package marginnote Info: Margin note 32.1 is on absolute page 32 on input line 
 505.
 Package marginnote Info: xpos seems to be 113.81102pt on input line 505.
-<../../Images/Arduino/ArdiunoIDE2/includelibrary.png, id=748, 823.57687pt x 456
+<../../Images/Arduino/ArdiunoIDE2/includelibrary.png, id=740, 823.57687pt x 456
 .70625pt>
 File: ../../Images/Arduino/ArdiunoIDE2/includelibrary.png Graphic file (type pn
 g)
@@ -3474,7 +3474,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
 [32 <../../Images/Arduino/ArdiunoIDE2/includelibrary.png>]
-<../../Images/Arduino/ArdiunoIDE2/serialMonitor.png, id=762, 893.3375pt x 501.8
+<../../Images/Arduino/ArdiunoIDE2/serialMonitor.png, id=754, 893.3375pt x 501.8
 75pt>
 File: ../../Images/Arduino/ArdiunoIDE2/serialMonitor.png Graphic file (type png
 )
@@ -3490,7 +3490,7 @@ See the caption package documentation for explanation.
 
 Package biblatex Info: Reference segment=15 on input line 574.
 Package biblatex Info: Setting label 'refsegment:015' on input line 574.
-<../../Images/Arduino/ArdiunoIDE2/examplesketches.png, id=763, 446.66875pt x 28
+<../../Images/Arduino/ArdiunoIDE2/examplesketches.png, id=755, 446.66875pt x 28
 9.58188pt>
 File: ../../Images/Arduino/ArdiunoIDE2/examplesketches.png Graphic file (type p
 ng)
@@ -3515,7 +3515,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 [33 <../../Images/Arduino/ArdiunoIDE2/serialMonitor.png>]
 Package biblatex Info: Reference segment=16 on input line 591.
 Package biblatex Info: Setting label 'refsegment:016' on input line 591.
-<../../Images/Arduino/ArdiunoIDE2/Debug.png, id=772, 2569.6pt x 1606.0pt>
+<../../Images/Arduino/ArdiunoIDE2/Debug.png, id=764, 2569.6pt x 1606.0pt>
 File: ../../Images/Arduino/ArdiunoIDE2/Debug.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/Debug.png>
 Package pdftex.def Info: ../../Images/Arduino/ArdiunoIDE2/Debug.png  used on in
@@ -3543,7 +3543,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [34 <../../Images/Arduino/ArdiunoIDE2/examplesketches.png> <../../Images/Arduin
 o/ArdiunoIDE2/Debug.png>]
-<../../Images/Arduino/ArdiunoIDE2/autocomplete.png, id=781, 893.3375pt x 501.87
+<../../Images/Arduino/ArdiunoIDE2/autocomplete.png, id=773, 893.3375pt x 501.87
 5pt>
 File: ../../Images/Arduino/ArdiunoIDE2/autocomplete.png Graphic file (type png)
 
@@ -3559,7 +3559,7 @@ See the caption package documentation for explanation.
 
 Package biblatex Info: Reference segment=18 on input line 619.
 Package biblatex Info: Setting label 'refsegment:018' on input line 619.
-<../../Images/Arduino/ArdiunoIDE2/MenuBarOption.png, id=782, 776.9025pt x 448.6
+<../../Images/Arduino/ArdiunoIDE2/MenuBarOption.png, id=774, 776.9025pt x 448.6
 7625pt>
 File: ../../Images/Arduino/ArdiunoIDE2/MenuBarOption.png Graphic file (type png
 )
@@ -3601,7 +3601,7 @@ Package biblatex Info: Setting label 'refsegment:020' on input line 31.
 LaTeX Warning: Reference `sec:Installation of the Arduino IDE' on page 39 undef
 ined on input line 40.
 
-<../../Images/Arduino/ArdiunoIDE2/boardmanager1.png, id=808, 739.26187pt x 450.
+<../../Images/Arduino/ArdiunoIDE2/boardmanager1.png, id=800, 739.26187pt x 450.
 18187pt>
 File: ../../Images/Arduino/ArdiunoIDE2/boardmanager1.png Graphic file (type png
 )
@@ -3621,7 +3621,7 @@ Underfull \vbox (badness 2435) has occurred while \output is active []
 
 [39]
 <../../Images/Arduino/ArdiunoIDE2/SelectTheConnectedBoardArduinoNano33BLESense.
-png, id=820, 1440.13031pt x 772.38562pt>
+png, id=812, 1440.13031pt x 772.38562pt>
 File: ../../Images/Arduino/ArdiunoIDE2/SelectTheConnectedBoardArduinoNano33BLES
 ense.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/SelectTheConnectedBoardArduinoNano33BLESe
@@ -3629,7 +3629,7 @@ nse.png>
 Package pdftex.def Info: ../../Images/Arduino/ArdiunoIDE2/SelectTheConnectedBoa
 rdArduinoNano33BLESense.png  used on input line 88.
 (pdftex.def)             Requested size: 227.62204pt x 122.07565pt.
-<../../Images/Arduino/ArdiunoIDE2/resetbutton.png, id=822, 283.0575pt x 439.642
+<../../Images/Arduino/ArdiunoIDE2/resetbutton.png, id=814, 283.0575pt x 439.642
 5pt>
 File: ../../Images/Arduino/ArdiunoIDE2/resetbutton.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/resetbutton.png>
@@ -3681,7 +3681,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [41 <../../Images/Arduino/ArdiunoIDE2/resetbutton.png>]
 <../../Images/Arduino/ArdiunoIDE2/SelectAvailablePortForUploadingArduinoSketch.
-png, id=841, 1440.13031pt x 776.14969pt>
+png, id=833, 1440.13031pt x 776.14969pt>
 File: ../../Images/Arduino/ArdiunoIDE2/SelectAvailablePortForUploadingArduinoSk
 etch.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/SelectAvailablePortForUploadingArduinoSke
@@ -3700,7 +3700,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [42 <../../Images/Arduino/ArdiunoIDE2/SelectAvailablePortForUploadingArduinoSke
 tch.png>]
-<../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png, id=849, 1
+<../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png, id=841, 1
 445.4pt x 775.39688pt>
 File: ../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png Graph
 ic file (type png)
@@ -3708,7 +3708,7 @@ ic file (type png)
 Package pdftex.def Info: ../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArd
 uinoBoard.png  used on input line 164.
 (pdftex.def)             Requested size: 227.62204pt x 122.10199pt.
-<../../Images/Arduino/ArdiunoIDE2/SettingThePort.png, id=851, 1440.13031pt x 77
+<../../Images/Arduino/ArdiunoIDE2/SettingThePort.png, id=843, 1440.13031pt x 77
 4.64406pt>
 File: ../../Images/Arduino/ArdiunoIDE2/SettingThePort.png Graphic file (type pn
 g)
@@ -3770,7 +3770,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [43 <../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png> <../.
 ./Images/Arduino/ArdiunoIDE2/SettingThePort.png>]
-<../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.3.png, id=862, 1031.3531
+<../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.3.png, id=854, 1031.3531
 2pt x 695.59875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.3.png Graphic file 
 (type png)
@@ -3784,7 +3784,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 218.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/ledblink_code.png, id=863, 1271.24937pt x 717
+<../../Images/Arduino/ArdiunoIDE2/ledblink_code.png, id=855, 1271.24937pt x 717
 .17938pt>
 File: ../../Images/Arduino/ArdiunoIDE2/ledblink_code.png Graphic file (type png
 )
@@ -4391,10 +4391,8 @@ put line 221.
 
 Package biblatex Info: Reference segment=31 on input line 231.
 Package biblatex Info: Setting label 'refsegment:031' on input line 231.
-Package biblatex Info: Reference segment=32 on input line 244.
-Package biblatex Info: Setting label 'refsegment:032' on input line 244.
-Package biblatex Info: Reference segment=33 on input line 277.
-Package biblatex Info: Setting label 'refsegment:033' on input line 277.
+Package biblatex Info: Reference segment=32 on input line 237.
+Package biblatex Info: Setting label 'refsegment:032' on input line 237.
 ) (../../Contents/General/DRV8825.tex
 
 
@@ -4406,40 +4404,30 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [67]
 
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
-
-[68]
-chapter 9.
-Package biblatex Info: Reference segment=34 on input line 19.
-Package biblatex Info: Setting label 'refsegment:034' on input line 19.
-Package biblatex Info: Reference segment=35 on input line 26.
-Package biblatex Info: Setting label 'refsegment:035' on input line 26.
-Package biblatex Info: Reference segment=36 on input line 73.
-Package biblatex Info: Setting label 'refsegment:036' on input line 73.
-
-
-[69
+[68
 
 
 ]
-Package biblatex Info: Reference segment=37 on input line 109.
-Package biblatex Info: Setting label 'refsegment:037' on input line 109.
-Package biblatex Info: Reference segment=38 on input line 120.
-Package biblatex Info: Setting label 'refsegment:038' on input line 120.
-<../../Images/DRV8825/Code.jpg, id=1107, 369.63094pt x 247.67531pt>
-File: ../../Images/DRV8825/Code.jpg Graphic file (type jpg)
-<use ../../Images/DRV8825/Code.jpg>
-Package pdftex.def Info: ../../Images/DRV8825/Code.jpg  used on input line 124.
+chapter 9.
+Package biblatex Info: Reference segment=33 on input line 19.
+Package biblatex Info: Setting label 'refsegment:033' on input line 19.
+Package biblatex Info: Reference segment=34 on input line 26.
+Package biblatex Info: Setting label 'refsegment:034' on input line 26.
+Package biblatex Info: Reference segment=35 on input line 73.
+Package biblatex Info: Setting label 'refsegment:035' on input line 73.
 
-(pdftex.def)             Requested size: 369.88583pt x 247.84854pt.
-Package biblatex Info: Reference segment=39 on input line 128.
-Package biblatex Info: Setting label 'refsegment:039' on input line 128.
-) (../../Contents/General/SensorLM393.tex
+
+[69]
+Package biblatex Info: Reference segment=36 on input line 109.
+Package biblatex Info: Setting label 'refsegment:036' on input line 109.
+Package biblatex Info: Reference segment=37 on input line 120.
+Package biblatex Info: Setting label 'refsegment:037' on input line 120.
+
+Overfull \hbox (56.11848pt too wide) in paragraph at lines 126--128
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -4449,6 +4437,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
 [70]
+Package biblatex Info: Reference segment=38 on input line 149.
+Package biblatex Info: Setting label 'refsegment:038' on input line 149.
+) (../../Contents/General/SensorLM393.tex
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -4457,39 +4448,30 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[71 <../../Images/DRV8825/Code.jpg>]
+[71]
 
 [72
 
 
 ]
 chapter 10.
-Package biblatex Info: Reference segment=40 on input line 18.
-Package biblatex Info: Setting label 'refsegment:040' on input line 18.
+Package biblatex Info: Reference segment=39 on input line 18.
+Package biblatex Info: Setting label 'refsegment:039' on input line 18.
 
 Overfull \hbox (16.2737pt too wide) in paragraph at lines 20--21
 \T1/lmr/m/n/10 (-20) Prinzip der op^^?tis^^?chen Lichtschranke funk^^?tion^^?ie
 rt. Er besteht aus einem LM393-Komparator,
  []
 
-Package biblatex Info: Reference segment=41 on input line 22.
-Package biblatex Info: Setting label 'refsegment:041' on input line 22.
+Package biblatex Info: Reference segment=40 on input line 22.
+Package biblatex Info: Setting label 'refsegment:040' on input line 22.
 
 
 [73]
-<../../Images/LM393/AnschlussArduino.jpg, id=1133, 396.7322pt x 324.46219pt>
-File: ../../Images/LM393/AnschlussArduino.jpg Graphic file (type jpg)
-<use ../../Images/LM393/AnschlussArduino.jpg>
-Package pdftex.def Info: ../../Images/LM393/AnschlussArduino.jpg  used on input
- line 56.
-(pdftex.def)             Requested size: 369.88583pt x 302.51408pt.
-Package biblatex Info: Reference segment=42 on input line 62.
-Package biblatex Info: Setting label 'refsegment:042' on input line 62.
-Package biblatex Info: Reference segment=43 on input line 83.
-Package biblatex Info: Setting label 'refsegment:043' on input line 83.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+Package biblatex Info: Reference segment=41 on input line 70.
+Package biblatex Info: Setting label 'refsegment:041' on input line 70.
+Package biblatex Info: Reference segment=42 on input line 91.
+Package biblatex Info: Setting label 'refsegment:042' on input line 91.
 
 
 
@@ -4499,27 +4481,27 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[74 <../../Images/LM393/AnschlussArduino.jpg>]
-<../../Images/LM393/TimerOne1.jpg, id=1140, 455.45157pt x 196.48407pt>
+[74]
+<../../Images/LM393/TimerOne1.jpg, id=1164, 455.45157pt x 196.48407pt>
 File: ../../Images/LM393/TimerOne1.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne1.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne1.jpg  used on input line 1
-02.
+08.
 (pdftex.def)             Requested size: 369.88583pt x 159.57394pt.
-<../../Images/LM393/TimerOne2.jpg, id=1141, 161.85469pt x 219.82124pt>
+<../../Images/LM393/TimerOne2.jpg, id=1165, 161.85469pt x 219.82124pt>
 File: ../../Images/LM393/TimerOne2.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne2.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne2.jpg  used on input line 1
-09.
+15.
 (pdftex.def)             Requested size: 184.94292pt x 251.19249pt.
-<../../Images/LM393/TimerOne3.jpg, id=1142, 379.4175pt x 173.89969pt>
+<../../Images/LM393/TimerOne3.jpg, id=1167, 379.4175pt x 173.89969pt>
 File: ../../Images/LM393/TimerOne3.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne3.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne3.jpg  used on input line 1
-20.
+26.
 (pdftex.def)             Requested size: 369.88583pt x 169.53424pt.
-Package biblatex Info: Reference segment=44 on input line 125.
-Package biblatex Info: Setting label 'refsegment:044' on input line 125.
+Package biblatex Info: Reference segment=43 on input line 131.
+Package biblatex Info: Setting label 'refsegment:043' on input line 131.
 
 
 
@@ -4529,7 +4511,15 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[75 <../../Images/LM393/TimerOne1.jpg>]
+[75 <../../Images/LM393/TimerOne1.jpg> <../../Images/LM393/TimerOne2.jpg>]
+Package biblatex Info: Reference segment=44 on input line 135.
+Package biblatex Info: Setting label 'refsegment:044' on input line 135.
+
+Overfull \hbox (50.11844pt too wide) in paragraph at lines 156--157
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -4538,20 +4528,16 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[76 <../../Images/LM393/TimerOne2.jpg> <../../Images/LM393/TimerOne3.jpg>]
-Package biblatex Info: Reference segment=45 on input line 129.
-Package biblatex Info: Setting label 'refsegment:045' on input line 129.
-<../../Images/LM393/Code.jpg, id=1159, 446.41782pt x 691.08188pt>
-File: ../../Images/LM393/Code.jpg Graphic file (type jpg)
-<use ../../Images/LM393/Code.jpg>
-Package pdftex.def Info: ../../Images/LM393/Code.jpg  used on input line 135.
-(pdftex.def)             Requested size: 369.88583pt x 572.61713pt.
-Package biblatex Info: Reference segment=46 on input line 140.
-Package biblatex Info: Setting label 'refsegment:046' on input line 140.
-Package biblatex Info: Reference segment=47 on input line 151.
-Package biblatex Info: Setting label 'refsegment:047' on input line 151.
-)
-(../../Contents/General/OLEDDisplay.tex
+[76 <../../Images/LM393/TimerOne3.jpg>]
+Overfull \hbox (32.11826pt too wide) in paragraph at lines 163--164
+[][][][][][][][][][][][][][][][] 
+ []
+
+Package biblatex Info: Reference segment=45 on input line 198.
+Package biblatex Info: Setting label 'refsegment:045' on input line 198.
+Package biblatex Info: Reference segment=46 on input line 209.
+Package biblatex Info: Setting label 'refsegment:046' on input line 209.
+) (../../Contents/General/OLEDDisplay.tex
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -4569,40 +4555,40 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[78 <../../Images/LM393/Code.jpg>]
+[78]
 chapter 11.
-Package biblatex Info: Reference segment=48 on input line 19.
-Package biblatex Info: Setting label 'refsegment:048' on input line 19.
-Package biblatex Info: Reference segment=49 on input line 29.
-Package biblatex Info: Setting label 'refsegment:049' on input line 29.
-Package biblatex Info: Reference segment=50 on input line 33.
-Package biblatex Info: Setting label 'refsegment:050' on input line 33.
-Package biblatex Info: Reference segment=51 on input line 55.
-Package biblatex Info: Setting label 'refsegment:051' on input line 55.
+Package biblatex Info: Reference segment=47 on input line 19.
+Package biblatex Info: Setting label 'refsegment:047' on input line 19.
+Package biblatex Info: Reference segment=48 on input line 29.
+Package biblatex Info: Setting label 'refsegment:048' on input line 29.
+Package biblatex Info: Reference segment=49 on input line 33.
+Package biblatex Info: Setting label 'refsegment:049' on input line 33.
+Package biblatex Info: Reference segment=50 on input line 55.
+Package biblatex Info: Setting label 'refsegment:050' on input line 55.
 
 
 [79
 
 
 ]
-Package biblatex Info: Reference segment=52 on input line 82.
-Package biblatex Info: Setting label 'refsegment:052' on input line 82.
-<../../Images/OLEDDisplay/U8g2-1.jpg, id=1177, 260.47313pt x 258.21469pt>
+Package biblatex Info: Reference segment=51 on input line 82.
+Package biblatex Info: Setting label 'refsegment:051' on input line 82.
+<../../Images/OLEDDisplay/U8g2-1.jpg, id=1257, 260.47313pt x 258.21469pt>
 File: ../../Images/OLEDDisplay/U8g2-1.jpg Graphic file (type jpg)
 <use ../../Images/OLEDDisplay/U8g2-1.jpg>
 Package pdftex.def Info: ../../Images/OLEDDisplay/U8g2-1.jpg  used on input lin
 e 101.
 (pdftex.def)             Requested size: 184.94292pt x 183.34158pt.
-Package biblatex Info: Reference segment=53 on input line 110.
-Package biblatex Info: Setting label 'refsegment:053' on input line 110.
-<../../Images/OLEDDisplay/Code.jpg, id=1178, 540.51938pt x 246.9225pt>
+Package biblatex Info: Reference segment=52 on input line 110.
+Package biblatex Info: Setting label 'refsegment:052' on input line 110.
+<../../Images/OLEDDisplay/Code.jpg, id=1258, 540.51938pt x 246.9225pt>
 File: ../../Images/OLEDDisplay/Code.jpg Graphic file (type jpg)
 <use ../../Images/OLEDDisplay/Code.jpg>
 Package pdftex.def Info: ../../Images/OLEDDisplay/Code.jpg  used on input line 
 116.
 (pdftex.def)             Requested size: 369.88583pt x 168.9751pt.
-Package biblatex Info: Reference segment=54 on input line 121.
-Package biblatex Info: Setting label 'refsegment:054' on input line 121.
+Package biblatex Info: Reference segment=53 on input line 121.
+Package biblatex Info: Setting label 'refsegment:053' on input line 121.
 ) (../../Contents/General/RenameSensorXY.tex
 
 
@@ -4631,29 +4617,29 @@ chapter 12.
 Package marginnote Info: Margin note 83.1 is on absolute page 83 on input line 
 19.
 Package marginnote Info: xpos seems to be 171.89427pt on input line 19.
-Package biblatex Info: Reference segment=55 on input line 20.
-Package biblatex Info: Setting label 'refsegment:055' on input line 20.
-Package biblatex Info: Reference segment=56 on input line 26.
-Package biblatex Info: Setting label 'refsegment:056' on input line 26.
-Package biblatex Info: Reference segment=57 on input line 30.
-Package biblatex Info: Setting label 'refsegment:057' on input line 30.
-Package biblatex Info: Reference segment=58 on input line 38.
-Package biblatex Info: Setting label 'refsegment:058' on input line 38.
-Package biblatex Info: Reference segment=59 on input line 53.
-Package biblatex Info: Setting label 'refsegment:059' on input line 53.
-Package biblatex Info: Reference segment=60 on input line 68.
-Package biblatex Info: Setting label 'refsegment:060' on input line 68.
+Package biblatex Info: Reference segment=54 on input line 20.
+Package biblatex Info: Setting label 'refsegment:054' on input line 20.
+Package biblatex Info: Reference segment=55 on input line 26.
+Package biblatex Info: Setting label 'refsegment:055' on input line 26.
+Package biblatex Info: Reference segment=56 on input line 30.
+Package biblatex Info: Setting label 'refsegment:056' on input line 30.
+Package biblatex Info: Reference segment=57 on input line 38.
+Package biblatex Info: Setting label 'refsegment:057' on input line 38.
+Package biblatex Info: Reference segment=58 on input line 53.
+Package biblatex Info: Setting label 'refsegment:058' on input line 53.
+Package biblatex Info: Reference segment=59 on input line 68.
+Package biblatex Info: Setting label 'refsegment:059' on input line 68.
 
 
 [83]
-Package biblatex Info: Reference segment=61 on input line 72.
-Package biblatex Info: Setting label 'refsegment:061' on input line 72.
-Package biblatex Info: Reference segment=62 on input line 75.
-Package biblatex Info: Setting label 'refsegment:062' on input line 75.
-Package biblatex Info: Reference segment=63 on input line 79.
-Package biblatex Info: Setting label 'refsegment:063' on input line 79.
-Package biblatex Info: Reference segment=64 on input line 87.
-Package biblatex Info: Setting label 'refsegment:064' on input line 87.
+Package biblatex Info: Reference segment=60 on input line 72.
+Package biblatex Info: Setting label 'refsegment:060' on input line 72.
+Package biblatex Info: Reference segment=61 on input line 75.
+Package biblatex Info: Setting label 'refsegment:061' on input line 75.
+Package biblatex Info: Reference segment=62 on input line 79.
+Package biblatex Info: Setting label 'refsegment:062' on input line 79.
+Package biblatex Info: Reference segment=63 on input line 87.
+Package biblatex Info: Setting label 'refsegment:063' on input line 87.
 ) (../../Contents/General/RenameActorXY.tex
 
 
@@ -4668,32 +4654,32 @@ chapter 13.
 Package marginnote Info: Margin note 85.1 is on absolute page 85 on input line 
 19.
 Package marginnote Info: xpos seems to be 171.89427pt on input line 19.
-Package biblatex Info: Reference segment=65 on input line 20.
-Package biblatex Info: Setting label 'refsegment:065' on input line 20.
-Package biblatex Info: Reference segment=66 on input line 26.
-Package biblatex Info: Setting label 'refsegment:066' on input line 26.
-Package biblatex Info: Reference segment=67 on input line 30.
-Package biblatex Info: Setting label 'refsegment:067' on input line 30.
-Package biblatex Info: Reference segment=68 on input line 38.
-Package biblatex Info: Setting label 'refsegment:068' on input line 38.
-Package biblatex Info: Reference segment=69 on input line 53.
-Package biblatex Info: Setting label 'refsegment:069' on input line 53.
-Package biblatex Info: Reference segment=70 on input line 68.
-Package biblatex Info: Setting label 'refsegment:070' on input line 68.
+Package biblatex Info: Reference segment=64 on input line 20.
+Package biblatex Info: Setting label 'refsegment:064' on input line 20.
+Package biblatex Info: Reference segment=65 on input line 26.
+Package biblatex Info: Setting label 'refsegment:065' on input line 26.
+Package biblatex Info: Reference segment=66 on input line 30.
+Package biblatex Info: Setting label 'refsegment:066' on input line 30.
+Package biblatex Info: Reference segment=67 on input line 38.
+Package biblatex Info: Setting label 'refsegment:067' on input line 38.
+Package biblatex Info: Reference segment=68 on input line 53.
+Package biblatex Info: Setting label 'refsegment:068' on input line 53.
+Package biblatex Info: Reference segment=69 on input line 68.
+Package biblatex Info: Setting label 'refsegment:069' on input line 68.
 
 
 [85
 
 
 ]
-Package biblatex Info: Reference segment=71 on input line 72.
-Package biblatex Info: Setting label 'refsegment:071' on input line 72.
-Package biblatex Info: Reference segment=72 on input line 75.
-Package biblatex Info: Setting label 'refsegment:072' on input line 75.
-Package biblatex Info: Reference segment=73 on input line 79.
-Package biblatex Info: Setting label 'refsegment:073' on input line 79.
-Package biblatex Info: Reference segment=74 on input line 87.
-Package biblatex Info: Setting label 'refsegment:074' on input line 87.
+Package biblatex Info: Reference segment=70 on input line 72.
+Package biblatex Info: Setting label 'refsegment:070' on input line 72.
+Package biblatex Info: Reference segment=71 on input line 75.
+Package biblatex Info: Setting label 'refsegment:071' on input line 75.
+Package biblatex Info: Reference segment=72 on input line 79.
+Package biblatex Info: Setting label 'refsegment:072' on input line 79.
+Package biblatex Info: Reference segment=73 on input line 87.
+Package biblatex Info: Setting label 'refsegment:073' on input line 87.
 )
 
 
@@ -4727,7 +4713,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 19--20
 \T1/lmr/m/n/10 (+20) - ARD NANO
  []
 
-<../../Images/Nano33BLESense/abx00031_front_1_2.jpg, id=1233, 376.40625pt x 282
+<../../Images/Nano33BLESense/abx00031_front_1_2.jpg, id=1312, 376.40625pt x 282
 .30469pt>
 File: ../../Images/Nano33BLESense/abx00031_front_1_2.jpg Graphic file (type jpg
 )
@@ -4745,7 +4731,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 24--25
 \T1/lmr/m/n/10 (+20) - ARD NANO
  []
 
-<../../Images/Nano33BLESense/ARDNanano33BSH2.png, id=1235, 579.16376pt x 230.86
+<../../Images/Nano33BLESense/ARDNanano33BSH2.png, id=1314, 579.16376pt x 230.86
 25pt>
 File: ../../Images/Nano33BLESense/ARDNanano33BSH2.png Graphic file (type png)
 <use ../../Images/Nano33BLESense/ARDNanano33BSH2.png>
@@ -4762,7 +4748,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 \T1/lmr/m/n/10 (+20) - ARD Kit
  []
 
-<../../Images/Nano33BLESense/ArduinoKit.png, id=1237, 903.375pt x 581.17125pt>
+<../../Images/Nano33BLESense/ArduinoKit.png, id=1316, 903.375pt x 581.17125pt>
 File: ../../Images/Nano33BLESense/ArduinoKit.png Graphic file (type png)
 <use ../../Images/Nano33BLESense/ArduinoKit.png>
 Package pdftex.def Info: ../../Images/Nano33BLESense/ArduinoKit.png  used on in
@@ -4783,7 +4769,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 \T1/lmr/m/n/10 (+20) B0226 Lens
  []
 
-<../../Images/CAM/LensCalibrationTool/LensCalibrationTool.jpg, id=1239, 1290.82
+<../../Images/CAM/LensCalibrationTool/LensCalibrationTool.jpg, id=1318, 1290.82
 25pt x 980.66376pt>
 File: ../../Images/CAM/LensCalibrationTool/LensCalibrationTool.jpg Graphic file
  (type jpg)
@@ -4791,7 +4777,7 @@ File: ../../Images/CAM/LensCalibrationTool/LensCalibrationTool.jpg Graphic file
 Package pdftex.def Info: ../../Images/CAM/LensCalibrationTool/LensCalibrationTo
 ol.jpg  used on input line 36.
 (pdftex.def)             Requested size: 73.97603pt x 56.1887pt.
-<../../Images/Nano33BLESense/case.png, id=1241, 803.0pt x 602.25pt>
+<../../Images/Nano33BLESense/case.png, id=1320, 803.0pt x 602.25pt>
 File: ../../Images/Nano33BLESense/case.png Graphic file (type png)
 <use ../../Images/Nano33BLESense/case.png>
 Package pdftex.def Info: ../../Images/Nano33BLESense/case.png  used on input li
@@ -5029,52 +5015,32 @@ Package logreq Info: Writing requests to 'Nano33BLESense.run.xml'.
 ### simple group (level 1) entered at line 67 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 100999 strings out of 473190
- 2706567 string characters out of 5719979
- 3898566 words of memory out of 5000000
- 122175 multiletter control sequences out of 15000+600000
- 727973 words of font info for 438 fonts, out of 8000000 for 9000
+ 101091 strings out of 473190
+ 2707239 string characters out of 5719979
+ 3905990 words of memory out of 5000000
+ 122188 multiletter control sequences out of 15000+600000
+ 728624 words of font info for 441 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 108i,12n,134p,10909b,3285s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{figure.caption.45} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.41} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.36} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.46} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.8.6} has been referenced but does not exist
-, replaced by a fixed one
-
-<c:/texlive/2025/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb><c:/texlive/
-2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2025/texmf-dist/fo
-nts/type1/public/lm/lmbx8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm
-/lmcsc10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/t
-exlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2025/texmf-
-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/pu
-blic/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb><
-c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2025/texm
-f-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/p
-ublic/lm/lmri10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri7.pfb
-><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2025/
-texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2025/texmf-dist/fonts/ty
-pe1/public/lm/lmssbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lm
-sy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/tex
-live/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on Nano33BLESense.pdf (97 pages, 6399630 bytes).
+ 108i,12n,134p,10909b,3476s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/eurosym/feymr10.
+pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/20
+25/texmf-dist/fonts/type1/public/lm/lmbx8.pfb><c:/texlive/2025/texmf-dist/fonts
+/type1/public/lm/lmcsc10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/
+lmex10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/tex
+live/2025/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2025/texmf-dis
+t/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/publi
+c/lm/lmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/t
+exlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2025/texmf-di
+st/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/pub
+lic/lm/lmri7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss17.pfb><
+c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2025/tex
+mf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2025/texmf-dist/fonts/ty
+pe1/public/lm/lmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/uc
+rb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on Nano33BLESense.pdf (97 pages, 6230001 bytes).
 PDF statistics:
- 2322 PDF objects out of 2487 (max. 8388607)
- 2055 compressed objects within 21 object streams
- 540 named destinations out of 1000 (max. 500000)
- 75489 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 2415 PDF objects out of 2487 (max. 8388607)
+ 2149 compressed objects within 22 object streams
+ 614 named destinations out of 1000 (max. 500000)
+ 77514 words of extra memory for PDF output out of 89155 (max. 10000000)
 

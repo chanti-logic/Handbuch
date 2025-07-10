@@ -119,13 +119,33 @@ Nach dem Kalibrieren des Treibers kann der Schrittmotor angeschlossen werden.
 
 \section{Einfaches Beispiel mit Code}
 
-\begin{figure}[htpb]
-	\centering
-	\includegraphics[width=1\textwidth]{DRV8825/Code.jpg}
-	\label{fig:BeispielCodeDRV8825}
-\end{figure}
+\begin{lstlisting}
+	// Pin-Zuweisung
+	const int stepPin = 3;		//STEP
+	const int dirPin = 4;		//DIR
+	const int enablePin = 5;	//optional: nENBL (LOW = aktiv)
+	
+	void setup() {
+	pinMode(stepPin, OUTPUT);
+	pinMode(dirPin, OUTPIT);
+	pinMode(enablePin, OUTPUT);
+	
+	digitalWrite(enablePin, LOW);	//Treiber aktivieren
+	digitalWrite(dirPin, HIGH);		
+	//Drehrichtung setzen (HIGH oder LOW)
+	}
+	
+	void loop() {
+	// Einen Schritt erzeugen:
+	digitalWrite(stepPin, HIGH);
+	delayMicroseconds(1000);		
+	//Schrittimpulsdauer (kleiner = schneller)
+	digitalWrite(stepPin, LOW);
+	delayMicroseconds(1000);		
+	//Pausenzeit (je nach gewuenschter Drehzahl)
+	}
+\end{lstlisting}
 
 \section{Weiterführende Literatur}
 
 \textcolor{red}{einfügen}
-
