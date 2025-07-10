@@ -9,17 +9,18 @@
 \documentclass[12pt,a4paper]{scrbook}
 \usepackage{tikz}
 \usepackage{hyperref}
+\usepackage[a4paper, inner=3cm, outer=2cm]{geometry}
 
 \begin{document}
-	\chapter{Schnelleinstieg für den Schrittmotor Demonstrator}
-	
+ \chapter{Schnelleinstieg\\Schrittmotor Demonstrator}
+	    \vspace{0.5cm}
 	\section{Lieferumfang}
 	
 	\begin{itemize}
 		\item Schrittmotor Demonstrator
 		\item Netzkabel
 	\end{itemize}
-	
+
 	\section{Gerät aufstellen}
 	\begin{itemize}
 		\item Stellen Sie den Schrittmotor Demonstrator auf eine ebene, feste Oberfläche.
@@ -27,11 +28,29 @@
 		\item Keine Gegenstände auf den Schrittmotor Demonstrator stellen.
 		\item Halten Sie den Arbeitsbereich des Schrittmotor Demonstrators frei von Gegenständen.
 	\end{itemize}
-	
+		\section{Bewegungsstufen}
+
+\begin{table}[htpb]
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		\textbf{Bewegungsstufe} & \textbf{Geschwindigkeit in cm/s} \\
+		\hline
+		1 & 1,33 \\
+		2 & 2,00 \\
+		3 & 2,22 \\
+		4 & 2,50 \\
+		5 & 3,33 \\
+		\hline
+	\end{tabular}
+	\caption{Bewegungsstufen}
+	\label{tab:Bewegungsstufen}
+\end{table}
+
 	\section{Inbetriebnahme}
 	
 	\begin{figure}[htpb]
-		\vspace{-2.5cm}
+		\vspace{-1.5cm}
 		\centering
 		\begin{tikzpicture}[scale=0.6]
 \tikzstyle{every node}=[font=\large]
@@ -53,7 +72,7 @@
 		\caption{Elemente auf der Frontblende des Demonstrators}
 		\label{tikz:Frontblende}
 	\end{figure}
-	
+
 	\begin{enumerate}
 		\item \textbf{Stromversorgung:}
 		\begin{itemize}
@@ -78,27 +97,12 @@
 			\item Der Bewegungsablauf stoppt automatisch, wenn der Motor in den Endschalter fährt. Nach Ende des Bewegungsablaufs, kann die gemessene Geschwindigkeit des Geschwindigkeitssensors auf dem OLED-Display abgelesen werden. 
 			\item Wenn der Bewegungsablauf durch einen Notfall unterbrochen werden muss, dann betätigen Sie den roten Stopp-Knopf (Figure \ref{tikz:Frontblende}: 4).
 		\end{itemize}
+				\item \textbf{Ausschalten:}
+		\begin{itemize}
+			\item Gerät über Ein/Ausschalter (Figure \ref{tikz:Frontblende}: 5) ausschalten.
 	\end{enumerate}
-	
-		\section{Bewegungsstufen}
-		
-		\begin{table}[htpb]
-			\centering
-			\begin{tabular}{|c|c|}
-				\hline
-				\textbf{Bewegungsstufe} & \textbf{Geschwindigkeit in cm/s} \\
-				\hline
-				1 & 1,33 \\
-				2 & 2,00 \\
-				3 & 2,22 \\
-				4 & 2,50 \\
-				5 & 3,33 \\
-				\hline
-			\end{tabular}
-			\caption{Bewegungsstufen}
-			\label{tab:Bewegungsstufen}
-		\end{table}
-	
+
+
 
 
 		
