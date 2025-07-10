@@ -1,21 +1,12 @@
 \begin{theindex}
 
-  \item 3D printer, 223
-
-  \indexspace
-
-  \item      Programmable Logic Controller, 221
   \item  File
     \subitem ../images/, 65
     \subitem .doxyfile, 60
     \subitem .ino, 61
     \subitem Arduino, 30
-    \subitem Blink.ino, 220
     \subitem blink.ino, 45, 46
-    \subitem Blink.py, 218
     \subitem blnik.ino, 41
-    \subitem BuiltinLED.cpp, 86
-    \subitem BuiltinLED.h, 86
     \subitem doxygen-1.12.0-setup.exe, 50
     \subitem doxygen.exe, 54
     \subitem Fade, 46
@@ -23,100 +14,109 @@
     \subitem graphviz-12.2.1 (64-bit) EXE installer, 52
     \subitem images, 65
     \subitem index.html, 63
-    \subitem LED.cpp, 91
-    \subitem LED.h, 90
     \subitem libraries, 32--34
-    \subitem Mag\_raw.txt, 76
     \subitem MySketch, 30
     \subitem MySketch.ino, 30
     \subitem Nano33BLESenseLE, 32
     \subitem Nano33BLESenseLED, 33, 34
-    \subitem PackageExample.py, 185
-    \subitem PowerLED.cpp, 92
-    \subitem PowerLED.h, 92
-    \subitem RGBLED.cpp, 99
-    \subitem RGBLED.h, 98
-    \subitem SignsOfLife.cpp, 94
-    \subitem SignsOfLife.h, 94
-    \subitem TestBattery.ino, 132, 134
   \item  Inertial Measurement Unit
-    \subitem  \emph  {see} IMU, 17, 72
+    \subitem  \emph  {see} IMU, 13, 69
 
   \indexspace
 
-  \item Acoustic Overload Point
-    \subitem  \emph  {see} AOP, 17, 77
-  \item AOP, 17, 77
+  \item AAR, 13, 72
+  \item ADC, 13, 72
+  \item Advanced Encryption Standard
+    \subitem  \emph  {see} AES, 13, 72
+  \item AES, 13, 72
+  \item Analog to Digital Converter
+    \subitem  \emph  {see} ADC, 13, 72
+  \item Automatic Address Recognition
+    \subitem  \emph  {see} AAR, 13, 72
 
   \indexspace
 
-  \item CAGD, 223
-    \subitem Splines, 223
-  \item CNN, 17, 221
-  \item Computerized Numerical Control
-    \subitem  \emph  {see} {CNN}, 17, 221
+  \item BLE, 13, 69, 71
+  \item Bluetooth Low Energy
+    \subitem  \emph  {see} BLE, 13, 69
 
   \indexspace
 
-  \item Example, 185
-    \subitem Description, 185
-    \subitem Installation, 185
-    \subitem Introduction, 185
+  \item CCM, 13, 72
+  \item Counter with CBC-MAC
+    \subitem  \emph  {see} {CCM}, 13, 72
 
   \indexspace
 
-  \item IDE, 17, 46, 134
-  \item IMU, 17, 72, 75
+  \item Direkt Memory Access
+    \subitem  \emph  {see} DMA, 13, 72
+  \item DMA, 13, 72
+
+  \indexspace
+
+  \item I\textsuperscript  {2}C, 13, 69--71
+  \item IC, 13, 70, 71
+  \item IDE, 13, 46
+  \item IMU, 13, 69
   \item Integrated Development Environment
-    \subitem  \emph  {see} IDE, 17, 46
+    \subitem  \emph  {see} IDE, 13, 46
+  \item Inter Circuit
+    \subitem  \emph  {see} IC, 13, 70
+  \item Inter-Integrated Circuit
+    \subitem  \emph  {see} I\textsuperscript  {2}C, 13, 69
 
   \indexspace
 
-  \item LED, 17, 89, 90, 94, 97--99, 101, 103, 104
-    \subitem Brightness, 103
-    \subitem Built-in LED, 85
-    \subitem Built-in RGB-LED, 97
-    \subitem Colors, 100
-    \subitem Power LED, 89
+  \item LED, 13, 70
   \item Light Emitting Diode
-    \subitem  \emph  {see} {LED}, 17, 89
+    \subitem  \emph  {see} {LED}, 13, 70
 
   \indexspace
 
-  \item mcd, 17, 98
-  \item Millicandela
-    \subitem  \emph  {see} {mcd}, 17, 98
+  \item Mini Universal Serial Bus
+    \subitem \emph  {see} MSB, 13, 72
+  \item MUSB, 13, 72
 
   \indexspace
 
-  \item PDM, 17, 77
-  \item Pin
-    \subitem Pin 11, 107, 108, 135, 136
-    \subitem Pin 13, 85--87
-    \subitem Pin 22, 98
-    \subitem Pin 22,23,24, 98
-    \subitem Pin 23, 98
-    \subitem Pin 24, 98
-    \subitem Pin 25, 90, 92
-  \item PLC, \see{         Programmable Logic Controller}{221}
+  \item Near Field Communication
+    \subitem  \emph  {see} {NFC}, 13, 72
+  \item NFC, 13, 72
+
+  \indexspace
+
+  \item OLED, 13, 72
+  \item Organic Light Emitting Diode
+    \subitem  \emph  {see} {OLED}, 13, 72
+
+  \indexspace
+
+  \item PDM, 13, 71
   \item Pulse Density Modulation
-    \subitem  \emph  {see} PDM, 17, 77
-  \item Pulse with Modulation
-    \subitem  \emph  {see} PWM Signal, 17, 90
-  \item Push Button
-    \subitem  Built-in Push Button, 107, 135
-  \item PWM Signal, 17, 90, 97, 101
+    \subitem  \emph  {see} PDM, 13, 71
 
   \indexspace
 
-  \item Speicherprogrammierbare Steuerung
-    \subitem  \emph  {see} SPS, 17, 221
-  \item SPS, 17, 221
+  \item SCL, 13, 72
+  \item SDA, 13, 71, 72
+  \item Serial Clock
+    \subitem  \emph  {see} SCL, 13, 72
+  \item Serial Data
+    \subitem  \emph  {see} SDA, 13, 71
+  \item Serial Peripheral Interface
+    \subitem  \emph  {see} SPI, 13, 70
+  \item SMD, 13, 71
+  \item SoC, 13, 69
+  \item SPI, 13, 70, 72
+  \item Surface-Mounted Device
+    \subitem  \emph  {see} SM, 13, 71
+  \item System on Chip
+    \subitem  \emph  {see} SoC, 13, 69
 
   \indexspace
 
-  \item VCC, 17, 132
-  \item Voltage at the Common Collector
-    \subitem  \emph  {see} VCC, 17, 132
+  \item Ultraviolettstrahlung
+    \subitem  \emph  {see} UV, 13, 70
+  \item UV, 13, 70
 
 \end{theindex}
