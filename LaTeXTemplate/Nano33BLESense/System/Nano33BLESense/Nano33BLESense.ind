@@ -12,50 +12,50 @@
     \subitem Nano33BLESenseLE, 30
     \subitem Nano33BLESenseLED, 31, 32
   \item  Inertial Measurement Unit
-    \subitem  \emph  {see} IMU, 11, 49
+    \subitem  \emph  {see} IMU, 11, 50
 
   \indexspace
 
-  \item AAR, 11, 52
-  \item ADC, 11, 52
+  \item AAR, 11, 53
+  \item ADC, 11, 53
   \item Advanced Encryption Standard
-    \subitem  \emph  {see} AES, 11, 52
-  \item AES, 11, 52
+    \subitem  \emph  {see} AES, 11, 53
+  \item AES, 11, 53
   \item Analog to Digital Converter
-    \subitem  \emph  {see} ADC, 11, 52
+    \subitem  \emph  {see} ADC, 11, 53
   \item Automatic Address Recognition
-    \subitem  \emph  {see} AAR, 11, 52
+    \subitem  \emph  {see} AAR, 11, 53
 
   \indexspace
 
-  \item BLE, 11, 49, 51
+  \item BLE, 11, 49, 50, 52
   \item Bluetooth Low Energy
     \subitem  \emph  {see} BLE, 11, 49
 
   \indexspace
 
-  \item CCM, 11, 52
+  \item CCM, 11, 53
   \item Counter with CBC-MAC
-    \subitem  \emph  {see} {CCM}, 11, 52
+    \subitem  \emph  {see} {CCM}, 11, 53
 
   \indexspace
 
   \item Direkt Memory Access
-    \subitem  \emph  {see} DMA, 11, 52
-  \item DMA, 11, 52
+    \subitem  \emph  {see} DMA, 11, 53
+  \item DMA, 11, 53
 
   \indexspace
 
-  \item I\textsuperscript  {2}C, 11, 49--51
-  \item IC, 11, 50, 51
+  \item I\textsuperscript  {2}C, 11, 50--52
+  \item IC, 11, 51
   \item IDE, 11, 44
-  \item IMU, 11, 49
+  \item IMU, 11, 50
   \item Integrated Development Environment
     \subitem  \emph  {see} IDE, 11, 44
   \item Inter Circuit
-    \subitem  \emph  {see} IC, 11, 50
+    \subitem  \emph  {see} IC, 11, 51
   \item Inter-Integrated Circuit
-    \subitem  \emph  {see} I\textsuperscript  {2}C, 11, 49
+    \subitem  \emph  {see} I\textsuperscript  {2}C, 11, 50
 
   \indexspace
 
@@ -66,14 +66,14 @@
   \indexspace
 
   \item Mini Universal Serial Bus
-    \subitem \emph  {see} MSB, 11, 52
-  \item MUSB, 11, 52
+    \subitem \emph  {see} MSB, 11, 53
+  \item MUSB, 11, 53
 
   \indexspace
 
   \item Near Field Communication
-    \subitem  \emph  {see} {NFC}, 11, 52
-  \item NFC, 11, 52
+    \subitem  \emph  {see} {NFC}, 11, 53
+  \item NFC, 11, 53
 
   \indexspace
 
@@ -90,16 +90,16 @@
   \indexspace
 
   \item SCL, 11, 52
-  \item SDA, 11, 51, 52
+  \item SDA, 11, 52
   \item Serial Clock
     \subitem  \emph  {see} SCL, 11, 52
   \item Serial Data
-    \subitem  \emph  {see} SDA, 11, 51
+    \subitem  \emph  {see} SDA, 11, 52
   \item Serial Peripheral Interface
-    \subitem  \emph  {see} SPI, 11, 50
+    \subitem  \emph  {see} SPI, 11, 51
   \item SMD, 11, 51
   \item SoC, 11, 49
-  \item SPI, 11, 50, 52
+  \item SPI, 11, 51, 53
   \item Surface-Mounted Device
     \subitem  \emph  {see} SM, 11, 51
   \item System on Chip

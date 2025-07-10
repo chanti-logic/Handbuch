@@ -1,6 +1,6 @@
-This is makeindex, version 2.17 [TeX Live 2025] (kpathsea + Thai support).
+This is makeindex, version 2.16 [MiKTeX 25.3].
 Scanning input file Nano33BLESense.idx....done (119 entries accepted, 0 rejected).
-Sorting entries....done (869 comparisons).
+Sorting entries....done (876 comparisons).
 Generating output file Nano33BLESense.ind....done (114 lines written, 0 warnings).
 Output written in Nano33BLESense.ind.
 Transcript written in Nano33BLESense.ilg.

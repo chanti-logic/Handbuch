@@ -43,23 +43,18 @@
 \contentsline {figure}{\numberline {5.9}{\ignorespaces LED-Built Example}}{44}{figure.5.9}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Arduino Nano 33 BLE Sense (Vereinfachte Darstellung)}}{49}{figure.caption.14}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Arduino Nano Pinbelegung \blx@tocontentsinit {0}\cite {Ard.2024}}}{51}{figure.caption.15}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Arduino Nano Pinbelegung \blx@tocontentsinit {0}\cite {Ard.2024}}}{52}{figure.caption.15}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{60}{figure.caption.17}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{62}{figure.caption.20}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{63}{figure.caption.24}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{62}{figure.caption.17}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{64}{figure.caption.20}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{65}{figure.caption.24}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Anschluss des Sensors ans den Arduino Nano 33 BLE Sense}}{72}{figure.caption.36}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{73}{figure.caption.38}%
-\contentsline {figure}{\numberline {10.3}{\ignorespaces Installation der TimerOne Bibliothek}}{74}{figure.caption.39}%
-\contentsline {figure}{\numberline {10.4}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{74}{figure.caption.40}%
-\contentsline {figure}{\numberline {10.5}{\ignorespaces wird noch in Code umgewandelt!}}{76}{figure.caption.41}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{75}{figure.caption.36}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Installation der TimerOne Bibliothek}}{75}{figure.caption.37}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{76}{figure.caption.38}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {11.1}{\ignorespaces Installation der U8g2 Bibliothek}}{79}{figure.caption.44}%
-\contentsline {figure}{\numberline {11.2}{\ignorespaces wird noch in Code umgewandelt!}}{79}{figure.caption.45}%
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Installation der U8g2 Bibliothek}}{81}{figure.caption.41}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
