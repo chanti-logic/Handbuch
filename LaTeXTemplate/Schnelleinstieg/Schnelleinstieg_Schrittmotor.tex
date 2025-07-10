@@ -11,9 +11,6 @@
 \usepackage{hyperref}
 
 \begin{document}
-
-
-	
 	\chapter{Schnelleinstieg für den Schrittmotor Demonstrator}
 	
 	\section{Lieferumfang}
@@ -34,22 +31,24 @@
 	\section{Inbetriebnahme}
 	
 	\begin{figure}[htpb]
+		\vspace{-2.5cm}
 		\centering
-		\begin{tikzpicture}
-			\tikzstyle{every node}=[font=\LARGE]
-		\draw [ color={rgb,255:red,186; green,186; blue,186} , fill={rgb,255:red,186; green,186; blue,186}] (0,5) rectangle (15,0);
-		\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (8,3.5) rectangle  node {\Large Display} (11,1.5);
-		\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (13.5,4.5) rectangle (14.5,4);
-		\node [font=\large, color={rgb,255:red,255; green,0; blue,0}] at (13.65,4.25) {0};
-		\node [font=\large, color={rgb,255:red,255; green,0; blue,0}] at (14.35,4.25) {I};
-		\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (12,2.5) circle (0.5cm);
-		\draw [ color={rgb,255:red,255; green,0; blue,0} , fill={rgb,255:red,255; green,0; blue,0}] (13.5,2) circle (0.25cm);
-		\draw [ color={rgb,255:red,0; green,163; blue,41} , fill={rgb,255:red,0; green,163; blue,41}] (13.5,3) circle (0.25cm);
-		\node [font=\LARGE, color={rgb,255:red,255; green,255; blue,255}] at (9.5,2.5) {1};
-		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (12,2.5) {2};
-		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (13.5,3) {3};
-		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (13.5,2) {4};
-		\node [font=\large, color={rgb,255:red,255; green,255; blue,255}] at (14,4.25) {5};
+		\begin{tikzpicture}[scale=0.6]
+\tikzstyle{every node}=[font=\large]
+\draw [ color={rgb,255:red,128; green,128; blue,128} , fill={rgb,255:red,128; green,128; blue,128}] (1.5,6.25) rectangle (27.5,0);
+\draw [ color={rgb,255:red,18; green,10; blue,69} , fill={rgb,255:red,18; green,10; blue,69}] (16.5,5.25) rectangle (19.5,3.75);
+\draw [ fill={rgb,255:red,255; green,0; blue,0} , line width=1.4pt ] (25,2.25) circle (0.25cm);
+\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (22.25,4.5) circle (0.5cm);
+\draw [ fill={rgb,255:red,0; green,0; blue,0} ] (13.25,9.75) circle (0cm);
+\draw [ fill={rgb,255:red,43; green,172; blue,4} , line width=1.6pt ] (25,3.75) circle (0.25cm);
+\draw [line width=2pt] (14.25,6.25) -- (14.25,0);
+\draw [line width=2pt] (24.5,6.25) -- (25.25,6.5);
+\draw [line width=2pt] (25.25,6.5) -- (25.25,6.25);
+\node [font=\large] at (20,4.5) {1};
+\node [font=\large] at (23.25,4.5) {2};
+\node [font=\large] at (25.75,3.75) {3};
+\node [font=\large] at (25.75,2.25) {4};
+\node [font=\large] at (25.75,5.75) {5};
 		\end{tikzpicture}
 		\caption{Elemente auf der Frontblende des Demonstrators}
 		\label{tikz:Frontblende}
