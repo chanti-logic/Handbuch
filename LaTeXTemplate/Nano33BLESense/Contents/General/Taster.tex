@@ -52,6 +52,44 @@ Im Folgenden ist ein Beispiel gegeben, in dem der DS an drei Positionen mit Ausg
 	\label{fig:CodeStufenDrehschalter}
 \end{figure}
 
+\begin{lstlisting}
+	// Pin definitions
+	const int startButtonPin = 2;  // Green button: Start
+	const int stopButtonPin  = 3;  // Red button: Stop
+	
+	void setup() 
+	{
+		// Start serial communication
+		Serial.begin(9600);
+		
+		// Set pins as inputs with internal pull-up resistors
+		pinMode(startButtonPin, INPUT_PULLUP);
+		pinMode(stopButtonPin, INPUT_PULLUP);
+	}
+	
+	void loop() 
+	{
+		// Read button states (LOW means pressed due to pull-up)
+		bool startPressed = digitalRead(startButtonPin) == LOW;
+		bool stopPressed  = digitalRead(stopButtonPin) == LOW;
+		
+		// Print status when button is pressed
+		if (startPressed) 
+		{
+			Serial.println("START button pressed");
+			delay(300);  // Basic debounce delay
+		}
+		
+		if (stopPressed) 
+		{
+			Serial.println("STOP button pressed");
+			delay(300);  // Basic debounce delay
+		}
+	}
+	
+\end{lstlisting}
+	
+	
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=1\textwidth]{StufenDrehschalter/CodeStufenDrehschalter.png}
