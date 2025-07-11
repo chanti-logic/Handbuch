@@ -9,129 +9,103 @@
 \contentsline {section}{\numberline {1.3}Umsetzung}{13}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Ergebnis}{14}{section.1.4}%
 \contentsline {part}{\numberline {I}Arduino IDE}{15}{part.1}%
-\contentsline {chapter}{\numberline {2}Beschreibung der Software IDE}{17}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Installation der Arduino IDE}{17}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Beschreibung der Entwicklungsumgebung}{17}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Erste Schritte in der Entwicklungsumgebung}{17}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Auswahl des Mikrocontrollers}{17}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Bibliotheken einbinden}{18}{subsection.2.3.2}%
-\contentsline {section}{\numberline {2.4}Programmierung}{18}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}header}{18}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}setup()}{18}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}loop()}{18}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Erster Programmtest}{19}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Arduino IDE 2.3.6}{21}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Beschreibung der Arduino IDE}{21}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Installation of the Arduino IDE}{22}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Download of the Arduino IDE}{22}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Summary of Options}{22}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Installation on Windows}{23}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Installation (MacOS)}{25}{subsection.3.2.4}%
-\contentsline {section}{\numberline {3.3}Overview}{27}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Features}{28}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Sketchbook}{28}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Boards Manager}{29}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Library Manager}{29}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Integrating and Using a Custom Library in Arduino IDE}{30}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Creating the Library Files}{30}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Installation and Integration of the Library}{30}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Using Symbolic Links for Library Integration}{30}{subsection.3.5.3}%
-\contentsline {subsection}{\numberline {3.5.4}Windows Tool \textcolor {ShellColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-mklink}} to Create Symbolic Links}{30}{subsection.3.5.4}%
-\contentsline {subsection}{\numberline {3.5.5}MacOS Command \textcolor {ShellColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-ln -s}} to Create Symbolic Links}{32}{subsection.3.5.5}%
-\contentsline {subsection}{\numberline {3.5.6}Verifying Library Availability in the Arduino IDE}{32}{subsection.3.5.6}%
-\contentsline {subsection}{\numberline {3.5.7}Serial Monitor}{33}{subsection.3.5.7}%
-\contentsline {subsection}{\numberline {3.5.8}Serial Plotter}{33}{subsection.3.5.8}%
-\contentsline {section}{\numberline {3.6}Examples}{33}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Debugging}{34}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Autocompletion}{34}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Conclusion}{35}{section.3.9}%
-\contentsline {chapter}{\numberline {4}To-Do}{37}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Setup for the Arduino Nano 33 BLE Sense}{39}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{39}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Configuration for the Arduino Nano 33 BLE Sense}{39}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Installation of the driver}{39}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Connection and Configuration of the Arduino Board to the Computer}{40}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Select the Appropriate Port}{40}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Upload and Verify a Sketch}{42}{subsection.5.2.4}%
-\contentsline {section}{\numberline {5.3}Test the Configuration}{43}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Testing the Steps by an Example Sketch \textcolor {FileColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-blink.ino}}}{43}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Description of Basic Sketch for Printing 'Hello'}{44}{subsection.5.3.2}%
-\contentsline {part}{\numberline {II}Arduino Nano 33 BLE Sense - Onboard Sensoren}{47}{part.2}%
-\contentsline {chapter}{\numberline {6}Hardwarebeschreibung des Arduino}{49}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Aufbau des Arduinos}{49}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Integrierte Sensorik}{50}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}9-Achs-IMU für die Bewegungserkennung (LSM9DS1)}{50}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Näherungs-,Umgebungslicht-, Farb- und Gestensensor (APDS9960)}{50}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Barometrischer Drucksensor (LPS22HB)}{51}{subsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.2.4}Sensor für relative Luftfeuchtigkeit und Temperatur (HTS221)}{51}{subsection.6.2.4}%
-\contentsline {subsection}{\numberline {6.2.5}Digitales Mikrophon (MP34DT05)}{51}{subsection.6.2.5}%
-\contentsline {subsection}{\numberline {6.2.6}DC-DC-Wandler (MPM3610)}{51}{subsection.6.2.6}%
-\contentsline {section}{\numberline {6.3}Beschreibung der Schnittstellen}{52}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}I\textsuperscript {2}C}{52}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}USB}{53}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Bluetooth\textregistered 5}{53}{subsection.6.3.3}%
-\contentsline {subsection}{\numberline {6.3.4}Weitere Kommunikationsschnittstellen}{53}{subsection.6.3.4}%
-\contentsline {subsection}{\numberline {6.3.5}Digitale Ein- und Ausgangspins}{53}{subsection.6.3.5}%
-\contentsline {subsection}{\numberline {6.3.6}Analoge Eingangspins}{54}{subsection.6.3.6}%
-\contentsline {subsection}{\numberline {6.3.7}Weitere Pins}{54}{subsection.6.3.7}%
-\contentsline {subsection}{\numberline {6.3.8}Reset-Knopf}{54}{subsection.6.3.8}%
-\contentsline {subsection}{\numberline {6.3.9}LED-Lampen}{54}{subsection.6.3.9}%
-\contentsline {section}{\numberline {6.4}Hinweis Arduino 33 BLE Sense Lite }{55}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Bezugsquellen}{55}{section.6.5}%
-\contentsline {part}{\numberline {III}Arduino Nano 33 BLE Sense - External Sensors and Actors}{57}{part.3}%
-\contentsline {chapter}{\numberline {7}Drehwinkel-Encoder}{59}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Encoder}{59}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Drehwinkel-Encoder}{59}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Schrittmotor NEMA 17}{61}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Beschreibung eines Schrittmotors}{61}{section.8.1}%
-\contentsline {subsection}{\numberline {8.1.1}Aufbau und Funktionsweise eines Schrittmotors}{61}{subsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.1.2}Schrittmotor Bauformen}{62}{subsection.8.1.2}%
-\contentsline {subsection}{\numberline {8.1.3}Betriebsarten unipolar und bipolar}{63}{subsection.8.1.3}%
-\contentsline {subsection}{\numberline {8.1.4}Mikroschrittverfahren}{63}{subsection.8.1.4}%
-\contentsline {section}{\numberline {8.2}Schrittverluste verhindern}{64}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Auswahl des Schrittmotors}{64}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}Betriebsart}{64}{subsection.8.2.2}%
-\contentsline {subsubsection}{\nonumberline Start-Stopp-Betrieb}{64}{subsubsection*.19}%
-\contentsline {subsubsection}{\nonumberline Beschleunigung und Rampenprofil (Trapezförmig)}{65}{subsubsection*.23}%
-\contentsline {subsection}{\numberline {8.2.3}Externe Ereignisse}{66}{subsection.8.2.3}%
-\contentsline {subsubsection}{\nonumberline Lastrückkopplung}{66}{subsubsection*.26}%
-\contentsline {subsubsection}{\nonumberline Erhöhung der Nutzlast mit der Zeit}{67}{subsubsection*.28}%
-\contentsline {section}{\numberline {8.3}Beschreibung des verwendeten Schrittmotors}{67}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Spezifikation}{67}{section.8.4}%
-\contentsline {chapter}{\numberline {9}Schrittmotortreiber DRV8825}{69}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Allgemeine Beschreibung eines Motortreibers}{69}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Spezifische Beschreibung des Schrittmotortreibers DRV8825}{69}{section.9.2}%
-\contentsline {subsection}{\numberline {9.2.1}Anschluss des Treibers mit dem Arduino Nano 33 BLE Sense}{69}{subsection.9.2.1}%
-\contentsline {section}{\numberline {9.3}Spezifikationen}{70}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Kalibrierung}{70}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Einfaches Beispiel mit Code}{70}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Weiterführende Literatur}{71}{section.9.6}%
-\contentsline {chapter}{\numberline {10}Geschwindigkeitssensor LM393}{73}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Allgemeine Beschreibung des Sensors}{73}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Spezifische Beschreibung des Sensors}{73}{section.10.2}%
-\contentsline {subsection}{\numberline {10.2.1}Funktionsweise der Lichtschranke}{73}{subsection.10.2.1}%
-\contentsline {subsection}{\numberline {10.2.2}Signalverarbeitung mit dem LM393 Komparator}{74}{subsection.10.2.2}%
-\contentsline {subsection}{\numberline {10.2.3}Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}{74}{subsection.10.2.3}%
-\contentsline {section}{\numberline {10.3}Spezifikationen}{74}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Bibliothek}{74}{section.10.4}%
-\contentsline {subsection}{\numberline {10.4.1}Installation}{74}{subsection.10.4.1}%
-\contentsline {subsection}{\numberline {10.4.2}Code-Beispiel}{75}{subsection.10.4.2}%
-\contentsline {section}{\numberline {10.5}Kalibrierung}{76}{section.10.5}%
-\contentsline {section}{\numberline {10.6}Einfaches Beispiel mit Code}{76}{section.10.6}%
-\contentsline {section}{\numberline {10.7}Tests}{77}{section.10.7}%
-\contentsline {section}{\numberline {10.8}Weiterführende Literatur}{78}{section.10.8}%
-\contentsline {chapter}{\numberline {11}OLED-Display}{79}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Allgemeine Beschreibung eines OLED-Displays}{79}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Spezifische Beschreibung OLED-Displays}{79}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}{79}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Spezifikationen}{80}{section.11.4}%
-\contentsline {section}{\numberline {11.5}Bibliothek}{80}{section.11.5}%
-\contentsline {subsection}{\numberline {11.5.1}Installation}{80}{subsection.11.5.1}%
-\contentsline {subsection}{\numberline {11.5.2}Code-Beispiel}{80}{subsection.11.5.2}%
-\contentsline {section}{\numberline {11.6}Einfaches Beispiel mit Code}{80}{section.11.6}%
-\contentsline {section}{\numberline {11.7}Weiterführende Literatur}{81}{section.11.7}%
-\contentsline {part}{\numberline {IV}Anhang}{83}{part.4}%
-\contentsline {chapter}{\numberline {12}Materialliste}{85}{chapter.12}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{89}{chapter*.42}%
-\contentsline {chapter}{Stichwortverzeichnis}{92}{chapter*.42}%
-\contentsline {chapter}{Index}{93}{chapter*.42}%
+\contentsline {chapter}{\numberline {2}Arduino IDE 2.3.6}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Beschreibung der Arduino IDE}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Installation of the Arduino IDE}{17}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Download of the Arduino IDE}{17}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.3}Übersicht}{18}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Funktionen}{18}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Sketchbook}{19}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Boards Manager}{19}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Library Manager}{20}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Beispiele}{20}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Debugging}{21}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Setup for the Arduino Nano 33 BLE Sense}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Configuration for the Arduino Nano 33 BLE Sense}{23}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Installation of the driver}{23}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Connection and Configuration of the Arduino Board to the Computer}{24}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Select the Appropriate Port}{24}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Upload and Verify a Sketch}{26}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Test the Configuration}{27}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Testing the Steps by an Example Sketch \textcolor {FileColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-blink.ino}}}{27}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Description of Basic Sketch for Printing 'Hello'}{28}{subsection.3.3.2}%
+\contentsline {part}{\numberline {II}Arduino Nano 33 BLE Sense - Onboard Sensoren}{31}{part.2}%
+\contentsline {chapter}{\numberline {4}Hardwarebeschreibung des Arduino}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Aufbau des Arduinos}{33}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Integrierte Sensorik}{34}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}9-Achs-IMU für die Bewegungserkennung (LSM9DS1)}{34}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Näherungs-,Umgebungslicht-, Farb- und Gestensensor (APDS9960)}{34}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Barometrischer Drucksensor (LPS22HB)}{35}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Sensor für relative Luftfeuchtigkeit und Temperatur (HTS221)}{35}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Digitales Mikrophon (MP34DT05)}{35}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}DC-DC-Wandler (MPM3610)}{35}{subsection.4.2.6}%
+\contentsline {section}{\numberline {4.3}Beschreibung der Schnittstellen}{36}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}I\textsuperscript {2}C}{36}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}USB}{37}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Bluetooth\textregistered 5}{37}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Weitere Kommunikationsschnittstellen}{37}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Digitale Ein- und Ausgangspins}{37}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Analoge Eingangspins}{38}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}Weitere Pins}{38}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}Reset-Knopf}{38}{subsection.4.3.8}%
+\contentsline {subsection}{\numberline {4.3.9}LED-Lampen}{38}{subsection.4.3.9}%
+\contentsline {section}{\numberline {4.4}Hinweis Arduino 33 BLE Sense Lite }{39}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Bezugsquellen}{39}{section.4.5}%
+\contentsline {part}{\numberline {III}Arduino Nano 33 BLE Sense - External Sensors and Actors}{41}{part.3}%
+\contentsline {chapter}{\numberline {5}Drehwinkel-Encoder}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Encoder}{43}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Drehwinkel-Encoder}{43}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Schrittmotor NEMA 17}{45}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Beschreibung eines Schrittmotors}{45}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Aufbau und Funktionsweise eines Schrittmotors}{45}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Schrittmotor Bauformen}{46}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Betriebsarten unipolar und bipolar}{47}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Mikroschrittverfahren}{47}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Schrittverluste verhindern}{48}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Auswahl des Schrittmotors}{48}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Betriebsart}{48}{subsection.6.2.2}%
+\contentsline {subsubsection}{\nonumberline Start-Stopp-Betrieb}{48}{subsubsection*.14}%
+\contentsline {subsubsection}{\nonumberline Beschleunigung und Rampenprofil (Trapezförmig)}{49}{subsubsection*.18}%
+\contentsline {subsection}{\numberline {6.2.3}Externe Ereignisse}{50}{subsection.6.2.3}%
+\contentsline {subsubsection}{\nonumberline Lastrückkopplung}{50}{subsubsection*.21}%
+\contentsline {subsubsection}{\nonumberline Erhöhung der Nutzlast mit der Zeit}{51}{subsubsection*.23}%
+\contentsline {section}{\numberline {6.3}Beschreibung des verwendeten Schrittmotors}{51}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Spezifikation}{51}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Schrittmotortreiber DRV8825}{53}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Allgemeine Beschreibung eines Motortreibers}{53}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Spezifische Beschreibung des Schrittmotortreibers DRV8825}{53}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Anschluss des Treibers mit dem Arduino Nano 33 BLE Sense}{53}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.3}Spezifikationen}{54}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Kalibrierung}{54}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Einfaches Beispiel mit Code}{54}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Weiterführende Literatur}{55}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Geschwindigkeitssensor LM393}{57}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Allgemeine Beschreibung des Sensors}{57}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Spezifische Beschreibung des Sensors}{57}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Funktionsweise der Lichtschranke}{57}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Signalverarbeitung mit dem LM393 Komparator}{58}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}{58}{subsection.8.2.3}%
+\contentsline {section}{\numberline {8.3}Spezifikationen}{58}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Bibliothek}{58}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Installation}{58}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}Code-Beispiel}{59}{subsection.8.4.2}%
+\contentsline {section}{\numberline {8.5}Kalibrierung}{60}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Einfaches Beispiel mit Code}{60}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Tests}{61}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Weiterführende Literatur}{62}{section.8.8}%
+\contentsline {chapter}{\numberline {9}OLED-Display}{63}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Allgemeine Beschreibung eines OLED-Displays}{63}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Spezifische Beschreibung OLED-Displays}{63}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}{63}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Spezifikationen}{64}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Bibliothek}{64}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}Installation}{64}{subsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.5.2}Code-Beispiel}{64}{subsection.9.5.2}%
+\contentsline {section}{\numberline {9.6}Einfaches Beispiel mit Code}{64}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Weiterführende Literatur}{65}{section.9.7}%
+\contentsline {part}{\numberline {IV}Anhang}{67}{part.4}%
+\contentsline {chapter}{\numberline {10}Materialliste}{69}{chapter.10}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{73}{chapter*.37}%
+\contentsline {chapter}{Stichwortverzeichnis}{76}{chapter*.37}%
+\contentsline {chapter}{Index}{77}{chapter*.37}%

@@ -40,80 +40,67 @@
 \indexentry{Serial Peripheral Interface! \emph  {see} SPI}{11}
 \indexentry{UV}{11}
 \indexentry{Ultraviolettstrahlung! \emph  {see} UV}{11}
-\indexentry{ File!MySketch.ino}{28}
-\indexentry{ File!MySketch}{28}
-\indexentry{ File!Arduino}{28}
-\indexentry{ File!Nano33BLESenseLE}{30}
-\indexentry{ File!libraries}{30}
-\indexentry{ File!libraries}{30}
-\indexentry{ File!libraries}{31}
-\indexentry{ File!libraries}{31}
-\indexentry{ File!Nano33BLESenseLED}{31}
-\indexentry{ File!libraries}{32}
-\indexentry{ File!libraries}{32}
-\indexentry{ File!Nano33BLESenseLED}{32}
-\indexentry{ File!Nano33BLESenseLED}{32}
-\indexentry{ File!blnik.ino}{39}
-\indexentry{ File!blink.ino}{43}
-\indexentry{ File!blink.ino}{43}
-\indexentry{ File!blink.ino}{43}
-\indexentry{ File!blink.ino}{44}
-\indexentry{ File!blink.ino}{44}
-\indexentry{Integrated Development Environment! \emph  {see} IDE}{44}
-\indexentry{IDE}{44}
-\indexentry{ File!File/Examples/01.Basics}{44}
-\indexentry{ File!Fade}{44}
-\indexentry{Bluetooth Low Energy! \emph  {see} BLE}{49}
-\indexentry{BLE}{49}
-\indexentry{System on Chip! \emph  {see} SoC}{49}
-\indexentry{SoC}{49}
-\indexentry{BLE}{50}
-\indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{50}
-\indexentry{IMU}{50}
-\indexentry{Inter-Integrated Circuit! \emph  {see} I\textsuperscript  {2}C}{50}
-\indexentry{I\textsuperscript  {2}C}{50}
-\indexentry{Light Emitting Diode! \emph  {see} {LED}}{50}
-\indexentry{LED}{50}
-\indexentry{LED}{50}
-\indexentry{Ultraviolettstrahlung! \emph  {see} UV}{50}
-\indexentry{UV}{50}
-\indexentry{Inter Circuit! \emph  {see} IC}{51}
-\indexentry{IC}{51}
-\indexentry{I\textsuperscript  {2}C}{51}
-\indexentry{Serial Peripheral Interface! \emph  {see} SPI}{51}
-\indexentry{SPI}{51}
-\indexentry{IC}{51}
-\indexentry{IC}{51}
-\indexentry{Pulse Density Modulation! \emph  {see} PDM}{51}
-\indexentry{PDM}{51}
-\indexentry{Surface-Mounted Device! \emph  {see} SM}{51}
-\indexentry{SMD}{51}
-\indexentry{BLE}{52}
-\indexentry{I\textsuperscript  {2}C}{52}
-\indexentry{Serial Data! \emph  {see} SDA}{52}
-\indexentry{SDA}{52}
-\indexentry{Serial Clock! \emph  {see} SCL}{52}
-\indexentry{SCL}{52}
-\indexentry{SDA}{52}
-\indexentry{SCL}{52}
-\indexentry{Organic Light Emitting Diode! \emph  {see} {OLED}}{52}
-\indexentry{OLED}{52}
-\indexentry{Mini Universal Serial Bus!\emph  {see} MSB}{53}
-\indexentry{MUSB}{53}
-\indexentry{MUSB}{53}
-\indexentry{Near Field Communication! \emph  {see} {NFC}}{53}
-\indexentry{NFC}{53}
-\indexentry{NFC}{53}
-\indexentry{NFC}{53}
-\indexentry{NFC}{53}
-\indexentry{Direkt Memory Access! \emph  {see} DMA}{53}
-\indexentry{DMA}{53}
-\indexentry{Analog to Digital Converter! \emph  {see} ADC}{53}
-\indexentry{ADC}{53}
-\indexentry{Advanced Encryption Standard! \emph  {see} AES}{53}
-\indexentry{AES}{53}
-\indexentry{Counter with CBC-MAC! \emph  {see} {CCM}}{53}
-\indexentry{CCM}{53}
-\indexentry{Automatic Address Recognition! \emph  {see} AAR}{53}
-\indexentry{AAR}{53}
-\indexentry{SPI}{53}
+\indexentry{ File!blnik.ino}{23}
+\indexentry{ File!blink.ino}{27}
+\indexentry{ File!blink.ino}{27}
+\indexentry{ File!blink.ino}{27}
+\indexentry{ File!blink.ino}{28}
+\indexentry{ File!blink.ino}{28}
+\indexentry{Integrated Development Environment! \emph  {see} IDE}{28}
+\indexentry{IDE}{28}
+\indexentry{ File!File/Examples/01.Basics}{28}
+\indexentry{ File!Fade}{28}
+\indexentry{Bluetooth Low Energy! \emph  {see} BLE}{33}
+\indexentry{BLE}{33}
+\indexentry{System on Chip! \emph  {see} SoC}{33}
+\indexentry{SoC}{33}
+\indexentry{BLE}{34}
+\indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{34}
+\indexentry{IMU}{34}
+\indexentry{Inter-Integrated Circuit! \emph  {see} I\textsuperscript  {2}C}{34}
+\indexentry{I\textsuperscript  {2}C}{34}
+\indexentry{Light Emitting Diode! \emph  {see} {LED}}{34}
+\indexentry{LED}{34}
+\indexentry{LED}{34}
+\indexentry{Ultraviolettstrahlung! \emph  {see} UV}{34}
+\indexentry{UV}{34}
+\indexentry{Inter Circuit! \emph  {see} IC}{35}
+\indexentry{IC}{35}
+\indexentry{I\textsuperscript  {2}C}{35}
+\indexentry{Serial Peripheral Interface! \emph  {see} SPI}{35}
+\indexentry{SPI}{35}
+\indexentry{IC}{35}
+\indexentry{IC}{35}
+\indexentry{Pulse Density Modulation! \emph  {see} PDM}{35}
+\indexentry{PDM}{35}
+\indexentry{Surface-Mounted Device! \emph  {see} SM}{35}
+\indexentry{SMD}{35}
+\indexentry{BLE}{36}
+\indexentry{I\textsuperscript  {2}C}{36}
+\indexentry{Serial Data! \emph  {see} SDA}{36}
+\indexentry{SDA}{36}
+\indexentry{Serial Clock! \emph  {see} SCL}{36}
+\indexentry{SCL}{36}
+\indexentry{SDA}{36}
+\indexentry{SCL}{36}
+\indexentry{Organic Light Emitting Diode! \emph  {see} {OLED}}{36}
+\indexentry{OLED}{36}
+\indexentry{Mini Universal Serial Bus!\emph  {see} MSB}{37}
+\indexentry{MUSB}{37}
+\indexentry{MUSB}{37}
+\indexentry{Near Field Communication! \emph  {see} {NFC}}{37}
+\indexentry{NFC}{37}
+\indexentry{NFC}{37}
+\indexentry{NFC}{37}
+\indexentry{NFC}{37}
+\indexentry{Direkt Memory Access! \emph  {see} DMA}{37}
+\indexentry{DMA}{37}
+\indexentry{Analog to Digital Converter! \emph  {see} ADC}{37}
+\indexentry{ADC}{37}
+\indexentry{Advanced Encryption Standard! \emph  {see} AES}{37}
+\indexentry{AES}{37}
+\indexentry{Counter with CBC-MAC! \emph  {see} {CCM}}{37}
+\indexentry{CCM}{37}
+\indexentry{Automatic Address Recognition! \emph  {see} AAR}{37}
+\indexentry{AAR}{37}
+\indexentry{SPI}{37}
