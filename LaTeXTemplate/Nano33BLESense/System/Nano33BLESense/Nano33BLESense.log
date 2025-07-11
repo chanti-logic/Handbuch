@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.3)  11 JUL 2025 15:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.3)  11 JUL 2025 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4888,7 +4888,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
  []
 
 
-Overfull \hbox (0.14261pt too wide) in alignment at lines 15--70
+Underfull \hbox (badness 7981) in paragraph at lines 66--66
+[]|\T1/lmr/m/n/7 (+20) Entwicklerboards -
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 66--66
+[]|\T1/lmr/m/n/7 (+20) DEBO SPEED
+ []
+
+<../../Images/Materialliste/sensor.png, id=1368, 602.25pt x 412.54124pt>
+File: ../../Images/Materialliste/sensor.png Graphic file (type png)
+<use ../../Images/Materialliste/sensor.png>
+Package pdftex.def Info: ../../Images/Materialliste/sensor.png  used on input l
+ine 66.
+(pdftex.def)             Requested size: 42.67912pt x 29.23334pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+[]|[]$\T1/pcr/m/n/7 www . reichelt .
+ []
+
+
+Overfull \hbox (0.14261pt too wide) in alignment at lines 15--72
  [] [] [] [] [] [] [] 
  []
 
@@ -4924,7 +4945,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
 [87 <../../Images/Materialliste/unterlegscheibe.png> <../../Images/Materiallist
-e/loetzinn.png>]
+e/loetzinn.png> <../../Images/Materialliste/sensor.png>]
 
 [88
 
@@ -5051,10 +5072,10 @@ Package logreq Info: Writing requests to 'Nano33BLESense.run.xml'.
 ### simple group (level 1) entered at line 67 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 100858 strings out of 473523
- 2719023 string characters out of 5714631
- 3911742 words of memory out of 5000000
- 122023 multiletter control sequences out of 15000+600000
+ 100867 strings out of 473523
+ 2719390 string characters out of 5714631
+ 3913742 words of memory out of 5000000
+ 122032 multiletter control sequences out of 15000+600000
  727211 words of font info for 437 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  108i,12n,134p,10911b,3476s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -5077,9 +5098,9 @@ bx10.pfb><C:/Users/perew/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
 sy10.pfb><C:/Users/perew/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/
 ucrb8a.pfb><C:/Users/perew/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courie
 r/ucrr8a.pfb>
-Output written on Nano33BLESense.pdf (93 pages, 10466540 bytes).
+Output written on Nano33BLESense.pdf (93 pages, 10729789 bytes).
 PDF statistics:
- 2120 PDF objects out of 2487 (max. 8388607)
+ 2124 PDF objects out of 2487 (max. 8388607)
  525 named destinations out of 1000 (max. 500000)
- 79834 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 79839 words of extra memory for PDF output out of 89155 (max. 10000000)
 
