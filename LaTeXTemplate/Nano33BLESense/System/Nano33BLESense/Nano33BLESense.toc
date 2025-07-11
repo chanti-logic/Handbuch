@@ -20,13 +20,13 @@
 \contentsline {subsection}{\numberline {2.4.3}Library Manager}{20}{subsection.2.4.3}%
 \contentsline {section}{\numberline {2.5}Beispiele}{20}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Debugging}{21}{section.2.6}%
-\contentsline {chapter}{\numberline {3}Setup for the Arduino Nano 33 BLE Sense}{23}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{23}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Configuration for the Arduino Nano 33 BLE Sense}{23}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Installation of the driver}{23}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Connection and Configuration of the Arduino Board to the Computer}{24}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Select the Appropriate Port}{24}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Upload and Verify a Sketch}{26}{subsection.3.2.4}%
+\contentsline {chapter}{\numberline {3}Setup für den Arduino Nano 33 BLE Sense}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Einführung}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Konfiguration für den Arduino Nano 33 BLE Sense}{23}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Installation des Treibers}{23}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Verbindung und Konfiguration des Arduino-Boards mit dem Computer}{24}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Auswahl des passenden Ports}{24}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Sketch hochladen und überprüfen}{26}{subsection.3.2.4}%
 \contentsline {section}{\numberline {3.3}Test the Configuration}{27}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Testing the Steps by an Example Sketch \textcolor {FileColor}{\texttt {\fontdimen 2\font =0.4em\fontdimen 3\font =0.2em\fontdimen 4\font =0.1em\fontdimen 7\font =0.1em\hyphenchar \font =`\-blink.ino}}}{27}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Description of Basic Sketch for Printing 'Hello'}{28}{subsection.3.3.2}%
