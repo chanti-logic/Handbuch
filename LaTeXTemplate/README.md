@@ -16,9 +16,16 @@ Mey, Hannah, XXXX
 Perewersenko, Jessica, 7024880
 
 # Projektbeschreibung: 
-Das Ziel des Projekts ist es, mit dem Arduino Nano 33 BLE Sense einen modularen Demonstrator zu entwickeln. Dieser demonstriert die Erfassung von Geschwindigkeiten mithilfe eines Geschwindigkeitssensors und nutzt BLE zur drahtlosen Kommunikation. Zudem werden Hardware- und Softwareintegration sowie die Erstellung einer umfassenden LaTeX-Dokumentation umgesetzt. Bestandteil des Projekts sind detaillierte Anleitungen (Montage, Demontage, Schnelleinstieg), ein Handbuch, ein Poster und Präsentationen.
+Im Rahmen dieses Projekts wurde ein vorhandener CNC-Tisch erweitert, um einen seiner Schrittmotoren als Demonstrator mit variabler Geschwindigkeitsregelung zubetreiben. 
+Ziel war es, die technische Integration und Ansteuerung über einen Arduino Nano 33 BLE Sense umzusetzen und gleichzeitig eine benutzerfreundliche Bedienoberfläche zu schaffen.
+
+# Aufgabenstellung:
+Die Hauptaufgabe bestand darin, einen Schrittmotor des CNC-Tisches in mehreren Geschwindigkeitsstufen betreiben zu können. 
+Die Steuerung sollte über einen Arduino Nano 33 BLE Sense erfolgen, wobei die Auswahl der Geschwindigkeit über Bedienelemente möglich sein sollte. 
+Zusätzlich sollte ein optischer Geschwindigkeitssensor vom Typ LM393 die Drehzahl erfassen und zur Kontrolle auf einem Display ausgeben.
 
 # Verzeichnisstruktur: 
+
 ## Autor und README
 - [Author-Excel](author.xlsx)
   - Excel-Datei in der persönliche Daten über die einzelnen Gruppenmitglieder wiederzufinden sind
