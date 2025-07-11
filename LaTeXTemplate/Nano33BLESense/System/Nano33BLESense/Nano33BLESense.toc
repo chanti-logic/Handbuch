@@ -132,6 +132,6 @@
 \contentsline {section}{\numberline {11.7}Weiterführende Literatur}{81}{section.11.7}%
 \contentsline {part}{\numberline {IV}Anhang}{83}{part.4}%
 \contentsline {chapter}{\numberline {12}Materialliste}{85}{chapter.12}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{87}{chapter*.42}%
-\contentsline {chapter}{Stichwortverzeichnis}{93}{chapter*.42}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{89}{chapter*.42}%
+\contentsline {chapter}{Stichwortverzeichnis}{92}{chapter*.42}%
 \contentsline {chapter}{Index}{93}{chapter*.42}%
