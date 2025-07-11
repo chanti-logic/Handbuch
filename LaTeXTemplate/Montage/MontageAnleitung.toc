@@ -6,24 +6,26 @@
 \contentsline {chapter}{\numberline {2}Materialliste}{3}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Gehäuse}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Fertigung}{7}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Anbringung der Loochscheibe des Geschwindigkeitssensors LM393}{7}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Vorbereiten der elektrischen Leitungen}{7}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Schrauben und Muttern}{11}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Schaltplan}{11}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Montage}{13}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Erster Schritt: Montieren Schaltnetzteil, Entwicklerboard und AMS1117}{13}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Zweiter Schritt: Anbringen der Bodenplatte an Aluprofil}{14}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Dritter Schritt: Zusammenbau der Vorderplatte}{15}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Vierter Schritt: Zusammenbau der Hinterplatte}{16}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Fünfter Schritt: Teilzusammenbau des Gehäuses}{17}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Sechster Schritt: Anschließen der elektrischen Leitungen}{18}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Siebter Schritt: Montieren des Micro-Schalters und Motors}{19}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Achter Schritt: Zusammenbau des Gehäuses}{20}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Neunter Schritt: Montieren der Linearführung}{21}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Zehnter Schritt: Montieren des Griffs}{22}{section.4.10}%
-\contentsline {section}{\numberline {4.11}Elfter Schritt: Montieren der Halter für die Welle}{23}{section.4.11}%
-\contentsline {section}{\numberline {4.12}Zwölfter Schritt: Montieren der Riemenscheibe am Motor}{24}{section.4.12}%
-\contentsline {section}{\numberline {4.13}Dreizehnter Schritt: Montieren des Anzeigers und des Riemens}{25}{section.4.13}%
-\contentsline {section}{\numberline {4.14}Vierzehnter Schritt: Montieren des Lineals}{26}{section.4.14}%
-\contentsline {section}{\numberline {4.15}Abschlussarbeiten}{26}{section.4.15}%
+\contentsline {section}{\numberline {3.2}Teile}{7}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Vorbereitung der Elektronik}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Anbringung der Loochscheibe des Geschwindigkeitssensors LM393}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Vorbereiten der elektrischen Leitungen}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Schrauben und Muttern}{12}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Schaltplan}{12}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Montage}{15}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Erster Schritt: Montieren Schaltnetzteil, Entwicklerboard und AMS1117}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Zweiter Schritt: Anbringen der Bodenplatte an Aluprofil}{16}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Dritter Schritt: Zusammenbau der Vorderplatte}{17}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Vierter Schritt: Zusammenbau der Hinterplatte}{18}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Fünfter Schritt: Teilzusammenbau des Gehäuses}{19}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Sechster Schritt: Anschließen der elektrischen Leitungen}{20}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Siebter Schritt: Montieren des Micro-Schalters und Motors}{21}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Achter Schritt: Zusammenbau des Gehäuses}{22}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Neunter Schritt: Montieren der Linearführung}{23}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Zehnter Schritt: Montieren des Griffs}{24}{section.5.10}%
+\contentsline {section}{\numberline {5.11}Elfter Schritt: Montieren der Halter für die Welle}{25}{section.5.11}%
+\contentsline {section}{\numberline {5.12}Zwölfter Schritt: Montieren der Riemenscheibe am Motor}{26}{section.5.12}%
+\contentsline {section}{\numberline {5.13}Dreizehnter Schritt: Montieren des Anzeigers und des Riemens}{27}{section.5.13}%
+\contentsline {section}{\numberline {5.14}Vierzehnter Schritt: Montieren des Lineals}{28}{section.5.14}%
+\contentsline {section}{\numberline {5.15}Abschlussarbeiten}{28}{section.5.15}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

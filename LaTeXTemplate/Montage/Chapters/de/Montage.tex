@@ -18,17 +18,23 @@
 
 Die aus der CAD-Software konstruierten STL-Dateien müssen mit einer Slicer-Software an den jeweiligen 3D-Drucker angepasst werden. Danach können G-Codes an den 3D-Drucker exportiert und gedruckt werden. Die STL-Dateien sind unter dem Pfad zu finden: \emph{DemonstratorSchrittmotor \textbackslash MontageAnleitung \textbackslash 3D-Print \textbackslash STL}.  Wenn Sie den Original Prusa i3 MK3S+ Drucker verwenden, finden Sie die fertigen G-Codes unter dem Pfad: \emph{DemonstratorSchrittmotor \textbackslash MontageAnleitung \textbackslash 3D-Print \textbackslash GCode}. Falls Veränderungen an den original CAD Dateien erfolgen sollen, finden Sie diese für das Programm Fusion unter dem Pfad: \emph{DemonstratorSchrittmotor \textbackslash MontageAnleitung \textbackslash 3D-Print \textbackslash Fusion}.
 
+\section{Teile}
+
+
+
+\chapter{Vorbereitung der Elektronik}
 
 \section{Anbringung der Loochscheibe des Geschwindigkeitssensors LM393}
 
 Zur Messung der Geschwindigkeit wird die Lochscheibe des Sensors an der Stirnfläche der freiliegenden Spindel befestigt. Dies geschieht über die genaue Ausrichtung des Zylinderschraubenkopfes und einer Lötverbindung zwischen dieser und der Spindel. Eine mittige und horizontale Ausrichtung ist hierbei gefordert. Zur Kontrolle der Befestigung kann die Spindel händisch gedreht werden. Bei einem unrunden Drehlauf, kann das Lötmaterial erhitzt und eine erneute Ausrichtung durchgeführt werden. Finden Probleme beim Halt bei wiederholter Ausrichtung an wird eine Entfettung und Aufrauung der Oberflächen empfohlen. 
-Zur Befestigung der Lochscheibe wird die Lochscheibe mithilfe einer Unterlegscheibe und Mutter auf der Schraube handfest angezogen. Dies ist in Abbildung \ref{} dargestellt.
+Zur Befestigung der Lochscheibe wird die Lochscheibe mithilfe einer Unterlegscheibe und Mutter auf der Schraube handfest angezogen. Dies ist in Abbildung \ref{LScheibe} dargestellt.
 
 	\begin{figure}[htpb]
 	\vspace{-1.5cm}
 	\centering
-	\begin{tikzpicture}[scale=0.6]
-			\tikzstyle{every node}=[font=\Huge]
+	\tikzset{short/.style={}}
+    \begin{tikzpicture}[scale=0.2, xscale=-1] % Spiegelung des ganzen Bildes
+	        \tikzstyle{every node}=[font=\Huge]
 			\draw [ line width=1pt ] (31.5,-0.75) ellipse (4.5cm and 9cm);
 			\draw [ line width=1pt , rotate around={90:(31.5,-0.75)}] (31.5,-0.75) ellipse (1.5cm and 1cm);
 			\draw [ line width=1pt , rotate around={90:(39.5,-0.5)}] (39.5,-0.5) ellipse (1.5cm and 1cm);
@@ -102,20 +108,20 @@ Zur Befestigung der Lochscheibe wird die Lochscheibe mithilfe einer Unterlegsche
 			\draw [line width=1pt, short] (39.25,-5) -- (36.5,-13.75);
 			\draw [line width=1pt, short] (49,-3.75) -- (45,-14);
 			\draw [line width=1pt, short] (22.5,-3.75) -- (19.5,-14);
-			\node [font=\Huge] at (28.75,-15.25) {3};
-			\node [font=\Huge] at (36,-15) {2};
-			\node [font=\Huge] at (44.75,-15) {1};
-			\node [font=\Huge] at (19.25,-15) {4};
-		\end{circuitikz}
-	}%
+            \node [font=\normalsize,  transform shape] at (28.75,-15.25) {3};
+            \node [font=\normalsize,  transform shape] at (36,-15) {2};
+            \node [font=\normalsize,  transform shape] at (44.75,-15) {1};
+            \node [font=\normalsize,  transform shape] at (19.25,-15) {4};
+		\end{tikzpicture}
+		\vspace{1cm}
+		
+		1 - Zylinderkopfschraube M5; 2 - Unterlegscheibe M5; 3 - Lochscheibe; 4 - Mutter M5; 
+		
+\caption{Reihenfolge der Lochscheiben Anbringung}
+\label{tikz:LScheibe}
+\end{figure}
 	
-	\label{fig:my_label}
-\end{figure}
-	\end{tikzpicture}
-	\caption{Elemente auf der Frontblende des Demonstrators}
-	\label{tikz:Frontblende}
-\end{figure}
-
+	
 \section{Vorbereiten der elektrischen Leitungen}
 
 Die elektrischen Leitungen werden vor der Montage vorbereitet, um die Montage zu erleichtern. Die erforderlichen Leitungen sind in Bild \ref{Leitungen} dargestellt und in Tabelle \ref{Leittab} mit den entsprechenden Leitungsenden aufgelistet. Anschlussart, Länge und Bezeichnung sind ebenfalls angegeben.

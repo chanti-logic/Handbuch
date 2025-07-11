@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.15)  11 JUL 2025 19:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.15)  11 JUL 2025 20:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -143,7 +143,7 @@ Class scrbook Info: Redefining `\numberline' on input line 7459.
 )
 
 LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 18.
+e 19.
 
 (./General/Packages.tex (c:/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
@@ -910,7 +910,7 @@ ine 71.
 )
 
 LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 19.
+e 20.
 
 (./General/Commands.tex
 LaTeX Info: Redefining \Atan2 on input line 39.
@@ -918,7 +918,7 @@ LaTeX Info: Redefining \Atan2 on input line 39.
 )
 
 LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 20.
+e 21.
 
 No file General/tikzdefs.
 (./General/acronyms.tex
@@ -1030,7 +1030,7 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \c@LT@chunks=\count523
 \LT@p@ftn=\toks42
 )
-Class scrbook Info: longtable captions redefined on input line 26.
+Class scrbook Info: longtable captions redefined on input line 27.
 
 (c:/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
@@ -1075,50 +1075,364 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@loff=\dimen264
 \@vwid@roff=\dimen265
 ))
+(c:/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks43
+\pgfutil@tempdima=\dimen266
+\pgfutil@tempdimb=\dimen267
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box72
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks44
+\pgfkeys@temptoks=\toks45
+
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
+x
+\pgfkeys@tmptoks=\toks46
+))
+\pgf@x=\dimen268
+\pgf@y=\dimen269
+\pgf@xa=\dimen270
+\pgf@ya=\dimen271
+\pgf@xb=\dimen272
+\pgf@yb=\dimen273
+\pgf@xc=\dimen274
+\pgf@yc=\dimen275
+\pgf@xd=\dimen276
+\pgf@yd=\dimen277
+\w@pgf@writea=\write6
+\r@pgf@reada=\read4
+\c@pgf@counta=\count526
+\c@pgf@countb=\count527
+\c@pgf@countc=\count528
+\c@pgf@countd=\count529
+\t@pgf@toka=\toks47
+\t@pgf@tokb=\toks48
+\t@pgf@tokc=\toks49
+\pgf@sys@id@count=\count530
+ (c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count531
+\pgfsyssoftpath@bigbuffer@items=\count532
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen278
+\pgfmath@count=\count533
+\pgfmath@box=\box73
+\pgfmath@toks=\toks50
+\pgfmath@stack@operand=\toks51
+\pgfmath@stack@operation=\toks52
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count534
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen279
+\pgf@picmaxx=\dimen280
+\pgf@picminy=\dimen281
+\pgf@picmaxy=\dimen282
+\pgf@pathminx=\dimen283
+\pgf@pathmaxx=\dimen284
+\pgf@pathminy=\dimen285
+\pgf@pathmaxy=\dimen286
+\pgf@xx=\dimen287
+\pgf@xy=\dimen288
+\pgf@yx=\dimen289
+\pgf@yy=\dimen290
+\pgf@zx=\dimen291
+\pgf@zy=\dimen292
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen293
+\pgf@path@lasty=\dimen294
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen295
+\pgf@shorten@start@additional=\dimen296
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box74
+\pgf@hbox=\box75
+\pgf@layerbox@main=\box76
+\pgf@picture@serial@count=\count535
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen297
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen298
+\pgf@pt@y=\dimen299
+\pgf@pt@temp=\dimen300
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen301
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen302
+\pgf@sys@shading@range@num=\count536
+\pgf@shadingcount=\count537
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box77
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box78
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen303
+\pgf@nodesepend=\dimen304
+)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen305
+\pgffor@skip=\dimen306
+\pgffor@stack=\toks53
+\pgffor@toks=\toks54
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count538
+\pgfplotmarksize=\dimen307
+)
+\tikz@lastx=\dimen308
+\tikz@lasty=\dimen309
+\tikz@lastxsaved=\dimen310
+\tikz@lastysaved=\dimen311
+\tikz@lastmovetox=\dimen312
+\tikz@lastmovetoy=\dimen313
+\tikzleveldistance=\dimen314
+\tikzsiblingdistance=\dimen315
+\tikz@figbox=\box79
+\tikz@figbox@bg=\box80
+\tikz@tempbox=\box81
+\tikz@tempbox@bg=\box82
+\tikztreelevel=\count539
+\tikznumberofchildren=\count540
+\tikznumberofcurrentchild=\count541
+\tikz@fig@count=\count542
+ (c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count543
+\pgfmatrixcurrentcolumn=\count544
+\pgf@matrix@numberofcolumns=\count545
+)
+\tikz@expandcount=\count546
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
+Package: circuitikz 2025/03/21{} The CircuiTikz circuit drawing package version
+ 1.7.2
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen316
+\pgfarrowlength=\dimen317
+\pgfarrowwidth=\dimen318
+\pgfarrowlinewidth=\dimen319
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+bending.code.tex
+File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.code.tex
+File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransformation
+s.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgftransformnonlinearflatness=\dimen320
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@curvilinear@time@a=\dimen321
+\pgf@curvilinear@length@a=\dimen322
+\pgf@curvilinear@length@b=\dimen323
+\pgf@curvilinear@length@c=\dimen324
+\pgf@curvilinear@length@d=\dimen325
+)
+\pgf@arrows@the@rigidity=\dimen326
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+fpu.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+\pgf@circ@count@a=\count547
+\pgf@circ@count@b=\count548
+\pgf@circ@count@c=\count549
+\pgf@circ@res@up=\dimen327
+\pgf@circ@res@down=\dimen328
+\pgf@circ@res@zero=\dimen329
+\pgf@circ@res@left=\dimen330
+\pgf@circ@res@right=\dimen331
+\pgf@circ@res@other=\dimen332
+\pgf@circ@res@step=\dimen333
+\pgf@circ@res@temp=\dimen334
+\pgf@circ@Rlen=\dimen335
+\pgf@circ@scaled@Rlen=\dimen336
+\pgfstartlinewidth=\dimen337
+)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
+\ctikz@scratchbox=\box83
+)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
+\pgf@circ@res@count=\count550
+)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen338
+)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
+(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count526
-\@quotereset=\count527
+\@quotelevel=\count551
+\@quotereset=\count552
 (./MontageAnleitung.aux
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported  on input line 15.
 )
 \openout1 = `MontageAnleitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 (c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count528
-\scratchdimen=\dimen266
-\scratchbox=\box72
-\nofMPsegments=\count529
-\nofMParguments=\count530
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count531
-\MPscratchDim=\dimen267
-\MPnumerator=\count532
-\makeMPintoPDFobject=\count533
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count553
+\scratchdimen=\dimen339
+\scratchbox=\box84
+\nofMPsegments=\count554
+\nofMParguments=\count555
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count556
+\MPscratchDim=\dimen340
+\MPnumerator=\count557
+\makeMPintoPDFobject=\count558
+\everyMPtoPDFconversion=\toks56
 ) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1128,11 +1442,11 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 33.
 
 (./MontageAnleitung.out) (./MontageAnleitung.out)
-\@outlinefile=\write6
-\openout6 = `MontageAnleitung.out'.
+\@outlinefile=\write7
+\openout7 = `MontageAnleitung.out'.
 
 Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           Using `bookmark' together with `hyperref' is recommended,
@@ -1141,7 +1455,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 31.
+(scrbook)           before \begin{document} on input line 33.
 
 (c:/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -1149,10 +1463,10 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (c:/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count534
+\BKM@id=\count559
 ))
-\c@lstlisting=\count535
-Package tocbasic Info: setting babel extension for `lol' on input line 31.
+\c@lstlisting=\count560
+Package tocbasic Info: setting babel extension for `lol' on input line 33.
 \scr@dte@lstlisting@maxnumwidth=\skip102
 
 (c:/texlive/texmf-dist/tex/latex/translations/translations-basic-dictionary-ger
@@ -1161,7 +1475,7 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 31.
+or `german'. on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1223,25 +1537,25 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MontageAnleitung.bbl' not found.
 
 No file MontageAnleitung.bbl.
-Package biblatex Info: Reference section=0 on input line 31.
-Package biblatex Info: Reference segment=0 on input line 31.
+Package biblatex Info: Reference section=0 on input line 33.
+Package biblatex Info: Reference segment=0 on input line 33.
 Package microtype Info: Patching varwidth to enable character protrusion.
-\MT@vwid@leftmargin=\dimen268
-\MT@vwid@rightmargin=\dimen269
-LaTeX Info: Redefining \microtypecontext on input line 31.
-Package microtype Info: Applying patch `item' on input line 31.
-Package microtype Info: Applying patch `toc' on input line 31.
-Package microtype Info: Applying patch `eqnum' on input line 31.
-Package microtype Info: Applying patch `footnote' on input line 31.
-Package microtype Info: Applying patch `verbatim' on input line 31.
-LaTeX Info: Redefining \microtypesetup on input line 31.
+\MT@vwid@leftmargin=\dimen341
+\MT@vwid@rightmargin=\dimen342
+LaTeX Info: Redefining \microtypecontext on input line 33.
+Package microtype Info: Applying patch `item' on input line 33.
+Package microtype Info: Applying patch `toc' on input line 33.
+Package microtype Info: Applying patch `eqnum' on input line 33.
+Package microtype Info: Applying patch `footnote' on input line 33.
+Package microtype Info: Applying patch `verbatim' on input line 33.
+LaTeX Info: Redefining \microtypesetup on input line 33.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 31.
+LaTeX Info: Redefining \showhyphens on input line 33.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1251,7 +1565,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 (./Chapters/de/Titelseite.tex
-<General/Logo_HS_Emden_Leer.jpg, id=4, 1275.0837pt x 427.1157pt>
+<General/Logo_HS_Emden_Leer.jpg, id=7, 1275.0837pt x 427.1157pt>
 File: General/Logo_HS_Emden_Leer.jpg Graphic file (type jpg)
 <use General/Logo_HS_Emden_Leer.jpg>
 Package pdftex.def Info: General/Logo_HS_Emden_Leer.jpg  used on input line 13.
@@ -1292,11 +1606,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 {c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/texmf-dist
 /fonts/enc/dvips/cm-super/cm-super-t1.enc} <./General/Logo_HS_Emden_Leer.jpg>])
-Package tocbasic Info: character protrusion at toc deactivated on input line 39
+Package tocbasic Info: character protrusion at toc deactivated on input line 41
 .
  (./MontageAnleitung.toc)
-\tf@toc=\write7
-\openout7 = `MontageAnleitung.toc'.
+\tf@toc=\write8
+\openout8 = `MontageAnleitung.toc'.
 
 
 
@@ -1309,11 +1623,11 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 39
 
 
 ]
-Package tocbasic Info: character protrusion at lof deactivated on input line 43
+Package tocbasic Info: character protrusion at lof deactivated on input line 45
 .
  (./MontageAnleitung.lof)
-\tf@lof=\write8
-\openout8 = `MontageAnleitung.lof'.
+\tf@lof=\write9
+\openout9 = `MontageAnleitung.lof'.
 
 
 
@@ -1326,11 +1640,11 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 43
 
 
 ]
-Package tocbasic Info: character protrusion at lot deactivated on input line 47
+Package tocbasic Info: character protrusion at lot deactivated on input line 49
 .
  (./MontageAnleitung.lot)
-\tf@lot=\write9
-\openout9 = `MontageAnleitung.lot'.
+\tf@lot=\write10
+\openout10 = `MontageAnleitung.lot'.
 
 
 
@@ -1373,12 +1687,6 @@ chapter 2.
 LaTeX Warning: Reference `Gesamtliste' on page 3 undefined on input line 11.
 
 
-LaTeX Warning: Reference `EKomponenten' on page 3 undefined on input line 11.
-
-
-LaTeX Warning: Reference `VKomponenten' on page 3 undefined on input line 11.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
@@ -1398,7 +1706,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\T1/cmr/m/n/8 (+20) 101-60-
  []
 
-<Images/fraesmaschine.jpg, id=160, 1027.84pt x 1027.84pt>
+<Images/fraesmaschine.jpg, id=157, 1027.84pt x 1027.84pt>
 File: Images/fraesmaschine.jpg Graphic file (type jpg)
 <use Images/fraesmaschine.jpg>
 Package pdftex.def Info: Images/fraesmaschine.jpg  used on input line 23.
@@ -1408,7 +1716,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
 []|\T1/cmr/m/n/8 (+20) ARD NA-NO
  []
 
-<Images/arduino.png, id=162, 602.25pt x 494.84875pt>
+<Images/arduino.png, id=159, 602.25pt x 494.84875pt>
 File: Images/arduino.png Graphic file (type png)
 <use Images/arduino.png>
 Package pdftex.def Info: Images/arduino.png  used on input line 26.
@@ -1423,7 +1731,7 @@ Underfull \hbox (badness 3758) in paragraph at lines 28--28
 []|\T1/cmr/m/n/8 (+20) 65 Jum-per Wi-re
  []
 
-<Images/jumpercablemm.jpg, id=165, 2007.5pt x 2007.5pt>
+<Images/jumpercablemm.jpg, id=162, 2007.5pt x 2007.5pt>
 File: Images/jumpercablemm.jpg Graphic file (type jpg)
 <use Images/jumpercablemm.jpg>
 Package pdftex.def Info: Images/jumpercablemm.jpg  used on input line 28.
@@ -1453,7 +1761,7 @@ Underfull \hbox (badness 1701) in paragraph at lines 30--30
 \T1/cmr/m/n/8 (+20) Buchse-Buchse 20
  []
 
-<Images/jumpercableff.jpg, id=167, 1003.75pt x 1003.75pt>
+<Images/jumpercableff.jpg, id=164, 1003.75pt x 1003.75pt>
 File: Images/jumpercableff.jpg Graphic file (type jpg)
 <use Images/jumpercableff.jpg>
 Package pdftex.def Info: Images/jumpercableff.jpg  used on input line 30.
@@ -1468,7 +1776,7 @@ Overfull \hbox (8.60362pt too wide) in paragraph at lines 30--31
 \T1/cmtt/m/n/8 roboter-[]bausatz .
  []
 
-<Images/jumpercablemf.jpg, id=169, 1003.75pt x 1003.75pt>
+<Images/jumpercablemf.jpg, id=166, 1003.75pt x 1003.75pt>
 File: Images/jumpercablemf.jpg Graphic file (type jpg)
 <use Images/jumpercablemf.jpg>
 Package pdftex.def Info: Images/jumpercablemf.jpg  used on input line 32.
@@ -1493,7 +1801,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|\T1/cmr/m/n/8 (+20) GRV CA-
  []
 
-<Images/grove2.png, id=171, 602.25pt x 405.515pt>
+<Images/grove2.png, id=168, 602.25pt x 405.515pt>
 File: Images/grove2.png Graphic file (type png)
 <use Images/grove2.png>
 Package pdftex.def Info: Images/grove2.png  used on input line 34.
@@ -1523,12 +1831,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
 \T1/cmr/m/n/8 (+20) Steckverbinder
  []
 
-<Images/schutzstecker.jpg, id=173, 1003.75pt x 1003.75pt>
+<Images/schutzstecker.jpg, id=170, 1003.75pt x 1003.75pt>
 File: Images/schutzstecker.jpg Graphic file (type jpg)
 <use Images/schutzstecker.jpg>
 Package pdftex.def Info: Images/schutzstecker.jpg  used on input line 36.
 (pdftex.def)             Requested size: 42.67912pt x 42.67029pt.
-<Images/netzteil.png, id=175, 602.25pt x 404.51125pt>
+<Images/netzteil.png, id=172, 602.25pt x 404.51125pt>
 File: Images/netzteil.png Graphic file (type png)
 <use Images/netzteil.png>
 Package pdftex.def Info: Images/netzteil.png  used on input line 38.
@@ -1548,7 +1856,7 @@ Underfull \hbox (badness 6141) in paragraph at lines 40--40
 \T1/cmr/m/n/8 (+20) 24VAC 1x (Ein)
  []
 
-<Images/tasterr.png, id=177, 602.25pt x 447.6725pt>
+<Images/tasterr.png, id=174, 602.25pt x 447.6725pt>
 File: Images/tasterr.png Graphic file (type png)
 <use Images/tasterr.png>
 Package pdftex.def Info: Images/tasterr.png  used on input line 40.
@@ -1568,7 +1876,7 @@ Underfull \hbox (badness 6141) in paragraph at lines 42--42
 \T1/cmr/m/n/8 (+20) 24VAC 1x (Ein)
  []
 
-<Images/tasterg.png, id=179, 602.25pt x 476.78125pt>
+<Images/tasterg.png, id=176, 602.25pt x 476.78125pt>
 File: Images/tasterg.png Graphic file (type png)
 <use Images/tasterg.png>
 Package pdftex.def Info: Images/tasterg.png  used on input line 43.
@@ -1588,7 +1896,7 @@ Underfull \hbox (badness 5446) in paragraph at lines 45--45
 \T1/cmr/m/n/8 (+20) Mikroschalter, 1x
  []
 
-<Images/microschalter.png, id=181, 602.25pt x 719.68875pt>
+<Images/microschalter.png, id=178, 602.25pt x 719.68875pt>
 File: Images/microschalter.png Graphic file (type png)
 <use Images/microschalter.png>
 Package pdftex.def Info: Images/microschalter.png  used on input line 45.
@@ -1613,7 +1921,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--47
 []|\T1/cmr/m/n/8 (+20) DEBO DRV
  []
 
-<Images/treiber.png, id=183, 602.25pt x 552.0625pt>
+<Images/treiber.png, id=180, 602.25pt x 552.0625pt>
 File: Images/treiber.png Graphic file (type png)
 <use Images/treiber.png>
 Package pdftex.def Info: Images/treiber.png  used on input line 47.
@@ -1638,7 +1946,7 @@ Underfull \hbox (badness 2285) in paragraph at lines 49--49
 []|\T1/cmr/m/n/8 (+20) DEBO OLED
  []
 
-<Images/display.png, id=185, 602.25pt x 390.45876pt>
+<Images/display.png, id=182, 602.25pt x 390.45876pt>
 File: Images/display.png Graphic file (type png)
 <use Images/display.png>
 Package pdftex.def Info: Images/display.png  used on input line 49.
@@ -1653,7 +1961,7 @@ Underfull \hbox (badness 4036) in paragraph at lines 51--51
 []|\T1/cmr/m/n/8 (+20) Sunlu PLA Fi-la-
  []
 
-<Images/filament.jpg, id=187, 1003.75pt x 1003.75pt>
+<Images/filament.jpg, id=184, 1003.75pt x 1003.75pt>
 File: Images/filament.jpg Graphic file (type jpg)
 <use Images/filament.jpg>
 Package pdftex.def Info: Images/filament.jpg  used on input line 51.
@@ -1683,7 +1991,7 @@ Overfull \hbox (2.74089pt too wide) in paragraph at lines 53--53
 []|\T1/cmr/m/n/8 (-20) STECKBOARD
  []
 
-<Images/breadboard.png, id=189, 602.25pt x 327.2225pt>
+<Images/breadboard.png, id=186, 602.25pt x 327.2225pt>
 File: Images/breadboard.png Graphic file (type png)
 <use Images/breadboard.png>
 Package pdftex.def Info: Images/breadboard.png  used on input line 53.
@@ -1713,7 +2021,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\T1/cmr/m/n/8 (+20) DELOCK
  []
 
-<Images/kabelbinder.png, id=191, 602.25pt x 374.39874pt>
+<Images/kabelbinder.png, id=188, 602.25pt x 374.39874pt>
 File: Images/kabelbinder.png Graphic file (type png)
 <use Images/kabelbinder.png>
 Package pdftex.def Info: Images/kabelbinder.png  used on input line 55.
@@ -1728,7 +2036,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\T1/cmr/m/n/8 (+20) Drehwinkel-
  []
 
-<Images/drehknopf.png, id=193, 602.25pt x 631.35875pt>
+<Images/drehknopf.png, id=190, 602.25pt x 631.35875pt>
 File: Images/drehknopf.png Graphic file (type png)
 <use Images/drehknopf.png>
 Package pdftex.def Info: Images/drehknopf.png  used on input line 57.
@@ -1748,7 +2056,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|\T1/cmr/m/n/8 (+20) WIPPE
  []
 
-<Images/wippschalter.png, id=195, 602.25pt x 679.53876pt>
+<Images/wippschalter.png, id=192, 602.25pt x 679.53876pt>
 File: Images/wippschalter.png Graphic file (type png)
 <use Images/wippschalter.png>
 Package pdftex.def Info: Images/wippschalter.png  used on input line 59.
@@ -1768,7 +2076,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--61
 \T1/cmr/m/n/8 (+16) Sechs-kant-schrau-be,
  []
 
-<Images/zylinderkopfschraube.png, id=197, 630.355pt x 277.035pt>
+<Images/zylinderkopfschraube.png, id=194, 630.355pt x 277.035pt>
 File: Images/zylinderkopfschraube.png Graphic file (type png)
 <use Images/zylinderkopfschraube.png>
 Package pdftex.def Info: Images/zylinderkopfschraube.png  used on input line 61
@@ -1794,7 +2102,7 @@ Underfull \hbox (badness 7099) in paragraph at lines 63--63
 \T1/cmr/m/n/8 (+20) Kreuz-schlitz, M3,
  []
 
-<Images/senkkopfschraube.jpg, id=199, 301.125pt x 301.125pt>
+<Images/senkkopfschraube.jpg, id=196, 301.125pt x 301.125pt>
 File: Images/senkkopfschraube.jpg Graphic file (type jpg)
 <use Images/senkkopfschraube.jpg>
 Package pdftex.def Info: Images/senkkopfschraube.jpg  used on input line 63.
@@ -1809,7 +2117,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 []|\T1/cmr/m/n/8 (+20) Sechskantmuttern,
  []
 
-<Images/muttern.png, id=201, 602.25pt x 432.61626pt>
+<Images/muttern.png, id=198, 602.25pt x 432.61626pt>
 File: Images/muttern.png Graphic file (type png)
 <use Images/muttern.png>
 Package pdftex.def Info: Images/muttern.png  used on input line 65.
@@ -1824,7 +2132,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []|\T1/cmr/m/n/8 (+20) Unterlegscheiben,
  []
 
-<Images/unterlegscheibe.png, id=203, 602.25pt x 511.9125pt>
+<Images/unterlegscheibe.png, id=200, 602.25pt x 511.9125pt>
 File: Images/unterlegscheibe.png Graphic file (type png)
 <use Images/unterlegscheibe.png>
 Package pdftex.def Info: Images/unterlegscheibe.png  used on input line 67.
@@ -1839,7 +2147,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []|\T1/cmr/m/n/8 (+20) Elektroniklot EL
  []
 
-<Images/loetzinn.png, id=205, 602.25pt x 605.26125pt>
+<Images/loetzinn.png, id=202, 602.25pt x 605.26125pt>
 File: Images/loetzinn.png Graphic file (type png)
 <use Images/loetzinn.png>
 Package pdftex.def Info: Images/loetzinn.png  used on input line 69.
@@ -1869,6 +2177,11 @@ Overfull \hbox (6.15027pt too wide) in paragraph at lines 120--120
  []
 
 
+Underfull \hbox (badness 10000) in alignment at lines 120--120
+[][][][][][]
+ []
+
+
 
 [5 <./Images/drehknopf.png> <./Images/wippschalter.png> <./Images/zylinderkopfs
 chraube.png> <./Images/senkkopfschraube.jpg> <./Images/muttern.png> <./Images/u
@@ -1877,1094 +2190,284 @@ nterlegscheibe.png> <./Images/loetzinn.png>]) (./Chapters/de/Montage.tex
 [6]
 chapter 3.
 
-LaTeX Warning: Reference `' on page 7 undefined on input line 25.
-
-
-! LaTeX Error: Environment tikzpicture undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 	\begin{tikzpicture}
-                         [scale=0.6]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-l.31 			\tikzstyle
-                  {every node}=[font=\Huge]
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.32 			\draw
-              [ line width=1pt ] (31.5,-0.75) ellipse (4.5cm and 9cm);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.33 			\draw
-              [ line width=1pt , rotate around={90:(31.5,-0.75)}] (31.5,-0.7...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.34 			\draw
-              [ line width=1pt , rotate around={90:(39.5,-0.5)}] (39.5,-0.5)...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.35 			\draw
-              [ fill={rgb,255:red,253; green,253; blue,253} , line width=1pt...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.36 			\draw
-              [ line width=1pt , rotate around={90:(51.25,-0.75)}] (51.25,-0...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.37 			\draw
-              [line width=1pt, short] (48.5,2.75) -- (51.25,2.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.38 			\draw
-              [line width=1pt, short] (48,-3.75) -- (51,-4);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.39 			\draw
-              [line width=1pt, short] (43.25,1) -- (46.5,1);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.40 			\draw
-              [line width=1pt, short] (43,-2) -- (46.5,-2.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.41 			\draw
-              [line width=1pt, short] (43,-2) .. controls (42.25,-1.25) and ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.42 			\draw
-              [line width=1pt, short] (29.75,8.5) -- (31.75,8.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.43 			\draw
-              [line width=1pt, short] (29.75,-9.5) -- (31.25,-9.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.44 			\draw
-              [line width=1pt, short] (48.5,2.75) .. controls (46.25,2.75) a...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.45 			\draw
-              [line width=1pt, short] (29.75,8.5) .. controls (23.75,6) and ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.46 			\draw
-              [ line width=1pt ] (31.5,-0.75) ellipse (2cm and 3.75cm);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.47 			\draw
-              [ line width=1pt ] (31.5,-0.75) ellipse (4cm and 8.5cm);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.48 			\draw
-              [line width=1pt, short] (31.5,7.75) -- (31.5,3);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.49 			\draw
-              [line width=1pt, short] (31.25,7.75) -- (31.25,3);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.50 			\draw
-              [line width=1pt, short] (31.5,-4.5) -- (31.5,-9.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.51 			\node
-              [font=\LARGE] at (32,5) {};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.52 			\node
-              [font=\LARGE] at (32.25,4.5) {};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.53 			\draw
-              [line width=1pt, short] (31.25,-4.5) -- (31.25,-9.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.54 			\draw
-              [line width=1pt, short] (31,0.5) .. controls (32,-0.25) and (3...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.55 			\draw
-              [line width=1pt, short] (33.5,6.5) -- (32.5,2.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.56 			\draw
-              [line width=1pt, short] (33.75,6.25) -- (32.75,2.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.57 			\node
-              [font=\LARGE] at (33.5,4) {};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.58 			\draw
-              [line width=1pt, short] (30.5,-4) -- (29.5,-8);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.59 			\draw
-              [line width=1pt, short] (30.75,-4.25) -- (29.75,-8.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.60 			\draw
-              [line width=1pt, short] (32.25,-4.25) -- (33.75,-7.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.61 			\draw
-              [line width=1pt, short] (29.25,6.25) -- (30.5,2.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.62 			\draw
-              [line width=1pt, short] (32.5,-4) -- (34,-7.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.63 			\draw
-              [line width=1pt, short] (29,6) -- (30.25,2.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.64 			\draw
-              [line width=1pt, short] (28,3) -- (29.75,1.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.65 			\draw
-              [line width=1pt, short] (27.75,2.5) -- (29.75,0.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.66 			\draw
-              [line width=1pt, short] (33.25,-3) -- (35.25,-4.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.67 			\draw
-              [line width=1pt, short] (33.25,-2.5) -- (35.25,-3.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.68 			\draw
-              [line width=1pt, short] (33.25,1.5) -- (35,3);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.69 			\draw
-              [line width=1pt, short] (33.25,1) -- (35.25,2.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.70 			\draw
-              [line width=1pt, short] (33.5,-0.25) -- (35.5,0);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.71 			\draw
-              [line width=1pt, short] (33.5,-0.75) -- (35.5,-0.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.72 			\draw
-              [line width=1pt, short] (27.5,-1) .. controls (28.25,-0.75) an...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.73 			\draw
-              [line width=1pt, short] (27.5,-1.5) .. controls (28.25,-1.25) ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.74 			\draw
-              [line width=1pt, short] (28,-5) -- (29.75,-2.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.75 			\draw
-              [line width=1pt, short] (28.25,-5.5) -- (30,-3);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.76 			\draw
-              [ line width=1pt , rotate around={90:(23.5,-0.75)}] (23.5,-0.7...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.77 			\draw
-              [ line width=1pt ] (39.5,-0.5) ellipse (2.5cm and 4.5cm);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.78 			\draw
-              [line width=1pt, short] (38.5,4) .. controls (35.25,2.75) and ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.79 			\draw
-              [line width=1pt, short] (39.5,4) -- (38.5,4);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.80 			\draw
-              [line width=1pt, short] (39.5,-5) -- (38.75,-5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.81 			\draw
-              [line width=1pt, short] (39.5,1) .. controls (40.5,0.25) and (...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.82 			\draw
-              [line width=1pt, short] (23,0.5) .. controls (23.75,0.25) and ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.83 			\draw
-              [line width=1pt, short] (22.25,2) -- (21.25,0);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.84 			\draw
-              [line width=1pt, short] (21.25,0) -- (21.5,-2.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.85 			\draw
-              [line width=1pt, short] (22.25,2) -- (24.5,2);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.86 			\draw
-              [line width=1pt, short] (24.5,2) -- (25.5,0.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.87 			\draw
-              [line width=1pt, short] (25.5,0.5) -- (25.5,-2);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.88 			\draw
-              [line width=1pt, short] (25.5,-2) -- (24.5,-3.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.89 			\draw
-              [line width=1pt, short] (21.5,-2.25) -- (22.5,-3.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.90 			\draw
-              [line width=1pt, short] (22.5,-3.5) -- (24.5,-3.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.91 			\draw
-              [line width=1pt, short] (24.5,2) -- (22.25,2.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.92 			\draw
-              [line width=1pt, short] (24.5,-3.5) -- (21.25,-3.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.93 			\draw
-              [line width=1pt, short] (21.25,0) -- (19.5,0);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.94 			\draw
-              [line width=1pt, short] (21.5,-2.25) -- (19.75,-2.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.95 			\draw
-              [line width=1pt, short] (19.5,0) -- (19.75,-2.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.96 			\draw
-              [line width=1pt, short] (19.75,-2.25) -- (21.25,-3.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.97 			\draw
-              [line width=1pt, short] (22.25,2) -- (20.75,2);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.98 			\draw
-              [line width=1pt, short] (19.5,0) -- (20.75,2);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.99 			\draw
-              [line width=1pt, short] (21.25,-3.75) -- (22.5,-3.5);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.100 			\draw
-               [line width=1pt, short] (20.75,2) -- (22.25,2.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.101 			\draw
-               [line width=1pt, short] (30.5,-9.5) -- (29,-14.25);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.102 			\draw
-               [line width=1pt, short] (39.25,-5) -- (36.5,-13.75);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.103 			\draw
-               [line width=1pt, short] (49,-3.75) -- (45,-14);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.104 			\draw
-               [line width=1pt, short] (22.5,-3.75) -- (19.5,-14);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.105 			\node
-               [font=\Huge] at (28.75,-15.25) {3};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.106 			\node
-               [font=\Huge] at (36,-15) {2};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.107 			\node
-               [font=\Huge] at (44.75,-15) {1};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.108 			\node
-               [font=\Huge] at (19.25,-15) {4};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: \begin{figure} on input line 27 ended by \end{circuitikz}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.109 		\end{circuitikz}
-                        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra }, or forgotten \endgroup.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.113 \end{figure}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-LaTeX Warning: Float too large for page by 1404.82843pt on input line 113.
-
-
-! LaTeX Error: \begin{document} ended by \end{tikzpicture}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.114 	\end{tikzpicture}
-                        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-\end  ...end#1\endcsname \@checkend {#1}\endgroup 
-                                                  \UseHook {env/#1/after}\if...
-l.114 	\end{tikzpicture}
-                        
-Things are pretty mixed up, but I think the worst is over.
-
-
-! LaTeX Error: \caption outside float.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 	\caption
-               {Elemente auf der Frontblende des Demonstrators}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Too many }'s.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.117 \end{figure}
-                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Extra \endgroup.
-\color@endgroup ->\endgraf \@endpefalse \endgroup 
-                                                  
-l.117 \end{figure}
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.117 \end{figure}
-                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.117 \end{figure}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-\end  ...end#1\endcsname \@checkend {#1}\endgroup 
-                                                  \UseHook {env/#1/after}\if...
-l.117 \end{figure}
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-<Images/Leitungen.jpg, id=274, 432.86719pt x 651.18282pt>
-File: Images/Leitungen.jpg Graphic file (type jpg)
-<use Images/Leitungen.jpg>
-Package pdftex.def Info: Images/Leitungen.jpg  used on input line 125.
-(pdftex.def)             Requested size: 432.48192pt x 650.63474pt.
-
 
 [7
 
 
 ]
 
-[8]
+[8
+
+
+]
+chapter 4.
+
+LaTeX Warning: Reference `LScheibe' on page 9 undefined on input line 30.
+
+<Images/Leitungen.jpg, id=279, 432.86719pt x 651.18282pt>
+File: Images/Leitungen.jpg Graphic file (type jpg)
+<use Images/Leitungen.jpg>
+Package pdftex.def Info: Images/Leitungen.jpg  used on input line 131.
+(pdftex.def)             Requested size: 432.48192pt x 650.63474pt.
+
+
+[9]
 Overfull \vbox (51.87393pt too high) has occurred while \output is active []
 
 
 
-[9 <./Images/Leitungen.JPG>]
-Overfull \hbox (3.30482pt too wide) in paragraph at lines 150--150
+[10 <./Images/Leitungen.JPG>]
+Overfull \hbox (3.30482pt too wide) in paragraph at lines 156--156
 []|\T1/cmr/bx/n/8 (-20) Pos.| 
  []
 
 
-Overfull \hbox (5.27087pt too wide) in paragraph at lines 150--150
+Overfull \hbox (5.27087pt too wide) in paragraph at lines 156--156
 []|\T1/cmr/bx/n/8 (-20) Anz.| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/bx/n/8 (+20) Verbind-
  []
 
 
-Overfull \hbox (5.04257pt too wide) in paragraph at lines 150--150
+Overfull \hbox (5.04257pt too wide) in paragraph at lines 156--156
 []|\T1/cmr/bx/n/8 (-20) Länge
  []
 
 
-Overfull \hbox (1.42017pt too wide) in paragraph at lines 150--150
+Overfull \hbox (1.42017pt too wide) in paragraph at lines 156--156
 \T1/cmr/bx/n/8 (-20) [mm]| 
  []
 
 
-Overfull \hbox (2.67023pt too wide) in paragraph at lines 150--150
+Overfull \hbox (2.67023pt too wide) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (-20) Entwicklerboard
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Schritt-mo-tor-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) steue-rung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) TMLS auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) TMLS auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Drehwinkel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) wick-ler-board
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Schritt-mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) tor-steue-rung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) Masse Span-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) nungs-wand-ler
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) AMS117 auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Drehwinkel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Encoder
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) und Ent-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) wick-ler-board
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Schritt-mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) tor-steue-rung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) 3,3V Span-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) nungs-wand-ler
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) AMS117 auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Drehwinkel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Encoder
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) und Ent-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) wick-ler-board
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Schritt-mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) tor-steue-rung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) 5V/Masse
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Schalt-netz-teil
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) auf Span-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) nungs-wand-ler
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) 12V/Masse
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Schalt-netz-teil
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) auf Ent-wick-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) ler-board
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Schritt-mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) tor-steue-rung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) 12V/Masse
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Schalt-netz-teil
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) Flach-steck-hül-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) Kaltgerätean-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 \T1/cmr/m/n/8 (+20) schluss auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) 2 x Micro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) TMLS auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) TMLS auf
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--150
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 []|\T1/cmr/m/n/8 (+20) TMLS auf
  []
 
@@ -2973,37 +2476,42 @@ Overfull \vbox (13.88905pt too high) has occurred while \output is active []
 
 
 
-[10]
-Overfull \hbox (3.30482pt too wide) in paragraph at lines 173--173
+[11]
+Overfull \hbox (3.30482pt too wide) in paragraph at lines 179--179
 []|\T1/cmr/bx/n/8 (-20) Pos.| 
  []
 
 
-Overfull \hbox (6.73668pt too wide) in paragraph at lines 173--173
+Overfull \hbox (6.73668pt too wide) in paragraph at lines 179--179
 []|\T1/cmr/bx/n/8 (-20) Anzahl| 
  []
 
-<Images/Schaltplan1.png, id=298, 1261.7685pt x 993.0555pt>
+<Images/Schaltplan1.png, id=294, 1261.7685pt x 993.0555pt>
 File: Images/Schaltplan1.png Graphic file (type png)
 <use Images/Schaltplan1.png>
-Package pdftex.def Info: Images/Schaltplan1.png  used on input line 184.
+Package pdftex.def Info: Images/Schaltplan1.png  used on input line 190.
 (pdftex.def)             Requested size: 432.48192pt x 340.37706pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[11]
+[12]
 
-[12 <./Images/Schaltplan1.png>]
-chapter 4.
-<Images/1Schr.jpg, id=311, 3035.34pt x 2740.2375pt>
+[13 <./Images/Schaltplan1.png>]
+
+[14
+
+
+]
+chapter 5.
+<Images/1Schr.jpg, id=310, 3035.34pt x 2740.2375pt>
 File: Images/1Schr.jpg Graphic file (type jpg)
 <use Images/1Schr.jpg>
-Package pdftex.def Info: Images/1Schr.jpg  used on input line 208.
+Package pdftex.def Info: Images/1Schr.jpg  used on input line 214.
 (pdftex.def)             Requested size: 432.48192pt x 390.40428pt.
 
-Underfull \hbox (badness 2495) in paragraph at lines 209--209
+Underfull \hbox (badness 2495) in paragraph at lines 215--215
 [][][]\T1/cmr/m/n/12 (+20) Erster Schritt: Mon^^?tie^^?ren Schalt^^?netz^^?teil
 , Ent^^?wick^^?ler^^?board und
  []
@@ -3013,121 +2521,118 @@ Underfull \vbox (badness 3189) has occurred while \output is active []
 
 
 
-[13
+[15]
 
-
-]
-
-[14 <./Images/1Schr.JPG>]
-<Images/2Schr.jpg, id=335, 3035.34pt x 2718.155pt>
+[16 <./Images/1Schr.JPG>]
+<Images/2Schr.jpg, id=330, 3035.34pt x 2718.155pt>
 File: Images/2Schr.jpg Graphic file (type jpg)
 <use Images/2Schr.jpg>
-Package pdftex.def Info: Images/2Schr.jpg  used on input line 227.
+Package pdftex.def Info: Images/2Schr.jpg  used on input line 233.
 (pdftex.def)             Requested size: 432.48192pt x 387.25816pt.
 
 
-[15 <./Images/2Schr.JPG>]
-<Images/3Schr.jpg, id=346, 3035.34pt x 2644.88126pt>
+[17 <./Images/2Schr.JPG>]
+<Images/3Schr.jpg, id=339, 3035.34pt x 2644.88126pt>
 File: Images/3Schr.jpg Graphic file (type jpg)
 <use Images/3Schr.jpg>
-Package pdftex.def Info: Images/3Schr.jpg  used on input line 246.
+Package pdftex.def Info: Images/3Schr.jpg  used on input line 252.
 (pdftex.def)             Requested size: 432.48192pt x 376.81879pt.
-<Images/4Schr.jpg, id=348, 3249.13875pt x 1463.4675pt>
+<Images/4Schr.jpg, id=341, 3249.13875pt x 1463.4675pt>
 File: Images/4Schr.jpg Graphic file (type jpg)
 <use Images/4Schr.jpg>
-Package pdftex.def Info: Images/4Schr.jpg  used on input line 262.
+Package pdftex.def Info: Images/4Schr.jpg  used on input line 268.
 (pdftex.def)             Requested size: 432.48192pt x 194.79057pt.
 
 
-[16 <./Images/3Schr.JPG>]
-<Images/5Schr.jpg, id=359, 3035.34pt x 2887.78876pt>
+[18 <./Images/3Schr.JPG>]
+<Images/5Schr.jpg, id=351, 3035.34pt x 2887.78876pt>
 File: Images/5Schr.jpg Graphic file (type jpg)
 <use Images/5Schr.jpg>
-Package pdftex.def Info: Images/5Schr.jpg  used on input line 279.
+Package pdftex.def Info: Images/5Schr.jpg  used on input line 285.
 (pdftex.def)             Requested size: 432.48192pt x 411.42606pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[17 <./Images/4Schr.JPG>]
-<Images/6Schr.jpg, id=369, 3035.34pt x 1878.01625pt>
+[19 <./Images/4Schr.JPG>]
+<Images/6Schr.jpg, id=359, 3035.34pt x 1878.01625pt>
 File: Images/6Schr.jpg Graphic file (type jpg)
 <use Images/6Schr.jpg>
-Package pdftex.def Info: Images/6Schr.jpg  used on input line 294.
+Package pdftex.def Info: Images/6Schr.jpg  used on input line 300.
 (pdftex.def)             Requested size: 432.48192pt x 267.56279pt.
 
 Underfull \vbox (badness 4060) has occurred while \output is active []
 
 
 
-[18 <./Images/5Schr.JPG>]
-<Images/7Schr.jpg, id=380, 3034.33624pt x 2976.11874pt>
+[20 <./Images/5Schr.JPG>]
+<Images/7Schr.jpg, id=367, 3034.33624pt x 2976.11874pt>
 File: Images/7Schr.jpg Graphic file (type jpg)
 <use Images/7Schr.jpg>
-Package pdftex.def Info: Images/7Schr.jpg  used on input line 314.
+Package pdftex.def Info: Images/7Schr.jpg  used on input line 320.
 (pdftex.def)             Requested size: 432.48192pt x 424.14674pt.
 
 
-[19 <./Images/6Schr.JPG>]
-<Images/8Schr.jpg, id=393, 2907.86375pt x 2908.8675pt>
+[21 <./Images/6Schr.JPG>]
+<Images/8Schr.jpg, id=378, 2907.86375pt x 2908.8675pt>
 File: Images/8Schr.jpg Graphic file (type jpg)
 <use Images/8Schr.jpg>
-Package pdftex.def Info: Images/8Schr.jpg  used on input line 331.
+Package pdftex.def Info: Images/8Schr.jpg  used on input line 337.
 (pdftex.def)             Requested size: 432.48192pt x 432.62729pt.
 
 
-[20 <./Images/7Schr.JPG>]
-<Images/9Schr.jpg, id=403, 4047.12pt x 1028.84375pt>
+[22 <./Images/7Schr.JPG>]
+<Images/9Schr.jpg, id=386, 4047.12pt x 1028.84375pt>
 File: Images/9Schr.jpg Graphic file (type jpg)
 <use Images/9Schr.jpg>
-Package pdftex.def Info: Images/9Schr.jpg  used on input line 347.
+Package pdftex.def Info: Images/9Schr.jpg  used on input line 353.
 (pdftex.def)             Requested size: 432.48192pt x 109.9392pt.
 
 
-[21 <./Images/8Schr.JPG>]
-<Images/10Schr.jpg, id=413, 971.3088pt x 728.4816pt>
+[23 <./Images/8Schr.JPG>]
+<Images/10Schr.jpg, id=394, 971.3088pt x 728.4816pt>
 File: Images/10Schr.jpg Graphic file (type jpg)
 <use Images/10Schr.jpg>
-Package pdftex.def Info: Images/10Schr.jpg  used on input line 363.
+Package pdftex.def Info: Images/10Schr.jpg  used on input line 369.
 (pdftex.def)             Requested size: 432.48192pt x 324.36781pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[22 <./Images/9Schr.JPG>]
-<Images/11Schr.jpg, id=424, 3034.33624pt x 2015.53pt>
+[24 <./Images/9Schr.JPG>]
+<Images/11Schr.jpg, id=404, 3034.33624pt x 2015.53pt>
 File: Images/11Schr.jpg Graphic file (type jpg)
 <use Images/11Schr.jpg>
-Package pdftex.def Info: Images/11Schr.jpg  used on input line 383.
+Package pdftex.def Info: Images/11Schr.jpg  used on input line 389.
 (pdftex.def)             Requested size: 432.48192pt x 287.24677pt.
 
 
-[23 <./Images/10Schr.JPG>]
+[25 <./Images/10Schr.JPG>]
 File: Images/11Schr.jpg Graphic file (type jpg)
 <use Images/11Schr.jpg>
-Package pdftex.def Info: Images/11Schr.jpg  used on input line 399.
+Package pdftex.def Info: Images/11Schr.jpg  used on input line 405.
 (pdftex.def)             Requested size: 432.48192pt x 287.24677pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[24 <./Images/11Schr.JPG>]
-<Images/13Schr.jpg, id=446, 971.3088pt x 728.4816pt>
+[26 <./Images/11Schr.JPG>]
+<Images/13Schr.jpg, id=421, 971.3088pt x 728.4816pt>
 File: Images/13Schr.jpg Graphic file (type jpg)
 <use Images/13Schr.jpg>
-Package pdftex.def Info: Images/13Schr.jpg  used on input line 416.
+Package pdftex.def Info: Images/13Schr.jpg  used on input line 422.
 (pdftex.def)             Requested size: 432.48192pt x 324.36781pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[25])
+[27])
 
-[26 <./Images/13Schr.JPG>] (./MontageAnleitung.aux)
+[28 <./Images/13Schr.JPG>] (./MontageAnleitung.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
@@ -3136,9 +2641,6 @@ L3 programming layer <2025-03-26>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `MontageAnleitung.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'MontageAnleitung.run.xml'.
@@ -3146,194 +2648,32 @@ Package logreq Info: Writing requests to 'MontageAnleitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37826 strings out of 469625
- 846833 string characters out of 5477767
- 1813684 words of memory out of 5000000
- 63857 multiletter control sequences out of 15000+600000
- 673142 words of font info for 246 fonts, out of 8000000 for 9000
+ 65934 strings out of 469625
+ 1610580 string characters out of 5477767
+ 2792768 words of memory out of 5000000
+ 91747 multiletter control sequences out of 15000+600000
+ 671774 words of font info for 236 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
  108i,10n,107p,10911b,2483s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{table.1.5} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{table.1.4} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{table.1.3} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{table.1.2} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{table.1.1} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.13} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.12} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.11} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.10} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.9} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.8} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.7} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.6} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.5} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.4} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.3.3} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.1.6} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.1.5} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.1.4} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.1.3} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.1.2} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.1.1} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.15} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.14} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.13} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.12} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.11} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.10} has been referenced but does not exis
-t, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.9} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.8} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.7} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.3.6} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.8} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.7} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.6} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.5} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.4} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.3} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.2} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.1.1} has been referenced but does not exist
-, replaced by a fixed one
-
-<c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/texmf-dist/fonts/type1/public/c
-m-super/sfbx0800.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx120
-0.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texli
-ve/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/texmf-dist/f
-onts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/texmf-dist/fonts/type1/publ
-ic/cm-super/sfrm1440.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfr
-m2074.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/t
-exlive/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/texmf-di
-st/fonts/type1/public/cm-super/sfsl2074.pfb><c:/texlive/texmf-dist/fonts/type1/
-public/cm-super/sfss2074.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super
-/sfsx1200.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb><
-c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb><c:/texlive/texm
-f-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/texmf-dist/fonts/ty
-pe1/public/cm-super/sftt0800.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-s
-uper/sftt1095.pfb>
-Output written on MontageAnleitung.pdf (33 pages, 29540086 bytes).
+<c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/texmf-dist/fonts/type1/public
+/cm-super/sfbx0800.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1
+200.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/tex
+live/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm1440.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/s
+fsl1200.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl2074.pfb><c:
+/texlive/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb><c:/texlive/texmf-
+dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/texmf-dist/fonts/type
+1/public/cm-super/sfsx1728.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-sup
+er/sfsx2488.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
+><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb><c:/texlive/te
+xmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on MontageAnleitung.pdf (35 pages, 29508893 bytes).
 PDF statistics:
- 668 PDF objects out of 1000 (max. 8388607)
- 532 compressed objects within 6 object streams
- 160 named destinations out of 1000 (max. 500000)
- 46479 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 628 PDF objects out of 1000 (max. 8388607)
+ 495 compressed objects within 5 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 44459 words of extra memory for PDF output out of 51595 (max. 10000000)
 
