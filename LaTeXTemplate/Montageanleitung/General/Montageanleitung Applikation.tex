@@ -1,0 +1,83 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% $ Autor: Gruppe 07 $
+% $ Projekt: Magic Faucet Fountain $
+% $ Pfad: LaTeXTemplate/Montageanleitung/Montageanleitung Applikation.tex $
+% $ Kurzbeschreibung: Dieses Dokument erstellt die Montageanleitung des Magic Faucet Fountain. $
+%
+% !TeX spellcheck = de_DE/GB
+% !TeX program = pdflatex
+% !BIB program = biber/bibtex
+% !TeX encoding = utf8
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[12pt,a4paper]{scrbook}
+
+% Auswahl der Sprache
+% Die nicht gewünschte Sprache muss auskommentiert werden:
+\def\isGerman{1}
+%\def\isEnglish{1}
+
+
+\include{General/Packages}
+\include{General/commands}
+\include{General/tikzdefs}
+
+\input{General/acronyms}
+\input{General/Hyphenations}%
+
+\addbibresource{../Documents/literature.bib}
+\addbibresource{../Documents/MyLiterature.bib}
+\usepackage{circuitikz}
+\usepackage{float}
+\begin{document}
+ 
+
+\InputLanguage{Chapters/}{Titelseite} 
+
+\newpage
+
+\pagenumbering{roman}
+
+\tableofcontents
+\cleardoublepage
+
+\addcontentsline{toc}{chapter}{\TRANS{Abbildungsverzeichnis}{List of figures}}
+\listoffigures
+\cleardoublepage
+
+\addcontentsline{toc}{chapter}{\TRANS{Tabellenverzeichnis}{List of tables}}
+\listoftables
+\cleardoublepage
+ 
+ 
+%\chapter*{\TRANS{Abkürzungen}{Acronyms}}
+%\addcontentsline{toc}{chapter}{\TRANS{Abkürzungen}{Acronyms}}
+
+%\cleardoublepage
+ 
+\pagenumbering{arabic}
+
+\InputLanguage{Chapters/}{Einleitung}
+\InputLanguage{Chapters/}{Materialliste}
+\InputLanguage{Chapters/}{Montageablauf}
+\InputLanguage{Chapters/}{Funktionstest}
+\InputLanguage{Chapters/}{LetzteSchritte}
+
+
+
+
+\cleardoublepage
+\addcontentsline{toc}{chapter}{\TRANS{Literaturverzeichnis}{Bibliography}}
+\printbibliography
+
+
+\cleardoublepage
+
+%\renewcommand{\indexname}{\TRANS{Stichwortverzeichnis}{Index}}
+%\addcontentsline{toc}{chapter}{\TRANS{Stichwortverzeichnis}{Index}}
+%\printindex
+
+\end{document}

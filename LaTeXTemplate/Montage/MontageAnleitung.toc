@@ -1,0 +1,31 @@
+\acswitchoff 
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{ Abbildungsverzeichnis}{iii}{chapter*.1}%
+\contentsline {chapter}{ Tabellenverzeichnis}{v}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Einleitung}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Bauteile}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Elektrische Komponenten}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Benötigtes Werkzeug}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Fertigung Bauteile}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Einsetzen der Einpressmuttern}{8}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Vorbereiten der elektrischen Leitungen}{10}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Schrauben und Muttern}{13}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Schaltplan}{13}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Montage}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Erster Schritt: Montieren Schaltnetzteil, Entwicklerboard und AMS1117}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Zweiter Schritt: Anbringen der Bodenplatte an Aluprofil}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Dritter Schritt: Zusammenbau der Vorderplatte}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Vierter Schritt: Zusammenbau der Hinterplatte}{18}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Fünfter Schritt: Teilzusammenbau des Gehäuses}{19}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Sechster Schritt: Anschließen der elektrischen Leitungen}{20}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Siebter Schritt: Montieren des Micro-Schalters und Motors}{21}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Achter Schritt: Zusammenbau des Gehäuses}{22}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Neunter Schritt: Montieren der Linearführung}{23}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Zehnter Schritt: Montieren des Griffs}{24}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Elfter Schritt: Montieren der Halter für die Welle}{25}{section.3.11}%
+\contentsline {section}{\numberline {3.12}Zwölfter Schritt: Montieren der Riemenscheibe am Motor}{26}{section.3.12}%
+\contentsline {section}{\numberline {3.13}Dreizehnter Schritt: Montieren des Anzeigers und des Riemens}{27}{section.3.13}%
+\contentsline {section}{\numberline {3.14}Vierzehnter Schritt: Montieren des Lineals}{28}{section.3.14}%
+\contentsline {section}{\numberline {3.15}Abschlussarbeiten}{28}{section.3.15}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
