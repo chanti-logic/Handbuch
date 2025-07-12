@@ -14,8 +14,6 @@
 \indexentry{Inter-Integrated Circuit! \emph  {see} I\textsuperscript  {2}C}{11}
 \indexentry{IC}{11}
 \indexentry{Inter Circuit! \emph  {see} IC}{11}
-\indexentry{IDE}{11}
-\indexentry{Integrated Development Environment! \emph  {see} IDE}{11}
 \indexentry{IMU}{11}
 \indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{11}
 \indexentry{LED}{11}
@@ -45,62 +43,57 @@
 \indexentry{ File!blink.ino}{27}
 \indexentry{ File!blink.ino}{27}
 \indexentry{ File!blink.ino}{28}
-\indexentry{ File!blink.ino}{28}
-\indexentry{Integrated Development Environment! \emph  {see} IDE}{28}
-\indexentry{IDE}{28}
-\indexentry{ File!File/Examples/01.Basics}{28}
-\indexentry{ File!Fade}{28}
-\indexentry{Bluetooth Low Energy! \emph  {see} BLE}{33}
-\indexentry{BLE}{33}
-\indexentry{System on Chip! \emph  {see} SoC}{33}
-\indexentry{SoC}{33}
+\indexentry{Bluetooth Low Energy! \emph  {see} BLE}{31}
+\indexentry{BLE}{31}
+\indexentry{System on Chip! \emph  {see} SoC}{31}
+\indexentry{SoC}{31}
+\indexentry{BLE}{32}
+\indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{32}
+\indexentry{IMU}{32}
+\indexentry{Inter-Integrated Circuit! \emph  {see} I\textsuperscript  {2}C}{32}
+\indexentry{I\textsuperscript  {2}C}{32}
+\indexentry{Light Emitting Diode! \emph  {see} {LED}}{32}
+\indexentry{LED}{32}
+\indexentry{LED}{32}
+\indexentry{Ultraviolettstrahlung! \emph  {see} UV}{32}
+\indexentry{UV}{32}
+\indexentry{Inter Circuit! \emph  {see} IC}{33}
+\indexentry{IC}{33}
+\indexentry{I\textsuperscript  {2}C}{33}
+\indexentry{Serial Peripheral Interface! \emph  {see} SPI}{33}
+\indexentry{SPI}{33}
+\indexentry{IC}{33}
+\indexentry{IC}{33}
+\indexentry{Pulse Density Modulation! \emph  {see} PDM}{33}
+\indexentry{PDM}{33}
+\indexentry{Surface-Mounted Device! \emph  {see} SM}{33}
+\indexentry{SMD}{33}
 \indexentry{BLE}{34}
-\indexentry{ Inertial Measurement Unit! \emph  {see} IMU}{34}
-\indexentry{IMU}{34}
-\indexentry{Inter-Integrated Circuit! \emph  {see} I\textsuperscript  {2}C}{34}
 \indexentry{I\textsuperscript  {2}C}{34}
-\indexentry{Light Emitting Diode! \emph  {see} {LED}}{34}
-\indexentry{LED}{34}
-\indexentry{LED}{34}
-\indexentry{Ultraviolettstrahlung! \emph  {see} UV}{34}
-\indexentry{UV}{34}
-\indexentry{Inter Circuit! \emph  {see} IC}{35}
-\indexentry{IC}{35}
-\indexentry{I\textsuperscript  {2}C}{35}
-\indexentry{Serial Peripheral Interface! \emph  {see} SPI}{35}
+\indexentry{Serial Data! \emph  {see} SDA}{34}
+\indexentry{SDA}{34}
+\indexentry{Serial Clock! \emph  {see} SCL}{34}
+\indexentry{SCL}{34}
+\indexentry{SDA}{34}
+\indexentry{SCL}{34}
+\indexentry{Organic Light Emitting Diode! \emph  {see} {OLED}}{34}
+\indexentry{OLED}{34}
+\indexentry{Mini Universal Serial Bus!\emph  {see} MSB}{35}
+\indexentry{MUSB}{35}
+\indexentry{MUSB}{35}
+\indexentry{Near Field Communication! \emph  {see} {NFC}}{35}
+\indexentry{NFC}{35}
+\indexentry{NFC}{35}
+\indexentry{NFC}{35}
+\indexentry{NFC}{35}
+\indexentry{Direkt Memory Access! \emph  {see} DMA}{35}
+\indexentry{DMA}{35}
+\indexentry{Analog to Digital Converter! \emph  {see} ADC}{35}
+\indexentry{ADC}{35}
+\indexentry{Advanced Encryption Standard! \emph  {see} AES}{35}
+\indexentry{AES}{35}
+\indexentry{Counter with CBC-MAC! \emph  {see} {CCM}}{35}
+\indexentry{CCM}{35}
+\indexentry{Automatic Address Recognition! \emph  {see} AAR}{35}
+\indexentry{AAR}{35}
 \indexentry{SPI}{35}
-\indexentry{IC}{35}
-\indexentry{IC}{35}
-\indexentry{Pulse Density Modulation! \emph  {see} PDM}{35}
-\indexentry{PDM}{35}
-\indexentry{Surface-Mounted Device! \emph  {see} SM}{35}
-\indexentry{SMD}{35}
-\indexentry{BLE}{36}
-\indexentry{I\textsuperscript  {2}C}{36}
-\indexentry{Serial Data! \emph  {see} SDA}{36}
-\indexentry{SDA}{36}
-\indexentry{Serial Clock! \emph  {see} SCL}{36}
-\indexentry{SCL}{36}
-\indexentry{SDA}{36}
-\indexentry{SCL}{36}
-\indexentry{Organic Light Emitting Diode! \emph  {see} {OLED}}{36}
-\indexentry{OLED}{36}
-\indexentry{Mini Universal Serial Bus!\emph  {see} MSB}{37}
-\indexentry{MUSB}{37}
-\indexentry{MUSB}{37}
-\indexentry{Near Field Communication! \emph  {see} {NFC}}{37}
-\indexentry{NFC}{37}
-\indexentry{NFC}{37}
-\indexentry{NFC}{37}
-\indexentry{NFC}{37}
-\indexentry{Direkt Memory Access! \emph  {see} DMA}{37}
-\indexentry{DMA}{37}
-\indexentry{Analog to Digital Converter! \emph  {see} ADC}{37}
-\indexentry{ADC}{37}
-\indexentry{Advanced Encryption Standard! \emph  {see} AES}{37}
-\indexentry{AES}{37}
-\indexentry{Counter with CBC-MAC! \emph  {see} {CCM}}{37}
-\indexentry{CCM}{37}
-\indexentry{Automatic Address Recognition! \emph  {see} AAR}{37}
-\indexentry{AAR}{37}
-\indexentry{SPI}{37}
