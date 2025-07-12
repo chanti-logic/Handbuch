@@ -22,17 +22,17 @@
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Arduino Nano 33 BLE Sense (Vereinfachte Darstellung)}}{31}{figure.caption.9}%
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Arduino Nano Pinbelegung \blx@tocontentsinit {0}\cite {Ard.2024}}}{34}{figure.caption.10}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{42}{figure.caption.11}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{44}{figure.caption.14}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{45}{figure.caption.18}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{44}{figure.caption.12}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{46}{figure.caption.15}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{47}{figure.caption.19}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{55}{figure.caption.30}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Installation der TimerOne Bibliothek}}{55}{figure.caption.31}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{56}{figure.caption.32}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{57}{figure.caption.31}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Installation der TimerOne Bibliothek}}{57}{figure.caption.32}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{58}{figure.caption.33}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Installation der U8g2 Bibliothek}}{61}{figure.caption.35}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Installation der U8g2 Bibliothek}}{63}{figure.caption.36}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
