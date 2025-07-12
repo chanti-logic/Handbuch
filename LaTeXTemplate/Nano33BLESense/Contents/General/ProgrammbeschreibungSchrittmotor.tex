@@ -1,0 +1,267 @@
+%%%
+%
+% $Autor: Wings $
+% $Date: 2024-10-31 11:15:45Z $
+% $File: file.tex $
+% $Version: 1 $
+%
+% Project: 
+%
+%%%
+
+\chapter{Beschreibung des Hauptprogramms}
+
+\lstset{
+breaklines=true,
+breakatwhitespace=true,
+columns=fullflexible,
+captionpos=b
+}
+
+% Einleitungssatz
+Das folgende Programm zeigt die vollständige Logik zur Ansteuerung des Schrittmotors, zur Verarbeitung der Sensor- und Schaltereingaben sowie zur Benutzerführung über das OLED-Display.
+
+
+\begin{lstlisting}[language=C++, label={lst:definition}, caption={Definition der Pins und globalen Variablen}]
+	#include <U8x8lib.h>
+	
+	#define STEP_PIN 2
+	#define DIR_PIN 3
+	#define START_BUTTON_PIN 4
+	#define STOP_BUTTON_PIN 5
+	#define END_LEFT_PIN 11
+	#define END_RIGHT_PIN 7
+	#define MAIN_SWITCH_PIN 8
+	#define SPEED_SENSOR_PIN 9
+	#define ENCODER_CLK A1
+	#define ENCODER_DT A2
+	#define ENCODER_SW A3
+	
+	bool motorRunning = false;
+	bool directionLeft = false;
+	bool systemActive = false;
+	bool lastSwitchState = true;
+	bool endLeftPressed = false;
+	bool endRightPressed = false;
+	bool speedSelected = false;
+	bool measurementFinished = false;
+	bool measurementActive = false;
+	bool rideStarted = false;
+	
+	volatile unsigned long pulseCount = 0;
+	unsigned long startTime = 0;
+	unsigned long endTime = 0;
+	const float DIST_CM = 36.0;
+	
+	int speedLevel = 1;
+	int delayValues[] = {1500, 1000, 900, 800, 600};
+	
+	U8X8_SSD1309_128X64_NONAME2_HW_I2C u8x8(10, A4, A5);
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++, label={lst:interrupt}, caption={Interrupt-Funktion zur Pulserfassung}]
+	void countPulse() {
+		if (measurementActive) {
+			pulseCount++;
+		}
+	}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++, label={lst:setup}, caption={Setup-Funktion zur Initialisierung}]
+	void setup() {
+		pinMode(STEP_PIN, OUTPUT);
+		pinMode(DIR_PIN, OUTPUT);
+		pinMode(START_BUTTON_PIN, INPUT_PULLUP);
+		pinMode(STOP_BUTTON_PIN, INPUT_PULLUP);
+		pinMode(END_LEFT_PIN, INPUT_PULLUP);
+		pinMode(END_RIGHT_PIN, INPUT_PULLUP);
+		pinMode(MAIN_SWITCH_PIN, INPUT_PULLUP);
+		pinMode(SPEED_SENSOR_PIN, INPUT_PULLUP);
+		pinMode(ENCODER_CLK, INPUT);
+		pinMode(ENCODER_DT, INPUT);
+		pinMode(ENCODER_SW, INPUT_PULLUP);
+		
+		attachInterrupt(digitalPinToInterrupt(SPEED_SENSOR_PIN), countPulse, FALLING);
+		
+		Serial.begin(9600);
+		u8x8.begin();
+		u8x8.setFont(u8x8_font_chroma48medium8_r);
+		u8x8.clear();
+		u8x8.drawString(0, 0, "Starte...");
+	}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++, label={lst:loop}, caption={Loop-Funktion: Hauptlogik und Zustandsschalter}]
+	void loop() {
+		bool switchState = digitalRead(MAIN_SWITCH_PIN) == LOW;
+		
+		if (switchState != lastSwitchState) {
+			lastSwitchState = switchState;
+			if (switchState) {
+				systemActive = true;
+				motorRunning = false;
+				speedSelected = false;
+				u8x8.clear();
+				u8x8.drawString(0, 1, "SYSTEM AKTIV");
+				u8x8.drawString(0, 3, "Willkommen!");
+				u8x8.drawString(0, 5, "Stufe waehlen");
+			} else {
+				systemActive = false;
+				motorRunning = false;
+				measurementActive = false;
+				u8x8.clear();
+				u8x8.drawString(0, 1, "SYSTEM AUS");
+				u8x8.drawString(0, 3, "Auf Wiedersehen!");
+			}
+			delay(100);
+		}
+		
+	\end{lstlisting}
+
+\begin{lstlisting}[language=C++, label={lst:geschwindigkeit}, caption={Geschwindigkeitswahl über den Encoder}]
+	if (!systemActive) return; 
+	
+	// Select speed level
+	if (!speedSelected) {
+		static int lastClk = digitalRead(ENCODER_CLK);
+		int clk = digitalRead(ENCODER_CLK);
+		int dt = digitalRead(ENCODER_DT);
+		
+		if (clk != lastClk && clk == LOW) {
+			if (dt == HIGH && speedLevel < 5) speedLevel++;
+			if (dt == LOW && speedLevel > 1) speedLevel--;
+			u8x8.clear();
+			u8x8.drawString(0, 0, "Stufe waehlen:");
+			char buf[16];
+			snprintf(buf, sizeof(buf), "Stufe %d", speedLevel);
+			u8x8.drawString(0, 1, buf);
+			delay(150);
+		}
+		lastClk = clk;
+		
+		if (digitalRead(ENCODER_SW) == LOW) {
+			u8x8.clear();
+			u8x8.drawString(0, 0, "Stufe gewaehlt:");
+			char buf[16];
+			snprintf(buf, sizeof(buf), "Stufe %d", speedLevel);
+			u8x8.drawString(0, 1, buf);
+			u8x8.drawString(0, 3, "START DRUECKEN");
+			speedSelected = true;
+			delay(500);
+			while (digitalRead(ENCODER_SW) == LOW);
+		}
+		return;
+	}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++, label={lst:start}, caption={Startlogik und Fahrtrichtungssteuerung}]
+	// START button pressed
+	if (digitalRead(START_BUTTON_PIN) == LOW && !motorRunning) {
+		if (!rideStarted && digitalRead(END_LEFT_PIN) == HIGH) return;
+		
+		motorRunning = true;
+		measurementActive = true;
+		
+		if (!rideStarted) {
+			directionLeft = false;
+			setDirection();
+			startTime = millis();
+			measurementFinished = false;
+			rideStarted = true;
+			
+			u8x8.clear();
+			u8x8.drawString(0, 0, "FAHRT STARTET");
+			u8x8.drawString(0, 1, "-> nach rechts");
+		} else {
+			setDirection();
+			u8x8.clear();
+			u8x8.drawString(0, 0, "FAHRT FORTGESETZT");
+			u8x8.drawString(0, 1, directionLeft ? "<= Rueckfahrt" : "-> Hinweg");
+		}
+		
+		while (digitalRead(START_BUTTON_PIN) == LOW);
+	}
+\end{lstlisting}
+	
+\begin{lstlisting}[language=C++, label={lst:stopp}, caption={Stopplogik während der Fahrt}]
+	// STOP possible at any time
+	if (digitalRead(STOP_BUTTON_PIN) == LOW && motorRunning) {
+		motorRunning = false;
+		measurementActive = false;
+		u8x8.drawString(0, 5, "STOPP GEDRUECKT");
+		while (digitalRead(STOP_BUTTON_PIN) == LOW);
+	}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++, label={lst:rechts}, caption={Rechtsanschlag: Richtungswechsel}]
+	// Right end reached, change direction
+	bool rightNow = digitalRead(END_RIGHT_PIN) == LOW;
+	if (rightNow && !endRightPressed && motorRunning && !directionLeft) {
+		directionLeft = true;
+		setDirection();
+		u8x8.clear();
+		u8x8.drawString(0, 0, "ENDE RECHTS");
+		u8x8.drawString(0, 1, "<= Rueckfahrt");
+		delay(300);
+	}
+	endRightPressed = rightNow;
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++, label={lst:links}, caption={Linksanschlag: Fahrtende und Anzeige}]
+	// Left end reached, end ride
+	bool leftNow = digitalRead(END_LEFT_PIN) == LOW;
+	if (leftNow && !endLeftPressed && motorRunning && directionLeft) {
+		motorRunning = false;
+		measurementActive = false;
+		measurementFinished = true;
+		rideStarted = false;
+		endTime = millis();
+		
+		float seconds = (endTime - startTime) / 1000.0;
+		float speed = DIST_CM / seconds;
+		
+		u8x8.clear();
+		u8x8.drawString(0, 0, "FAHRT BEENDET");
+		char buf[16];
+		snprintf(buf, sizeof(buf), "%.2f cm/s", speed);
+		u8x8.drawString(0, 1, buf);
+		delay(500);
+	}
+	endLeftPressed = leftNow;
+\end{lstlisting}
+
+\begin{lstlisting}[language=C++, label={lst:motor}, caption={Motorschritte und Richtungsfunktion}]
+	// Motor movement
+	if (motorRunning) {
+		digitalWrite(STEP_PIN, HIGH);
+		delayMicroseconds(delayValues[speedLevel - 1]);
+		digitalWrite(STEP_PIN, LOW);
+		delayMicroseconds(delayValues[speedLevel - 1]);
+	}
+}
+void setDirection() {
+	digitalWrite(DIR_PIN, directionLeft ? LOW : HIGH);
+}
+\end{lstlisting}
+
+Zu Beginn wird die Bibliothek \texttt{U8x8lib} eingebunden, um ein OLED-Display anzusteuern. Danach werden alle Pins für den Schrittmotor, die Endschalter, den Hauptschalter, den Start- und Stopptaster, den Geschwindigkeitssensor sowie den Drehencoder definiert. Auch mehrere globale Variablen werden angelegt, um Zustände wie „Motor läuft“, „System aktiv“, „Endschalter gedrückt“ oder „Geschwindigkeit gewählt“ zu speichern. Außerdem gibt es Variablen für die Zeitmessung, die Weglänge von 36 cm, die aktuelle Geschwindigkeitsstufe sowie ein Array mit Delay-Werten, die die Motor-Geschwindigkeit beeinflussen. Das OLED-Display wird als Objekt vorbereitet. \autoref{lst:definition}\\
+
+Es gibt eine Interruptfunktion, die bei jedem fallenden Signal des Geschwindigkeitssensors einen Puls zählt. Diese Pulse werden später genutzt, um die gefahrene Geschwindigkeit zu berechnen.\autoref{lst:interrupt}\\
+
+Im Setup werden alle Pins entsprechend konfiguriert. Motorpins als Ausgänge, Schalter und Taster als Eingänge, der Geschwindigkeitssensor als Eingang mit aktiviertem Interrupt, und auch der Encoder wird eingerichtet. Das OLED-Display wird initialisiert und zeigt eine Startnachricht. \autoref{lst:setup}\\
+
+Im Loop, also der Hauptschleife, wird zunächst geprüft, ob der Hauptschalter eingeschaltet ist. Je nach Zustand zeigt das OLED-Display „SYSTEM AKTIV“ oder „SYSTEM AUS“. Bei Systemstart wird das Display zurückgesetzt und begrüßt den Benutzer, gleichzeitig werden interne Statusvariablen auf einen definierten Zustand gesetzt. \autoref{lst:loop}\\
+
+Sobald das System aktiv ist, kann die Geschwindigkeit gewählt werden. Dazu liest das Programm die Signale vom Drehencoder. Durch Drehen wählt man zwischen fünf Geschwindigkeitsstufen, die in einem Array als unterschiedliche Delay-Werte für den Motor abgelegt sind. Auf dem OLED-Display wird immer die aktuell ausgewählte Stufe angezeigt. Bestätigt wird die Wahl mit dem Encoder-Taster. Danach zeigt das Display an, dass der Benutzer zum Starten bereit ist.  \autoref{lst:geschwindigkeit}\\
+
+Drückt der Benutzer den Startknopf, prüft das Programm zunächst, ob es sich um den ersten Start handelt. Falls ja, muss der Wagen am linken Endschalter stehen, bevor er losfahren darf. Wird gestartet, beginnt die Fahrt nach rechts. Die Fahrtrichtung wird gesetzt, die Zeitmessung gestartet und das Pulszählen aktiviert. Auf dem OLED-Display wird angezeigt, dass die Fahrt beginnt und in welche Richtung der Wagen fährt.\autoref{lst:start}\\
+
+Während der Fahrt kann jederzeit der Stoppknopf gedrückt werden. Sobald dies passiert, stoppt der Motor sofort, das Pulszählen wird angehalten und das OLED-Display zeigt „STOPP GEDRUECKT“ an. Nach Loslassen des Stopptasters kann später wieder gestartet werden. \autoref{lst:stopp}\\
+
+Erreicht der Wagen den rechten Endschalter, erkennt das Programm dies und ändert automatisch die Fahrtrichtung. Der Wagen fährt jetzt zurück nach links. Das OLED-Display zeigt an, dass die Rückfahrt beginnt. \autoref{lst:rechts}\\
+
+Wenn der Wagen schließlich wieder den linken Endschalter erreicht, wird die Fahrt beendet. Der Motor wird gestoppt, die Zeitmessung abgeschlossen und die Pulszählung deaktiviert. Das OLED-Display zeigt nun die gemessene Zeit sowie die aus Weg und Zeit berechnete Durchschnittsgeschwindigkeit an. \autoref{lst:links}\\
+
+Wenn der Motor aktiv ist, wird im Hauptloop bei jedem Schleifendurchlauf ein einzelner Schritt ausgeführt. Dabei wird der STEP-Pin kurz auf HIGH und danach wieder auf LOW gesetzt, wodurch ein Schrittimpuls erzeugt wird. Die Geschwindigkeit des Motors wird über die Pausenzeit zwischen den Impulsen geregelt, die aus dem gewählten Geschwindigkeitslevel abgeleitet wird. 
+
+Die Funktion \texttt{setDirection()} legt dabei die Drehrichtung des Motors fest. Abhängig von der Richtung links oder rechts wird der DIR-Pin entsprechend gesetzt. So kann der Wagen zuverlässig in beide Richtungen fahren. \autoref{lst:motor}
