@@ -1,13 +1,8 @@
 %%%%%%%%%%%%
 %
-% $Autor: Wings $
-% $Datum: 2019-03-05 08:03:15Z $
+% $Autor: C. Crety, J. Perewersenko, H. Mey $
+% $Datum: 2025-07-10  $
 % $Pfad: PushButton $
-% $Version: 4250 $
-% !TeX spellcheck = en_GB/de_DE
-% !TeX encoding = utf8
-% !TeX root = filename 
-% !TeX TXS-program:bibliography = txs:///biber
 %
 %%%%%%%%%%%%
 
@@ -18,9 +13,8 @@
 
 Ein Taster ist ein einfacher Schaltmechanismus, der zur Steuerung verschiedener Geräte und Prozesse verwendet wird. Er besteht typischerweise aus harten Materialien wie Kunststoff oder Metall.
 Die Oberfläche eines Tasters ist so gestaltet, dass sie leicht mit dem Finger oder der Hand gedrückt werden kann. Beim Drücken des Tasters wird ein elektrischer Stromkreis entweder geschlossen oder geöffnet.
-In industriellen und kommerziellen Anwendungen können Taster miteinander verbunden werden, sodass das Drücken eines Tasters einen anderen freigibt. Not-Aus-Taster, oft mit großen, pilzförmigen Köpfen, erhöhen die Sicherheit von Maschinen und Anlagen. Um Aufmerksamkeit zu erzeugen und Rückmeldung beim Betätigen zu geben, werden Taster manchmal mit Signalleuchten kombiniert. Eine Farbcodierung ist üblich, um Taster bestimmten Funktionen zuzuordnen (z. B. Rot für Stopp, Grün für Start). 
+In industriellen und kommerziellen Anwendungen können Taster miteinander verbunden werden, sodass das Drücken eines Tasters einen anderen freigibt. Not-Aus-Taster, oft mit großen, pilzförmigen Köpfen, erhöhen die Sicherheit von Maschinen und Anlagen. Um Aufmerksamkeit zu erzeugen und Rückmeldung beim Betätigen zu geben, werden Taster manchmal mit Signalleuchten kombiniert. Eine Farbcodierung ist üblich, um Taster bestimmten Funktionen zuzuordnen (z. B. Rot für Stopp, Grün für Start). \cite{tietze2021elektronik}
 
-%\Mynote{cite books, applications, board\\ image of the board}
 
 \section{Spezifische Beschreibung des Tasters}
 
@@ -32,25 +26,11 @@ Durch das Drücken des grünen Tasters wird ein entsprechendes Signal an den Mik
 
 Der Arduino Nano 33 BLE Sense verfügt über 18 digitale Eingänge, die zur Erfassung von Schaltzuständen verwendet werden können. Die Taster werden jeweils an einen digitalen Eingang angeschlossen. Beim Drücken eines Tasters wird der entsprechende Eingang auf LOW (GND) gezogen, während bei geöffnetem Zustand ein interner Pullup-Widerstand den Pegel auf HIGH hält. Diese Konfiguration verhindert ungewollte Schaltzustände durch Störungen
 
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{StufenDrehschalter/BF.png}
-	\caption{Anschluss des Stufen Drehschalters an den Arduino Nano 33 BLE Sense}
-	\label{fig:AnschlussArduinoDS}
-\end{figure}
 
 \section{Test}
 
 \subsection{Code-Beispiel}
 
-Im Folgenden ist ein Beispiel gegeben, in dem der DS an drei Positionen mit Ausgabe über das Command Fenster getestet wird (Abbildung xx).
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{StufenDrehschalter/BeispielStufenDrehschalter.jpg}
-	\caption{Beispiel Anschluss für das Testen eines Stufen-Drehschalters}
-	\label{fig:CodeStufenDrehschalter}
-\end{figure}
 
 \begin{lstlisting}
 	// Pin definitions
@@ -88,51 +68,6 @@ Im Folgenden ist ein Beispiel gegeben, in dem der DS an drei Positionen mit Ausg
 	}
 	
 \end{lstlisting}
-	
-	
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=1\textwidth]{StufenDrehschalter/CodeStufenDrehschalter.png}
-	\caption{Beispiel Code für das Testen eines Stufen-Drehschalters}
-	\label{fig:CodeStufenDrehschalter}
-\end{figure}
-
-\begin{comment}
-	\begin{code}[H]
-		\caption{Einfacher Code zum Testen des Stufen-Drehschalters}
-		\label{code:StufenDrehschalter}
-		\ArduinoExternal{}{../../Code/Arduino/StufenDrehschalter/StufenDrehschalter.ino}
-	\end{code}
-\end{comment}
 
 
-\lstinputlisting[
-caption={Stufen-Drehschalter Sketch},
-label={lst:stufendreh}
-]{../../Code/Arduino/StufenDrehschalter/StufenDrehschalter.ino}
 
-\begin{table}[H]
-	\centering
-	\begin{tabular}{|l|c|}
-		\hline
-		\textbf{Spezifikation} & \textbf{Wert} \\
-		\hline
-		Modell & Stufen Drehschalter Typ 2x6 \\
-		Polzahl & 2 \\
-		Positionen & 6 \\
-		Schalter-Durchmesser & 27,5 mm \\
-		Achsdurchmesser & 6 mm \\
-		Achslänge & 50 mm \\
-		Gewindestutzen & M 10 x 0,75 \\
-		Schaltstrom & 250 V / 0,15 A  \\
-		Belastungsgrenze & 300 V / 5 A   \\
-		\hline
-	\end{tabular}
-	\caption{Spezifikationen des Stufen Drehschalter Typ 2x6}
-	\label{tab:SpezifikationStufenDrehschalter}
-\end{table}
-
-
-\section{Weiterführende Literatur}
-
-\textcolor{red}{einfügen}
