@@ -16,7 +16,7 @@ Mey, Hannah, 7024688
 Perewersenko, Jessica, 7024880
 
 # Projektbeschreibung: 
-Im Rahmen dieses Projekts wurde ein vorhandener CNC-Tisch erweitert, um einen seiner Schrittmotoren als Demonstrator mit variabler Geschwindigkeitsregelung zubetreiben. 
+Im Rahmen dieses Projekts wurde ein vorhandener CNC-Tisch erweitert, um einen seiner Schrittmotoren als Demonstrator mit variabler Geschwindigkeitsregelung zu betreiben. 
 Ziel war es, die technische Integration und Ansteuerung über einen Arduino Nano 33 BLE Sense umzusetzen und gleichzeitig eine benutzerfreundliche Bedienoberfläche zu schaffen.
 
 # Aufgabenstellung:
@@ -47,7 +47,7 @@ Zusätzlich sollte ein optischer Geschwindigkeitssensor vom Typ LM393 die Drehza
 - [Code](DemonstratorSchrittmotor/Entwicklerdokumentation/Code)
 - [Arduino](DemonstratorSchrittmotor/Entwicklerdokumentation/Code/Arduino)
  - Testprogramm für den Arduino
-- [DemonstratorSchrittmotor](DemonstratorSchrittmotor/Code/DemonstratorSchrittmotorProgramm)
+- [DemonstratorSchrittmotor](DemonstratorSchrittmotor/Entwicklerdokumentation/Code/DemonstratorSchrittmotorProgramm)
  - Fertiges Programm für den Arduino
 - [Nano33BLESense](DemonstratorSchrittmotor/Entwicklerdokumentation/Code/Nano33BLESense)
  - Testprogramm für den Nano33BLESense
@@ -68,7 +68,7 @@ Zusätzlich sollte ein optischer Geschwindigkeitssensor vom Typ LM393 die Drehza
 
 ## Montageanleitung (sämtliche Inhalte und die verwendeten Bilder)
 - [Montageanleitung](DemonstratorSchrittmotor/Montageanleitung)
-- [Inhalte](DemonstratorSchrittmotor/Montage/Chapters)
+- [Inhalte](DemonstratorSchrittmotor/Montageanleitung/Chapters)
   - Ort an dem sich die Tex-Dateien für die einzelnen Kapiteln der Montageanleitung befinden
 - [Gestaltung](DemonstratorSchrittmotor/Montageanleitung/General)
   - In diesem Ordner sind Dateien, zur Gestaltung der Montageanleitung
@@ -86,16 +86,16 @@ Zusätzlich sollte ein optischer Geschwindigkeitssensor vom Typ LM393 die Drehza
   - In diesem Ordner sind Dateien, zur Gestaltung der Demontageanleitung
 - [Bilder](DemonstratorSchrittmotor/Demontageanleitung/Images)
   - Ablage der Bilder, die in der Demontageanleitung benutzt werden
-- [PDF](LaTeXTemplate/Demontageanleitung/DemontageAnleitung.pdf)
+- [PDF](DemonstratorSchrittmotor/Demontageanleitung/DemontageAnleitung.pdf)
   
 ## Verwendete Quellen und Bib-file (Datenblätter und Literatur in PDF)
 - [Dokumente](DemonstratorSchrittmotor/MLBib)
-- [Datenblätter](DemonstratorSchrittmotor/Documents/Datenblätter)
+- [Datenblätter](DemonstratorSchrittmotor/MLBib/Datenblätter)
   - Unter diesem Pfad befinden sich die Datenblätter, die für die Dokumentation benötigt wurden
 - [Literatur](DemonstratorSchrittmotor/MLBib/Literature.bib)
   - Hier befindet sich die verwendete Literatur
-- [Bibliothek](DemonstratorSchrittmotor/Documents/Jetson.bib)
-- [Bibliothek](DemonstratorSchrittmotor/Documents/MyLiterature.bib)
+- [Bibliothek](DemonstratorSchrittmotor/MLBib/Jetson.bib)
+- [Bibliothek](DemonstratorSchrittmotor/MLBib/MyLiterature.bib)
   - Citavi Bibliothek mit allen genutzten Quelleinträgen
 
 ## Das Handbuch für den Demonstrator (sämtliche Inhalte und die verwendeten Bilder)
