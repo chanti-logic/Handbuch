@@ -120,29 +120,29 @@ Nach dem Kalibrieren des Treibers kann der Schrittmotor angeschlossen werden.
 \section{Einfaches Beispiel mit Code}
 
 \begin{lstlisting}
-	// Pin-Zuweisung
+	// pin assignment
 	const int stepPin = 3;		//STEP
 	const int dirPin = 4;		//DIR
 	const int enablePin = 5;	//optional: nENBL (LOW = aktiv)
 	
 	void setup() {
 	pinMode(stepPin, OUTPUT);
-	pinMode(dirPin, OUTPIT);
+	pinMode(dirPin, OUTPUT);
 	pinMode(enablePin, OUTPUT);
 	
-	digitalWrite(enablePin, LOW);	//Treiber aktivieren
+	digitalWrite(enablePin, LOW);	// enable driver
 	digitalWrite(dirPin, HIGH);		
-	//Drehrichtung setzen (HIGH oder LOW)
+	// set rotation direction (HIGH or LOW)
 	}
 	
 	void loop() {
-	// Einen Schritt erzeugen:
+	// generate one step:
 	digitalWrite(stepPin, HIGH);
 	delayMicroseconds(1000);		
-	//Schrittimpulsdauer (kleiner = schneller)
+	// step pulse duration (lower = faster)
 	digitalWrite(stepPin, LOW);
 	delayMicroseconds(1000);		
-	//Pausenzeit (je nach gewuenschter Drehzahl)
+	// pause time (depending on desired speed)
 	}
 \end{lstlisting}
 
