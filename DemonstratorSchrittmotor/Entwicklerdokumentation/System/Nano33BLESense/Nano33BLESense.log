@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  12 JUL 2025 21:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  12 JUL 2025 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3586,19 +3586,19 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
 [54]
-<../../Images/LM393/TimerOne1.jpg, id=852, 455.45157pt x 196.48407pt>
+<../../Images/LM393/TimerOne1.jpg, id=834, 455.45157pt x 196.48407pt>
 File: ../../Images/LM393/TimerOne1.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne1.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne1.jpg  used on input line 1
 08.
 (pdftex.def)             Requested size: 369.88583pt x 159.57394pt.
-<../../Images/LM393/TimerOne2.jpg, id=853, 161.85469pt x 219.82124pt>
+<../../Images/LM393/TimerOne2.jpg, id=835, 161.85469pt x 219.82124pt>
 File: ../../Images/LM393/TimerOne2.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne2.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne2.jpg  used on input line 1
 15.
 (pdftex.def)             Requested size: 184.94292pt x 251.19249pt.
-<../../Images/LM393/TimerOne3.jpg, id=855, 379.4175pt x 173.89969pt>
+<../../Images/LM393/TimerOne3.jpg, id=837, 379.4175pt x 173.89969pt>
 File: ../../Images/LM393/TimerOne3.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne3.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne3.jpg  used on input line 1
@@ -3675,7 +3675,7 @@ Package biblatex Info: Setting label 'refsegment:038' on input line 55.
 ]
 Package biblatex Info: Reference segment=39 on input line 84.
 Package biblatex Info: Setting label 'refsegment:039' on input line 84.
-<../../Images/OLEDDisplay/U8g2-1.jpg, id=965, 260.47313pt x 258.21469pt>
+<../../Images/OLEDDisplay/U8g2-1.jpg, id=942, 260.47313pt x 258.21469pt>
 File: ../../Images/OLEDDisplay/U8g2-1.jpg Graphic file (type jpg)
 <use ../../Images/OLEDDisplay/U8g2-1.jpg>
 Package pdftex.def Info: ../../Images/OLEDDisplay/U8g2-1.jpg  used on input lin
@@ -3867,7 +3867,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|\T1/lmr/bx/n/7 (+20) Preis
  []
 
-<../../Images/Materialliste/fraesmaschine.jpg, id=1328, 1027.84pt x 1027.84pt>
+<../../Images/Materialliste/fraesmaschine.jpg, id=1301, 1027.84pt x 1027.84pt>
 File: ../../Images/Materialliste/fraesmaschine.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/fraesmaschine.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/fraesmaschine.jpg  used on 
@@ -3888,7 +3888,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\T1/lmr/m/n/7 (+20) ARD NANO
  []
 
-<../../Images/Materialliste/arduino.png, id=1330, 602.25pt x 494.84875pt>
+<../../Images/Materialliste/arduino.png, id=1303, 602.25pt x 494.84875pt>
 File: ../../Images/Materialliste/arduino.png Graphic file (type png)
 <use ../../Images/Materialliste/arduino.png>
 Package pdftex.def Info: ../../Images/Materialliste/arduino.png  used on input 
@@ -3899,7 +3899,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/jumpercablemm.jpg, id=1332, 2007.5pt x 2007.5pt>
+<../../Images/Materialliste/jumpercablemm.jpg, id=1305, 2007.5pt x 2007.5pt>
 File: ../../Images/Materialliste/jumpercablemm.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercablemm.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercablemm.jpg  used on 
@@ -3930,7 +3930,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
 \T1/lmr/m/n/7 (+20) Buchse-Buchse 20
  []
 
-<../../Images/Materialliste/jumpercableff.jpg, id=1334, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/jumpercableff.jpg, id=1307, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/jumpercableff.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercableff.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercableff.jpg  used on 
@@ -3951,7 +3951,7 @@ Underfull \hbox (badness 4492) in paragraph at lines 29--29
 \T1/lmr/m/n/7 (+20) bel Buchse-Stecker
  []
 
-<../../Images/Materialliste/jumpercablemf.jpg, id=1336, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/jumpercablemf.jpg, id=1309, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/jumpercablemf.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercablemf.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercablemf.jpg  used on 
@@ -3982,7 +3982,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
 []|\T1/lmr/m/n/7 (+20) GRV CA-
  []
 
-<../../Images/Materialliste/grove2.png, id=1338, 602.25pt x 405.515pt>
+<../../Images/Materialliste/grove2.png, id=1311, 602.25pt x 405.515pt>
 File: ../../Images/Materialliste/grove2.png Graphic file (type png)
 <use ../../Images/Materialliste/grove2.png>
 Package pdftex.def Info: ../../Images/Materialliste/grove2.png  used on input l
@@ -4013,7 +4013,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 \T1/lmr/m/n/7 (+20) Steckverbinder
  []
 
-<../../Images/Materialliste/schutzstecker.jpg, id=1340, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/schutzstecker.jpg, id=1313, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/schutzstecker.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/schutzstecker.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/schutzstecker.jpg  used on 
@@ -4024,7 +4024,7 @@ Underfull \hbox (badness 5667) in paragraph at lines 35--35
 []|\T1/lmr/m/n/7 (+20) Steckernetzteil, 12
  []
 
-<../../Images/Materialliste/netzteil.png, id=1342, 602.25pt x 404.51125pt>
+<../../Images/Materialliste/netzteil.png, id=1315, 602.25pt x 404.51125pt>
 File: ../../Images/Materialliste/netzteil.png Graphic file (type png)
 <use ../../Images/Materialliste/netzteil.png>
 Package pdftex.def Info: ../../Images/Materialliste/netzteil.png  used on input
@@ -4045,7 +4045,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 \T1/lmr/m/n/7 (+20) 24VAC 1x (Ein)
  []
 
-<../../Images/Materialliste/tasterr.png, id=1344, 602.25pt x 447.6725pt>
+<../../Images/Materialliste/tasterr.png, id=1317, 602.25pt x 447.6725pt>
 File: ../../Images/Materialliste/tasterr.png Graphic file (type png)
 <use ../../Images/Materialliste/tasterr.png>
 Package pdftex.def Info: ../../Images/Materialliste/tasterr.png  used on input 
@@ -4066,7 +4066,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 \T1/lmr/m/n/7 (+20) 24VAC 1x (Ein)
  []
 
-<../../Images/Materialliste/tasterg.png, id=1346, 602.25pt x 476.78125pt>
+<../../Images/Materialliste/tasterg.png, id=1319, 602.25pt x 476.78125pt>
 File: ../../Images/Materialliste/tasterg.png Graphic file (type png)
 <use ../../Images/Materialliste/tasterg.png>
 Package pdftex.def Info: ../../Images/Materialliste/tasterg.png  used on input 
@@ -4087,7 +4087,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 \T1/lmr/m/n/7 (+20) Mikroschalter,
  []
 
-<../../Images/Materialliste/microschalter.png, id=1348, 602.25pt x 719.68875pt>
+<../../Images/Materialliste/microschalter.png, id=1321, 602.25pt x 719.68875pt>
 
 File: ../../Images/Materialliste/microschalter.png Graphic file (type png)
 <use ../../Images/Materialliste/microschalter.png>
@@ -4114,7 +4114,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []|\T1/lmr/m/n/7 (+20) DEBO DRV
  []
 
-<../../Images/Materialliste/treiber.png, id=1350, 602.25pt x 552.0625pt>
+<../../Images/Materialliste/treiber.png, id=1323, 602.25pt x 552.0625pt>
 File: ../../Images/Materialliste/treiber.png Graphic file (type png)
 <use ../../Images/Materialliste/treiber.png>
 Package pdftex.def Info: ../../Images/Materialliste/treiber.png  used on input 
@@ -4140,7 +4140,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 []|\T1/lmr/m/n/7 (+20) DEBO OLED
  []
 
-<../../Images/Materialliste/display.png, id=1352, 602.25pt x 390.45876pt>
+<../../Images/Materialliste/display.png, id=1325, 602.25pt x 390.45876pt>
 File: ../../Images/Materialliste/display.png Graphic file (type png)
 <use ../../Images/Materialliste/display.png>
 Package pdftex.def Info: ../../Images/Materialliste/display.png  used on input 
@@ -4151,7 +4151,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/filament.jpg, id=1354, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/filament.jpg, id=1327, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/filament.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/filament.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/filament.jpg  used on input
@@ -4167,7 +4167,7 @@ Overfull \hbox (7.85445pt too wide) in paragraph at lines 48--49
 \T1/pcr/m/n/7 roboter-[]bausatz .
  []
 
-<../../Images/Materialliste/breadboard.png, id=1356, 602.25pt x 327.2225pt>
+<../../Images/Materialliste/breadboard.png, id=1329, 602.25pt x 327.2225pt>
 File: ../../Images/Materialliste/breadboard.png Graphic file (type png)
 <use ../../Images/Materialliste/breadboard.png>
 Package pdftex.def Info: ../../Images/Materialliste/breadboard.png  used on inp
@@ -4188,7 +4188,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
 \T1/lmr/m/n/7 (+20) mehr-far-big, 200er-
  []
 
-<../../Images/Materialliste/kabelbinder.png, id=1358, 602.25pt x 374.39874pt>
+<../../Images/Materialliste/kabelbinder.png, id=1331, 602.25pt x 374.39874pt>
 File: ../../Images/Materialliste/kabelbinder.png Graphic file (type png)
 <use ../../Images/Materialliste/kabelbinder.png>
 Package pdftex.def Info: ../../Images/Materialliste/kabelbinder.png  used on in
@@ -4209,7 +4209,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
 []|\T1/lmr/m/n/7 (+20) DEBO EN-
  []
 
-<../../Images/Materialliste/drehknopf.png, id=1360, 602.25pt x 631.35875pt>
+<../../Images/Materialliste/drehknopf.png, id=1333, 602.25pt x 631.35875pt>
 File: ../../Images/Materialliste/drehknopf.png Graphic file (type png)
 <use ../../Images/Materialliste/drehknopf.png>
 Package pdftex.def Info: ../../Images/Materialliste/drehknopf.png  used on inpu
@@ -4230,7 +4230,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\T1/lmr/m/n/7 (+20) WIPPE
  []
 
-<../../Images/Materialliste/wippschalter.png, id=1362, 602.25pt x 679.53876pt>
+<../../Images/Materialliste/wippschalter.png, id=1335, 602.25pt x 679.53876pt>
 File: ../../Images/Materialliste/wippschalter.png Graphic file (type png)
 <use ../../Images/Materialliste/wippschalter.png>
 Package pdftex.def Info: ../../Images/Materialliste/wippschalter.png  used on i
@@ -4251,7 +4251,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \T1/lmr/m/n/7 (+20) Senkkopfschrauben,
  []
 
-<../../Images/Materialliste/senkkopfschraube.jpg, id=1364, 301.125pt x 301.125p
+<../../Images/Materialliste/senkkopfschraube.jpg, id=1337, 301.125pt x 301.125p
 t>
 File: ../../Images/Materialliste/senkkopfschraube.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/senkkopfschraube.jpg>
@@ -4268,7 +4268,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []|\T1/lmr/m/n/7 (+20) Sechskantmuttern,
  []
 
-<../../Images/Materialliste/muttern.png, id=1366, 602.25pt x 432.61626pt>
+<../../Images/Materialliste/muttern.png, id=1339, 602.25pt x 432.61626pt>
 File: ../../Images/Materialliste/muttern.png Graphic file (type png)
 <use ../../Images/Materialliste/muttern.png>
 Package pdftex.def Info: ../../Images/Materialliste/muttern.png  used on input 
@@ -4284,7 +4284,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--62
 []|\T1/lmr/m/n/7 (+20) Unterlegscheiben,
  []
 
-<../../Images/Materialliste/unterlegscheibe.png, id=1368, 602.25pt x 511.9125pt
+<../../Images/Materialliste/unterlegscheibe.png, id=1341, 602.25pt x 511.9125pt
 >
 File: ../../Images/Materialliste/unterlegscheibe.png Graphic file (type png)
 <use ../../Images/Materialliste/unterlegscheibe.png>
@@ -4296,7 +4296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/loetzinn.png, id=1370, 602.25pt x 605.26125pt>
+<../../Images/Materialliste/loetzinn.png, id=1343, 602.25pt x 605.26125pt>
 File: ../../Images/Materialliste/loetzinn.png Graphic file (type png)
 <use ../../Images/Materialliste/loetzinn.png>
 Package pdftex.def Info: ../../Images/Materialliste/loetzinn.png  used on input
@@ -4317,7 +4317,7 @@ Underfull \hbox (badness 2042) in paragraph at lines 66--66
 []|\T1/lmr/m/n/7 (+20) DEBO SPEED
  []
 
-<../../Images/Materialliste/sensor.png, id=1372, 602.25pt x 412.54124pt>
+<../../Images/Materialliste/sensor.png, id=1345, 602.25pt x 412.54124pt>
 File: ../../Images/Materialliste/sensor.png Graphic file (type png)
 <use ../../Images/Materialliste/sensor.png>
 Package pdftex.def Info: ../../Images/Materialliste/sensor.png  used on input l
@@ -4495,139 +4495,32 @@ Package logreq Info: Writing requests to 'Nano33BLESense.run.xml'.
 ### simple group (level 1) entered at line 67 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 100734 strings out of 473190
- 2691185 string characters out of 5719979
- 3949843 words of memory out of 5000000
+ 100707 strings out of 473190
+ 2690788 string characters out of 5719979
+ 3949840 words of memory out of 5000000
  121820 multiletter control sequences out of 15000+600000
  726057 words of font info for 432 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  108i,12n,134p,10909b,3557s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{table.caption.35} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{table.6.3} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{table.6.2} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.16} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{code.caption.11} has been referenced but does not e
-xist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.36} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.33} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.19} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.12} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.9.6} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.9.5.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.9.5.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.9.5} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.9.4} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.9.3} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.8.7} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.8.4.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.8.4.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.8.2.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.8.2.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.8.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.2.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.2.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.1.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.1.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.1.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.6.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-<c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2025/t
-exmf-dist/fonts/type1/public/lm/lmbx7.pfb><c:/texlive/2025/texmf-dist/fonts/typ
-e1/public/lm/lmbx8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmcsc1
-0.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/
-2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2025/texmf-dist/fo
-nts/type1/public/lm/lmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm
-/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texl
-ive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2025/texmf-dist/
-fonts/type1/public/lm/lmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/l
-m/lmri10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/t
-exlive/2025/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2025/texmf-d
-ist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/
-public/lm/lmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a
-.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on Nano33BLESense.pdf (83 pages, 7960665 bytes).
+<c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c
+:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx7.pfb><c:/texlive/2025/texm
+f-dist/fonts/type1/public/lm/lmbx8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/
+public/lm/lmcsc10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.
+pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/20
+25/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2025/texmf-dist/fonts
+/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lm
+r17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/
+2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2025/texmf-dist/font
+s/type1/public/lm/lmri10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/
+lmss17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texl
+ive/2025/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2025/texmf-d
+ist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/ur
+w/courier/ucrb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a
+.pfb>
+Output written on Nano33BLESense.pdf (83 pages, 7960073 bytes).
 PDF statistics:
- 2081 PDF objects out of 2487 (max. 8388607)
- 1827 compressed objects within 19 object streams
- 648 named destinations out of 1000 (max. 500000)
+ 2049 PDF objects out of 2073 (max. 8388607)
+ 1796 compressed objects within 18 object streams
+ 621 named destinations out of 1000 (max. 500000)
  78466 words of extra memory for PDF output out of 89155 (max. 10000000)
 

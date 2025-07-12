@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  12 JUL 2025 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  12 JUL 2025 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -876,9 +876,9 @@ Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))
 \verbatim@out=\write5
-runsystem(touch w18-test-20257121101.tex)...disabled (restricted).
+runsystem(touch w18-test-20257121299.tex)...disabled (restricted).
 
-runsystem(rm -f w18-test-20257121101.tex)...disabled (restricted).
+runsystem(rm -f w18-test-20257121299.tex)...disabled (restricted).
 
 runsystem(rm -f "Literaturverzeichnis.gnuploterrors")...disabled (restricted).
 
@@ -2958,47 +2958,28 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 419.
+Package pdftex.def Info: img/technik.jpg  used on input line 415.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 419--419
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 415--415
 [][]  
  []
 
-<images/Meanwell.jpg, id=1045, 457.71pt x 647.41875pt>
-File: images/Meanwell.jpg Graphic file (type jpg)
-<use images/Meanwell.jpg>
-Package pdftex.def Info: images/Meanwell.jpg  used on input line 419.
-(pdftex.def)             Requested size: 116.77164pt x 165.16368pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
-[]\OT1/cmss/m/n/10 Internetdokument. RD-50-20190729.cdr.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
-\OT1/cmss/m/n/10 On-li-ne verf[]ugbar un-ter https://cdn-
- []
-
-
-Overfull \hbox (5.38843pt too wide) in paragraph at lines 419--419
-\OT1/cmss/m/n/10 reichelt.de/documents/datenblatt/D500/RD-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
-\OT1/cmss/m/n/10 50-DS-EN.PDF, zu-letzt ge-pr[]uft am
+Underfull \hbox (badness 2600) in paragraph at lines 415--415
+\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie LOR
+.pdf,
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 419.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 415.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 419.
+Package pdftex.def Info: img/technik.jpg  used on input line 415.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3007,67 +2988,50 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [40
 
- <./images/Meanwell.jpg>]
+]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 437.
+Package pdftex.def Info: img/technik.jpg  used on input line 433.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 437--437
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 433--433
 [][]  
  []
 
-<images/Mentor.jpg, id=1071, 514.92375pt x 728.7225pt>
-File: images/Mentor.jpg Graphic file (type jpg)
-<use images/Mentor.jpg>
-Package pdftex.def Info: images/Mentor.jpg  used on input line 437.
-(pdftex.def)             Requested size: 116.77164pt x 165.24533pt.
+<images/Meanwell.jpg, id=1070, 457.71pt x 647.41875pt>
+File: images/Meanwell.jpg Graphic file (type jpg)
+<use images/Meanwell.jpg>
+Package pdftex.def Info: images/Meanwell.jpg  used on input line 433.
+(pdftex.def)             Requested size: 116.77164pt x 165.16368pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--437
-[]\OT1/cmss/m/n/10 Internetdokument.
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
+[]\OT1/cmss/m/n/10 Internetdokument. RD-50-20190729.cdr.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--437
-\OT1/cmss/m/n/10 SIGNALLEUCHTENSMD-LED-
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
+\OT1/cmss/m/n/10 On-li-ne verf[]ugbar un-ter https://cdn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--437
-\OT1/cmss/m/n/10 Datenblatt. On-li-ne verf[]ugbar un-ter
+Overfull \hbox (5.38843pt too wide) in paragraph at lines 433--433
+\OT1/cmss/m/n/10 reichelt.de/documents/datenblatt/D500/RD-
  []
 
 
-Overfull \hbox (57.26352pt too wide) in paragraph at lines 437--437
-\OT1/cmss/m/n/10 https://www.mentor.de.com/bauelemente/product/2660-
- []
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 437--437
-\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Da-ten-blatt f[]ur die Si-gnal-
-
- []
-
-
-Underfull \hbox (badness 1642) in paragraph at lines 437--437
-\OT1/cmss/bx/n/10 Bewertung: \OT1/cmss/m/n/10 Al-le n[]otigen Spe-zi-fi-ka-tio-
-nen
- []
-
-
-Underfull \hbox (badness 2080) in paragraph at lines 437--437
-\OT1/cmss/m/n/10 sind an-ge-ge-ben. War be-son-ders f[]ur die
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
+\OT1/cmss/m/n/10 50-DS-EN.PDF, zu-letzt ge-pr[]uft am
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 437.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 433.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 437.
+Package pdftex.def Info: img/technik.jpg  used on input line 433.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3076,34 +3040,67 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [41
 
- <./images/Mentor.jpg>]
+ <./images/Meanwell.jpg>]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 458.
+Package pdftex.def Info: img/technik.jpg  used on input line 451.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 458--458
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 451--451
 [][]  
  []
 
-<images/Meroth.jpg, id=1097, 477.61043pt x 682.63728pt>
-File: images/Meroth.jpg Graphic file (type jpg)
-<use images/Meroth.jpg>
-Package pdftex.def Info: images/Meroth.jpg  used on input line 458.
-(pdftex.def)             Requested size: 116.77164pt x 166.89865pt.
+<images/Mentor.jpg, id=1096, 514.92375pt x 728.7225pt>
+File: images/Mentor.jpg Graphic file (type jpg)
+<use images/Mentor.jpg>
+Package pdftex.def Info: images/Mentor.jpg  used on input line 451.
+(pdftex.def)             Requested size: 116.77164pt x 165.24533pt.
 
-Overfull \vbox (18.28572pt too high) detected at line 458
+Underfull \hbox (badness 10000) in paragraph at lines 451--451
+[]\OT1/cmss/m/n/10 Internetdokument.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--451
+\OT1/cmss/m/n/10 SIGNALLEUCHTENSMD-LED-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--451
+\OT1/cmss/m/n/10 Datenblatt. On-li-ne verf[]ugbar un-ter
+ []
+
+
+Overfull \hbox (57.26352pt too wide) in paragraph at lines 451--451
+\OT1/cmss/m/n/10 https://www.mentor.de.com/bauelemente/product/2660-
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 451--451
+\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Da-ten-blatt f[]ur die Si-gnal-
+
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 451--451
+\OT1/cmss/bx/n/10 Bewertung: \OT1/cmss/m/n/10 Al-le n[]otigen Spe-zi-fi-ka-tio-
+nen
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 451--451
+\OT1/cmss/m/n/10 sind an-ge-ge-ben. War be-son-ders f[]ur die
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 458.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 451.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 458.
+Package pdftex.def Info: img/technik.jpg  used on input line 451.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3112,15 +3109,34 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [42
 
- <./images/Meroth.jpg>]
+ <./images/Mentor.jpg>]
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 472.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 472--472
+[][]  
+ []
+
+<images/Meroth.jpg, id=1123, 477.61043pt x 682.63728pt>
+File: images/Meroth.jpg Graphic file (type jpg)
+<use images/Meroth.jpg>
+Package pdftex.def Info: images/Meroth.jpg  used on input line 472.
+(pdftex.def)             Requested size: 116.77164pt x 166.89865pt.
+
+Overfull \vbox (18.28572pt too high) detected at line 472
+ []
+
+
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 458.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 472.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 458.
+Package pdftex.def Info: img/technik.jpg  used on input line 472.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3129,40 +3145,15 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [43
 
-
-]
-File: img/technik.jpg Graphic file (type jpg)
-<use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 475.
-(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
-
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 475--475
-[][]  
- []
-
-<images/McCauley.jpg, id=1150, 597.01305pt x 844.45924pt>
-File: images/McCauley.jpg Graphic file (type jpg)
-<use images/McCauley.jpg>
-Package pdftex.def Info: images/McCauley.jpg  used on input line 475.
-(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
-
-Underfull \hbox (badness 2875) in paragraph at lines 475--475
-\OT1/cmss/m/n/10 so-wie meh-re-re gleich-zei-ti-ge Schritt-mo-to-
- []
-
-
-Overfull \vbox (17.73016pt too high) detected at line 475
- []
-
-
+ <./images/Meroth.jpg>]
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 475.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 472.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 475.
+Package pdftex.def Info: img/technik.jpg  used on input line 472.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3171,15 +3162,40 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [44
 
- <./images/McCauley.jpg>]
+
+]
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 489.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 489--489
+[][]  
+ []
+
+<images/McCauley.jpg, id=1175, 597.01305pt x 844.45924pt>
+File: images/McCauley.jpg Graphic file (type jpg)
+<use images/McCauley.jpg>
+Package pdftex.def Info: images/McCauley.jpg  used on input line 489.
+(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
+
+Underfull \hbox (badness 2875) in paragraph at lines 489--489
+\OT1/cmss/m/n/10 so-wie meh-re-re gleich-zei-ti-ge Schritt-mo-to-
+ []
+
+
+Overfull \vbox (17.73016pt too high) detected at line 489
+ []
+
+
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 475.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 489.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 475.
+Package pdftex.def Info: img/technik.jpg  used on input line 489.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3188,41 +3204,15 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [45
 
-
-]
-File: img/technik.jpg Graphic file (type jpg)
-<use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 499.
-(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
-
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 499--499
-[][]  
- []
-
-<images/Nordic.jpg, id=1201, 613.50946pt x 794.18446pt>
-File: images/Nordic.jpg Graphic file (type jpg)
-<use images/Nordic.jpg>
-Package pdftex.def Info: images/Nordic.jpg  used on input line 499.
-(pdftex.def)             Requested size: 116.77164pt x 151.1511pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--499
-\OT1/cmss/m/n/10 Online verf[]ugbar un-ter htt-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 499--499
-\OT1/cmss/m/n/10 ps://infocenter.nordicsemi.com, zu-letzt
- []
-
-
+ <./images/McCauley.jpg>]
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 499.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 489.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 499.
+Package pdftex.def Info: img/technik.jpg  used on input line 489.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3231,15 +3221,41 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [46
 
- <./images/Nordic.jpg>]
+
+]
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 513.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 513--513
+[][]  
+ []
+
+<images/Nordic.jpg, id=1227, 613.50946pt x 794.18446pt>
+File: images/Nordic.jpg Graphic file (type jpg)
+<use images/Nordic.jpg>
+Package pdftex.def Info: images/Nordic.jpg  used on input line 513.
+(pdftex.def)             Requested size: 116.77164pt x 151.1511pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+\OT1/cmss/m/n/10 Online verf[]ugbar un-ter htt-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+\OT1/cmss/m/n/10 ps://infocenter.nordicsemi.com, zu-letzt
+ []
+
+
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 499.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 513.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 499.
+Package pdftex.def Info: img/technik.jpg  used on input line 513.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3248,32 +3264,15 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [47
 
-
-]
-File: img/technik.jpg Graphic file (type jpg)
-<use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 512.
-(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
-
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 512--512
-[][]  
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 512--512
-\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/C200/AVX3[]DB[]EN
-.pdf,
- []
-
-
+ <./images/Nordic.jpg>]
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 512.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 513.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 512.
+Package pdftex.def Info: img/technik.jpg  used on input line 513.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3282,45 +3281,32 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [48
 
+
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 529.
+Package pdftex.def Info: img/technik.jpg  used on input line 526.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 529--529
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 526--526
 [][]  
  []
 
-<images/Stoffregen.jpg, id=1278, 597.01305pt x 844.45924pt>
-File: images/Stoffregen.jpg Graphic file (type jpg)
-<use images/Stoffregen.jpg>
-Package pdftex.def Info: images/Stoffregen.jpg  used on input line 529.
-(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
-[]\OT1/cmss/m/n/10 Internetdokument. En-co-der Li-bra-ry.
- []
-
-
-Underfull \hbox (badness 5203) in paragraph at lines 529--529
-\OT1/cmss/m/n/10 Hg. v. PJRC. On-li-ne verf[]ugbar un-ter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 529--529
-\OT1/cmss/m/n/10 https://www.pjrc.com/teensy/td-libs-
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
+\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/C200/AVX3[]DB[]EN
+.pdf,
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 529.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 526.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 529.
+Package pdftex.def Info: img/technik.jpg  used on input line 526.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3329,65 +3315,45 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [49
 
- <./images/Stoffregen.jpg>]
+]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 547.
+Package pdftex.def Info: img/technik.jpg  used on input line 543.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 547--547
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 543--543
 [][]  
  []
 
-<images/Filipi.jpg, id=1305, 597.79858pt x 844.45924pt>
-File: images/Filipi.jpg Graphic file (type jpg)
-<use images/Filipi.jpg>
-Package pdftex.def Info: images/Filipi.jpg  used on input line 547.
-(pdftex.def)             Requested size: 116.77164pt x 164.94592pt.
+<images/Stoffregen.jpg, id=1304, 597.01305pt x 844.45924pt>
+File: images/Stoffregen.jpg Graphic file (type jpg)
+<use images/Stoffregen.jpg>
+Package pdftex.def Info: images/Stoffregen.jpg  used on input line 543.
+(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 547--547
-[]\OT1/cmss/m/n/10 Internetdokument. Dif-fe-rence bet-ween
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
+[]\OT1/cmss/m/n/10 Internetdokument. En-co-der Li-bra-ry.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 547--547
-\OT1/cmss/m/n/10 A33BLESense and Sen-se-Li-te. A Dif-
+Underfull \hbox (badness 5203) in paragraph at lines 543--543
+\OT1/cmss/m/n/10 Hg. v. PJRC. On-li-ne verf[]ugbar un-ter
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 547--547
-\OT1/cmss/m/n/10 fe-rence bet-ween A N 33 BLE Sen-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 547--547
-\OT1/cmss/m/n/10 se vs. Sen-se Li-te. On-li-ne verf[]ugbar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 547--547
-\OT1/cmss/m/n/10 un-ter https://forum.arduino.cc/t/a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 547--547
-\OT1/cmss/m/n/10 difference-between-a-n-33-ble-sense-vs-
- []
-
-
-Underfull \hbox (badness 2469) in paragraph at lines 547--547
-\OT1/cmss/m/n/10 HTS221 Temperatur- und Feuchtigkeits-
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
+\OT1/cmss/m/n/10 https://www.pjrc.com/teensy/td-libs-
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 547.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 543.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 547.
+Package pdftex.def Info: img/technik.jpg  used on input line 543.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3396,15 +3362,65 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [50
 
- <./images/Filipi.jpg>]
+ <./images/Stoffregen.jpg>]
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 561.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 561--561
+[][]  
+ []
+
+<images/Filipi.jpg, id=1331, 597.79858pt x 844.45924pt>
+File: images/Filipi.jpg Graphic file (type jpg)
+<use images/Filipi.jpg>
+Package pdftex.def Info: images/Filipi.jpg  used on input line 561.
+(pdftex.def)             Requested size: 116.77164pt x 164.94592pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+[]\OT1/cmss/m/n/10 Internetdokument. Dif-fe-rence bet-ween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+\OT1/cmss/m/n/10 A33BLESense and Sen-se-Li-te. A Dif-
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 561--561
+\OT1/cmss/m/n/10 fe-rence bet-ween A N 33 BLE Sen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+\OT1/cmss/m/n/10 se vs. Sen-se Li-te. On-li-ne verf[]ugbar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+\OT1/cmss/m/n/10 un-ter https://forum.arduino.cc/t/a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+\OT1/cmss/m/n/10 difference-between-a-n-33-ble-sense-vs-
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 561--561
+\OT1/cmss/m/n/10 HTS221 Temperatur- und Feuchtigkeits-
+ []
+
+
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 547.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 561.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 547.
+Package pdftex.def Info: img/technik.jpg  used on input line 561.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3413,26 +3429,15 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [51
 
-
-]
-File: img/technik.jpg Graphic file (type jpg)
-<use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 560.
-(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
-
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 560--560
-[][]  
- []
-
-
+ <./images/Filipi.jpg>]
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 560.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 561.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 560.
+Package pdftex.def Info: img/technik.jpg  used on input line 561.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3441,13 +3446,14 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [52
 
+
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 576.
+Package pdftex.def Info: img/technik.jpg  used on input line 574.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 576--576
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 574--574
 [][]  
  []
 
@@ -3455,11 +3461,11 @@ Overfull \hbox (1.09102pt too wide) in paragraph at lines 576--576
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 576.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 574.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 576.
+Package pdftex.def Info: img/technik.jpg  used on input line 574.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3471,53 +3477,22 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 589.
+Package pdftex.def Info: img/technik.jpg  used on input line 590.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 589--589
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 590--590
 [][]  
- []
-
-<images/Robotor.jpg, id=1407, 597.01305pt x 844.45924pt>
-File: images/Robotor.jpg Graphic file (type jpg)
-<use images/Robotor.jpg>
-Package pdftex.def Info: images/Robotor.jpg  used on input line 589.
-(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 589--589
-[]\OT1/cmss/m/n/10 Linearf[]uhrung MGN12H 450
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 589--589
-\OT1/cmss/m/n/10 mm. https://www.roboter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 589--589
-\OT1/cmss/m/n/10 bausatz.de/p/linearfuehrung-mgn12h-
- []
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 589--589
-\OT1/cmss/m/n/10 Re-fe-renz f[]ur die Da-ten der ver-wen-de-ten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 589--589
-\OT1/cmss/bx/n/10 Schlagw[]orter: \OT1/cmss/m/n/10 Li-ne-arf[]uhrung; Ab-ma-^^Y
-e;
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 589.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 590.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 589.
+Package pdftex.def Info: img/technik.jpg  used on input line 590.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3526,44 +3501,31 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [54
 
- <./images/Robotor.jpg>]
+]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 608.
+Package pdftex.def Info: img/technik.jpg  used on input line 604.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 608--608
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 604--604
 [][]  
  []
 
-File: images/Stoffregen.jpg Graphic file (type jpg)
-<use images/Stoffregen.jpg>
-Package pdftex.def Info: images/Stoffregen.jpg  used on input line 608.
-(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
 
-Underfull \hbox (badness 2111) in paragraph at lines 608--608
-[]\OT1/cmss/m/n/10 Guide for I2C OLED Dis-play with Ar-
- []
-
-
-Underfull \hbox (badness 2990) in paragraph at lines 608--608
-\OT1/cmss/m/n/10 tua-li-siert am 2016, zu-letzt ge-pr[]uft am
- []
-
-
-Underfull \hbox (badness 4156) in paragraph at lines 608--608
-\OT1/cmss/m/n/10 I2C Kom-mu-ni-ka-ti-on mit ei-nem OLED-
+Underfull \hbox (badness 3439) in paragraph at lines 604--604
+\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/C200/DS[]serie CU
+K.pdf,
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 608.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 604.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 608.
+Package pdftex.def Info: img/technik.jpg  used on input line 604.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3575,87 +3537,53 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 627.
+Package pdftex.def Info: img/technik.jpg  used on input line 618.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 627--627
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 618--618
 [][]  
  []
 
-<images/Schroeder.jpg, id=1460, 477.61043pt x 682.63728pt>
-File: images/Schroeder.jpg Graphic file (type jpg)
-<use images/Schroeder.jpg>
-Package pdftex.def Info: images/Schroeder.jpg  used on input line 627.
-(pdftex.def)             Requested size: 116.77164pt x 166.89865pt.
+<images/Robotor.jpg, id=1459, 597.01305pt x 844.45924pt>
+File: images/Robotor.jpg Graphic file (type jpg)
+<use images/Robotor.jpg>
+Package pdftex.def Info: images/Robotor.jpg  used on input line 618.
+(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
 
-Underfull \hbox (badness 2351) in paragraph at lines 627--627
-\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Die-ses Werk bie-tet einen
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]\OT1/cmss/m/n/10 Linearf[]uhrung MGN12H 450
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 Ein-stieg in das Ge-biet der elek-tri-schen
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmss/m/n/10 mm. https://www.roboter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 An-trieb-s-tech-nik. Aus-ge-hend von den
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmss/m/n/10 bausatz.de/p/linearfuehrung-mgn12h-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 me-cha-ni-schen und elek-tro-ma-gne-ti-schen
+Underfull \hbox (badness 1097) in paragraph at lines 618--618
+\OT1/cmss/m/n/10 Re-fe-renz f[]ur die Da-ten der ver-wen-de-ten
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 Grund-la-gen, wer-den die An-triebs-kon-zep-
- []
-
-
-Underfull \hbox (badness 1859) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 te so-wohl mit Gleich-strom-ma-schi-nen als
- []
-
-
-Underfull \hbox (badness 2941) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 auch mit Asynchron- und Syn-chron-ma-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 schi-nen erl[]autert. Sy-stem-glei-chun-gen,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 Si-gnal-flus-spl[]ane und Re-ge-lungs-va-ri-an-ten
- []
-
-
-Underfull \hbox (badness 6110) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 wer-den vor-ge-stellt und dis-ku-tiert. Das
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 Lehr-buch stellt ab-schlie-^^Yend []Ubungs-
- []
-
-
-Underfull \hbox (badness 1005) in paragraph at lines 627--627
-\OT1/cmss/m/n/10 und Pr[]ufungsaufgaben mit L[]osungen zur
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmss/bx/n/10 Schlagw[]orter: \OT1/cmss/m/n/10 Li-ne-arf[]uhrung; Ab-ma-^^Y
+e;
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 627.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 618.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 627.
+Package pdftex.def Info: img/technik.jpg  used on input line 618.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3664,15 +3592,44 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [56
 
- <./images/Schroeder.jpg>]
+ <./images/Robotor.jpg>]
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 637.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 637--637
+[][]  
+ []
+
+File: images/Stoffregen.jpg Graphic file (type jpg)
+<use images/Stoffregen.jpg>
+Package pdftex.def Info: images/Stoffregen.jpg  used on input line 637.
+(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
+
+Underfull \hbox (badness 2111) in paragraph at lines 637--637
+[]\OT1/cmss/m/n/10 Guide for I2C OLED Dis-play with Ar-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 637--637
+\OT1/cmss/m/n/10 tua-li-siert am 2016, zu-letzt ge-pr[]uft am
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 637--637
+\OT1/cmss/m/n/10 I2C Kom-mu-ni-ka-ti-on mit ei-nem OLED-
+ []
+
+
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 627.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 637.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 627.
+Package pdftex.def Info: img/technik.jpg  used on input line 637.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3681,48 +3638,90 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [57
 
-
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 641.
+Package pdftex.def Info: img/technik.jpg  used on input line 656.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 641--641
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 656--656
 [][]  
  []
 
+<images/Schroeder.jpg, id=1510, 477.61043pt x 682.63728pt>
+File: images/Schroeder.jpg Graphic file (type jpg)
+<use images/Schroeder.jpg>
+Package pdftex.def Info: images/Schroeder.jpg  used on input line 656.
+(pdftex.def)             Requested size: 116.77164pt x 166.89865pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
-[]\OT1/cmss/m/n/10 Internetdokumentation. Pr[]asentation zu OLED
+Underfull \hbox (badness 2351) in paragraph at lines 656--656
+\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Die-ses Werk bie-tet einen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--641
-\OT1/cmss/m/n/10 Dis-play. On-li-ne verf[]ugbar un-ter https://tu-
+Underfull \hbox (badness 2744) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 Ein-stieg in das Ge-biet der elek-tri-schen
  []
 
 
-Overfull \hbox (234.7053pt too wide) in paragraph at lines 641--641
-\OT1/cmss/m/n/10 dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien[]
-studium/dateien[]lehstuhlseminar/vortraege[]lehrstuhlseminar/folder-
+Underfull \hbox (badness 10000) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 An-trieb-s-tech-nik. Aus-ge-hend von den
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 641--641
-\OT1/cmss/m/n/10 2010-04-30-7782863372/OLED[]Vortrag.pdf, zu-letzt ak-tua-li-si
-ert 2025,
+Underfull \hbox (badness 10000) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 me-cha-ni-schen und elek-tro-ma-gne-ti-schen
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 Grund-la-gen, wer-den die An-triebs-kon-zep-
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 te so-wohl mit Gleich-strom-ma-schi-nen als
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 auch mit Asynchron- und Syn-chron-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 schi-nen erl[]autert. Sy-stem-glei-chun-gen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 Si-gnal-flus-spl[]ane und Re-ge-lungs-va-ri-an-ten
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 wer-den vor-ge-stellt und dis-ku-tiert. Das
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 Lehr-buch stellt ab-schlie-^^Yend []Ubungs-
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 656--656
+\OT1/cmss/m/n/10 und Pr[]ufungsaufgaben mit L[]osungen zur
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 641.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 656.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 641.
+Package pdftex.def Info: img/technik.jpg  used on input line 656.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3731,40 +3730,15 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [58
 
-]
-File: img/technik.jpg Graphic file (type jpg)
-<use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 659.
-(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
-
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 659--659
-[][]  
- []
-
-<images/Simac.jpg, id=1537, 168.5205pt x 238.1625pt>
-File: images/Simac.jpg Graphic file (type jpg)
-<use images/Simac.jpg>
-Package pdftex.def Info: images/Simac.jpg  used on input line 659.
-(pdftex.def)             Requested size: 116.77164pt x 165.03004pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 659--659
-[]\OT1/cmss/m/n/10 Internetdokument. COM-KY040RE-
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 659--659
-\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Da-ten-blatt zum Dre-hen-co-
- []
-
-
+ <./images/Schroeder.jpg>]
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 659.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 656.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 659.
+Package pdftex.def Info: img/technik.jpg  used on input line 656.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3773,37 +3747,48 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [59
 
- <./images/Simac.jpg>]
+
+]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 673.
+Package pdftex.def Info: img/technik.jpg  used on input line 670.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 673--673
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 670--670
 [][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 673--673
-[]\OT1/cmss/m/n/10 Internetdokumentation. LM393-Datasheet. On-li-ne verf[]ugbar
- un-ter
+Underfull \hbox (badness 10000) in paragraph at lines 670--670
+[]\OT1/cmss/m/n/10 Internetdokumentation. Pr[]asentation zu OLED
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 673--673
-\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/A300/DATASHEET-SE
-N-
+Underfull \hbox (badness 10000) in paragraph at lines 670--670
+\OT1/cmss/m/n/10 Dis-play. On-li-ne verf[]ugbar un-ter https://tu-
+ []
+
+
+Overfull \hbox (234.7053pt too wide) in paragraph at lines 670--670
+\OT1/cmss/m/n/10 dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien[]
+studium/dateien[]lehstuhlseminar/vortraege[]lehrstuhlseminar/folder-
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 670--670
+\OT1/cmss/m/n/10 2010-04-30-7782863372/OLED[]Vortrag.pdf, zu-letzt ak-tua-li-si
+ert 2025,
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 673.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 670.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 673.
+Package pdftex.def Info: img/technik.jpg  used on input line 670.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3815,39 +3800,37 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 687.
+Package pdftex.def Info: img/technik.jpg  used on input line 688.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 687--687
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 688--688
 [][]  
  []
 
+<images/Simac.jpg, id=1587, 168.5205pt x 238.1625pt>
+File: images/Simac.jpg Graphic file (type jpg)
+<use images/Simac.jpg>
+Package pdftex.def Info: images/Simac.jpg  used on input line 688.
+(pdftex.def)             Requested size: 116.77164pt x 165.03004pt.
 
-Underfull \hbox (badness 4279) in paragraph at lines 687--687
-[]\OT1/cmss/m/n/10 Internetdokumentation. OLED-Display Da-ten-blatt. On-li-ne v
-erf[]ugbar
+Underfull \hbox (badness 10000) in paragraph at lines 688--688
+[]\OT1/cmss/m/n/10 Internetdokument. COM-KY040RE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 687--687
-\OT1/cmss/m/n/10 un-ter https://cdn-reichelt.de/documents/datenblatt/A300/COM-
- []
-
-
-Underfull \hbox (badness 6236) in paragraph at lines 687--687
-\OT1/cmss/m/n/10 OLED2.42[]DATENBLATT[]2021-03-11.pdf, zu-letzt ak-tua-li-siert
- 2021,
+Underfull \hbox (badness 1028) in paragraph at lines 688--688
+\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Da-ten-blatt zum Dre-hen-co-
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 687.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 688.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 687.
+Package pdftex.def Info: img/technik.jpg  used on input line 688.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3856,42 +3839,37 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [61
 
-]
+ <./images/Simac.jpg>]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 701.
+Package pdftex.def Info: img/technik.jpg  used on input line 702.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 701--701
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 702--702
 [][]  
  []
 
 
-Underfull \hbox (badness 7522) in paragraph at lines 701--701
-[]\OT1/cmss/m/n/10 Internetdokumentation. OLED-Display An-lei-tung. On-li-ne ve
-rf[]ugbar
+Underfull \hbox (badness 10000) in paragraph at lines 702--702
+[]\OT1/cmss/m/n/10 Internetdokumentation. LM393-Datasheet. On-li-ne verf[]ugbar
+ un-ter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 701--701
-\OT1/cmss/m/n/10 un-ter https://cdn-reichelt.de/documents/datenblatt/A300/COM-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 701--701
-\OT1/cmss/m/n/10 OLED2.42[]ANLEITUNG[]2021-02-05.pdf, zu-letzt ak-tua-li-siert 
-2021,
+Underfull \hbox (badness 10000) in paragraph at lines 702--702
+\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/A300/DATASHEET-SE
+N-
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 701.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 702.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 701.
+Package pdftex.def Info: img/technik.jpg  used on input line 702.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3903,33 +3881,39 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 715.
+Package pdftex.def Info: img/technik.jpg  used on input line 716.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 715--715
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 716--716
 [][]  
  []
 
 
-Underfull \hbox (badness 6364) in paragraph at lines 715--715
-[]\OT1/cmss/m/n/10 Internetdokumentation. LM393 An-lei-tung. On-li-ne verf[]ugb
-ar un-ter
+Underfull \hbox (badness 4279) in paragraph at lines 716--716
+[]\OT1/cmss/m/n/10 Internetdokumentation. OLED-Display Da-ten-blatt. On-li-ne v
+erf[]ugbar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 715--715
-\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/A300/SEN-SPEED-
+Underfull \hbox (badness 10000) in paragraph at lines 716--716
+\OT1/cmss/m/n/10 un-ter https://cdn-reichelt.de/documents/datenblatt/A300/COM-
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 716--716
+\OT1/cmss/m/n/10 OLED2.42[]DATENBLATT[]2021-03-11.pdf, zu-letzt ak-tua-li-siert
+ 2021,
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 715.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 716.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 715.
+Package pdftex.def Info: img/technik.jpg  used on input line 716.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -3941,57 +3925,39 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 732.
+Package pdftex.def Info: img/technik.jpg  used on input line 730.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 732--732
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 730--730
 [][]  
  []
 
-<images/STM.jpg, id=1665, 514.92375pt x 728.7225pt>
-File: images/STM.jpg Graphic file (type jpg)
-<use images/STM.jpg>
-Package pdftex.def Info: images/STM.jpg  used on input line 732.
-(pdftex.def)             Requested size: 116.77164pt x 165.24533pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 732--732
-\OT1/cmss/m/n/10 un-ter https://www.st.com/en/mems-and-
+Underfull \hbox (badness 7522) in paragraph at lines 730--730
+[]\OT1/cmss/m/n/10 Internetdokumentation. OLED-Display An-lei-tung. On-li-ne ve
+rf[]ugbar
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 732--732
-\OT1/cmss/m/n/10 sensors/lsm9ds1.html, zu-letzt ak-tua-li-siert
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/cmss/m/n/10 un-ter https://cdn-reichelt.de/documents/datenblatt/A300/COM-
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 732--732
-\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Da-ten-blatt zum LSM9DS1
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 732--732
-\OT1/cmss/bx/n/10 Schlagw[]orter: \OT1/cmss/m/n/10 Be-schleu-ni-gungs-mes-ser;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 732--732
-\OT1/cmss/m/n/10 Da-tas-heet; Da-ten-blatt; Gy-ro-skop; I2C;
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 732--732
-\OT1/cmss/m/n/10 IMU; LSM9DS1; Ma-gne-to-me-ter; Pro-duct
+Underfull \hbox (badness 10000) in paragraph at lines 730--730
+\OT1/cmss/m/n/10 OLED2.42[]ANLEITUNG[]2021-02-05.pdf, zu-letzt ak-tua-li-siert 
+2021,
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 732.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 730.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 732.
+Package pdftex.def Info: img/technik.jpg  used on input line 730.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4000,15 +3966,36 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [64
 
- <./images/STM.jpg>]
+]
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 744.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 744--744
+[][]  
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 744--744
+[]\OT1/cmss/m/n/10 Internetdokumentation. LM393 An-lei-tung. On-li-ne verf[]ugb
+ar un-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/A300/SEN-SPEED-
+ []
+
+
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 732.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 744.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 732.
+Package pdftex.def Info: img/technik.jpg  used on input line 744.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4017,56 +4004,60 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [65
 
-
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 750.
+Package pdftex.def Info: img/technik.jpg  used on input line 761.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 750--750
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 761--761
 [][]  
  []
 
-<images/STM2.jpg, id=1716, 597.01305pt x 844.45924pt>
-File: images/STM2.jpg Graphic file (type jpg)
-<use images/STM2.jpg>
-Package pdftex.def Info: images/STM2.jpg  used on input line 750.
-(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
+<images/STM.jpg, id=1715, 514.92375pt x 728.7225pt>
+File: images/STM.jpg Graphic file (type jpg)
+<use images/STM.jpg>
+Package pdftex.def Info: images/STM.jpg  used on input line 761.
+(pdftex.def)             Requested size: 116.77164pt x 165.24533pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 750--750
+Underfull \hbox (badness 10000) in paragraph at lines 761--761
 \OT1/cmss/m/n/10 un-ter https://www.st.com/en/mems-and-
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 750--750
-\OT1/cmss/m/n/10 sensors/lps22hb.html, zu-letzt ak-tua-li-siert
+Underfull \hbox (badness 4608) in paragraph at lines 761--761
+\OT1/cmss/m/n/10 sensors/lsm9ds1.html, zu-letzt ak-tua-li-siert
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 750--750
-\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Da-ten-blatt zum LPS22HB
+Underfull \hbox (badness 1067) in paragraph at lines 761--761
+\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Da-ten-blatt zum LSM9DS1
  []
 
 
-Underfull \hbox (badness 7944) in paragraph at lines 750--750
-\OT1/cmss/m/n/10 Ba-ro-me-tri-schen Druck-sen-sor. Sehr um-
+Underfull \hbox (badness 10000) in paragraph at lines 761--761
+\OT1/cmss/bx/n/10 Schlagw[]orter: \OT1/cmss/m/n/10 Be-schleu-ni-gungs-mes-ser;
  []
 
 
-Underfull \hbox (badness 6032) in paragraph at lines 750--750
-\OT1/cmss/m/n/10 fang-rei-ches Da-ten-blatt. Die wich-tig-sten
+Underfull \hbox (badness 10000) in paragraph at lines 761--761
+\OT1/cmss/m/n/10 Da-tas-heet; Da-ten-blatt; Gy-ro-skop; I2C;
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 761--761
+\OT1/cmss/m/n/10 IMU; LSM9DS1; Ma-gne-to-me-ter; Pro-duct
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 750.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 761.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 750.
+Package pdftex.def Info: img/technik.jpg  used on input line 761.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4075,15 +4066,15 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [66
 
- <./images/STM2.jpg>]
+ <./images/STM.jpg>]
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 750.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 761.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 750.
+Package pdftex.def Info: img/technik.jpg  used on input line 761.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4096,27 +4087,52 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 767.
+Package pdftex.def Info: img/technik.jpg  used on input line 779.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 767--767
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 779--779
 [][]  
  []
 
-<images/STM3.jpg, id=1769, 597.01305pt x 844.45924pt>
-File: images/STM3.jpg Graphic file (type jpg)
-<use images/STM3.jpg>
-Package pdftex.def Info: images/STM3.jpg  used on input line 767.
+<images/STM2.jpg, id=1768, 597.01305pt x 844.45924pt>
+File: images/STM2.jpg Graphic file (type jpg)
+<use images/STM2.jpg>
+Package pdftex.def Info: images/STM2.jpg  used on input line 779.
 (pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 779--779
+\OT1/cmss/m/n/10 un-ter https://www.st.com/en/mems-and-
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 779--779
+\OT1/cmss/m/n/10 sensors/lps22hb.html, zu-letzt ak-tua-li-siert
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 779--779
+\OT1/cmss/bx/n/10 Kurzfassung: \OT1/cmss/m/n/10 Da-ten-blatt zum LPS22HB
+ []
+
+
+Underfull \hbox (badness 7944) in paragraph at lines 779--779
+\OT1/cmss/m/n/10 Ba-ro-me-tri-schen Druck-sen-sor. Sehr um-
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 779--779
+\OT1/cmss/m/n/10 fang-rei-ches Da-ten-blatt. Die wich-tig-sten
+ []
+
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 767.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 779.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 767.
+Package pdftex.def Info: img/technik.jpg  used on input line 779.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4125,37 +4141,15 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [68
 
- <./images/STM3.jpg>]
-File: img/technik.jpg Graphic file (type jpg)
-<use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 781.
-(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
-
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 781--781
-[][]  
- []
-
-
-Underfull \hbox (badness 2772) in paragraph at lines 781--781
-[]\OT1/cmss/m/n/10 Internetdokumentation. DRV8825-Datasheet. On-li-ne verf[]ugb
-ar un-ter
- []
-
-
-Overfull \hbox (91.93874pt too wide) in paragraph at lines 781--781
-\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/A300/SOLDERED[]DR
-V8825[]DATASHEET.pdf,
- []
-
-
+ <./images/STM2.jpg>]
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 781.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 779.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 781.
+Package pdftex.def Info: img/technik.jpg  used on input line 779.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4164,25 +4158,31 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [69
 
+
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 795.
+Package pdftex.def Info: img/technik.jpg  used on input line 796.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 795--795
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 796--796
 [][]  
  []
 
+<images/STM3.jpg, id=1819, 597.01305pt x 844.45924pt>
+File: images/STM3.jpg Graphic file (type jpg)
+<use images/STM3.jpg>
+Package pdftex.def Info: images/STM3.jpg  used on input line 796.
+(pdftex.def)             Requested size: 116.77164pt x 165.16498pt.
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 795.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 796.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 795.
+Package pdftex.def Info: img/technik.jpg  used on input line 796.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4191,25 +4191,37 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [70
 
-]
+ <./images/STM3.jpg>]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 809.
+Package pdftex.def Info: img/technik.jpg  used on input line 810.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 809--809
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 810--810
 [][]  
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 810--810
+[]\OT1/cmss/m/n/10 Internetdokumentation. DRV8825-Datasheet. On-li-ne verf[]ugb
+ar un-ter
+ []
+
+
+Overfull \hbox (91.93874pt too wide) in paragraph at lines 810--810
+\OT1/cmss/m/n/10 https://cdn-reichelt.de/documents/datenblatt/A300/SOLDERED[]DR
+V8825[]DATASHEET.pdf,
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 809.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 810.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 809.
+Package pdftex.def Info: img/technik.jpg  used on input line 810.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4221,37 +4233,22 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 ]
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 828.
+Package pdftex.def Info: img/technik.jpg  used on input line 824.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
-Overfull \hbox (1.09102pt too wide) in paragraph at lines 828--828
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 824--824
 [][]  
- []
-
-<images/Weber.jpg, id=1871, 124.21407pt x 178.41656pt>
-File: images/Weber.jpg Graphic file (type jpg)
-<use images/Weber.jpg>
-Package pdftex.def Info: images/Weber.jpg  used on input line 828.
-(pdftex.def)             Requested size: 116.77164pt x 167.7279pt.
-
-Underfull \hbox (badness 1910) in paragraph at lines 828--828
-\OT1/cmss/m/n/10 ef-fek-ti-ve Di-gi-ta-li-sie-rungsl[]osungen mit ge-
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 828--828
-\OT1/cmss/m/n/10 M[]oglichkeiten bis hin zu KI. Das Buch
  []
 
 
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 828.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 824.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 828.
+Package pdftex.def Info: img/technik.jpg  used on input line 824.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4260,15 +4257,25 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
 
 [72
 
- <./images/Weber.jpg>]
+]
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 838.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 838--838
+[][]  
+ []
+
+
 
 File: img/hintergrund2.png Graphic file (type png)
 <use img/hintergrund2.png>
-Package pdftex.def Info: img/hintergrund2.png  used on input line 828.
+Package pdftex.def Info: img/hintergrund2.png  used on input line 838.
 (pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
 File: img/technik.jpg Graphic file (type jpg)
 <use img/technik.jpg>
-Package pdftex.def Info: img/technik.jpg  used on input line 828.
+Package pdftex.def Info: img/technik.jpg  used on input line 838.
 (pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
 
 Overfull \hbox (1.09102pt too wide) has occurred while \output is active
@@ -4276,6 +4283,65 @@ Overfull \hbox (1.09102pt too wide) has occurred while \output is active
  []
 
 [73
+
+]
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 857.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) in paragraph at lines 857--857
+[][]  
+ []
+
+<images/Weber.jpg, id=1922, 124.21407pt x 178.41656pt>
+File: images/Weber.jpg Graphic file (type jpg)
+<use images/Weber.jpg>
+Package pdftex.def Info: images/Weber.jpg  used on input line 857.
+(pdftex.def)             Requested size: 116.77164pt x 167.7279pt.
+
+Underfull \hbox (badness 1910) in paragraph at lines 857--857
+\OT1/cmss/m/n/10 ef-fek-ti-ve Di-gi-ta-li-sie-rungsl[]osungen mit ge-
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 857--857
+\OT1/cmss/m/n/10 M[]oglichkeiten bis hin zu KI. Das Buch
+ []
+
+
+
+File: img/hintergrund2.png Graphic file (type png)
+<use img/hintergrund2.png>
+Package pdftex.def Info: img/hintergrund2.png  used on input line 857.
+(pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 857.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) has occurred while \output is active
+[][]  
+ []
+
+[74
+
+ <./images/Weber.jpg>]
+
+File: img/hintergrund2.png Graphic file (type png)
+<use img/hintergrund2.png>
+Package pdftex.def Info: img/hintergrund2.png  used on input line 857.
+(pdftex.def)             Requested size: 364.19536pt x 174.87286pt.
+File: img/technik.jpg Graphic file (type jpg)
+<use img/technik.jpg>
+Package pdftex.def Info: img/technik.jpg  used on input line 857.
+(pdftex.def)             Requested size: 57.99652pt x 19.45262pt.
+
+Overfull \hbox (1.09102pt too wide) has occurred while \output is active
+[][]  
+ []
+
+[75
 
 
 ])
@@ -4301,10 +4367,10 @@ Package logreq Info: Writing requests to 'Literaturverzeichnis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38821 strings out of 473190
- 792895 string characters out of 5719979
+ 38829 strings out of 473190
+ 792969 string characters out of 5719979
  1422144 words of memory out of 5000000
- 61213 multiletter control sequences out of 15000+600000
+ 61217 multiletter control sequences out of 15000+600000
  564179 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  128i,21n,123p,1890b,2269s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4314,10 +4380,10 @@ live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2025
 st/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2025/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/pu
 blic/cm-super/sfss1000.pfb>
-Output written on Literaturverzeichnis.pdf (73 pages, 3175009 bytes).
+Output written on Literaturverzeichnis.pdf (75 pages, 3179367 bytes).
 PDF statistics:
- 1986 PDF objects out of 2073 (max. 8388607)
- 1835 compressed objects within 19 object streams
- 148 named destinations out of 1000 (max. 500000)
+ 2037 PDF objects out of 2073 (max. 8388607)
+ 1884 compressed objects within 19 object streams
+ 152 named destinations out of 1000 (max. 500000)
  243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
