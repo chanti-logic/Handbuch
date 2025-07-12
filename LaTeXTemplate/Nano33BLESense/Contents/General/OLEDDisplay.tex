@@ -24,11 +24,11 @@ Im Gegensatz zu LCD-Displays benötigen OLED-Displays keine Hintergrundbeleuchtu
 
 Durch die schnelle Reaktionszeit von OLED-Displays werden sie vor allem in Smartphones, Fernsehern, Smartwatches oder High-End-Monitore verbaut. 
 
-Nachteile von OLED-Displays liegen darin, dass sie teurer sind als LCD-Displays. Außerdem haben vor allem blaue OLED-Displays oft eine kürzere Lebensdauer und im Allgemeinen besteht die Gefahr des Einbrennens (Burn-in). Das bedeutet, dass es bei statischen Bildern dazu kommen kann, dass Reste des Bildes auf dem Display sichtbar bleiben. 
+Nachteile von OLED-Displays liegen darin, dass sie teurer sind als LCD-Displays. Außerdem haben vor allem blaue OLED-Displays oft eine kürzere Lebensdauer und im Allgemeinen besteht die Gefahr des Einbrennens (Burn-in). Das bedeutet, dass es bei statischen Bildern dazu kommen kann, dass Reste des Bildes auf dem Display sichtbar bleiben. \cite{Goethel}
 
 \section{Spezifische Beschreibung OLED-Displays}
 
-Es wird ein 2,42 Zoll OLED-Diplay von Joy-IT verwendet. Dabei handelt es sich um ein Display mit 128 x 64 Pixeln, welches gelbe Schrift auf schwarzem Hintergrund darstellt. Es besitzt eine SPI- und eine I2C-Schnittstelle, sodass es mit dem verwendeten Arduino Nano 33 BLE Sense kompatibel ist. 
+Es wird ein 2,42 Zoll OLED-Diplay von Joy-IT verwendet. Dabei handelt es sich um ein Display mit 128 x 64 Pixeln, welches gelbe Schrift auf schwarzem Hintergrund darstellt. Es besitzt eine SPI- und eine I2C-Schnittstelle, sodass es mit dem verwendeten Arduino Nano 33 BLE Sense kompatibel ist. \cite{OLED.1}
 
 \section{Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}
 
@@ -48,7 +48,7 @@ In \autoref{tab:PinOLED} ist gezeigt wie das OLED-Display korrekt an den Arduino
 		8 & A4 \\
 		\hline
 	\end{tabular}
-	\caption{Pinbelegung für I2C-Verbindung zwischen OLED-Display und Arduino Nano 33 BLE Sense}
+	\caption{Pinbelegung für I2C-Verbindung zwischen OLED-Display und Arduino Nano 33 BLE Sense \cite{OLED.2}}
 	\label{tab:PinOLED}
 \end{table}
 
@@ -77,13 +77,13 @@ In \autoref{tab:SpezifikationOLED} sind technische Daten des OLED-Displays aufge
 		Lagerungstemperatur & -45 °C bis 90 °C \\
 		\hline
 	\end{tabular}
-	\caption{Spezifikationen des OLED-Displays}
+	\caption{Spezifikationen des OLED-Displays \cite{OLED.1}}
 	\label{tab:SpezifikationOLED}
 \end{table}
 
 \section{Bibliothek}
 
-Für die Verwendung des OLED-Displays mit dem Arduino Nano 33 BLE Sense wird die U8g2 by oliver Bibliothek benötigt.
+Für die Verwendung des OLED-Displays mit dem Arduino Nano 33 BLE Sense wird die U8g2 by oliver Bibliothek benötigt. \cite{OLED.2}
 
 \subsection{Installation}
 
@@ -131,9 +131,7 @@ Mit dem Code-Beispiel kann getestet werden, ob das Display korrekt angeschlossen
 	delay(1000); // wait 1 second
 	}
 \end{lstlisting}
+\cite{OLED.2}
 
 
-\section{Weiterführende Literatur}
-
-\textcolor{red}{einfügen}
 

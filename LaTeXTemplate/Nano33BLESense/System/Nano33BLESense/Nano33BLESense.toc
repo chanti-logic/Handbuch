@@ -78,7 +78,6 @@
 \contentsline {section}{\numberline {7.3}Spezifikationen}{52}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Kalibrierung}{52}{section.7.4}%
 \contentsline {section}{\numberline {7.5}Einfaches Beispiel mit Code}{52}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Weiterführende Literatur}{53}{section.7.6}%
 \contentsline {chapter}{\numberline {8}Geschwindigkeitssensor LM393}{55}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Allgemeine Beschreibung des Sensors}{55}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Spezifische Beschreibung des Sensors}{55}{section.8.2}%
@@ -92,7 +91,6 @@
 \contentsline {section}{\numberline {8.5}Kalibrierung}{58}{section.8.5}%
 \contentsline {section}{\numberline {8.6}Einfaches Beispiel mit Code}{58}{section.8.6}%
 \contentsline {section}{\numberline {8.7}Tests}{59}{section.8.7}%
-\contentsline {section}{\numberline {8.8}Weiterführende Literatur}{60}{section.8.8}%
 \contentsline {chapter}{\numberline {9}OLED-Display}{61}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Allgemeine Beschreibung eines OLED-Displays}{61}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Spezifische Beschreibung OLED-Displays}{61}{section.9.2}%
@@ -102,7 +100,6 @@
 \contentsline {subsection}{\numberline {9.5.1}Installation}{62}{subsection.9.5.1}%
 \contentsline {subsection}{\numberline {9.5.2}Code-Beispiel}{62}{subsection.9.5.2}%
 \contentsline {section}{\numberline {9.6}Einfaches Beispiel mit Code}{62}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Weiterführende Literatur}{63}{section.9.7}%
 \contentsline {part}{\numberline {IV}Anhang}{65}{part.4}%
 \contentsline {chapter}{\numberline {10}Materialliste}{67}{chapter.10}%
 \contentsline {chapter}{\nonumberline Literaturverzeichnis}{71}{chapter*.37}%
