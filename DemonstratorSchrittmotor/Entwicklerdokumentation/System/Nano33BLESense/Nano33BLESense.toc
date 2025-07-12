@@ -52,54 +52,54 @@
 \contentsline {section}{\numberline {4.4}Hinweis Arduino 33 BLE Sense Lite }{37}{section.4.4}%
 \contentsline {section}{\numberline {4.5}Bezugsquellen}{37}{section.4.5}%
 \contentsline {part}{\numberline {III}Arduino Nano 33 BLE Sense - External Sensors and Actors}{39}{part.3}%
-\contentsline {chapter}{\numberline {5}Drehwinkel-Encoder}{41}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Encoder}{41}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Drehwinkel-Encoder}{41}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Schrittmotor NEMA 17}{43}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Beschreibung eines Schrittmotors}{43}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Aufbau und Funktionsweise eines Schrittmotors}{43}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Schrittmotor Bauformen}{44}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Betriebsarten unipolar und bipolar}{45}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}Mikroschrittverfahren}{45}{subsection.6.1.4}%
-\contentsline {section}{\numberline {6.2}Schrittverluste verhindern}{46}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Auswahl des Schrittmotors}{46}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Betriebsart}{46}{subsection.6.2.2}%
-\contentsline {subsubsection}{\nonumberline Start-Stopp-Betrieb}{46}{subsubsection*.14}%
-\contentsline {subsubsection}{\nonumberline Beschleunigung und Rampenprofil (Trapezförmig)}{47}{subsubsection*.18}%
-\contentsline {subsection}{\numberline {6.2.3}Externe Ereignisse}{48}{subsection.6.2.3}%
-\contentsline {subsubsection}{\nonumberline Lastrückkopplung}{48}{subsubsection*.21}%
-\contentsline {subsubsection}{\nonumberline Erhöhung der Nutzlast mit der Zeit}{49}{subsubsection*.23}%
-\contentsline {section}{\numberline {6.3}Beschreibung des verwendeten Schrittmotors}{49}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Spezifikation}{49}{section.6.4}%
-\contentsline {chapter}{\numberline {7}Schrittmotortreiber DRV8825}{51}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Allgemeine Beschreibung eines Motortreibers}{51}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Spezifische Beschreibung des Schrittmotortreibers DRV8825}{51}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Anschluss des Treibers mit dem Arduino Nano 33 BLE Sense}{51}{subsection.7.2.1}%
-\contentsline {section}{\numberline {7.3}Spezifikationen}{52}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Kalibrierung}{52}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Einfaches Beispiel mit Code}{52}{section.7.5}%
-\contentsline {chapter}{\numberline {8}Geschwindigkeitssensor LM393}{55}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Allgemeine Beschreibung des Sensors}{55}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Spezifische Beschreibung des Sensors}{55}{section.8.2}%
-\contentsline {subsection}{\numberline {8.2.1}Funktionsweise der Lichtschranke}{55}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}Signalverarbeitung mit dem LM393 Komparator}{56}{subsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.2.3}Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}{56}{subsection.8.2.3}%
-\contentsline {section}{\numberline {8.3}Spezifikationen}{56}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Bibliothek}{56}{section.8.4}%
-\contentsline {subsection}{\numberline {8.4.1}Installation}{56}{subsection.8.4.1}%
-\contentsline {subsection}{\numberline {8.4.2}Code-Beispiel}{57}{subsection.8.4.2}%
-\contentsline {section}{\numberline {8.5}Kalibrierung}{58}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Einfaches Beispiel mit Code}{58}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Tests}{59}{section.8.7}%
-\contentsline {chapter}{\numberline {9}OLED-Display}{61}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Allgemeine Beschreibung eines OLED-Displays}{61}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Spezifische Beschreibung OLED-Displays}{61}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}{61}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Spezifikationen}{62}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Bibliothek}{62}{section.9.5}%
-\contentsline {subsection}{\numberline {9.5.1}Installation}{62}{subsection.9.5.1}%
-\contentsline {subsection}{\numberline {9.5.2}Code-Beispiel}{62}{subsection.9.5.2}%
-\contentsline {section}{\numberline {9.6}Einfaches Beispiel mit Code}{62}{section.9.6}%
+\contentsline {chapter}{\numberline {5}Schrittmotor NEMA 17}{41}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Beschreibung eines Schrittmotors}{41}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Aufbau und Funktionsweise eines Schrittmotors}{41}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Schrittmotor Bauformen}{42}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Betriebsarten unipolar und bipolar}{43}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Mikroschrittverfahren}{43}{subsection.5.1.4}%
+\contentsline {section}{\numberline {5.2}Schrittverluste verhindern}{44}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Auswahl des Schrittmotors}{44}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Betriebsart}{44}{subsection.5.2.2}%
+\contentsline {subsubsection}{\nonumberline Start-Stopp-Betrieb}{44}{subsubsection*.13}%
+\contentsline {subsubsection}{\nonumberline Beschleunigung und Rampenprofil (Trapezförmig)}{45}{subsubsection*.17}%
+\contentsline {subsection}{\numberline {5.2.3}Externe Ereignisse}{46}{subsection.5.2.3}%
+\contentsline {subsubsection}{\nonumberline Lastrückkopplung}{46}{subsubsection*.20}%
+\contentsline {subsubsection}{\nonumberline Erhöhung der Nutzlast mit der Zeit}{47}{subsubsection*.22}%
+\contentsline {section}{\numberline {5.3}Beschreibung des verwendeten Schrittmotors}{47}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Spezifikation}{47}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Schrittmotortreiber DRV8825}{49}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Allgemeine Beschreibung eines Motortreibers}{49}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Spezifische Beschreibung des Schrittmotortreibers DRV8825}{49}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Anschluss des Treibers mit dem Arduino Nano 33 BLE Sense}{49}{subsection.6.2.1}%
+\contentsline {section}{\numberline {6.3}Spezifikationen}{50}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Kalibrierung}{50}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Einfaches Beispiel mit Code}{50}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Geschwindigkeitssensor LM393}{53}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Allgemeine Beschreibung des Sensors}{53}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Spezifische Beschreibung des Sensors}{53}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Funktionsweise der Lichtschranke}{53}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Signalverarbeitung mit dem LM393 Komparator}{54}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}{54}{subsection.7.2.3}%
+\contentsline {section}{\numberline {7.3}Spezifikationen}{54}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Bibliothek}{54}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Installation}{54}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Code-Beispiel}{55}{subsection.7.4.2}%
+\contentsline {section}{\numberline {7.5}Kalibrierung}{56}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Einfaches Beispiel mit Code}{56}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Tests}{57}{section.7.7}%
+\contentsline {chapter}{\numberline {8}OLED-Display}{59}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Allgemeine Beschreibung eines OLED-Displays}{59}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Spezifische Beschreibung OLED-Displays}{59}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}{59}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Spezifikationen}{60}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Bibliothek}{60}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Installation}{60}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Code-Beispiel}{60}{subsection.8.5.2}%
+\contentsline {section}{\numberline {8.6}Einfaches Beispiel mit Code}{60}{section.8.6}%
+\contentsline {chapter}{\numberline {9}Drehwinkel-Encoder}{63}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Encoder}{63}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Drehwinkel-Encoder}{63}{section.9.2}%
 \contentsline {part}{\numberline {IV}Beschreibung des Hauptprogramms}{65}{part.4}%
 \contentsline {chapter}{\numberline {10}Beschreibung des Hauptprogramms}{67}{chapter.10}%
 \contentsline {part}{\numberline {V}Anhang}{73}{part.5}%
