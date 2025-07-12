@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.15)  11 JUL 2025 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.15)  12 JUL 2025 06:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,82 +920,536 @@ LaTeX Info: Redefining \Atan2 on input line 39.
 LaTeX Warning: \include should only be used after \begin{document} on input lin
 e 21.
 
-No file General/tikzdefs.
-(./General/acronyms.tex
-\c@g@acro@api@int=\count458
-\c@g@acro@bs@int=\count459
-\c@g@acro@cci@int=\count460
-\c@g@acro@csi@int=\count461
-\c@g@acro@cg@int=\count462
-\c@g@acro@cifar@int=\count463
-\c@g@acro@cnc@int=\count464
-\c@g@acro@cnn@int=\count465
-\c@g@acro@coco@int=\count466
-\c@g@acro@cpu@int=\count467
-\c@g@acro@cuda@int=\count468
-\c@g@acro@cudnn@int=\count469
-\c@g@acro@dll@int=\count470
-\c@g@acro@dnn@int=\count471
-\c@g@acro@fp32@int=\count472
-\c@g@acro@flops@int=\count473
-\c@g@acro@fp16@int=\count474
-\c@g@acro@fpga@int=\count475
-\c@g@acro@fps@int=\count476
-\c@g@acro@gpio@int=\count477
-\c@g@acro@gpgpu@int=\count478
-\c@g@acro@gpu@int=\count479
-\c@g@acro@hdmi@int=\count480
-\c@g@acro@i2c@int=\count481
-\c@g@acro@i2s@int=\count482
-\c@g@acro@ide@int=\count483
-\c@g@acro@int8@int=\count484
-\c@g@acro@iot@int=\count485
-\c@g@acro@kdd@int=\count486
-\c@g@acro@ki@int=\count487
-\c@g@acro@knn@int=\count488
-\c@g@acro@mimd@int=\count489
-\c@g@acro@nn@int=\count490
-\c@g@acro@opencl@int=\count491
-\c@g@acro@ppa@int=\count492
-\c@g@acro@pip@int=\count493
-\c@g@acro@pypi@int=\count494
-\c@g@acro@ram@int=\count495
-\c@g@acro@relu@int=\count496
-\c@g@acro@resnets@int=\count497
-\c@g@acro@rle@int=\count498
-\c@g@acro@rgb@int=\count499
-\c@g@acro@sd@int=\count500
-\c@g@acro@sda@int=\count501
-\c@g@acro@sd-1@int=\count502
-\c@g@acro@sd-3@int=\count503
-\c@g@acro@scl@int=\count504
-\c@g@acro@ssh@int=\count505
-\c@g@acro@spi@int=\count506
-\c@g@acro@sbc@int=\count507
-\c@g@acro@simd@int=\count508
-\c@g@acro@sm@int=\count509
-\c@g@acro@sp@int=\count510
-\c@g@acro@sps@int=\count511
-\c@g@acro@tpu@int=\count512
-\c@g@acro@uart@int=\count513
-\c@g@acro@uma@int=\count514
-\c@g@acro@venv@int=\count515
-\c@g@acro@vpu@int=\count516
+(./General/TikzDefs.tex (c:/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(c:/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks40
+\pgfutil@tempdima=\dimen194
+\pgfutil@tempdimb=\dimen195
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box64
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks41
+\pgfkeys@temptoks=\toks42
+
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
+x
+\pgfkeys@tmptoks=\toks43
+))
+\pgf@x=\dimen196
+\pgf@y=\dimen197
+\pgf@xa=\dimen198
+\pgf@ya=\dimen199
+\pgf@xb=\dimen256
+\pgf@yb=\dimen257
+\pgf@xc=\dimen258
+\pgf@yc=\dimen259
+\pgf@xd=\dimen260
+\pgf@yd=\dimen261
+\w@pgf@writea=\write6
+\r@pgf@reada=\read4
+\c@pgf@counta=\count458
+\c@pgf@countb=\count459
+\c@pgf@countc=\count460
+\c@pgf@countd=\count461
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
+\pgf@sys@id@count=\count462
+ (c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count463
+\pgfsyssoftpath@bigbuffer@items=\count464
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen262
+\pgfmath@count=\count465
+\pgfmath@box=\box65
+\pgfmath@toks=\toks47
+\pgfmath@stack@operand=\toks48
+\pgfmath@stack@operation=\toks49
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count466
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen263
+\pgf@picmaxx=\dimen264
+\pgf@picminy=\dimen265
+\pgf@picmaxy=\dimen266
+\pgf@pathminx=\dimen267
+\pgf@pathmaxx=\dimen268
+\pgf@pathminy=\dimen269
+\pgf@pathmaxy=\dimen270
+\pgf@xx=\dimen271
+\pgf@xy=\dimen272
+\pgf@yx=\dimen273
+\pgf@yy=\dimen274
+\pgf@zx=\dimen275
+\pgf@zy=\dimen276
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen277
+\pgf@path@lasty=\dimen278
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen279
+\pgf@shorten@start@additional=\dimen280
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box66
+\pgf@hbox=\box67
+\pgf@layerbox@main=\box68
+\pgf@picture@serial@count=\count467
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen281
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen282
+\pgf@pt@y=\dimen283
+\pgf@pt@temp=\dimen284
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen285
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen286
+\pgf@sys@shading@range@num=\count468
+\pgf@shadingcount=\count469
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box69
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box70
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen287
+\pgf@nodesepend=\dimen288
+)
+(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen289
+\pgffor@skip=\dimen290
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count470
+\pgfplotmarksize=\dimen291
+)
+\tikz@lastx=\dimen292
+\tikz@lasty=\dimen293
+\tikz@lastxsaved=\dimen294
+\tikz@lastysaved=\dimen295
+\tikz@lastmovetox=\dimen296
+\tikz@lastmovetoy=\dimen297
+\tikzleveldistance=\dimen298
+\tikzsiblingdistance=\dimen299
+\tikz@figbox=\box71
+\tikz@figbox@bg=\box72
+\tikz@tempbox=\box73
+\tikz@tempbox@bg=\box74
+\tikztreelevel=\count471
+\tikznumberofchildren=\count472
+\tikznumberofcurrentchild=\count473
+\tikz@fig@count=\count474
+ (c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count475
+\pgfmatrixcurrentcolumn=\count476
+\pgf@matrix@numberofcolumns=\count477
+)
+\tikz@expandcount=\count478
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks52
+\t@pgfplots@tokb=\toks53
+\t@pgfplots@tokc=\toks54
+\pgfplots@tmpa=\dimen300
+\c@pgfplots@coordindex=\count479
+\c@pgfplots@scanlineindex=\count480
+
+(c:/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_l
+oader.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks55
+\t@pgf@tokb=\toks56
+\t@pgf@tokc=\toks57
+
+(c:/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_p
+gfutil-common-lists.tex))
+(c:/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure
+.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure
+ext.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.te
+x
+\c@pgfplotsarray@tmp=\count481
+)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.t
+ex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.t
+ex
+\c@pgfplotstable@counta=\count482
+\t@pgfplotstable@a=\toks58
+)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.te
+x) (c:/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading
+.code.tex
+\c@pgfplotslibrarysurf@no=\count483
+
+(c:/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.
+pgfsys-pdftex.def)))
+(c:/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex)))
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen301
+\pgfdecoratedremainingdistance=\dimen302
+\pgfdecoratedinputsegmentcompleteddistance=\dimen303
+\pgfdecoratedinputsegmentremainingdistance=\dimen304
+\pgf@decorate@distancetomove=\dimen305
+\pgf@decorate@repeatstate=\count484
+\pgfdecorationsegmentamplitude=\dimen306
+\pgfdecorationsegmentlength=\dimen307
+)
+\tikz@lib@dec@box=\box75
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathmorphing.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathreplacing.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathreplacing.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua
+.code.tex)
+\pgfplots@numplots=\count485
+\pgfplots@xmin@reg=\dimen308
+\pgfplots@xmax@reg=\dimen309
+\pgfplots@ymin@reg=\dimen310
+\pgfplots@ymax@reg=\dimen311
+\pgfplots@zmin@reg=\dimen312
+\pgfplots@zmax@reg=\dimen313
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+plotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geomet
+ric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.c
+ode.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbol
+s.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows
+.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.callouts.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callou
+ts.code.tex))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+shapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multip
+art.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box76
+\pgfnodeparttwobox=\box77
+\pgfnodepartthreebox=\box78
+\pgfnodepartfourbox=\box79
+\pgfnodeparttwentybox=\box80
+\pgfnodepartnineteenbox=\box81
+\pgfnodeparteighteenbox=\box82
+\pgfnodepartseventeenbox=\box83
+\pgfnodepartsixteenbox=\box84
+\pgfnodepartfifteenbox=\box85
+\pgfnodepartfourteenbox=\box86
+\pgfnodepartthirteenbox=\box87
+\pgfnodeparttwelvebox=\box88
+\pgfnodepartelevenbox=\box89
+\pgfnodeparttenbox=\box90
+\pgfnodepartninebox=\box91
+\pgfnodeparteightbox=\box92
+\pgfnodepartsevenbox=\box93
+\pgfnodepartsixbox=\box94
+\pgfnodepartfivebox=\box95
+)))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen314
+))
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+angles.code.tex
+File: tikzlibraryangles.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+quotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+babel.code.tex
+File: tikzlibrarybabel.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+positioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+math.code.tex
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+fpu.code.tex)
+\tikz@math@for@depth=\count486
+\tikz@math@dimen=\dimen315
+\tikz@math@toks=\toks59
+)
+(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+backgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@layerbox@background=\box96
+\pgf@layerboxsaved@background=\box97
+)) (./General/acronyms.tex
+\c@g@acro@api@int=\count487
+\c@g@acro@bs@int=\count488
+\c@g@acro@cci@int=\count489
+\c@g@acro@csi@int=\count490
+\c@g@acro@cg@int=\count491
+\c@g@acro@cifar@int=\count492
+\c@g@acro@cnc@int=\count493
+\c@g@acro@cnn@int=\count494
+\c@g@acro@coco@int=\count495
+\c@g@acro@cpu@int=\count496
+\c@g@acro@cuda@int=\count497
+\c@g@acro@cudnn@int=\count498
+\c@g@acro@dll@int=\count499
+\c@g@acro@dnn@int=\count500
+\c@g@acro@fp32@int=\count501
+\c@g@acro@flops@int=\count502
+\c@g@acro@fp16@int=\count503
+\c@g@acro@fpga@int=\count504
+\c@g@acro@fps@int=\count505
+\c@g@acro@gpio@int=\count506
+\c@g@acro@gpgpu@int=\count507
+\c@g@acro@gpu@int=\count508
+\c@g@acro@hdmi@int=\count509
+\c@g@acro@i2c@int=\count510
+\c@g@acro@i2s@int=\count511
+\c@g@acro@ide@int=\count512
+\c@g@acro@int8@int=\count513
+\c@g@acro@iot@int=\count514
+\c@g@acro@kdd@int=\count515
+\c@g@acro@ki@int=\count516
+\c@g@acro@knn@int=\count517
+\c@g@acro@mimd@int=\count518
+\c@g@acro@nn@int=\count519
+\c@g@acro@opencl@int=\count520
+\c@g@acro@ppa@int=\count521
+\c@g@acro@pip@int=\count522
+\c@g@acro@pypi@int=\count523
+\c@g@acro@ram@int=\count524
+\c@g@acro@relu@int=\count525
+\c@g@acro@resnets@int=\count526
+\c@g@acro@rle@int=\count527
+\c@g@acro@rgb@int=\count528
+\c@g@acro@sd@int=\count529
+\c@g@acro@sda@int=\count530
+\c@g@acro@sd-1@int=\count531
+\c@g@acro@sd-3@int=\count532
+\c@g@acro@scl@int=\count533
+\c@g@acro@ssh@int=\count534
+\c@g@acro@spi@int=\count535
+\c@g@acro@sbc@int=\count536
+\c@g@acro@simd@int=\count537
+\c@g@acro@sm@int=\count538
+\c@g@acro@sp@int=\count539
+\c@g@acro@sps@int=\count540
+\c@g@acro@tpu@int=\count541
+\c@g@acro@uart@int=\count542
+\c@g@acro@uma@int=\count543
+\c@g@acro@venv@int=\count544
+\c@g@acro@vpu@int=\count545
 ) (./General/Hyphenations.tex
 (c:/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
-\MT@toks=\toks40
-\MT@tempbox=\box64
-\MT@count=\count517
+\MT@toks=\toks60
+\MT@tempbox=\box98
+\MT@count=\count546
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks41
+\MT@prot@toks=\toks61
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen194
+\MT@outer@kern=\dimen316
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count518
+\MT@listname@count=\count547
 
 (c:/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
@@ -1017,18 +1471,18 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LTright=\skip99
 \LTpre=\skip100
 \LTpost=\skip101
-\LTchunksize=\count519
-\LTcapwidth=\dimen195
-\LT@head=\box65
-\LT@firsthead=\box66
-\LT@foot=\box67
-\LT@lastfoot=\box68
-\LT@gbox=\box69
-\LT@cols=\count520
-\LT@rows=\count521
-\c@LT@tables=\count522
-\c@LT@chunks=\count523
-\LT@p@ftn=\toks42
+\LTchunksize=\count548
+\LTcapwidth=\dimen317
+\LT@head=\box99
+\LT@firsthead=\box100
+\LT@foot=\box101
+\LT@lastfoot=\box102
+\LT@gbox=\box103
+\LT@cols=\count549
+\LT@rows=\count550
+\c@LT@tables=\count551
+\c@LT@chunks=\count552
+\LT@p@ftn=\toks62
 )
 Class scrbook Info: longtable captions redefined on input line 27.
 
@@ -1044,291 +1498,47 @@ Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
 
 (c:/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box70
+\collectedbox=\box104
 )
-\tc@llx=\dimen196
-\tc@lly=\dimen197
-\tc@urx=\dimen198
-\tc@ury=\dimen199
+\tc@llx=\dimen318
+\tc@lly=\dimen319
+\tc@urx=\dimen320
+\tc@ury=\dimen321
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
 (c:/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen256
-\adjbox@Height=\dimen257
-\adjbox@Depth=\dimen258
-\adjbox@Totalheight=\dimen259
-\adjbox@pwidth=\dimen260
-\adjbox@pheight=\dimen261
-\adjbox@pdepth=\dimen262
-\adjbox@ptotalheight=\dimen263
+\adjbox@Width=\dimen322
+\adjbox@Height=\dimen323
+\adjbox@Depth=\dimen324
+\adjbox@Totalheight=\dimen325
+\adjbox@pwidth=\dimen326
+\adjbox@pheight=\dimen327
+\adjbox@pdepth=\dimen328
+\adjbox@ptotalheight=\dimen329
 
 (c:/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count524
+\c@checkoddpage=\count553
 )
 (c:/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box71
-\sift@deathcycles=\count525
-\@vwid@loff=\dimen264
-\@vwid@roff=\dimen265
+\@vwid@box=\box105
+\sift@deathcycles=\count554
+\@vwid@loff=\dimen330
+\@vwid@roff=\dimen331
 ))
-(c:/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks43
-\pgfutil@tempdima=\dimen266
-\pgfutil@tempdimb=\dimen267
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box72
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(c:/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
-
-(c:/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(c:/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-
-(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks44
-\pgfkeys@temptoks=\toks45
-
-(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
-x
-\pgfkeys@tmptoks=\toks46
-))
-\pgf@x=\dimen268
-\pgf@y=\dimen269
-\pgf@xa=\dimen270
-\pgf@ya=\dimen271
-\pgf@xb=\dimen272
-\pgf@yb=\dimen273
-\pgf@xc=\dimen274
-\pgf@yc=\dimen275
-\pgf@xd=\dimen276
-\pgf@yd=\dimen277
-\w@pgf@writea=\write6
-\r@pgf@reada=\read4
-\c@pgf@counta=\count526
-\c@pgf@countb=\count527
-\c@pgf@countc=\count528
-\c@pgf@countd=\count529
-\t@pgf@toka=\toks47
-\t@pgf@tokb=\toks48
-\t@pgf@tokc=\toks49
-\pgf@sys@id@count=\count530
- (c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
-
-(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-)))
-(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count531
-\pgfsyssoftpath@bigbuffer@items=\count532
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
-
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen278
-\pgfmath@count=\count533
-\pgfmath@box=\box73
-\pgfmath@toks=\toks50
-\pgfmath@stack@operand=\toks51
-\pgfmath@stack@operation=\toks52
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
-.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
-x) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
-.code.tex) (c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count534
-))
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen279
-\pgf@picmaxx=\dimen280
-\pgf@picminy=\dimen281
-\pgf@picmaxy=\dimen282
-\pgf@pathminx=\dimen283
-\pgf@pathmaxx=\dimen284
-\pgf@pathminy=\dimen285
-\pgf@pathmaxy=\dimen286
-\pgf@xx=\dimen287
-\pgf@xy=\dimen288
-\pgf@yx=\dimen289
-\pgf@yy=\dimen290
-\pgf@zx=\dimen291
-\pgf@zy=\dimen292
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen293
-\pgf@path@lasty=\dimen294
-) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen295
-\pgf@shorten@start@additional=\dimen296
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box74
-\pgf@hbox=\box75
-\pgf@layerbox@main=\box76
-\pgf@picture@serial@count=\count535
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen297
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
-ex
-File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen298
-\pgf@pt@y=\dimen299
-\pgf@pt@temp=\dimen300
-) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
-x
-File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen301
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen302
-\pgf@sys@shading@range@num=\count536
-\pgf@shadingcount=\count537
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box77
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box78
-)
-(c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen303
-\pgf@nodesepend=\dimen304
-)
-(c:/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-))
-(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(c:/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(c:/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(c:/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(c:/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen305
-\pgffor@skip=\dimen306
-\pgffor@stack=\toks53
-\pgffor@toks=\toks54
-))
-(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
-
-(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
-x
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count538
-\pgfplotmarksize=\dimen307
-)
-\tikz@lastx=\dimen308
-\tikz@lasty=\dimen309
-\tikz@lastxsaved=\dimen310
-\tikz@lastysaved=\dimen311
-\tikz@lastmovetox=\dimen312
-\tikz@lastmovetoy=\dimen313
-\tikzleveldistance=\dimen314
-\tikzsiblingdistance=\dimen315
-\tikz@figbox=\box79
-\tikz@figbox@bg=\box80
-\tikz@tempbox=\box81
-\tikz@tempbox@bg=\box82
-\tikztreelevel=\count539
-\tikznumberofchildren=\count540
-\tikznumberofcurrentchild=\count541
-\tikz@fig@count=\count542
- (c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count543
-\pgfmatrixcurrentcolumn=\count544
-\pgf@matrix@numberofcolumns=\count545
-)
-\tikz@expandcount=\count546
-
-(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-topaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (c:/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
+(c:/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
 Package: circuitikz 2025/03/21{} The CircuiTikz circuit drawing package version
  1.7.2
 
-(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-calc.code.tex
-File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
 (c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen316
-\pgfarrowlength=\dimen317
-\pgfarrowwidth=\dimen318
-\pgfarrowlinewidth=\dimen319
+\pgfarrowinset=\dimen332
+\pgfarrowlength=\dimen333
+\pgfarrowwidth=\dimen334
+\pgfarrowlinewidth=\dimen335
 )
 (c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
 bending.code.tex
@@ -1340,99 +1550,134 @@ File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransformation
 s.code.tex
 File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgftransformnonlinearflatness=\dimen320
+\pgftransformnonlinearflatness=\dimen336
 )
 (c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
 File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@curvilinear@time@a=\dimen321
-\pgf@curvilinear@length@a=\dimen322
-\pgf@curvilinear@length@b=\dimen323
-\pgf@curvilinear@length@c=\dimen324
-\pgf@curvilinear@length@d=\dimen325
+\pgf@curvilinear@time@a=\dimen337
+\pgf@curvilinear@length@a=\dimen338
+\pgf@curvilinear@length@b=\dimen339
+\pgf@curvilinear@length@c=\dimen340
+\pgf@curvilinear@length@d=\dimen341
 )
-\pgf@arrows@the@rigidity=\dimen326
-))
-(c:/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
-fpu.code.tex
-(c:/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
-(c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
-\pgf@circ@count@a=\count547
-\pgf@circ@count@b=\count548
-\pgf@circ@count@c=\count549
-\pgf@circ@res@up=\dimen327
-\pgf@circ@res@down=\dimen328
-\pgf@circ@res@zero=\dimen329
-\pgf@circ@res@left=\dimen330
-\pgf@circ@res@right=\dimen331
-\pgf@circ@res@other=\dimen332
-\pgf@circ@res@step=\dimen333
-\pgf@circ@res@temp=\dimen334
-\pgf@circ@Rlen=\dimen335
-\pgf@circ@scaled@Rlen=\dimen336
-\pgfstartlinewidth=\dimen337
+\pgf@arrows@the@rigidity=\dimen342
+)) (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+\pgf@circ@count@a=\count555
+\pgf@circ@count@b=\count556
+\pgf@circ@count@c=\count557
+\pgf@circ@res@up=\dimen343
+\pgf@circ@res@down=\dimen344
+\pgf@circ@res@zero=\dimen345
+\pgf@circ@res@left=\dimen346
+\pgf@circ@res@right=\dimen347
+\pgf@circ@res@other=\dimen348
+\pgf@circ@res@step=\dimen349
+\pgf@circ@res@temp=\dimen350
+\pgf@circ@Rlen=\dimen351
+\pgf@circ@scaled@Rlen=\dimen352
+\pgfstartlinewidth=\dimen353
 )
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
-\ctikz@scratchbox=\box83
+\ctikz@scratchbox=\box106
 )
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex)
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex)
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex)
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex)
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
-\pgf@circ@res@count=\count550
+\pgf@circ@res@count=\count558
 )
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex)
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex)
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
-\pgfcirc@labelshift=\dimen338
+\pgfcirc@labelshift=\dimen354
 )
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
 (c:/texlive/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex))
+(c:/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(c:/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen355
+\captionmargin=\dimen356
+\caption@leftmargin=\dimen357
+\caption@rightmargin=\dimen358
+\caption@width=\dimen359
+\caption@indent=\dimen360
+\caption@parindent=\dimen361
+\caption@hangindent=\dimen362
+Package caption Info: KOMA-Script document class detected.
+
+(c:/texlive/texmf-dist/tex/latex/caption/caption-koma.sto
+File: caption-koma.sto 2023/09/08 v2.0e Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count559
+\c@continuedfloat=\count560
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(c:/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: KOMA-Script scrextend package detected.
+\caption@addmargin@hsize=\dimen363
+\caption@addmargin@linewidth=\dimen364
+)
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count551
-\@quotereset=\count552
+\@quotelevel=\count561
+\@quotereset=\count562
 (./MontageAnleitung.aux
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported  on input line 15.
+
+
+LaTeX Warning: Label `tikz:LScheibe' multiply defined.
+
+
+LaTeX Warning: Label `tikz:Steckbrett' multiply defined.
+
 )
 \openout1 = `MontageAnleitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-
-(c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+ (c:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count553
-\scratchdimen=\dimen339
-\scratchbox=\box84
-\nofMPsegments=\count554
-\nofMParguments=\count555
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count556
-\MPscratchDim=\dimen340
-\MPnumerator=\count557
-\makeMPintoPDFobject=\count558
-\everyMPtoPDFconversion=\toks56
+\scratchcounter=\count563
+\scratchdimen=\dimen365
+\scratchbox=\box107
+\nofMPsegments=\count564
+\nofMParguments=\count565
+\everyMPshowfont=\toks63
+\MPscratchCnt=\count566
+\MPscratchDim=\dimen366
+\MPnumerator=\count567
+\makeMPintoPDFobject=\count568
+\everyMPtoPDFconversion=\toks64
 ) (c:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1442,7 +1687,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 33.
+Package hyperref Info: Link coloring OFF on input line 35.
 
 (./MontageAnleitung.out) (./MontageAnleitung.out)
 \@outlinefile=\write7
@@ -1455,7 +1700,7 @@ Class scrbook Info: loading recommended package `bookmark'.
 (scrbook)           `bookmarkpackage=false' before \begin{document} and
 (scrbook)           you can avoid this message adding:
 (scrbook)             \usepackage{bookmark}
-(scrbook)           before \begin{document} on input line 33.
+(scrbook)           before \begin{document} on input line 35.
 
 (c:/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -1463,10 +1708,10 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (c:/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count559
+\BKM@id=\count569
 ))
-\c@lstlisting=\count560
-Package tocbasic Info: setting babel extension for `lol' on input line 33.
+\c@lstlisting=\count570
+Package tocbasic Info: setting babel extension for `lol' on input line 35.
 \scr@dte@lstlisting@maxnumwidth=\skip102
 
 (c:/texlive/texmf-dist/tex/latex/translations/translations-basic-dictionary-ger
@@ -1475,7 +1720,7 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 33.
+or `german'. on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1537,25 +1782,31 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MontageAnleitung.bbl' not found.
 
 No file MontageAnleitung.bbl.
-Package biblatex Info: Reference section=0 on input line 33.
-Package biblatex Info: Reference segment=0 on input line 33.
+Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference segment=0 on input line 35.
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 35.
+
 Package microtype Info: Patching varwidth to enable character protrusion.
-\MT@vwid@leftmargin=\dimen341
-\MT@vwid@rightmargin=\dimen342
-LaTeX Info: Redefining \microtypecontext on input line 33.
-Package microtype Info: Applying patch `item' on input line 33.
-Package microtype Info: Applying patch `toc' on input line 33.
-Package microtype Info: Applying patch `eqnum' on input line 33.
-Package microtype Info: Applying patch `footnote' on input line 33.
-Package microtype Info: Applying patch `verbatim' on input line 33.
-LaTeX Info: Redefining \microtypesetup on input line 33.
+\MT@vwid@leftmargin=\dimen367
+\MT@vwid@rightmargin=\dimen368
+LaTeX Info: Redefining \microtypecontext on input line 35.
+Package microtype Info: Applying patch `item' on input line 35.
+Package microtype Info: Applying patch `toc' on input line 35.
+Package microtype Info: Applying patch `eqnum' on input line 35.
+Package microtype Info: Applying patch `footnote' on input line 35.
+Package microtype Info: Applying patch `verbatim' on input line 35.
+LaTeX Info: Redefining \microtypesetup on input line 35.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 33.
+LaTeX Info: Redefining \showhyphens on input line 35.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1564,6 +1815,9 @@ Package microtype Info: Redefining babel's language switching commands.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
 (./Chapters/de/Titelseite.tex
 <General/Logo_HS_Emden_Leer.jpg, id=7, 1275.0837pt x 427.1157pt>
 File: General/Logo_HS_Emden_Leer.jpg Graphic file (type jpg)
@@ -1594,6 +1848,12 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 (c:/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 46
+.
+
+(c:/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1606,7 +1866,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 {c:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/texmf-dist
 /fonts/enc/dvips/cm-super/cm-super-t1.enc} <./General/Logo_HS_Emden_Leer.jpg>])
-Package tocbasic Info: character protrusion at toc deactivated on input line 41
+Package tocbasic Info: character protrusion at toc deactivated on input line 43
 .
  (./MontageAnleitung.toc)
 \tf@toc=\write8
@@ -1623,7 +1883,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 41
 
 
 ]
-Package tocbasic Info: character protrusion at lof deactivated on input line 45
+Package tocbasic Info: character protrusion at lof deactivated on input line 47
 .
  (./MontageAnleitung.lof)
 \tf@lof=\write9
@@ -1640,7 +1900,7 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 45
 
 
 ]
-Package tocbasic Info: character protrusion at lot deactivated on input line 49
+Package tocbasic Info: character protrusion at lot deactivated on input line 51
 .
  (./MontageAnleitung.lot)
 \tf@lot=\write10
@@ -1684,9 +1944,6 @@ l.8 \chapter
 ]
 chapter 2.
 
-LaTeX Warning: Reference `Gesamtliste' on page 3 undefined on input line 11.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
@@ -1706,7 +1963,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\T1/cmr/m/n/8 (+20) 101-60-
  []
 
-<Images/fraesmaschine.jpg, id=157, 1027.84pt x 1027.84pt>
+<Images/fraesmaschine.jpg, id=173, 1027.84pt x 1027.84pt>
 File: Images/fraesmaschine.jpg Graphic file (type jpg)
 <use Images/fraesmaschine.jpg>
 Package pdftex.def Info: Images/fraesmaschine.jpg  used on input line 23.
@@ -1716,7 +1973,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
 []|\T1/cmr/m/n/8 (+20) ARD NA-NO
  []
 
-<Images/arduino.png, id=159, 602.25pt x 494.84875pt>
+<Images/arduino.png, id=175, 602.25pt x 494.84875pt>
 File: Images/arduino.png Graphic file (type png)
 <use Images/arduino.png>
 Package pdftex.def Info: Images/arduino.png  used on input line 26.
@@ -1731,7 +1988,7 @@ Underfull \hbox (badness 3758) in paragraph at lines 28--28
 []|\T1/cmr/m/n/8 (+20) 65 Jum-per Wi-re
  []
 
-<Images/jumpercablemm.jpg, id=162, 2007.5pt x 2007.5pt>
+<Images/jumpercablemm.jpg, id=178, 2007.5pt x 2007.5pt>
 File: Images/jumpercablemm.jpg Graphic file (type jpg)
 <use Images/jumpercablemm.jpg>
 Package pdftex.def Info: Images/jumpercablemm.jpg  used on input line 28.
@@ -1761,7 +2018,7 @@ Underfull \hbox (badness 1701) in paragraph at lines 30--30
 \T1/cmr/m/n/8 (+20) Buchse-Buchse 20
  []
 
-<Images/jumpercableff.jpg, id=164, 1003.75pt x 1003.75pt>
+<Images/jumpercableff.jpg, id=180, 1003.75pt x 1003.75pt>
 File: Images/jumpercableff.jpg Graphic file (type jpg)
 <use Images/jumpercableff.jpg>
 Package pdftex.def Info: Images/jumpercableff.jpg  used on input line 30.
@@ -1776,7 +2033,7 @@ Overfull \hbox (8.60362pt too wide) in paragraph at lines 30--31
 \T1/cmtt/m/n/8 roboter-[]bausatz .
  []
 
-<Images/jumpercablemf.jpg, id=166, 1003.75pt x 1003.75pt>
+<Images/jumpercablemf.jpg, id=182, 1003.75pt x 1003.75pt>
 File: Images/jumpercablemf.jpg Graphic file (type jpg)
 <use Images/jumpercablemf.jpg>
 Package pdftex.def Info: Images/jumpercablemf.jpg  used on input line 32.
@@ -1801,7 +2058,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 []|\T1/cmr/m/n/8 (+20) GRV CA-
  []
 
-<Images/grove2.png, id=168, 602.25pt x 405.515pt>
+<Images/grove2.png, id=184, 602.25pt x 405.515pt>
 File: Images/grove2.png Graphic file (type png)
 <use Images/grove2.png>
 Package pdftex.def Info: Images/grove2.png  used on input line 34.
@@ -1831,12 +2088,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
 \T1/cmr/m/n/8 (+20) Steckverbinder
  []
 
-<Images/schutzstecker.jpg, id=170, 1003.75pt x 1003.75pt>
+<Images/schutzstecker.jpg, id=186, 1003.75pt x 1003.75pt>
 File: Images/schutzstecker.jpg Graphic file (type jpg)
 <use Images/schutzstecker.jpg>
 Package pdftex.def Info: Images/schutzstecker.jpg  used on input line 36.
 (pdftex.def)             Requested size: 42.67912pt x 42.67029pt.
-<Images/netzteil.png, id=172, 602.25pt x 404.51125pt>
+<Images/netzteil.png, id=188, 602.25pt x 404.51125pt>
 File: Images/netzteil.png Graphic file (type png)
 <use Images/netzteil.png>
 Package pdftex.def Info: Images/netzteil.png  used on input line 38.
@@ -1856,7 +2113,7 @@ Underfull \hbox (badness 6141) in paragraph at lines 40--40
 \T1/cmr/m/n/8 (+20) 24VAC 1x (Ein)
  []
 
-<Images/tasterr.png, id=174, 602.25pt x 447.6725pt>
+<Images/tasterr.png, id=190, 602.25pt x 447.6725pt>
 File: Images/tasterr.png Graphic file (type png)
 <use Images/tasterr.png>
 Package pdftex.def Info: Images/tasterr.png  used on input line 40.
@@ -1876,7 +2133,7 @@ Underfull \hbox (badness 6141) in paragraph at lines 42--42
 \T1/cmr/m/n/8 (+20) 24VAC 1x (Ein)
  []
 
-<Images/tasterg.png, id=176, 602.25pt x 476.78125pt>
+<Images/tasterg.png, id=192, 602.25pt x 476.78125pt>
 File: Images/tasterg.png Graphic file (type png)
 <use Images/tasterg.png>
 Package pdftex.def Info: Images/tasterg.png  used on input line 43.
@@ -1896,7 +2153,7 @@ Underfull \hbox (badness 5446) in paragraph at lines 45--45
 \T1/cmr/m/n/8 (+20) Mikroschalter, 1x
  []
 
-<Images/microschalter.png, id=178, 602.25pt x 719.68875pt>
+<Images/microschalter.png, id=194, 602.25pt x 719.68875pt>
 File: Images/microschalter.png Graphic file (type png)
 <use Images/microschalter.png>
 Package pdftex.def Info: Images/microschalter.png  used on input line 45.
@@ -1921,7 +2178,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--47
 []|\T1/cmr/m/n/8 (+20) DEBO DRV
  []
 
-<Images/treiber.png, id=180, 602.25pt x 552.0625pt>
+<Images/treiber.png, id=196, 602.25pt x 552.0625pt>
 File: Images/treiber.png Graphic file (type png)
 <use Images/treiber.png>
 Package pdftex.def Info: Images/treiber.png  used on input line 47.
@@ -1946,7 +2203,7 @@ Underfull \hbox (badness 2285) in paragraph at lines 49--49
 []|\T1/cmr/m/n/8 (+20) DEBO OLED
  []
 
-<Images/display.png, id=182, 602.25pt x 390.45876pt>
+<Images/display.png, id=198, 602.25pt x 390.45876pt>
 File: Images/display.png Graphic file (type png)
 <use Images/display.png>
 Package pdftex.def Info: Images/display.png  used on input line 49.
@@ -1961,7 +2218,7 @@ Underfull \hbox (badness 4036) in paragraph at lines 51--51
 []|\T1/cmr/m/n/8 (+20) Sunlu PLA Fi-la-
  []
 
-<Images/filament.jpg, id=184, 1003.75pt x 1003.75pt>
+<Images/filament.jpg, id=200, 1003.75pt x 1003.75pt>
 File: Images/filament.jpg Graphic file (type jpg)
 <use Images/filament.jpg>
 Package pdftex.def Info: Images/filament.jpg  used on input line 51.
@@ -1991,7 +2248,7 @@ Overfull \hbox (2.74089pt too wide) in paragraph at lines 53--53
 []|\T1/cmr/m/n/8 (-20) STECKBOARD
  []
 
-<Images/breadboard.png, id=186, 602.25pt x 327.2225pt>
+<Images/breadboard.png, id=202, 602.25pt x 327.2225pt>
 File: Images/breadboard.png Graphic file (type png)
 <use Images/breadboard.png>
 Package pdftex.def Info: Images/breadboard.png  used on input line 53.
@@ -2021,7 +2278,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\T1/cmr/m/n/8 (+20) DELOCK
  []
 
-<Images/kabelbinder.png, id=188, 602.25pt x 374.39874pt>
+<Images/kabelbinder.png, id=204, 602.25pt x 374.39874pt>
 File: Images/kabelbinder.png Graphic file (type png)
 <use Images/kabelbinder.png>
 Package pdftex.def Info: Images/kabelbinder.png  used on input line 55.
@@ -2036,7 +2293,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\T1/cmr/m/n/8 (+20) Drehwinkel-
  []
 
-<Images/drehknopf.png, id=190, 602.25pt x 631.35875pt>
+<Images/drehknopf.png, id=206, 602.25pt x 631.35875pt>
 File: Images/drehknopf.png Graphic file (type png)
 <use Images/drehknopf.png>
 Package pdftex.def Info: Images/drehknopf.png  used on input line 57.
@@ -2056,7 +2313,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|\T1/cmr/m/n/8 (+20) WIPPE
  []
 
-<Images/wippschalter.png, id=192, 602.25pt x 679.53876pt>
+<Images/wippschalter.png, id=208, 602.25pt x 679.53876pt>
 File: Images/wippschalter.png Graphic file (type png)
 <use Images/wippschalter.png>
 Package pdftex.def Info: Images/wippschalter.png  used on input line 59.
@@ -2076,7 +2333,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--61
 \T1/cmr/m/n/8 (+16) Sechs-kant-schrau-be,
  []
 
-<Images/zylinderkopfschraube.png, id=194, 630.355pt x 277.035pt>
+<Images/zylinderkopfschraube.png, id=210, 630.355pt x 277.035pt>
 File: Images/zylinderkopfschraube.png Graphic file (type png)
 <use Images/zylinderkopfschraube.png>
 Package pdftex.def Info: Images/zylinderkopfschraube.png  used on input line 61
@@ -2102,7 +2359,7 @@ Underfull \hbox (badness 7099) in paragraph at lines 63--63
 \T1/cmr/m/n/8 (+20) Kreuz-schlitz, M3,
  []
 
-<Images/senkkopfschraube.jpg, id=196, 301.125pt x 301.125pt>
+<Images/senkkopfschraube.jpg, id=212, 301.125pt x 301.125pt>
 File: Images/senkkopfschraube.jpg Graphic file (type jpg)
 <use Images/senkkopfschraube.jpg>
 Package pdftex.def Info: Images/senkkopfschraube.jpg  used on input line 63.
@@ -2117,7 +2374,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 []|\T1/cmr/m/n/8 (+20) Sechskantmuttern,
  []
 
-<Images/muttern.png, id=198, 602.25pt x 432.61626pt>
+<Images/muttern.png, id=214, 602.25pt x 432.61626pt>
 File: Images/muttern.png Graphic file (type png)
 <use Images/muttern.png>
 Package pdftex.def Info: Images/muttern.png  used on input line 65.
@@ -2132,7 +2389,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []|\T1/cmr/m/n/8 (+20) Unterlegscheiben,
  []
 
-<Images/unterlegscheibe.png, id=200, 602.25pt x 511.9125pt>
+<Images/unterlegscheibe.png, id=216, 602.25pt x 511.9125pt>
 File: Images/unterlegscheibe.png Graphic file (type png)
 <use Images/unterlegscheibe.png>
 Package pdftex.def Info: Images/unterlegscheibe.png  used on input line 67.
@@ -2147,7 +2404,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--69
 []|\T1/cmr/m/n/8 (+20) Elektroniklot EL
  []
 
-<Images/loetzinn.png, id=202, 602.25pt x 605.26125pt>
+<Images/loetzinn.png, id=218, 602.25pt x 605.26125pt>
 File: Images/loetzinn.png Graphic file (type png)
 <use Images/loetzinn.png>
 Package pdftex.def Info: Images/loetzinn.png  used on input line 69.
@@ -2167,19 +2424,24 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 <./Images/tasterg.png> <./Images/microschalter.png> <./Images/treiber.png> <./I
 mages/display.png> <./Images/filament.jpg> <./Images/breadboard.png> <./Images/
 kabelbinder.png>]
-Overfull \hbox (6.15027pt too wide) in paragraph at lines 97--97
+Overfull \hbox (6.15027pt too wide) in paragraph at lines 95--95
 []|\T1/cmr/bx/n/8 (-20) Pos.| 
  []
 
 
-Overfull \hbox (6.15027pt too wide) in paragraph at lines 120--120
+Package caption Warning: The type was already set to `figure'
+(caption)                 on input line 96.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.15027pt too wide) in paragraph at lines 118--118
 []|\T1/cmr/bx/n/8 (-20) Pos.| 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 120--120
-[][][][][][]
- []
+Package caption Warning: The type was already set to `figure'
+(caption)                 on input line 119.
+See the caption package documentation for explanation.
 
 
 
@@ -2190,330 +2452,2948 @@ nterlegscheibe.png> <./Images/loetzinn.png>]) (./Chapters/de/Montage.tex
 [6]
 chapter 3.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [7
 
 
 ]
 
-[8
+[8]
+chapter 4.
+! Argument of \tikz@style@parseA has an extra }.
+<inserted text> 
+                \par 
+l.189 ...th=1pt , rotate around={90:(31.5,-0.75)}]
+                                                   (31.5,-0.75) ellipse (1.5...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\def \pgfutil@reserved@b {\pgfutil@ifnextchar <{\tikz@doopt }{\tikz@@command@pa
+th \ETC.
+! Paragraph ended before \tikz@style@parseA was complete.
+<to be read again> 
+                   \par 
+l.189 ...th=1pt , rotate around={90:(31.5,-0.75)}]
+                                                   (31.5,-0.75) ellipse (1.5...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+/tikz/\let \tikz@signal@path =\tikz@signal@path \let \pgfutil@reserved@d \ETC.
+! Paragraph ended before \pgfkeys@nevermind was complete.
+<to be read again> 
+                   \par 
+l.189 ...th=1pt , rotate around={90:(31.5,-0.75)}]
+                                                   (31.5,-0.75) ellipse (1.5...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.189 ...th=1pt , rotate around={90:(31.5,-0.75)}]
+                                                   (31.5,-0.75) ellipse (1.5...
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.189 ...th=1pt , rotate around={90:(31.5,-0.75)}]
+                                                   (31.5,-0.75) ellipse (1.5...
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway argument?
+\let \tikz@signal@path =\tikz@signal@path \let \pgfutil@reserved@d =[\ETC.
+! Paragraph ended before \pgfkeys@splitter was complete.
+<to be read again> 
+                   \par 
+l.189 ...th=1pt , rotate around={90:(31.5,-0.75)}]
+                                                   (31.5,-0.75) ellipse (1.5...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <800> not available
+(Font)              size <35.83> substituted on input line 261.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <800> not available
+(Font)              size <35.83> substituted on input line 261.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[9
 
 
 ]
-chapter 4.
+! LaTeX Error: There's no line here to end.
 
-LaTeX Warning: Reference `LScheibe' on page 9 undefined on input line 30.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-<Images/Leitungen.jpg, id=279, 432.86719pt x 651.18282pt>
-File: Images/Leitungen.jpg Graphic file (type jpg)
-<use Images/Leitungen.jpg>
-Package pdftex.def Info: Images/Leitungen.jpg  used on input line 131.
-(pdftex.def)             Requested size: 432.48192pt x 650.63474pt.
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-[9]
-Overfull \vbox (51.87393pt too high) has occurred while \output is active []
-
-
-
-[10 <./Images/Leitungen.JPG>]
-Overfull \hbox (3.30482pt too wide) in paragraph at lines 156--156
-[]|\T1/cmr/bx/n/8 (-20) Pos.| 
+Overfull \hbox (3.30482pt too wide) in paragraph at lines 305--305
+\T1/cmr/bx/n/8 (-20) Pos.| 
  []
 
 
-Overfull \hbox (5.27087pt too wide) in paragraph at lines 156--156
-[]|\T1/cmr/bx/n/8 (-20) Anz.| 
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/cmr/bx/n/8 (+20) Anz.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/bx/n/8 (+20) Verbind-
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/cmr/bx/n/8 (+20) pro
  []
 
 
-Overfull \hbox (5.04257pt too wide) in paragraph at lines 156--156
-[]|\T1/cmr/bx/n/8 (-20) Länge
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/cmr/bx/n/8 (+20) Lei-
  []
 
 
-Overfull \hbox (1.42017pt too wide) in paragraph at lines 156--156
-\T1/cmr/bx/n/8 (-20) [mm]| 
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/cmr/bx/n/8 (-15) Anschluss-
  []
 
 
-Overfull \hbox (2.67023pt too wide) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (-20) Entwicklerboard
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Schritt-mo-tor-
+Overfull \hbox (8.25212pt too wide) in paragraph at lines 305--305
+\T1/cmr/bx/n/8 (-20) komponente
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) steue-rung
+Overfull \hbox (10.67975pt too wide) in paragraph at lines 305--305
+\T1/cmr/bx/n/8 (-20) Komponente
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) TMLS auf
+Overfull \hbox (24.90613pt too wide) in paragraph at lines 305--305
+\T1/cmr/bx/n/8 (-20) Komponente
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) TMLS auf
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (17.70488pt too wide) in paragraph at lines 305--305
+[]|\T1/cmr/m/n/8 (-20) Steckerverbinder| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Drehwinkel-
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (4.38278pt too wide) in paragraph at lines 305--305
+[]|\T1/cmr/m/n/8 (-20) Schrittsensor| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) wick-ler-board
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (7.44127pt too wide) in paragraph at lines 305--305
+[]|\T1/cmr/m/n/8 (-20) Powerschalter| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Schritt-mo-
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (16.88905pt too wide) in paragraph at lines 305--305
+[]|\T1/cmr/m/n/8 (-20) Entwicklerboard| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) tor-steue-rung
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (4.64763pt too wide) in paragraph at lines 305--305
+[]|\T1/cmr/m/n/8 (-20) bestehen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) Masse Span-
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) nungs-wand-ler
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/cmr/m/n/8 (+20) des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) AMS117 auf
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/cmr/m/n/8 (+20) An-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Drehwinkel-
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/cmr/m/n/8 (+20) schluss-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Encoder
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (3.82756pt too wide) in paragraph at lines 305--305
+[]|\T1/cmr/m/n/8 (-20) Schrittmotor| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) und Ent-
+Overfull \hbox (5.1822pt too wide) in paragraph at lines 305--305
+[]|\T1/cmr/m/n/8 (-20) A1,A2,B1,B2| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) wick-ler-board
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 		\end{tabularx}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (8.65521pt too wide) in paragraph at lines 305--305
+[]|\T1/cmr/m/n/8 (-20) Anschluss-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Schritt-mo-
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) tor-steue-rung
- []
+Package caption Warning: The type was already set to `figure'
+(caption)                 on input line 306.
+See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) 3,3V Span-
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) nungs-wand-ler
- []
 
+[10]
+<Images/Schaltplan.jpeg, id=304, 1172.38pt x 882.29625pt>
+File: Images/Schaltplan.jpeg Graphic file (type jpg)
+<use Images/Schaltplan.jpeg>
+Package pdftex.def Info: Images/Schaltplan.jpeg  used on input line 316.
+(pdftex.def)             Requested size: 432.48192pt x 325.46172pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) AMS117 auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Drehwinkel-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Encoder
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) und Ent-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) wick-ler-board
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Schritt-mo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) tor-steue-rung
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) 5V/Masse
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Schalt-netz-teil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) auf Span-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) nungs-wand-ler
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) 12V/Masse
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Schalt-netz-teil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) auf Ent-wick-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) ler-board
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Schritt-mo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) tor-steue-rung
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) 12V/Masse
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Schalt-netz-teil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) Flach-steck-hül-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) Kaltgerätean-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-\T1/cmr/m/n/8 (+20) schluss auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) 2 x Micro-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) TMLS auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) TMLS auf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-[]|\T1/cmr/m/n/8 (+20) TMLS auf
- []
-
-
-Overfull \vbox (13.88905pt too high) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [11]
-Overfull \hbox (3.30482pt too wide) in paragraph at lines 179--179
+
+[12 <./Images/Schaltplan.jpeg>]
+Overfull \hbox (3.30482pt too wide) in paragraph at lines 447--447
 []|\T1/cmr/bx/n/8 (-20) Pos.| 
  []
 
 
-Overfull \hbox (6.73668pt too wide) in paragraph at lines 179--179
+Overfull \hbox (6.73668pt too wide) in paragraph at lines 447--447
 []|\T1/cmr/bx/n/8 (-20) Anzahl| 
  []
 
-<Images/Schaltplan1.png, id=294, 1261.7685pt x 993.0555pt>
+
+Package caption Warning: The type was already set to `figure'
+(caption)                 on input line 448.
+See the caption package documentation for explanation.
+
+<Images/Schaltplan1.png, id=316, 1261.7685pt x 993.0555pt>
 File: Images/Schaltplan1.png Graphic file (type png)
 <use Images/Schaltplan1.png>
-Package pdftex.def Info: Images/Schaltplan1.png  used on input line 190.
+Package pdftex.def Info: Images/Schaltplan1.png  used on input line 458.
 (pdftex.def)             Requested size: 432.48192pt x 340.37706pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[12]
+[13]
 
-[13 <./Images/Schaltplan1.png>]
-
-[14
-
-
-]
+[14 <./Images/Schaltplan1.png>]
 chapter 5.
-<Images/1Schr.jpg, id=310, 3035.34pt x 2740.2375pt>
+<Images/1Schr.jpg, id=328, 3035.34pt x 2740.2375pt>
 File: Images/1Schr.jpg Graphic file (type jpg)
 <use Images/1Schr.jpg>
-Package pdftex.def Info: Images/1Schr.jpg  used on input line 214.
+Package pdftex.def Info: Images/1Schr.jpg  used on input line 482.
 (pdftex.def)             Requested size: 432.48192pt x 390.40428pt.
 
-Underfull \hbox (badness 2495) in paragraph at lines 215--215
-[][][]\T1/cmr/m/n/12 (+20) Erster Schritt: Mon^^?tie^^?ren Schalt^^?netz^^?teil
-, Ent^^?wick^^?ler^^?board und
+Underfull \hbox (badness 2608) in paragraph at lines 483--483
+[][][]|\T1/cmr/m/n/12 (+20) Ers^^?ter Schritt: Mon^^?tie^^?ren Schalt^^?netz^^?
+teil, Ent^^?wick^^?ler^^?board und
  []
 
 
@@ -2521,34 +5401,37 @@ Underfull \vbox (badness 3189) has occurred while \output is active []
 
 
 
-[15]
+[15
+
+
+]
 
 [16 <./Images/1Schr.JPG>]
-<Images/2Schr.jpg, id=330, 3035.34pt x 2718.155pt>
+<Images/2Schr.jpg, id=347, 3035.34pt x 2718.155pt>
 File: Images/2Schr.jpg Graphic file (type jpg)
 <use Images/2Schr.jpg>
-Package pdftex.def Info: Images/2Schr.jpg  used on input line 233.
+Package pdftex.def Info: Images/2Schr.jpg  used on input line 501.
 (pdftex.def)             Requested size: 432.48192pt x 387.25816pt.
 
 
 [17 <./Images/2Schr.JPG>]
-<Images/3Schr.jpg, id=339, 3035.34pt x 2644.88126pt>
+<Images/3Schr.jpg, id=355, 3035.34pt x 2644.88126pt>
 File: Images/3Schr.jpg Graphic file (type jpg)
 <use Images/3Schr.jpg>
-Package pdftex.def Info: Images/3Schr.jpg  used on input line 252.
+Package pdftex.def Info: Images/3Schr.jpg  used on input line 520.
 (pdftex.def)             Requested size: 432.48192pt x 376.81879pt.
-<Images/4Schr.jpg, id=341, 3249.13875pt x 1463.4675pt>
+<Images/4Schr.jpg, id=357, 3249.13875pt x 1463.4675pt>
 File: Images/4Schr.jpg Graphic file (type jpg)
 <use Images/4Schr.jpg>
-Package pdftex.def Info: Images/4Schr.jpg  used on input line 268.
+Package pdftex.def Info: Images/4Schr.jpg  used on input line 536.
 (pdftex.def)             Requested size: 432.48192pt x 194.79057pt.
 
 
 [18 <./Images/3Schr.JPG>]
-<Images/5Schr.jpg, id=351, 3035.34pt x 2887.78876pt>
+<Images/5Schr.jpg, id=368, 3035.34pt x 2887.78876pt>
 File: Images/5Schr.jpg Graphic file (type jpg)
 <use Images/5Schr.jpg>
-Package pdftex.def Info: Images/5Schr.jpg  used on input line 285.
+Package pdftex.def Info: Images/5Schr.jpg  used on input line 553.
 (pdftex.def)             Requested size: 432.48192pt x 411.42606pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2556,45 +5439,45 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [19 <./Images/4Schr.JPG>]
-<Images/6Schr.jpg, id=359, 3035.34pt x 1878.01625pt>
+<Images/6Schr.jpg, id=376, 3035.34pt x 1878.01625pt>
 File: Images/6Schr.jpg Graphic file (type jpg)
 <use Images/6Schr.jpg>
-Package pdftex.def Info: Images/6Schr.jpg  used on input line 300.
+Package pdftex.def Info: Images/6Schr.jpg  used on input line 568.
 (pdftex.def)             Requested size: 432.48192pt x 267.56279pt.
 
-Underfull \vbox (badness 4060) has occurred while \output is active []
+Underfull \vbox (badness 1895) has occurred while \output is active []
 
 
 
 [20 <./Images/5Schr.JPG>]
-<Images/7Schr.jpg, id=367, 3034.33624pt x 2976.11874pt>
+<Images/7Schr.jpg, id=384, 3034.33624pt x 2976.11874pt>
 File: Images/7Schr.jpg Graphic file (type jpg)
 <use Images/7Schr.jpg>
-Package pdftex.def Info: Images/7Schr.jpg  used on input line 320.
+Package pdftex.def Info: Images/7Schr.jpg  used on input line 588.
 (pdftex.def)             Requested size: 432.48192pt x 424.14674pt.
 
 
 [21 <./Images/6Schr.JPG>]
-<Images/8Schr.jpg, id=378, 2907.86375pt x 2908.8675pt>
+<Images/8Schr.jpg, id=395, 2907.86375pt x 2908.8675pt>
 File: Images/8Schr.jpg Graphic file (type jpg)
 <use Images/8Schr.jpg>
-Package pdftex.def Info: Images/8Schr.jpg  used on input line 337.
+Package pdftex.def Info: Images/8Schr.jpg  used on input line 605.
 (pdftex.def)             Requested size: 432.48192pt x 432.62729pt.
 
 
 [22 <./Images/7Schr.JPG>]
-<Images/9Schr.jpg, id=386, 4047.12pt x 1028.84375pt>
+<Images/9Schr.jpg, id=403, 4047.12pt x 1028.84375pt>
 File: Images/9Schr.jpg Graphic file (type jpg)
 <use Images/9Schr.jpg>
-Package pdftex.def Info: Images/9Schr.jpg  used on input line 353.
+Package pdftex.def Info: Images/9Schr.jpg  used on input line 621.
 (pdftex.def)             Requested size: 432.48192pt x 109.9392pt.
 
 
 [23 <./Images/8Schr.JPG>]
-<Images/10Schr.jpg, id=394, 971.3088pt x 728.4816pt>
+<Images/10Schr.jpg, id=411, 971.3088pt x 728.4816pt>
 File: Images/10Schr.jpg Graphic file (type jpg)
 <use Images/10Schr.jpg>
-Package pdftex.def Info: Images/10Schr.jpg  used on input line 369.
+Package pdftex.def Info: Images/10Schr.jpg  used on input line 637.
 (pdftex.def)             Requested size: 432.48192pt x 324.36781pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2602,17 +5485,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [24 <./Images/9Schr.JPG>]
-<Images/11Schr.jpg, id=404, 3034.33624pt x 2015.53pt>
+<Images/11Schr.jpg, id=421, 3034.33624pt x 2015.53pt>
 File: Images/11Schr.jpg Graphic file (type jpg)
 <use Images/11Schr.jpg>
-Package pdftex.def Info: Images/11Schr.jpg  used on input line 389.
+Package pdftex.def Info: Images/11Schr.jpg  used on input line 657.
 (pdftex.def)             Requested size: 432.48192pt x 287.24677pt.
 
 
 [25 <./Images/10Schr.JPG>]
 File: Images/11Schr.jpg Graphic file (type jpg)
 <use Images/11Schr.jpg>
-Package pdftex.def Info: Images/11Schr.jpg  used on input line 405.
+Package pdftex.def Info: Images/11Schr.jpg  used on input line 673.
 (pdftex.def)             Requested size: 432.48192pt x 287.24677pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2620,10 +5503,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [26 <./Images/11Schr.JPG>]
-<Images/13Schr.jpg, id=421, 971.3088pt x 728.4816pt>
+<Images/13Schr.jpg, id=439, 971.3088pt x 728.4816pt>
 File: Images/13Schr.jpg Graphic file (type jpg)
 <use Images/13Schr.jpg>
-Package pdftex.def Info: Images/13Schr.jpg  used on input line 422.
+Package pdftex.def Info: Images/13Schr.jpg  used on input line 690.
 (pdftex.def)             Requested size: 432.48192pt x 324.36781pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2639,7 +5522,11 @@ L3 programming layer <2025-03-26>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 764.17pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MontageAnleitung.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -2648,32 +5535,33 @@ Package logreq Info: Writing requests to 'MontageAnleitung.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 65934 strings out of 469625
- 1610580 string characters out of 5477767
- 2792768 words of memory out of 5000000
- 91747 multiletter control sequences out of 15000+600000
- 671774 words of font info for 236 fonts, out of 8000000 for 9000
+ 79638 strings out of 469625
+ 2046230 string characters out of 5477767
+ 3341413 words of memory out of 5000000
+ 105222 multiletter control sequences out of 15000+600000
+ 674106 words of font info for 241 fonts, out of 8000000 for 9000
  1148 hyphenation exceptions out of 8191
- 108i,10n,107p,10911b,2483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,10n,117p,10911b,2483s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/texmf-dist/fonts/type1/public
 /cm-super/sfbx0800.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1
-200.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/tex
-live/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/texmf-dist
-/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/texmf-dist/fonts/type1/pu
-blic/cm-super/sfrm1440.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/s
-fsl1200.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl2074.pfb><c:
-/texlive/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb><c:/texlive/texmf-
-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/texmf-dist/fonts/type
-1/public/cm-super/sfsx1728.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-sup
-er/sfsx2488.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb
-><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb><c:/texlive/te
-xmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on MontageAnleitung.pdf (35 pages, 29508893 bytes).
+200.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb><c:/tex
+live/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/texmf-dist
+/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm1200.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/s
+frm1440.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:
+/texlive/texmf-dist/fonts/type1/public/cm-super/sfsl2074.pfb><c:/texlive/texmf-
+dist/fonts/type1/public/cm-super/sfss2074.pfb><c:/texlive/texmf-dist/fonts/type
+1/public/cm-super/sfsx1200.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-sup
+er/sfsx1728.pfb><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb
+><c:/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/te
+xmf-dist/fonts/type1/public/cm-super/sftt0800.pfb><c:/texlive/texmf-dist/fonts/
+type1/public/cm-super/sftt1095.pfb>
+Output written on MontageAnleitung.pdf (35 pages, 29837475 bytes).
 PDF statistics:
- 628 PDF objects out of 1000 (max. 8388607)
- 495 compressed objects within 5 object streams
- 125 named destinations out of 1000 (max. 500000)
- 44459 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 658 PDF objects out of 1000 (max. 8388607)
+ 522 compressed objects within 6 object streams
+ 133 named destinations out of 1000 (max. 500000)
+ 48571 words of extra memory for PDF output out of 51595 (max. 10000000)
 

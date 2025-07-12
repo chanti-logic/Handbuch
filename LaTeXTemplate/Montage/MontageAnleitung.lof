@@ -3,22 +3,28 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Platte groß}}{7}{figure.caption.6}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Platte klein}}{8}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Körper links}}{8}{figure.caption.8}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Reihenfolge der Lochscheiben Anbringung}}{9}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Benötigte Leitungen}}{10}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Schaltplan}}{13}{figure.4.3}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Achsausrichtung der Lochscheibe}}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Reihenfolge der Lochscheiben Anbringung}}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Schaltplan}}{12}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Platte groß mit Steckbrett}}{12}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Platte klein mit Entwicklerboard}}{13}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Schaltplan}}{14}{figure.caption.16}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Erster Schritt: Montieren Schaltnetzteil, Entwicklerboard und AMS1117}}{16}{figure.5.1}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Zweiter Schritt: Anbringen der Bodenplatte an Aluprofil}}{17}{figure.5.2}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Dritter Schritt: Zusammenbau der Vorderplatte}}{18}{figure.5.3}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Vierter Schritt: Zusammenbau der Hinterplatte}}{19}{figure.5.4}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Fünfter Schritt: Teilzusammenbau des Gehäuses}}{20}{figure.5.5}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Schaltplan}}{21}{figure.5.6}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Siebter Schritt: Montieren des Micro-Schalters und Motors}}{22}{figure.5.7}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Achter Schritt: Zusammenbau des Gehäuses}}{23}{figure.5.8}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Neunter Schritt: Montage der Liniearführung}}{24}{figure.5.9}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Dreizehnter Schritt:Montieren des Griffs}}{25}{figure.5.10}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Elfter Schritt: Montieren der Halter für die Welle}}{26}{figure.5.11}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Zwölfter Schritt: Montieren der Riemenscheibe am Motor}}{27}{figure.5.12}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Zwölfter Schritt: Montieren des Anzeigers und des Riemens}}{28}{figure.5.13}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Erster Schritt: Montieren Schaltnetzteil, Entwicklerboard und AMS1117}}{16}{figure.caption.17}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Zweiter Schritt: Anbringen der Bodenplatte an Aluprofil}}{17}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Dritter Schritt: Zusammenbau der Vorderplatte}}{18}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Vierter Schritt: Zusammenbau der Hinterplatte}}{19}{figure.caption.20}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Fünfter Schritt: Teilzusammenbau des Gehäuses}}{20}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Schaltplan}}{21}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Siebter Schritt: Montieren des Micro-Schalters und Motors}}{22}{figure.caption.23}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Achter Schritt: Zusammenbau des Gehäuses}}{23}{figure.caption.24}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Neunter Schritt: Montage der Liniearführung}}{24}{figure.caption.25}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Dreizehnter Schritt:Montieren des Griffs}}{25}{figure.caption.26}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Elfter Schritt: Montieren der Halter für die Welle}}{26}{figure.caption.27}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Zwölfter Schritt: Montieren der Riemenscheibe am Motor}}{27}{figure.caption.28}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Zwölfter Schritt: Montieren des Anzeigers und des Riemens}}{28}{figure.caption.29}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

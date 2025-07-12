@@ -8,10 +8,12 @@
 \contentsline {section}{\numberline {3.1}Fertigung}{7}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Teile}{7}{section.3.2}%
 \contentsline {chapter}{\numberline {4}Vorbereitung der Elektronik}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Anbringung der Loochscheibe des Geschwindigkeitssensors LM393}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Vorbereiten der elektrischen Leitungen}{9}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Schrauben und Muttern}{12}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Schaltplan}{12}{section.4.4}%
+\contentsline {section}{\numberline {4.1}Anbringung der Lochscheibe des Geschwindigkeitssensors LM393}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Vorbereitung der elektrischen Leitungen}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Schaltplan}{11}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Anbringung von Steckbrett und Entwicklerboard}{12}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Schrauben und Muttern}{13}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Schaltplan}{13}{section.4.6}%
 \contentsline {chapter}{\numberline {5}Montage}{15}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Erster Schritt: Montieren Schaltnetzteil, Entwicklerboard und AMS1117}{15}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Zweiter Schritt: Anbringen der Bodenplatte an Aluprofil}{16}{section.5.2}%
