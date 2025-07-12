@@ -1,74 +1,76 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2025)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Nano33BLESense.aux
-Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: biblatex.bst
-Reallocating 'name_of_file' (item size: 1) to 19 items.
-Reallocating 'name_of_file' (item size: 1) to 22 items.
-Reallocating 'name_of_file' (item size: 1) to 26 items.
-Reallocating 'name_of_file' (item size: 1) to 28 items.
-Reallocating 'name_of_file' (item size: 1) to 28 items.
 A level-1 auxiliary file: tikz/AufbauSchrittmotor.aux
-Reallocating 'glb_str_end' (item size: 4) to 20 items.
-Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
-Reallocating 'global_strs' (item size: 1) to 4000000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10040 items from 5000.
 Database file #1: Nano33BLESense-blx.bib
 Database file #2: ../../../MLbib/Jetson.bib
 Database file #3: ../../../MLbib/Literature.bib
 Database file #4: ../../../MLbib/MyLiterature.bib
+I was expecting a `,' or a `}'---line 653 of file ../../../MLbib/MyLiterature.bib
+ : 
+ : %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Lienig.2012"
 Biblatex version: 3.20
-Reallocating 'wiz_functions' (item size: 4) to 9000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 32 entries,
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 35 entries,
             6402 wiz_defined-function locations,
-            1467 strings with 26078 characters,
-and the built_in function-call counts, 179317 in all, are:
-= -- 11828
-> -- 3603
-< -- 1581
-+ -- 3485
-- -- 1168
-* -- 12136
-:= -- 15964
+            1500 strings with 26393 characters,
+and the built_in function-call counts, 188331 in all, are:
+= -- 12176
+> -- 3836
+< -- 1663
++ -- 3307
+- -- 1226
+* -- 12913
+:= -- 16337
 add.period$ -- 0
-call.type$ -- 32
-change.case$ -- 31
-chr.to.int$ -- 89
-cite$ -- 62
-duplicate$ -- 19518
-empty$ -- 17215
-format.name$ -- 1863
-if$ -- 38429
+call.type$ -- 35
+change.case$ -- 34
+chr.to.int$ -- 101
+cite$ -- 68
+duplicate$ -- 20065
+empty$ -- 18486
+format.name$ -- 1956
+if$ -- 40675
 int.to.chr$ -- 0
-int.to.str$ -- 137
+int.to.str$ -- 134
 missing$ -- 0
-newline$ -- 1106
-num.names$ -- 2046
-pop$ -- 10986
+newline$ -- 1156
+num.names$ -- 2159
+pop$ -- 11950
 preamble$ -- 1
-purify$ -- 944
+purify$ -- 963
 quote$ -- 0
-skip$ -- 7506
+skip$ -- 7975
 stack$ -- 0
-substring$ -- 19007
-swap$ -- 5229
-text.length$ -- 1097
-text.prefix$ -- 57
+substring$ -- 19985
+swap$ -- 5556
+text.length$ -- 1175
+text.prefix$ -- 64
 top$ -- 1
-type$ -- 1076
+type$ -- 1178
 warning$ -- 0
-while$ -- 2045
+while$ -- 2034
 width$ -- 0
-write$ -- 1075
+write$ -- 1122
+(There was 1 error message)

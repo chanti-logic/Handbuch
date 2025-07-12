@@ -21,7 +21,7 @@ In diesem Kapitel wird beschrieben, was ein Motortreiber ist, welche Aufgaben er
 Ein Motortreiber ist ein Elektronikbaustein, der Mikrocontrollern wie dem Arduino Nano 33 BLE Sense ermöglicht elektrische Motoren anzusteuern. Dabei kann es sich zum Beispiel um Gleichstrommotoren oder Schrittmotoren handeln. 
 
 Motortreiber haben mehrere Funktionen. Zum einen verstärken sie die Spannung und den Strom, da Mikrocontroller meist zu wenig Leistung liefern, um den Motor direkt zu betreiben. Zum anderen sorgen Motortreiber dafür, dass man die Drehrichtung und die Drehzahl regeln kann. Außerdem haben viele Motortreiber auch eine Schutzfunktion, die vor Überstrom, Überhitzung oder Kurzschluss schützen.
-
+\cite{DRV8825.1}
 
 \section{Spezifische Beschreibung des Schrittmotortreibers DRV8825}
 
@@ -29,7 +29,7 @@ Der DRV8825 ist ein Motortreiber, der vor für bipolare Schrittmotoren wie hier 
  
 Der Motor lässt sich über den DRV8825 von Vollschritt bis 1/32-Schritt einstellen. Er verfügt über einen konfigurierbaren Abklingmodus (tritt bei Erreichen des Stromlimits ein), sodass langsames, schnelles oder gemischtes Abklingen verwendet werden kann. Außerdem besitzt er einen stromsparenden Schlafmodus, der die interne Schaltung abschaltet und den Ruhestromverbrauch minimiert. 
 
-Der DRV8825 verfügt über Schutzfunktionen für Überstrom, Kurzschluss, Unterspannung und Übertemperatur. Außerdem werden Fehler über den nFAULT-Pin signalisiert. 
+Der DRV8825 verfügt über Schutzfunktionen für Überstrom, Kurzschluss, Unterspannung und Übertemperatur. Außerdem werden Fehler über den nFAULT-Pin signalisiert. \cite{DRV8825.1}
 
 \subsection{Anschluss des Treibers mit dem Arduino Nano 33 BLE Sense}
 
@@ -50,7 +50,7 @@ Tabelle \autoref{tab:PinDRV8825-Arduino} kann entnommen werde, wie der DRV8825 a
 		VDD & 5V \\
 		\hline
 	\end{tabular}
-	\caption{Pin-Belegung für den Anschluss des Treibers an den Arduino}
+	\caption{Pin-Belegung für den Anschluss des Treibers an den Arduino \cite{DRV8825.2}}
 	\label{tab:PinDRV8825-Arduino}
 \end{table}
 
@@ -87,7 +87,7 @@ Die Spezifikationen sind in Tabelle \autoref{tab:maxSpezifikationDRV8825} und \a
 		Temperaturbereich & -40 °C bis 150 °C \\
 		\hline
 	\end{tabular}
-	\caption{Absolute Maximalwerte}
+	\caption{Absolute Maximalwerte \cite{DRV8825.2}}
 	\label{tab:maxSpezifikationDRV8825}
 \end{table}
 
@@ -102,7 +102,7 @@ Die Spezifikationen sind in Tabelle \autoref{tab:maxSpezifikationDRV8825} und \a
 		Motorstrom & 0 A bis 2,5 A \\
 		\hline
 	\end{tabular}
-	\caption{Empfohlene Betriebsbedingungen}
+	\caption{Empfohlene Betriebsbedingungen \cite{DRV8825.2}}
 	\label{tab:SpezifikationDRV8825}
 \end{table}
 
@@ -146,6 +146,4 @@ Nach dem Kalibrieren des Treibers kann der Schrittmotor angeschlossen werden.
 	}
 \end{lstlisting}
 
-\section{Weiterführende Literatur}
 
-\textcolor{red}{einfügen}

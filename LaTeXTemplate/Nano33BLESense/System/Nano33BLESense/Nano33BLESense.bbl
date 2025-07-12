@@ -17,253 +17,6 @@
 \endgroup
 
 \datalist[entry]{anyt/global//global/global/global}
-  \entry{Arduino.2014}{misc}{}{}
-    \name{author}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \keyw{Arduino;Blink;IDE;LED;Programming}
-    \strng{namehash}{A1}
-    \strng{fullhash}{A1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Ard14}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{abstract}{%
-    Dieses Beispiel zeigt die einfachste Sache, die man mit einem Arduino
-  machen kann, um eine physikalische Ausgabe zu sehen: Es blinkt die
-  integrierte LED.%
-    }
-    \field{title}{Blink: Turn an LED on and off every second.}
-    \verb{url}
-    \verb https://docs.arduino.cc/built-in-examples/basics/Blink/
-    \endverb
-    \verb{file}
-    \verb ArdIDE2024f:Attachments/ArdIDE2024f.pdf:application/pdf
-    \endverb
-    \field{year}{2014}
-  \endentry
-
-  \entry{Ard.2024}{misc}{}{}
-    \name{author}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \keyw{Arduino;Arduino Nano 33 BLE Sense;Mikrocontroller;nicht 5 V
-  vertr{\"a}glich;NRF52 Series;Pin-Belegung;Sensorik}
-    \strng{namehash}{A1}
-    \strng{fullhash}{A1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Ard24}
-    \field{extraalpha}{1}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{abstract}{%
-    Eine detailliertes aber gut verst{\"a}ndliches Handbuch zum Arduino Nano 33
-  BLE Sense. Mithilfe des Handbuches kann der Mikrocontroller fachgerecht in
-  ein System integriert werden. Es wird au{\ss}erdem ein kurzer {\"U}berblick
-  aller im Arduino integrierten Sensoren gegeben.%
-    }
-    \field{title}{ABX00031-Datasheet}
-    \verb{url}
-    \verb https://docs.arduino.cc/resources/datasheets/ABX00031-datasheet.pdf
-    \endverb
-    \verb{file}
-    \verb ABX00031-datasheet:Attachments/ABX00031-datasheet.pdf:application/pdf
-    \endverb
-    \field{year}{2024}
-  \endentry
-
-  \entry{ArdIDE.2024}{misc}{}{}
-    \name{author}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \keyw{Arduino;Dokumentation;IDE}
-    \strng{namehash}{A1}
-    \strng{fullhash}{A1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Ard24}
-    \field{extraalpha}{2}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{title}{Downloads: Arduino IDE 2.3.2}
-    \verb{url}
-    \verb https://www.arduino.cc/en/software
-    \endverb
-    \list{location}{1}{%
-      {https://www.arduino.cc/en/software}%
-    }
-    \verb{file}
-    \verb 20240412ArduinoSoftware:Attachments/20240412ArduinoSoftware.pdf:appli
-    \verb cation/pdf
-    \endverb
-    \field{year}{2024}
-    \warn{\item Invalid format of field 'urldate'}
-  \endentry
-
-  \entry{ArdIDE.2024c}{misc}{}{}
-    \name{author}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \keyw{Arduino;Dokumentation;IDE}
-    \strng{namehash}{A1}
-    \strng{fullhash}{A1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Ard24}
-    \field{extraalpha}{3}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{title}{Installing Libraries}
-    \verb{url}
-    \verb https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a
-    \verb -library/
-    \endverb
-    \verb{file}
-    \verb 20240412InstallingLibraries:Attachments/20240412InstallingLibraries.p
-    \verb df:application/pdf
-    \endverb
-    \field{year}{2024}
-    \warn{\item Invalid format of field 'urldate'}
-  \endentry
-
-  \entry{ArdIDE.2024b}{misc}{}{}
-    \name{author}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \keyw{Arduino;Dokumentation;IDE}
-    \strng{namehash}{A1}
-    \strng{fullhash}{A1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Ard24}
-    \field{extraalpha}{4}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{title}{Installing a Board Package in the IDE 2}
-    \verb{url}
-    \verb https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-board-manage
-    \verb r/?queryID=145da8e8c0ca68927b79659df14079a5&_gl=1*1c27moy*_ga*MTQ0NDA
-    \verb yMjU0Ni4xNzEyMjI4NjMx*_ga_NEXN8H46L5*MTcxMjkzNTM5NS4xMi4xLjE3MTI5MzYx
-    \verb NTguMC4wLjE4MTYyNDUyNw..*_fplc*R3haa2kwYmJ5b0owSXBZQmNtNDElMkYySTNJZE
-    \verb ZjVDdueVdoViUyQkg1NmlHTCUyRkRxUWlkQmlvMmxYMjMybmcycGZRZ295TjR1STFaZDl
-    \verb 6c0txNGtBV1lETklqUzdGUFdKbjFmQktyVXhQWHclMkJiQVMlMkZka1pNRkVUWHduVnhK
-    \verb WEd6dyUzRCUzRA..
-    \endverb
-    \verb{file}
-    \verb 20240412InstallingaBoardPackage:Attachments/20240412InstallingaBoardP
-    \verb ackage.pdf:application/pdf
-    \endverb
-    \field{year}{2024}
-    \warn{\item Invalid format of field 'urldate'}
-  \endentry
-
-  \entry{ArdIDE.2024e}{misc}{}{}
-    \name{author}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \keyw{Arduino;Dokumentation;IDE}
-    \strng{namehash}{A1}
-    \strng{fullhash}{A1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Ard24}
-    \field{extraalpha}{5}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{title}{loop()}
-    \verb{url}
-    \verb https://www.arduino.cc/reference/en/language/structure/sketch/loop/
-    \endverb
-    \verb{file}
-    \verb 20240412loop:Attachments/20240412loop.pdf:application/pdf
-    \endverb
-    \field{year}{2024}
-    \warn{\item Invalid format of field 'urldate'}
-  \endentry
-
-  \entry{ArdIDE.2024d}{misc}{}{}
-    \name{author}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=A}{%
-         family={Arduino},
-         familyi={A\bibinitperiod},
-      }}%
-    }
-    \keyw{Arduino;Dokumentation;IDE}
-    \strng{namehash}{A1}
-    \strng{fullhash}{A1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Ard24}
-    \field{extraalpha}{6}
-    \field{sortinit}{A}
-    \field{sortinithash}{A}
-    \field{title}{setup()}
-    \verb{url}
-    \verb https://www.arduino.cc/reference/en/language/structure/sketch/setup/
-    \endverb
-    \verb{file}
-    \verb 20240412setup:Attachments/20240412setup.pdf:application/pdf
-    \endverb
-    \field{year}{2024}
-    \warn{\item Invalid format of field 'urldate'}
-  \endentry
-
   \entry{arduinodescription:2024}{online}{}{}
     \name{author}{1}{}{%
       {{hash=A}{%
@@ -284,6 +37,38 @@
     \verb -v2/
     \endverb
     \field{year}{2024}
+  \endentry
+
+  \entry{Ard.2024}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Arduino},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Arduino;Arduino Nano 33 BLE Sense;Mikrocontroller;nicht 5 V
+  vertr{\"a}glich;NRF52 Series;Pin-Belegung;Sensorik}
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ard25}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Eine detailliertes aber gut verst{\"a}ndliches Handbuch zum Arduino Nano 33
+  BLE Sense. Mithilfe des Handbuches kann der Mikrocontroller fachgerecht in
+  ein System integriert werden. Es wird au{\ss}erdem ein kurzer {\"U}berblick
+  aller im Arduino integrierten Sensoren gegeben.%
+    }
+    \field{title}{ABX00031-datasheet}
+    \verb{url}
+    \verb https://docs.arduino.cc/resources/datasheets/ABX00031-datasheet.pdf
+    \endverb
+    \verb{file}
+    \verb ABX00031-datasheet:Attachments/ABX00031-datasheet.pdf:application/pdf
+    \endverb
+    \field{year}{2025}
   \endentry
 
   \entry{Arm.2020}{misc}{}{}
@@ -688,55 +473,33 @@
     \field{year}{2021}
   \endentry
 
-  \entry{Lienig.2012}{book}{}{}
-    \name{editor}{2}{}{%
-      {{hash=LJ}{%
-         family={Lienig},
-         familyi={L\bibinitperiod},
-         given={Jens},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=DM}{%
-         family={Dietrich},
-         familyi={D\bibinitperiod},
-         given={Manfred},
-         giveni={M\bibinitperiod},
+  \entry{NEMA17}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=J}{%
+         family={{JOY-IT}},
+         familyi={J\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {{Springer Vieweg}}%
-    }
-    \keyw{3D-Baufruppe;3D-Entwurf;Design and construction;Integrated
-  circuits;Integrationstechnologien;Modellierung;Simulation;System-in-Package;Three-dimensional
-  integrated circuits}
-    \strng{namehash}{LJDM1}
-    \strng{fullhash}{LJDM1}
-    \field{labelnamesource}{editor}
+    \keyw{Schrittmotor}
+    \strng{namehash}{J1}
+    \strng{fullhash}{J1}
+    \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelalpha}{LD12}
-    \field{sortinit}{L}
-    \field{sortinithash}{L}
+    \field{labelalpha}{{JOY}19}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
     \field{abstract}{%
-    Nach einer Einf{\"u}hrung in 3D-Systeme (Teil I) mit den sich ergebenden
-  neuen Anwendungsm{\"o}glichkeiten wird detailliert auf die beiden
-  wesentlichen Abschnitte des Entwurfs - Modellierung und Simulation (Teil II)
-  sowie Layoutentwurf (Teil III) - eingegangen. Die Behandlung der Probleme mit
-  zugeh{\"o}rigen L{\"o}sungsans{\"a}tzen erfolgt dabei entsprechend des
-  Entwurfsflusses, d. h. in der Reihenfolge ihrer Bearbeitung.%
+    Datenblatt des verwendeten Schrittmotors%
     }
-    \verb{doi}
-    \verb 10.1007/978-3-642-30572-6
+    \field{title}{NEMA17-04 - Zweipoliger Schrittmotor}
+    \verb{url}
+    \verb https://cdn-reichelt.de/documents/datenblatt/A300/NEMA17-04_DN_DE.pdf
     \endverb
-    \field{isbn}{978-3-642-30572-6}
-    \field{title}{Entwurf integrierter 3D-Systeme der Elektronik}
-    \list{location}{2}{%
-      {Berlin}%
-      {Heidelberg}%
-    }
     \verb{file}
-    \verb 978-3-642-30572-6:Attachments/978-3-642-30572-6.pdf:application/pdf
+    \verb NEMA17-04_DN_DE.pdf:application/pdf
     \endverb
-    \field{year}{2012}
+    \field{year}{2019}
+    \warn{\item Invalid format of field 'urldate'}
   \endentry
 
   \entry{Meroth.2021}{book}{}{}
@@ -987,6 +750,170 @@
     \warn{\item Invalid format of field 'urldate'}
   \endentry
 
+  \entry{Parthier}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=PR}{%
+         family={Parthier},
+         familyi={P\bibinitperiod},
+         given={Rainer},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Springer Vieweg Wiesbaden}}%
+    }
+    \keyw{Messtechnik;Sensoren}
+    \strng{namehash}{PR1}
+    \strng{fullhash}{PR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Par20}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    Dieses Lehr- und Übungsbuch erläutert anschaulich Prinzipien und moderne
+  Verfahren der elektrischen Messtechnik. Es hilft direkt messtechnische
+  Fragestellungen richtig einzuschätzen. Kontrollfragen und Übungsaufgaben
+  ermöglichen eine selbstständige Lernkontrolle und damit ein erfolgreiches
+  Selbststudium.%
+    }
+    \verb{doi}
+    \verb 10.1007/978-3-658-27131-2
+    \endverb
+    \field{isbn}{978-3-658-27131-2}
+    \field{title}{Messtechnik - Vom SI-Einheitensystem über Bewertung von
+  Messergebnissen zu Anwendungen der elektrischen Messtechnik}
+    \list{location}{1}{%
+      {Mittweida, Deutschland}%
+    }
+    \verb{file}
+    \verb 978-3-658-27131-2.pdf:application/pdf
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{LM393.2}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SIMAC Electronics GmbH}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \keyw{Geschwindigkeitssensor;LM393}
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{SIM}20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Datenblatt von SIMAC Electronics GmbH zum Geschwindigkeitssensor LM393%
+    }
+    \field{title}{SPEEDSENSOR SEN-Speed}
+    \verb{url}
+    \verb https://cdn-reichelt.de/documents/datenblatt/A300/DATASHEET-SEN-SPEED
+    \verb .pdf
+    \endverb
+    \verb{file}
+    \verb Datenblatt-SEN-Speed.pdf:application/pdf
+    \endverb
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{OLED.1}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SIMAC Electronics GmbH}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \keyw{OLED;Display}
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{SIM}21}
+    \field{extraalpha}{1}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Datenblatt des verwendeten Displays%
+    }
+    \field{title}{2,42 ZOLL OLED DISPLAY COM-OLED 2.42}
+    \verb{url}
+    \verb https://cdn-reichelt.de/documents/datenblatt/A300/COM-OLED2.42_DATENB
+    \verb LATT_2021-03-11.pdf
+    \endverb
+    \verb{file}
+    \verb COM-OLED2.42_DATENBLATT_2021-03-11.pdf:application/pdf
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{OLED.2}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SIMAC Electronics GmbH}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \keyw{OLED;Display}
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{SIM}21}
+    \field{extraalpha}{2}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Anleitung des verwendeten Displays%
+    }
+    \field{title}{OLED-DISPLAYMODUL COM-OLED2.42}
+    \verb{url}
+    \verb https://cdn-reichelt.de/documents/datenblatt/A300/COM-OLED2.42_ANLEIT
+    \verb UNG_2021-02-05.pdf
+    \endverb
+    \verb{file}
+    \verb COM-OLED2.42_ANLEITUNG_2021-02-05.pdf:application/pdf
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{LM393.3}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{SIMAC Electronics GmbH}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \keyw{Geschwindigkeitssensor;LM393}
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{SIM}24}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Anleitung von SIMAC Electronics GmbH zum Geschwindigkeitssensor LM393%
+    }
+    \field{title}{GESCHWINDIGKEITSSENSOR Speedsensor LM393 mit Lochscheibe}
+    \verb{url}
+    \verb https://cdn-reichelt.de/documents/datenblatt/A300/SEN-SPEED-ANLEITUNG
+    \verb -20201015.pdf
+    \endverb
+    \verb{file}
+    \verb SEN-Speed_Anleitung_2024-05-03.pdf:application/pdf
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
   \entry{Schroder.2021}{book}{}{}
     \name{author}{2}{}{%
       {{hash=SD}{%
@@ -1055,8 +982,8 @@
     }
   \keyw{Beschleunigungsmesser;Datasheet;Datenblatt;Gyroskop;I2C;IMU;LSM9DS1;Magnetometer;Product
   Development;Specification;SPI;System-in-Package;Technical Literature}
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelalpha}{STM15}
@@ -1093,8 +1020,8 @@
     \keyw{027083;Barometrischer
   Drucksensor;Datasheet;Datenblatt;I2C;LPS22HB;Product
   Development;Specification;Technical Literature}
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelalpha}{STM17}
@@ -1130,8 +1057,8 @@
       }}%
     }
     \keyw{Datasheet;Datenblatt;I2C;Mikrofon;MP34DT05-A}
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
+    \strng{namehash}{S2}
+    \strng{fullhash}{S2}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelalpha}{STM21}
@@ -1151,6 +1078,38 @@
     \field{year}{2021}
   \endentry
 
+  \entry{Goethel}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={{Silvio Göthel}},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \keyw{OLED;Display}
+    \strng{namehash}{S3}
+    \strng{fullhash}{S3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Sil}25}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Präsentation der TU Dresden zu OLED-Displays%
+    }
+    \field{title}{OLED Prinzip und Verwendung, im Besonderen in der
+  Displaytechnik}
+    \verb{url}
+    \verb https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/datei
+    \verb en_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/folder-
+    \verb 2010-04-30-7782863372/OLED_Vortrag.pdf
+    \endverb
+    \verb{file}
+    \verb OLED_Allgemein.pdf:application/pdf
+    \endverb
+    \field{year}{2025}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
   \entry{Simac:2019c}{manual}{}{}
     \name{author}{1}{}{%
       {{hash=S}{%
@@ -1159,8 +1118,8 @@
       }}%
     }
     \keyw{3.3 V;5 V;Abmessungen;Datenblatt;Drehencoder;Tasterfunktion}
-    \strng{namehash}{S2}
-    \strng{fullhash}{S2}
+    \strng{namehash}{S4}
+    \strng{fullhash}{S4}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelalpha}{{Sim}19}
@@ -1212,6 +1171,95 @@
     \verb https://www.pjrc.com/teensy/td_libs_Encoder.html
     \endverb
     \field{year}{2024}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{DRV8825.2}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{Texas Instruments Incorporated}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \keyw{Schrittmotortreiber;Treiber;DRV8825}
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Tex}11}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    Datenblatt des verwendeten Motortreibers%
+    }
+    \field{title}{STEPPER MOTOR CONTROLLER IC}
+    \verb{url}
+    \verb https://cdn-reichelt.de/documents/datenblatt/A300/SOLDERED_DRV8825_DA
+    \verb TASHEET.pdf
+    \endverb
+    \verb{file}
+    \verb SOLDERED_DRV8825_DATASHEET.pdf:application/pdf
+    \endverb
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{DRV8825.1}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{Texas Instruments Incorporated}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \keyw{Schrittmotortreiber;Treiber;DRV8825}
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Tex}14}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    Datenblatt des verwendeten Motortreibers%
+    }
+    \field{title}{DRV8825 Stepper Motor Controller IC}
+    \verb{url}
+    \verb https://www.ti.com/de/lit/gpn/drv8825
+    \endverb
+    \verb{file}
+    \verb drv8825.pdf:application/pdf
+    \endverb
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{LM393.1}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=T}{%
+         family={{Texas Instruments Incorporated}},
+         familyi={T\bibinitperiod},
+      }}%
+    }
+    \keyw{Geschwindigkeitssensor;LM393}
+    \strng{namehash}{T1}
+    \strng{fullhash}{T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{{Tex}25}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    Datenblatt von Texas Instruments zum Geschwindigkeitssensor LM393%
+    }
+    \field{title}{LM393B, LM2903B, LM193, LM293, LM393 and LM2903 Dual
+  Comparators}
+    \verb{url}
+    \verb https://www.ti.com/lit/gpn/lm393
+    \endverb
+    \verb{file}
+    \verb lm393.pdf:application/pdf
+    \endverb
+    \field{year}{2025}
     \warn{\item Invalid format of field 'urldate'}
   \endentry
 \enddatalist
