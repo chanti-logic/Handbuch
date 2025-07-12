@@ -17,7 +17,7 @@
 
 \section{Allgemeine Beschreibung des Sensors}
 
-Der LM393 ist ein einfacher und kostengünstiger Geschwindigkeitssensor, der nach dem Prinzip der optischen Lichtschranke funktioniert. Er besteht aus einem LM393-Komparator, einem Infrarot-Sender-Empfänger-Paar und einem digitalen Ausgang. Der Sensor kann in Kombination mit einer auf einer rotierenden Welle angebrachten Lochscheibe verwendet werden.
+Der LM393 ist ein einfacher und kostengünstiger Geschwindigkeitssensor, der nach dem Prinzip der optischen Lichtschranke funktioniert. Er besteht aus einem LM393-Komparator, einem Infrarot-Sender-Empfänger-Paar und einem digitalen Ausgang. Der Sensor kann in Kombination mit einer auf einer rotierenden Welle angebrachten Lochscheibe verwendet werden. \cite{LM393.1} \cite{Parthier}
 
 \section{Spezifische Beschreibung des Sensors}
 
@@ -39,13 +39,13 @@ Wie diese Komponenten die Funktion des Sensors ermöglichen, wird im Folgenden e
 
 Die Infrarot-LED und der Fototransistor bilden eine optoelektronische Lichtschranke und sind sich gegenüber auf dem Sensor-PCB angebracht. Die beiden Komponenten sind durch die Lichtschranken-Nut getrennt, welche 5 mm breit ist. In dieser Nut rotiert die Lochscheibe, welche auf der Motorwelle montiert ist und mit 20 Löchern ausgestattet ist. Die Infrarot-LED dient als Sender der Lichtschranke und emittiert kontinuierlich Licht im infraroten Bereich (~ 940 nm) in Richtung des Empfängers. Der Fototransistor ist der Empfänger. Dieser Fototransistor besteht aus einem Halbleitermaterial. Trifft das Infrarotlicht des Senders, durch ein Loch der Lochscheibe auf den Empfänger, so werden dort Elektronen-Loch-Paare erzeugt. Dadurch steigt der Stromfluss durch den Fototransistor. Wird das Infrarotlicht durch die Lochscheibe blockiert sinkt der Strom im Fototransistor. 
 
-Die hier verwendete Lochscheibe weist 20 Löcher auf, somit werden pro Umdrehung 20 Signale erzeugt. Da der Sensor aber auf Signaländerungen reagiert werden pro Loch zwei Impulse erzeugt, es werden also 40 Impulse pro Umdrehung gezählt. 
+Die hier verwendete Lochscheibe weist 20 Löcher auf, somit werden pro Umdrehung 20 Signale erzeugt. Da der Sensor aber auf Signaländerungen reagiert werden pro Loch zwei Impulse erzeugt, es werden also 40 Impulse pro Umdrehung gezählt. \cite{Parthier}
 
 \subsection{Signalverarbeitung mit dem LM393 Komparator}
 
 Der LM393 ist ein Komparator, der zwei Analoge Spannungen vergleicht. Eingang A wird mit einer Referenzspannung beschaltet. Eingang B ist mit dem Fototransistor verbunden. Wenn Infrarotlicht auf dem Empfänger auftrifft (durch Loch der Lochscheibe) ändert sich die Spannung am Eingang B. Wenn die Spannung im Fototransistor durch den Lichteinfall höher wird als die Referenzspannung, dann schaltet der Komparator den digitalen Ausgang D0 auf LOW. Wenn der Lichteinfall blockiert ist und somit die Spannung im Fototransistor niedriger ist als die Referenzspannung, dann schaltet der Komparator den digitalen Ausgang D0 auf HIGH. Der LM393 Komparator wird also dazu genutzt kleine Änderungen im Analogsignal zu verstärken und in ein klares digitales Rechtecksignal umzuwandeln.
 
-Am digitalen Ausgang D0 liegt das durch den LM393 erzeugte Signal an. Dieses kann direkt mit einem Mikrocontroller, in diesem Fall einem Arduino Nano 33 BLE Sense verbunden und ausgewertet werden.
+Am digitalen Ausgang D0 liegt das durch den LM393 erzeugte Signal an. Dieses kann direkt mit einem Mikrocontroller, in diesem Fall einem Arduino Nano 33 BLE Sense verbunden und ausgewertet werden. \cite{Parthier}
 
 \subsection{Anschluss des Sensors mit dem Arduino Nano 33 BLE Sense}
 
@@ -62,7 +62,7 @@ In Tabelle \autoref{tab:AnschlussLM393} ist gezeigt wie der Sensor korrekt an de
 		Pin 2 & D0 \\
 		\hline
 	\end{tabular}
-	\caption{Anschluss Speedsensor LM393 an Arduino Nano 33 BLE Sense}
+	\caption{Anschluss Speedsensor LM393 an Arduino Nano 33 BLE Sense \cite{LM393.3}}
 	\label{tab:AnschlussLM393}
 \end{table}
 
@@ -84,7 +84,7 @@ In Tabelle \autoref{tab:AnschlussLM393} ist gezeigt wie der Sensor korrekt an de
 		Besonderheiten & LED-Anzeige, Montageloch \\
 		\hline
 	\end{tabular}
-	\caption{Spezifikationen des Speedsensor LM393}
+	\caption{Spezifikationen des Speedsensor LM393 \cite{LM393.2}}
 	\label{tab:SpezifikationLM393}
 \end{table}
 
@@ -194,7 +194,7 @@ Das Beispiel geht davon aus, dass die Lochscheibe auf einer sich rotierenden Wel
 	// no loop needed
 	}
 \end{lstlisting}
-
+\cite{LM393.3}
 \section{Tests}
 
 Um sicherzugehen, dass der Sensor zuverlässig funktioniert, wird empfohlen folgende Tests anhand des einfachen Beispiels mit Code durchzuführen:
