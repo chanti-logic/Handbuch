@@ -1,11 +1,11 @@
-%%%%%%
+%%%%%%%%%%%%
 %
-% $Autor:  $
-% $Datum: 29.04.2024 $
-% $Version: 1 $
+% $Autor: Chantal Crety $
+% $Datum: 11.07.2025 $
+% $Pfad: DemonstratorSchrittmotor\MontageAnleitung\MontageAnleitung.tex
+% $Beschreibung: Formatierung MontageAnleitung
 %
-%
-%%%%%%
+%%%%%%%%%%%%
 
 
 \documentclass[12pt,a4paper]{scrbook}
@@ -23,6 +23,8 @@
 \input{General/acronyms}
 \input{General/Hyphenations}%
 
+
+\usepackage{subcaption}
 \usepackage{longtable}   % für Tabellen über Seitenumbrüche hinweg
 \usepackage{graphicx}    % für \includegraphics
 \usepackage{adjustbox}   % für \adjustbox{valign=m}{…} zum korrekten Vertikal-Alignment von Bildern
@@ -32,6 +34,7 @@
 \usepackage{tabularx}
 \usepackage{caption}
 \usepackage{float}
+\usepackage{tikz}
 \begin{document}
  
 
@@ -62,7 +65,7 @@
 %Inhalt
 \InputLanguage{Chapters/}{Einleitung}
 \InputLanguage{Chapters/}{Bauteile}
-\InputLanguage{Chapters/}{Montage}
+ \InputLanguage{Chapters/}{Montage}
 
 \cleardoublepage
 

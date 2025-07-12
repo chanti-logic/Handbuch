@@ -6,28 +6,24 @@
 \contentsline {chapter}{\numberline {2}Materialliste}{3}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Gehäuse}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Fertigung}{7}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Teile}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.2}3D-Druckteile}{7}{section.3.2}%
 \contentsline {chapter}{\numberline {4}Vorbereitung der Elektronik}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Anbringung der Lochscheibe des Geschwindigkeitssensors LM393}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Vorbereitung der elektrischen Leitungen}{10}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Schaltplan}{11}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Anbringung von Steckbrett und Entwicklerboard}{12}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Schrauben und Muttern}{13}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Schaltplan}{13}{section.4.6}%
-\contentsline {chapter}{\numberline {5}Montage}{15}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Erster Schritt: Montieren Schaltnetzteil, Entwicklerboard und AMS1117}{15}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Zweiter Schritt: Anbringen der Bodenplatte an Aluprofil}{16}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Dritter Schritt: Zusammenbau der Vorderplatte}{17}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Vierter Schritt: Zusammenbau der Hinterplatte}{18}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Fünfter Schritt: Teilzusammenbau des Gehäuses}{19}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Sechster Schritt: Anschließen der elektrischen Leitungen}{20}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Siebter Schritt: Montieren des Micro-Schalters und Motors}{21}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Achter Schritt: Zusammenbau des Gehäuses}{22}{section.5.8}%
-\contentsline {section}{\numberline {5.9}Neunter Schritt: Montieren der Linearführung}{23}{section.5.9}%
-\contentsline {section}{\numberline {5.10}Zehnter Schritt: Montieren des Griffs}{24}{section.5.10}%
-\contentsline {section}{\numberline {5.11}Elfter Schritt: Montieren der Halter für die Welle}{25}{section.5.11}%
-\contentsline {section}{\numberline {5.12}Zwölfter Schritt: Montieren der Riemenscheibe am Motor}{26}{section.5.12}%
-\contentsline {section}{\numberline {5.13}Dreizehnter Schritt: Montieren des Anzeigers und des Riemens}{27}{section.5.13}%
-\contentsline {section}{\numberline {5.14}Vierzehnter Schritt: Montieren des Lineals}{28}{section.5.14}%
-\contentsline {section}{\numberline {5.15}Abschlussarbeiten}{28}{section.5.15}%
+\contentsline {section}{\numberline {4.1}Programmierung des Arduino Nano 33 BLE Sense Rev.2}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Anbringung der Lochscheibe des Geschwindigkeitssensors LM393}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Veränderung der Display Steuerung}{10}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Vorbereitung der elektrischen Leitungen}{11}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Anbringung von Steckbrett und Entwicklerboard}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Anbringung der Elektronik}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Schalter}{16}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Endschalter:}{16}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Drucktaster grün und rot:}{16}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Wippschalter}{17}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Display}{17}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Geschwindigkeitssensor Teil 1}{17}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Verkabelung aller Komponenten}{19}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Schaltplan}{20}{section.7.1}%
+\contentsline {chapter}{\numberline {8}Einhängung der Gehäusehälften}{23}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Ausrichtung des Geschwindigkeitssensor}{25}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Geschwindigkeitssensor Teil 2}{25}{section.9.1}%
+\contentsline {chapter}{\numberline {10}Prüfung}{27}{chapter.10}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
