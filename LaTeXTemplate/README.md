@@ -12,7 +12,7 @@ Prof. Dr. Elmar Wings
 
 # Autoren (Name, Vorname, Matrikelnummer):
 Crety, Chantal, XXXX
-Mey, Hannah, XXXX
+Mey, Hannah, 7024688
 Perewersenko, Jessica, 7024880
 
 # Projektbeschreibung: 

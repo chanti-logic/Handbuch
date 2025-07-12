@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  11 JUL 2025 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  12 JUL 2025 12:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2740,7 +2740,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 [3{c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-6.
+5.
 
 (c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -2849,7 +2849,7 @@ Package scrkbase Info: You've told me to use the font selection of the element
 chapter 2.
 Package biblatex Info: Reference segment=5 on input line 24.
 Package biblatex Info: Setting label 'refsegment:05' on input line 24.
-<../../Images/Arduino/ArdiunoIDE2/menuboard.png, id=395, 959.585pt x 51.69313pt
+<../../Images/Arduino/ArdiunoIDE2/menuboard.png, id=393, 959.585pt x 51.69313pt
 >
 File: ../../Images/Arduino/ArdiunoIDE2/menuboard.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/menuboard.png>
@@ -2871,7 +2871,7 @@ Package biblatex Info: Setting label 'refsegment:07' on input line 59.
 
 
  <../../Images/Arduino/ArdiunoIDE2/menuboard.png>]
-<../../Images/Arduino/ArdiunoIDE2/ide2Overview.png, id=407, 893.3375pt x 502.87
+<../../Images/Arduino/ArdiunoIDE2/ide2Overview.png, id=405, 893.3375pt x 502.87
 875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/ide2Overview.png Graphic file (type png)
 
@@ -2897,7 +2897,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
 [18 <../../Images/Arduino/ArdiunoIDE2/ide2Overview.png>]
-<../../Images/Arduino/ArdiunoIDE2/localSketchbook.png, id=416, 893.3375pt x 501
+<../../Images/Arduino/ArdiunoIDE2/localSketchbook.png, id=414, 893.3375pt x 501
 .875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/localSketchbook.png Graphic file (type p
 ng)
@@ -2911,7 +2911,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 93.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/boardManager.png, id=418, 893.3375pt x 502.87
+<../../Images/Arduino/ArdiunoIDE2/boardManager.png, id=416, 893.3375pt x 502.87
 875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/boardManager.png Graphic file (type png)
 
@@ -2941,7 +2941,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [19 <../../Images/Arduino/ArdiunoIDE2/localSketchbook.png> <../../Images/Arduin
 o/ArdiunoIDE2/boardManager.png>]
-<../../Images/Arduino/ArdiunoIDE2/libraryManager.png, id=429, 893.3375pt x 502.
+<../../Images/Arduino/ArdiunoIDE2/libraryManager.png, id=427, 893.3375pt x 502.
 87875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/libraryManager.png Graphic file (type pn
 g)
@@ -2957,7 +2957,7 @@ See the caption package documentation for explanation.
 
 Package biblatex Info: Reference segment=9 on input line 124.
 Package biblatex Info: Setting label 'refsegment:09' on input line 124.
-<../../Images/Arduino/ArdiunoIDE2/examplesketches.png, id=430, 446.66875pt x 28
+<../../Images/Arduino/ArdiunoIDE2/examplesketches.png, id=428, 446.66875pt x 28
 9.58188pt>
 File: ../../Images/Arduino/ArdiunoIDE2/examplesketches.png Graphic file (type p
 ng)
@@ -3003,7 +3003,7 @@ Package biblatex Info: Reference segment=11 on input line 17.
 Package biblatex Info: Setting label 'refsegment:011' on input line 17.
 Package biblatex Info: Reference segment=12 on input line 30.
 Package biblatex Info: Setting label 'refsegment:012' on input line 30.
-<../../Images/Arduino/ArdiunoIDE2/boardmanager1.png, id=449, 739.26187pt x 450.
+<../../Images/Arduino/ArdiunoIDE2/boardmanager1.png, id=447, 739.26187pt x 450.
 18187pt>
 File: ../../Images/Arduino/ArdiunoIDE2/boardmanager1.png Graphic file (type png
 )
@@ -3020,7 +3020,7 @@ See the caption package documentation for explanation.
 
 [23]
 <../../Images/Arduino/ArdiunoIDE2/SelectTheConnectedBoardArduinoNano33BLESense.
-png, id=462, 1440.13031pt x 772.38562pt>
+png, id=460, 1440.13031pt x 772.38562pt>
 File: ../../Images/Arduino/ArdiunoIDE2/SelectTheConnectedBoardArduinoNano33BLES
 ense.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/SelectTheConnectedBoardArduinoNano33BLESe
@@ -3028,7 +3028,7 @@ nse.png>
 Package pdftex.def Info: ../../Images/Arduino/ArdiunoIDE2/SelectTheConnectedBoa
 rdArduinoNano33BLESense.png  used on input line 80.
 (pdftex.def)             Requested size: 227.62204pt x 122.07565pt.
-<../../Images/Arduino/ArdiunoIDE2/resetbutton.png, id=464, 283.0575pt x 439.642
+<../../Images/Arduino/ArdiunoIDE2/resetbutton.png, id=462, 283.0575pt x 439.642
 5pt>
 File: ../../Images/Arduino/ArdiunoIDE2/resetbutton.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/resetbutton.png>
@@ -3080,7 +3080,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [25 <../../Images/Arduino/ArdiunoIDE2/resetbutton.png>]
 <../../Images/Arduino/ArdiunoIDE2/SelectAvailablePortForUploadingArduinoSketch.
-png, id=485, 1440.13031pt x 776.14969pt>
+png, id=483, 1440.13031pt x 776.14969pt>
 File: ../../Images/Arduino/ArdiunoIDE2/SelectAvailablePortForUploadingArduinoSk
 etch.png Graphic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/SelectAvailablePortForUploadingArduinoSke
@@ -3099,64 +3099,64 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [26 <../../Images/Arduino/ArdiunoIDE2/SelectAvailablePortForUploadingArduinoSke
 tch.png>]
-<../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png, id=493, 1
+<../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png, id=491, 1
 445.4pt x 775.39688pt>
 File: ../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png Graph
 ic file (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png>
 Package pdftex.def Info: ../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArd
-uinoBoard.png  used on input line 152.
+uinoBoard.png  used on input line 146.
 (pdftex.def)             Requested size: 227.62204pt x 122.10199pt.
-<../../Images/Arduino/ArdiunoIDE2/SettingThePort.png, id=495, 1440.13031pt x 77
+<../../Images/Arduino/ArdiunoIDE2/SettingThePort.png, id=492, 1440.13031pt x 77
 4.64406pt>
 File: ../../Images/Arduino/ArdiunoIDE2/SettingThePort.png Graphic file (type pn
 g)
 <use ../../Images/Arduino/ArdiunoIDE2/SettingThePort.png>
 Package pdftex.def Info: ../../Images/Arduino/ArdiunoIDE2/SettingThePort.png  u
-sed on input line 165.
+sed on input line 154.
 (pdftex.def)             Requested size: 227.62204pt x 122.4326pt.
-Package biblatex Info: Reference segment=13 on input line 174.
-Package biblatex Info: Setting label 'refsegment:013' on input line 174.
+Package biblatex Info: Reference segment=13 on input line 159.
+Package biblatex Info: Setting label 'refsegment:013' on input line 159.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\fontdimen' on input line 179.
+(hyperref)                removing `\fontdimen' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\font' on input line 179.
+(hyperref)                removing `\font' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\fontdimen' on input line 179.
+(hyperref)                removing `\fontdimen' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\font' on input line 179.
+(hyperref)                removing `\font' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\fontdimen' on input line 179.
+(hyperref)                removing `\fontdimen' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\font' on input line 179.
+(hyperref)                removing `\font' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\fontdimen' on input line 179.
+(hyperref)                removing `\fontdimen' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\font' on input line 179.
+(hyperref)                removing `\font' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hyphenchar' on input line 179.
+(hyperref)                removing `\hyphenchar' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\font' on input line 179.
+(hyperref)                removing `\font' on input line 163.
 
 
 
@@ -3169,39 +3169,34 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [27 <../../Images/Arduino/ArdiunoIDE2/UploadTheProgramInArduinoBoard.png> <../.
 ./Images/Arduino/ArdiunoIDE2/SettingThePort.png>]
-<../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.3.png, id=506, 1031.3531
+<../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.3.png, id=504, 1031.3531
 2pt x 695.59875pt>
 File: ../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.3.png Graphic file 
 (type png)
 <use ../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.3.png>
 Package pdftex.def Info: ../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.
-3.png  used on input line 205.
+3.png  used on input line 183.
 (pdftex.def)             Requested size: 227.62204pt x 153.52043pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 206.
+(caption)                particular \caption on input line 184.
 See the caption package documentation for explanation.
 
-<../../Images/Arduino/ArdiunoIDE2/ledblink_code.png, id=507, 1271.24937pt x 717
+<../../Images/Arduino/ArdiunoIDE2/ledblink_code.png, id=505, 1271.24937pt x 717
 .17938pt>
 File: ../../Images/Arduino/ArdiunoIDE2/ledblink_code.png Graphic file (type png
 )
 <use ../../Images/Arduino/ArdiunoIDE2/ledblink_code.png>
 Package pdftex.def Info: ../../Images/Arduino/ArdiunoIDE2/ledblink_code.png  us
-ed on input line 212.
+ed on input line 190.
 (pdftex.def)             Requested size: 227.62204pt x 128.40823pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 213.
+(caption)                particular \caption on input line 191.
 See the caption package documentation for explanation.
 
-
-Overfull \hbox (26.1182pt too wide) in paragraph at lines 233--235
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
+)
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -3212,44 +3207,18 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 [28 <../../Images/Arduino/ArdiunoIDE2/blink_example_IDE2.3.3.png> <../../Images
 /Arduino/ArdiunoIDE2/ledblink_code.png>]
-Overfull \hbox (2.11795pt too wide) in paragraph at lines 246--247
-[][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (26.1182pt too wide) in paragraph at lines 250--251
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (2.11795pt too wide) in paragraph at lines 255--256
-[][][][][][][][][][][][][][][][][][][][][] 
- []
-
-)
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
-
-[29]
-
-[30
-
-
-]
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 82.
 
 
-[31]
+[29
 
-[32] (../../Contents/Nano33BLESense/HardwarebeschreibungArduino.tex
+
+]
+
+[30] (../../Contents/Nano33BLESense/HardwarebeschreibungArduino.tex
 chapter 4.
 
 Package caption Warning: The type was already set to `figure'
@@ -3262,7 +3231,7 @@ Package biblatex Info: Reference segment=15 on input line 71.
 Package biblatex Info: Setting label 'refsegment:015' on input line 71.
 
 
-[33
+[31
 
 
 ]
@@ -3277,7 +3246,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[34{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+[32{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
 Package biblatex Info: Reference segment=16 on input line 108.
 Package biblatex Info: Setting label 'refsegment:016' on input line 108.
 
@@ -3289,7 +3258,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[35{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2025/te
+[33{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2025/te
 xmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
 Overfull \hbox (4.22011pt too wide) in paragraph at lines 179--180
 [][] 
@@ -3322,7 +3291,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[36]
+[34]
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
 192.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmss.fd
@@ -3347,7 +3316,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[37]
+[35]
 Overfull \hbox (2.91986pt too wide) in paragraph at lines 214--215
 \T1/lmr/m/n/10 (-20) Die Pla^^?tine hat zusät^^?zlich 8 analoge Ein^^?gangspins
  (A0-A7), die wiederum als Analog-Dig^^?
@@ -3370,7 +3339,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[38]
+[36]
 Package biblatex Info: Reference segment=18 on input line 246.
 Package biblatex Info: Setting label 'refsegment:018' on input line 246.
 )
@@ -3382,9 +3351,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[39]
+[37]
 
-[40
+[38
 
 
 ]
@@ -3394,9 +3363,9 @@ Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)              on input line 92.
 
 
-[41]
+[39]
 
-[42] (../../Contents/General/Encoder.tex
+[40] (../../Contents/General/Encoder.tex
 chapter 5.
 Package biblatex Info: Reference segment=19 on input line 24.
 Package biblatex Info: Setting label 'refsegment:019' on input line 24.
@@ -3409,7 +3378,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[43
+[41
 
 
 ]) (../../Contents/General/Schrittmotor.tex
@@ -3421,7 +3390,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[44]
+[42]
 chapter 6.
 Package biblatex Info: Reference segment=21 on input line 16.
 Package biblatex Info: Setting label 'refsegment:021' on input line 16.
@@ -3432,7 +3401,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 33.
 )
 
-[45
+[43
 
 
 ]
@@ -3444,7 +3413,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[46
+[44
 
 {c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}
 
@@ -3464,7 +3433,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[47]
+[45]
 Overfull \hbox (25.68518pt too wide) in paragraph at lines 60--61
 []\T1/lmr/m/n/10 (-20) Motorauswahl durch Höchst^^?werte für Drehmo^^?ment und 
 Drehzahl (Worst-^^?Case-Szenario) 
@@ -3490,7 +3459,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[48]
+[46]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 182.
@@ -3508,7 +3477,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[49]
+[47]
 Underfull \hbox (badness 4072) in paragraph at lines 200--200
 []\T1/lmr/m/n/8 (+20) Ruckeln ver-ringern durch gerin-gere
  []
@@ -3527,7 +3496,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[50]
+[48]
 Package biblatex Info: Reference segment=23 on input line 231.
 Package biblatex Info: Setting label 'refsegment:023' on input line 231.
 Package biblatex Info: Reference segment=24 on input line 237.
@@ -3541,9 +3510,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[51]
+[49]
 
-[52
+[50
 
 
 ]
@@ -3556,7 +3525,7 @@ Package biblatex Info: Reference segment=27 on input line 73.
 Package biblatex Info: Setting label 'refsegment:027' on input line 73.
 
 
-[53]
+[51]
 Package biblatex Info: Reference segment=28 on input line 109.
 Package biblatex Info: Setting label 'refsegment:028' on input line 109.
 Package biblatex Info: Reference segment=29 on input line 120.
@@ -3575,7 +3544,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[54]
+[52]
 Package biblatex Info: Reference segment=30 on input line 149.
 Package biblatex Info: Setting label 'refsegment:030' on input line 149.
 ) (../../Contents/General/SensorLM393.tex
@@ -3587,9 +3556,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[55]
+[53]
 
-[56
+[54
 
 
 ]
@@ -3606,7 +3575,7 @@ Package biblatex Info: Reference segment=32 on input line 22.
 Package biblatex Info: Setting label 'refsegment:032' on input line 22.
 
 
-[57]
+[55]
 Package biblatex Info: Reference segment=33 on input line 70.
 Package biblatex Info: Setting label 'refsegment:033' on input line 70.
 Package biblatex Info: Reference segment=34 on input line 91.
@@ -3620,20 +3589,20 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[58]
-<../../Images/LM393/TimerOne1.jpg, id=905, 455.45157pt x 196.48407pt>
+[56]
+<../../Images/LM393/TimerOne1.jpg, id=863, 455.45157pt x 196.48407pt>
 File: ../../Images/LM393/TimerOne1.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne1.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne1.jpg  used on input line 1
 08.
 (pdftex.def)             Requested size: 369.88583pt x 159.57394pt.
-<../../Images/LM393/TimerOne2.jpg, id=906, 161.85469pt x 219.82124pt>
+<../../Images/LM393/TimerOne2.jpg, id=864, 161.85469pt x 219.82124pt>
 File: ../../Images/LM393/TimerOne2.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne2.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne2.jpg  used on input line 1
 15.
 (pdftex.def)             Requested size: 184.94292pt x 251.19249pt.
-<../../Images/LM393/TimerOne3.jpg, id=908, 379.4175pt x 173.89969pt>
+<../../Images/LM393/TimerOne3.jpg, id=866, 379.4175pt x 173.89969pt>
 File: ../../Images/LM393/TimerOne3.jpg Graphic file (type jpg)
 <use ../../Images/LM393/TimerOne3.jpg>
 Package pdftex.def Info: ../../Images/LM393/TimerOne3.jpg  used on input line 1
@@ -3650,12 +3619,12 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[59 <../../Images/LM393/TimerOne1.jpg> <../../Images/LM393/TimerOne2.jpg>]
+[57 <../../Images/LM393/TimerOne1.jpg> <../../Images/LM393/TimerOne2.jpg>]
 Package biblatex Info: Reference segment=36 on input line 135.
 Package biblatex Info: Setting label 'refsegment:036' on input line 135.
 
-Overfull \hbox (50.11844pt too wide) in paragraph at lines 156--157
-[][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (92.11887pt too wide) in paragraph at lines 156--157
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
@@ -3667,7 +3636,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[60 <../../Images/LM393/TimerOne3.jpg>]
+[58 <../../Images/LM393/TimerOne3.jpg>]
 Overfull \hbox (32.11826pt too wide) in paragraph at lines 163--164
 [][][][][][][][][][][][][][][][] 
  []
@@ -3685,7 +3654,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[61]
+[59]
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -3694,7 +3663,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[62]
+[60]
 chapter 9.
 Package biblatex Info: Reference segment=39 on input line 19.
 Package biblatex Info: Setting label 'refsegment:039' on input line 19.
@@ -3706,13 +3675,13 @@ Package biblatex Info: Reference segment=42 on input line 55.
 Package biblatex Info: Setting label 'refsegment:042' on input line 55.
 
 
-[63
+[61
 
 
 ]
 Package biblatex Info: Reference segment=43 on input line 84.
 Package biblatex Info: Setting label 'refsegment:043' on input line 84.
-<../../Images/OLEDDisplay/U8g2-1.jpg, id=1001, 260.47313pt x 258.21469pt>
+<../../Images/OLEDDisplay/U8g2-1.jpg, id=960, 260.47313pt x 258.21469pt>
 File: ../../Images/OLEDDisplay/U8g2-1.jpg Graphic file (type jpg)
 <use ../../Images/OLEDDisplay/U8g2-1.jpg>
 Package pdftex.def Info: ../../Images/OLEDDisplay/U8g2-1.jpg  used on input lin
@@ -3729,14 +3698,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[64]
-Overfull \hbox (14.11807pt too wide) in paragraph at lines 128--129
-[][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (62.11856pt too wide) in paragraph at lines 129--130
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+[62]
+Overfull \hbox (38.11832pt too wide) in paragraph at lines 129--130
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 Package biblatex Info: Reference segment=45 on input line 136.
@@ -3750,9 +3714,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[65 <../../Images/OLEDDisplay/U8g2-1.jpg>]
+[63 <../../Images/OLEDDisplay/U8g2-1.jpg>]
 
-[66
+[64
 
 
 ]
@@ -3762,16 +3726,16 @@ Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)              on input line 107.
 
 
-[67]
+[65]
 
-[68] (../../Contents/Nano33BLESense/MateriallisteNano.tex
+[66] (../../Contents/Nano33BLESense/MateriallisteNano.tex
 chapter 10.
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|\T1/lmr/bx/n/7 (+20) Preis
  []
 
-<../../Images/Materialliste/fraesmaschine.jpg, id=1053, 1027.84pt x 1027.84pt>
+<../../Images/Materialliste/fraesmaschine.jpg, id=1011, 1027.84pt x 1027.84pt>
 File: ../../Images/Materialliste/fraesmaschine.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/fraesmaschine.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/fraesmaschine.jpg  used on 
@@ -3792,7 +3756,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\T1/lmr/m/n/7 (+20) ARD NANO
  []
 
-<../../Images/Materialliste/arduino.png, id=1055, 602.25pt x 494.84875pt>
+<../../Images/Materialliste/arduino.png, id=1013, 602.25pt x 494.84875pt>
 File: ../../Images/Materialliste/arduino.png Graphic file (type png)
 <use ../../Images/Materialliste/arduino.png>
 Package pdftex.def Info: ../../Images/Materialliste/arduino.png  used on input 
@@ -3803,7 +3767,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/jumpercablemm.jpg, id=1057, 2007.5pt x 2007.5pt>
+<../../Images/Materialliste/jumpercablemm.jpg, id=1015, 2007.5pt x 2007.5pt>
 File: ../../Images/Materialliste/jumpercablemm.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercablemm.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercablemm.jpg  used on 
@@ -3834,7 +3798,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
 \T1/lmr/m/n/7 (+20) Buchse-Buchse 20
  []
 
-<../../Images/Materialliste/jumpercableff.jpg, id=1059, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/jumpercableff.jpg, id=1017, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/jumpercableff.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercableff.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercableff.jpg  used on 
@@ -3855,7 +3819,7 @@ Underfull \hbox (badness 4492) in paragraph at lines 29--29
 \T1/lmr/m/n/7 (+20) bel Buchse-Stecker
  []
 
-<../../Images/Materialliste/jumpercablemf.jpg, id=1061, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/jumpercablemf.jpg, id=1019, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/jumpercablemf.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercablemf.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercablemf.jpg  used on 
@@ -3886,7 +3850,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
 []|\T1/lmr/m/n/7 (+20) GRV CA-
  []
 
-<../../Images/Materialliste/grove2.png, id=1063, 602.25pt x 405.515pt>
+<../../Images/Materialliste/grove2.png, id=1021, 602.25pt x 405.515pt>
 File: ../../Images/Materialliste/grove2.png Graphic file (type png)
 <use ../../Images/Materialliste/grove2.png>
 Package pdftex.def Info: ../../Images/Materialliste/grove2.png  used on input l
@@ -3917,7 +3881,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 \T1/lmr/m/n/7 (+20) Steckverbinder
  []
 
-<../../Images/Materialliste/schutzstecker.jpg, id=1065, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/schutzstecker.jpg, id=1023, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/schutzstecker.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/schutzstecker.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/schutzstecker.jpg  used on 
@@ -3928,7 +3892,7 @@ Underfull \hbox (badness 5667) in paragraph at lines 35--35
 []|\T1/lmr/m/n/7 (+20) Steckernetzteil, 12
  []
 
-<../../Images/Materialliste/netzteil.png, id=1067, 602.25pt x 404.51125pt>
+<../../Images/Materialliste/netzteil.png, id=1025, 602.25pt x 404.51125pt>
 File: ../../Images/Materialliste/netzteil.png Graphic file (type png)
 <use ../../Images/Materialliste/netzteil.png>
 Package pdftex.def Info: ../../Images/Materialliste/netzteil.png  used on input
@@ -3949,7 +3913,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 \T1/lmr/m/n/7 (+20) 24VAC 1x (Ein)
  []
 
-<../../Images/Materialliste/tasterr.png, id=1069, 602.25pt x 447.6725pt>
+<../../Images/Materialliste/tasterr.png, id=1027, 602.25pt x 447.6725pt>
 File: ../../Images/Materialliste/tasterr.png Graphic file (type png)
 <use ../../Images/Materialliste/tasterr.png>
 Package pdftex.def Info: ../../Images/Materialliste/tasterr.png  used on input 
@@ -3970,7 +3934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 \T1/lmr/m/n/7 (+20) 24VAC 1x (Ein)
  []
 
-<../../Images/Materialliste/tasterg.png, id=1071, 602.25pt x 476.78125pt>
+<../../Images/Materialliste/tasterg.png, id=1029, 602.25pt x 476.78125pt>
 File: ../../Images/Materialliste/tasterg.png Graphic file (type png)
 <use ../../Images/Materialliste/tasterg.png>
 Package pdftex.def Info: ../../Images/Materialliste/tasterg.png  used on input 
@@ -3991,7 +3955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 \T1/lmr/m/n/7 (+20) Mikroschalter,
  []
 
-<../../Images/Materialliste/microschalter.png, id=1073, 602.25pt x 719.68875pt>
+<../../Images/Materialliste/microschalter.png, id=1031, 602.25pt x 719.68875pt>
 
 File: ../../Images/Materialliste/microschalter.png Graphic file (type png)
 <use ../../Images/Materialliste/microschalter.png>
@@ -4018,7 +3982,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []|\T1/lmr/m/n/7 (+20) DEBO DRV
  []
 
-<../../Images/Materialliste/treiber.png, id=1075, 602.25pt x 552.0625pt>
+<../../Images/Materialliste/treiber.png, id=1033, 602.25pt x 552.0625pt>
 File: ../../Images/Materialliste/treiber.png Graphic file (type png)
 <use ../../Images/Materialliste/treiber.png>
 Package pdftex.def Info: ../../Images/Materialliste/treiber.png  used on input 
@@ -4044,7 +4008,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 []|\T1/lmr/m/n/7 (+20) DEBO OLED
  []
 
-<../../Images/Materialliste/display.png, id=1077, 602.25pt x 390.45876pt>
+<../../Images/Materialliste/display.png, id=1035, 602.25pt x 390.45876pt>
 File: ../../Images/Materialliste/display.png Graphic file (type png)
 <use ../../Images/Materialliste/display.png>
 Package pdftex.def Info: ../../Images/Materialliste/display.png  used on input 
@@ -4055,7 +4019,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/filament.jpg, id=1079, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/filament.jpg, id=1037, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/filament.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/filament.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/filament.jpg  used on input
@@ -4071,7 +4035,7 @@ Overfull \hbox (7.85445pt too wide) in paragraph at lines 48--49
 \T1/pcr/m/n/7 roboter-[]bausatz .
  []
 
-<../../Images/Materialliste/breadboard.png, id=1081, 602.25pt x 327.2225pt>
+<../../Images/Materialliste/breadboard.png, id=1039, 602.25pt x 327.2225pt>
 File: ../../Images/Materialliste/breadboard.png Graphic file (type png)
 <use ../../Images/Materialliste/breadboard.png>
 Package pdftex.def Info: ../../Images/Materialliste/breadboard.png  used on inp
@@ -4092,7 +4056,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
 \T1/lmr/m/n/7 (+20) mehr-far-big, 200er-
  []
 
-<../../Images/Materialliste/kabelbinder.png, id=1083, 602.25pt x 374.39874pt>
+<../../Images/Materialliste/kabelbinder.png, id=1041, 602.25pt x 374.39874pt>
 File: ../../Images/Materialliste/kabelbinder.png Graphic file (type png)
 <use ../../Images/Materialliste/kabelbinder.png>
 Package pdftex.def Info: ../../Images/Materialliste/kabelbinder.png  used on in
@@ -4113,7 +4077,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
 []|\T1/lmr/m/n/7 (+20) DEBO EN-
  []
 
-<../../Images/Materialliste/drehknopf.png, id=1085, 602.25pt x 631.35875pt>
+<../../Images/Materialliste/drehknopf.png, id=1043, 602.25pt x 631.35875pt>
 File: ../../Images/Materialliste/drehknopf.png Graphic file (type png)
 <use ../../Images/Materialliste/drehknopf.png>
 Package pdftex.def Info: ../../Images/Materialliste/drehknopf.png  used on inpu
@@ -4134,7 +4098,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\T1/lmr/m/n/7 (+20) WIPPE
  []
 
-<../../Images/Materialliste/wippschalter.png, id=1087, 602.25pt x 679.53876pt>
+<../../Images/Materialliste/wippschalter.png, id=1045, 602.25pt x 679.53876pt>
 File: ../../Images/Materialliste/wippschalter.png Graphic file (type png)
 <use ../../Images/Materialliste/wippschalter.png>
 Package pdftex.def Info: ../../Images/Materialliste/wippschalter.png  used on i
@@ -4155,7 +4119,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \T1/lmr/m/n/7 (+20) Senkkopfschrauben,
  []
 
-<../../Images/Materialliste/senkkopfschraube.jpg, id=1089, 301.125pt x 301.125p
+<../../Images/Materialliste/senkkopfschraube.jpg, id=1047, 301.125pt x 301.125p
 t>
 File: ../../Images/Materialliste/senkkopfschraube.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/senkkopfschraube.jpg>
@@ -4172,7 +4136,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []|\T1/lmr/m/n/7 (+20) Sechskantmuttern,
  []
 
-<../../Images/Materialliste/muttern.png, id=1091, 602.25pt x 432.61626pt>
+<../../Images/Materialliste/muttern.png, id=1049, 602.25pt x 432.61626pt>
 File: ../../Images/Materialliste/muttern.png Graphic file (type png)
 <use ../../Images/Materialliste/muttern.png>
 Package pdftex.def Info: ../../Images/Materialliste/muttern.png  used on input 
@@ -4188,7 +4152,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--62
 []|\T1/lmr/m/n/7 (+20) Unterlegscheiben,
  []
 
-<../../Images/Materialliste/unterlegscheibe.png, id=1093, 602.25pt x 511.9125pt
+<../../Images/Materialliste/unterlegscheibe.png, id=1051, 602.25pt x 511.9125pt
 >
 File: ../../Images/Materialliste/unterlegscheibe.png Graphic file (type png)
 <use ../../Images/Materialliste/unterlegscheibe.png>
@@ -4200,7 +4164,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/loetzinn.png, id=1095, 602.25pt x 605.26125pt>
+<../../Images/Materialliste/loetzinn.png, id=1053, 602.25pt x 605.26125pt>
 File: ../../Images/Materialliste/loetzinn.png Graphic file (type png)
 <use ../../Images/Materialliste/loetzinn.png>
 Package pdftex.def Info: ../../Images/Materialliste/loetzinn.png  used on input
@@ -4221,7 +4185,7 @@ Underfull \hbox (badness 2042) in paragraph at lines 66--66
 []|\T1/lmr/m/n/7 (+20) DEBO SPEED
  []
 
-<../../Images/Materialliste/sensor.png, id=1097, 602.25pt x 412.54124pt>
+<../../Images/Materialliste/sensor.png, id=1055, 602.25pt x 412.54124pt>
 File: ../../Images/Materialliste/sensor.png Graphic file (type png)
 <use ../../Images/Materialliste/sensor.png>
 Package pdftex.def Info: ../../Images/Materialliste/sensor.png  used on input l
@@ -4237,7 +4201,7 @@ Overfull \hbox (0.14261pt too wide) in alignment at lines 15--72
  [] [] [] [] [] [] [] 
  []
 
-[69
+[67
 
 
  <../../Images/Materialliste/fraesmaschine.jpg> <../../Images/Materialliste/ard
@@ -4253,7 +4217,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[70 <../../Images/Materialliste/tasterg.png> <../../Images/Materialliste/micros
+[68 <../../Images/Materialliste/tasterg.png> <../../Images/Materialliste/micros
 chalter.png> <../../Images/Materialliste/treiber.png> <../../Images/Materiallis
 te/display.png> <../../Images/Materialliste/filament.jpg> <../../Images/Materia
 lliste/breadboard.png> <../../Images/Materialliste/kabelbinder.png> <../../Imag
@@ -4268,10 +4232,10 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[71 <../../Images/Materialliste/unterlegscheibe.png> <../../Images/Materiallist
+[69 <../../Images/Materialliste/unterlegscheibe.png> <../../Images/Materiallist
 e/loetzinn.png> <../../Images/Materialliste/sensor.png>]
 
-[72
+[70
 
 
 ]
@@ -4314,7 +4278,7 @@ heet\T1/lmr/m/n/10 (-20) . 2020. \T1/lmr/m/sc/10 (-20) url\T1/lmr/m/n/10 (-20)
 
 
 
-[73]
+[71]
 Overfull \hbox (4.09673pt too wide) in paragraph at lines 124--124
 \T1/lmr/m/it/10 (-20) tronik\T1/lmr/m/n/10 (-20) . Berlin and Hei^^?del^^?berg:
  Springer Vieweg, 2012. \T1/lmr/m/sc/10 (-20) isbn\T1/lmr/m/n/10 (-20) : 978-3-
@@ -4343,7 +4307,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[74]
+[72]
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -4352,9 +4316,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[75]
+[73]
 
-[76
+[74
 
 
 ]
@@ -4364,7 +4328,7 @@ runsystem(makeindex Nano33BLESense.idx)...executed safely (allowed).
 
 
 
-[77
+[75
 
 ]) (./Nano33BLESense.aux (./tikz/AufbauSchrittmotor.aux))
  ***********
@@ -4393,11 +4357,11 @@ Package logreq Info: Writing requests to 'Nano33BLESense.run.xml'.
 ### simple group (level 1) entered at line 67 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 100393 strings out of 473190
- 2685558 string characters out of 5719979
- 3909583 words of memory out of 5000000
- 121694 multiletter control sequences out of 15000+600000
- 725924 words of font info for 430 fonts, out of 8000000 for 9000
+ 100367 strings out of 473190
+ 2685794 string characters out of 5719979
+ 3909585 words of memory out of 5000000
+ 121702 multiletter control sequences out of 15000+600000
+ 725529 words of font info for 428 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  108i,12n,134p,10909b,3452s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c
@@ -4415,10 +4379,10 @@ ive/2025/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2025/texmf-d
 ist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/ur
 w/courier/ucrb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a
 .pfb>
-Output written on Nano33BLESense.pdf (77 pages, 7948764 bytes).
+Output written on Nano33BLESense.pdf (75 pages, 7943461 bytes).
 PDF statistics:
- 1772 PDF objects out of 2073 (max. 8388607)
- 1535 compressed objects within 16 object streams
- 441 named destinations out of 1000 (max. 500000)
- 78994 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 1720 PDF objects out of 1728 (max. 8388607)
+ 1486 compressed objects within 15 object streams
+ 410 named destinations out of 1000 (max. 500000)
+ 78474 words of extra memory for PDF output out of 89155 (max. 10000000)
 

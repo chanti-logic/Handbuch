@@ -2,36 +2,36 @@
 \babel@toc {english}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Menu Button}}{17}{figure.2.1}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Overview}}{18}{figure.2.2}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Menüleiste}}{17}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Übersicht}}{18}{figure.2.2}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Sketchbook}}{19}{figure.2.3}%
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Board Manager}}{19}{figure.2.4}%
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Library Manager}}{20}{figure.2.5}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Examples}}{20}{figure.2.6}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Beispiele}}{20}{figure.2.6}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Arduino Mbed OS Nano Boards Installation}}{24}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Select the Connected board - here Arduino Nano 33 BLE Sense}}{24}{figure.caption.5}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Arduino Mbed OS Nano Board Installation}}{24}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Verbundenes Board auswählen - hier Arduino Nano 33 BLE Sense}}{24}{figure.caption.5}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Arduino Nano 33 BLE Sense Reset Button}}{25}{figure.3.3}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces green and orange Builtin-LED}}{26}{figure.3.4}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Select Available Port for Uploading Arduino Sketch}}{26}{figure.caption.6}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Upload the Program in Arduino board}}{27}{figure.caption.7}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Setting the Port}}{27}{figure.caption.8}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces LED Example Sketch}}{28}{figure.3.8}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces grüne und orangene Builtin-LED}}{26}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Zum Upload von Arduino Sketches verfügbaren Port auswählen}}{26}{figure.caption.6}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Upload des Sketches auf das Arduino Board}}{27}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Auswählen des Ports}}{27}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces LED Beispiel-Sketch}}{28}{figure.3.8}%
 \contentsline {figure}{\numberline {3.9}{\ignorespaces LED-Built Example}}{28}{figure.3.9}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Arduino Nano 33 BLE Sense (Vereinfachte Darstellung)}}{33}{figure.caption.9}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Arduino Nano Pinbelegung \blx@tocontentsinit {0}\cite {Ard.2024}}}{36}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Arduino Nano 33 BLE Sense (Vereinfachte Darstellung)}}{31}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Arduino Nano Pinbelegung \blx@tocontentsinit {0}\cite {Ard.2024}}}{34}{figure.caption.10}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{46}{figure.caption.12}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{48}{figure.caption.15}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{49}{figure.caption.19}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Prinzipieller Aufbau Schrittmotor (2-phasig) \blx@tocontentsinit {0}\cite {Hagl.2021}}}{44}{figure.caption.12}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Start-Stopp Frequenz \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{46}{figure.caption.15}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Trapezförmiges Geschwindigkeitsprofil \blx@tocontentsinit {0}\cite {FaulhaberDriveSystems.2020}}}{47}{figure.caption.19}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{59}{figure.caption.31}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Installation der TimerOne Bibliothek}}{59}{figure.caption.32}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{60}{figure.caption.33}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Aufrufen der Bibliotheken in der Arduino IDE}}{57}{figure.caption.31}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Installation der TimerOne Bibliothek}}{57}{figure.caption.32}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Aufrufen der Beispiele für die TimerOne Bibliothek}}{58}{figure.caption.33}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Installation der U8g2 Bibliothek}}{65}{figure.caption.36}%
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Installation der U8g2 Bibliothek}}{63}{figure.caption.36}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
