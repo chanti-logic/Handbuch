@@ -137,61 +137,61 @@ Für den LM393 Geschwindigkeitssensor mit Lochscheibe ist keine spezielle Kalibr
 Das Beispiel geht davon aus, dass die Lochscheibe auf einer sich rotierenden Welle befestigt ist. Mit dem folgenden Code wird die Drehzahl der Welle alle 5 Sekunden im seriellen Monitor ausgegeben. 
 
 \begin{lstlisting}
-	// Import einer Bibliothek
+	// import library
 	#include "TimerOne.h"
 	#define pin 2
-	// benoetigte Variablen
+	// required variables
 	int interval, wheel, counter;
 	unsigned long previousMicros, usInterval, calc;
 	
 	void setup() {
-	counter = 0; //counter auf 0 setzen
-	interval = 5; //5 Sekunden Intervall
-	wheel = 20; //Loecher in Encoder-Scheibe
+	counter = 0; // set counter to 0
+	interval = 5; // 5-second interval
+	wheel = 20; // holes in encoder disk
 	
-	//Intervall auf eine Minute hoch rechnen
+	// scale interval to one minute
 	calc = 60 / interval;
-	//Intervallzeit in Mikrosekunden umrechnen
+	// convert interval time to microseconds
 	usInterval = interval * 1000000;
-	//Anzahl Loecher Encoderscheibe mal 2 ist Anzahl Signalwechsel
+	// number of holes in encoder disk *2 equals number of signal changes
 	wheel = wheel *2;
 	
-	//Setzen des analogen Pins als Input
+	// set analog pin as input
 	pinMode(pin, INPUT);
-	//Timer auf Intervall initialisieren
+	// initialize timer with interval
 	Timer1.initialize(usInterval);
 	attachInterrupt(digitalPinToInterrupt(pin), count, CHANGE);
-	//fuehrt count aus, wenn sich Signal an Pin 2 aendert
+	// executes 'count' when signal at pin 2 changes
 	
-	//fuehrt nach Intervall output aus
+	// executes 'output' after each interval
 	Timer1.attachInterrupt(output);
 	Serial.begin(9600);
 	}
 	
-	//zaehlen der Encoder-Scheibe
+	// count the encoder disk
 	void count() {
 	if (micros() - previousMicros >=700){
 	counter++;
 	previousMicros = micros();}
 	}
 	
-	//Ausgabe im seriellen Monitor
+	// output to serial monitor
 	
 	void output() {
-	Timer1.detachInterrupt(); //unterbricht Timer
+	Timer1.detachInterrupt(); // stop timer
 	Serial.print("Drehzahl pro Minute: ");
 	int speed = ((counter)*calc) / wheel;
-	//Berechnung der Umdrehungen pro Minute
+	// calculate revolutions per minute
 	
 	Serial.println(speed);
 	counter = 0;
-	//Zuruecksetzen des Zaehlers
+	// reset counter
 	Timer1.attachInterrupt(output);
-	//startet Timer erneut
+	// restart timer
 	}
 	
 	void loop() {
-	//kein loop notwendig
+	// no loop needed
 	}
 \end{lstlisting}
 
