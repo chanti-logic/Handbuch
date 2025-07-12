@@ -1,6 +1,6 @@
 <div>
   <p>
-    <img width="35%" src="XXXX.jpg">
+    <img width="35%" src="Schrittmotor.jpg">
   </p>
   <b><h3> Automatisierungstechnik Projekt aus dem Jahr 2025 </h3></b>
   <p> Demonstrator für einen Schrittmotor mit <a href="https://www.arduino.cc"> Arduino-Ansteuerung </a></p>
@@ -11,7 +11,7 @@
 Prof. Dr. Elmar Wings
 
 # Autoren (Name, Vorname, Matrikelnummer):
-Crety, Chantal, XXXX
+Crety, Chantal, 7025255
 Mey, Hannah, 7024688
 Perewersenko, Jessica, 7024880
 
