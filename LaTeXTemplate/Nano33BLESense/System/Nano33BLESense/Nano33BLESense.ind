@@ -1,114 +1,108 @@
 \begin{theindex}
 
   \item  File
-    \subitem Arduino, 28
-    \subitem blink.ino, 43, 44
-    \subitem blnik.ino, 39
-    \subitem Fade, 44
-    \subitem File/Examples/01.Basics, 44
-    \subitem libraries, 30--32
-    \subitem MySketch, 28
-    \subitem MySketch.ino, 28
-    \subitem Nano33BLESenseLE, 30
-    \subitem Nano33BLESenseLED, 31, 32
+    \subitem blink.ino, 27, 28
+    \subitem blnik.ino, 23
+    \subitem Fade, 28
+    \subitem File/Examples/01.Basics, 28
   \item  Inertial Measurement Unit
-    \subitem  \emph  {see} IMU, 11, 50
+    \subitem  \emph  {see} IMU, 11, 34
 
   \indexspace
 
-  \item AAR, 11, 53
-  \item ADC, 11, 53
+  \item AAR, 11, 37
+  \item ADC, 11, 37
   \item Advanced Encryption Standard
-    \subitem  \emph  {see} AES, 11, 53
-  \item AES, 11, 53
+    \subitem  \emph  {see} AES, 11, 37
+  \item AES, 11, 37
   \item Analog to Digital Converter
-    \subitem  \emph  {see} ADC, 11, 53
+    \subitem  \emph  {see} ADC, 11, 37
   \item Automatic Address Recognition
-    \subitem  \emph  {see} AAR, 11, 53
+    \subitem  \emph  {see} AAR, 11, 37
 
   \indexspace
 
-  \item BLE, 11, 49, 50, 52
+  \item BLE, 11, 33, 34, 36
   \item Bluetooth Low Energy
-    \subitem  \emph  {see} BLE, 11, 49
+    \subitem  \emph  {see} BLE, 11, 33
 
   \indexspace
 
-  \item CCM, 11, 53
+  \item CCM, 11, 37
   \item Counter with CBC-MAC
-    \subitem  \emph  {see} {CCM}, 11, 53
+    \subitem  \emph  {see} {CCM}, 11, 37
 
   \indexspace
 
   \item Direkt Memory Access
-    \subitem  \emph  {see} DMA, 11, 53
-  \item DMA, 11, 53
+    \subitem  \emph  {see} DMA, 11, 37
+  \item DMA, 11, 37
 
   \indexspace
 
-  \item I\textsuperscript  {2}C, 11, 50--52
-  \item IC, 11, 51
-  \item IDE, 11, 44
-  \item IMU, 11, 50
+  \item I\textsuperscript  {2}C, 11, 34--36
+  \item IC, 11, 35
+  \item IDE, 11, 28
+  \item IMU, 11, 34
   \item Integrated Development Environment
-    \subitem  \emph  {see} IDE, 11, 44
+    \subitem  \emph  {see} IDE, 11, 28
   \item Inter Circuit
-    \subitem  \emph  {see} IC, 11, 51
+    \subitem  \emph  {see} IC, 11, 35
   \item Inter-Integrated Circuit
-    \subitem  \emph  {see} I\textsuperscript  {2}C, 11, 50
+    \subitem  \emph  {see} I\textsuperscript  {2}C, 11, 34
 
   \indexspace
 
-  \item LED, 11, 50
+  \item LED, 11, 34
   \item Light Emitting Diode
-    \subitem  \emph  {see} {LED}, 11, 50
+    \subitem  \emph  {see} {LED}, 11, 34
 
   \indexspace
 
   \item Mini Universal Serial Bus
-    \subitem \emph  {see} MSB, 11, 53
-  \item MUSB, 11, 53
+    \subitem \emph  {see} MSB, 11, 37
+  \item MUSB, 11, 37
 
   \indexspace
 
   \item Near Field Communication
-    \subitem  \emph  {see} {NFC}, 11, 53
-  \item NFC, 11, 53
+    \subitem  \emph  {see} {NFC}, 11, 37
+  \item NFC, 11, 37
 
   \indexspace
 
-  \item OLED, 11, 52
+  \item OLED, 11, 36
   \item Organic Light Emitting Diode
-    \subitem  \emph  {see} {OLED}, 11, 52
+    \subitem  \emph  {see} {OLED}, 11, 36
 
   \indexspace
 
-  \item PDM, 11, 51
+  \item PDM, 11, 35
   \item Pulse Density Modulation
-    \subitem  \emph  {see} PDM, 11, 51
+    \subitem  \emph  {see} PDM, 11, 35
 
   \indexspace
 
-  \item SCL, 11, 52
-  \item SDA, 11, 52
+  \item SCL, 11, 36
+  \item SDA, 11, 36
   \item Serial Clock
-    \subitem  \emph  {see} SCL, 11, 52
+    \subitem  \emph  {see} SCL, 11, 36
   \item Serial Data
-    \subitem  \emph  {see} SDA, 11, 52
+    \subitem  \emph  {see} SDA, 11, 36
   \item Serial Peripheral Interface
-    \subitem  \emph  {see} SPI, 11, 51
-  \item SMD, 11, 51
-  \item SoC, 11, 49
-  \item SPI, 11, 51, 53
+    \subitem  \emph  {see} SPI, 11, 35
+  \item SMD, 11, 35
+  \item SoC, 11, 33
+  \item SPI, 11, 35, 37
   \item Surface-Mounted Device
-    \subitem  \emph  {see} SM, 11, 51
+    \subitem  \emph  {see} SM, 11, 35
   \item System on Chip
-    \subitem  \emph  {see} SoC, 11, 49
+    \subitem  \emph  {see} SoC, 11, 33
 
   \indexspace
 
   \item Ultraviolettstrahlung
-    \subitem  \emph  {see} UV, 11, 50
-  \item UV, 11, 50
+    \subitem  \emph  {see} UV, 11, 34
+  \item UV, 11, 34
 
 \end{theindex}
