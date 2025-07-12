@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  12 JUL 2025 18:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.25)  12 JUL 2025 21:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3745,14 +3745,164 @@ Package scrkbase Info: You've told me to use the font selection of the element
 
 [65]
 
-[66] (../../Contents/Nano33BLESense/MateriallisteNano.tex
+[66] (../../Contents/General/ProgrammbeschreibungSchrittmotor.tex
 chapter 10.
+
+
+[67
+
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (1.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
+
+[68]
+
+
+Package fancyhdr Warning: \headheight is too small (1.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
+
+[69]
+
+
+Package fancyhdr Warning: \headheight is too small (1.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
+
+[70]
+
+LaTeX Warning: Reference `lst:definition' on page 71 undefined on input line 24
+7.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+LaTeX Warning: Reference `lst:interrupt' on page 71 undefined on input line 249
+.
+
+
+Overfull \hbox (12.86774pt too wide) in paragraph at lines 249--250
+\T1/lmr/m/n/10 (-20) sors einen Puls zählt. Diese Pulse wer^^?den später genutz
+t, um die gefahrene Geschwindigkeit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+LaTeX Warning: Reference `lst:setup' on page 71 undefined on input line 251.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+
+LaTeX Warning: Reference `lst:loop' on page 71 undefined on input line 253.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+
+LaTeX Warning: Reference `lst:geschwindigkeit' on page 71 undefined on input li
+ne 255.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+LaTeX Warning: Reference `lst:start' on page 71 undefined on input line 257.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+
+LaTeX Warning: Reference `lst:stopp' on page 71 undefined on input line 259.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+
+ []
+
+
+LaTeX Warning: Reference `lst:rechts' on page 71 undefined on input line 261.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (1.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
+
+[71]
+
+LaTeX Warning: Reference `lst:links' on page 72 undefined on input line 263.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+LaTeX Warning: Reference `lst:motor' on page 72 undefined on input line 267.
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (1.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
+
+[72]
+part V.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 114.
+
+
+[73
+
+
+]
+
+[74] (../../Contents/Nano33BLESense/MateriallisteNano.tex
+chapter 11.
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|\T1/lmr/bx/n/7 (+20) Preis
  []
 
-<../../Images/Materialliste/fraesmaschine.jpg, id=1041, 1027.84pt x 1027.84pt>
+<../../Images/Materialliste/fraesmaschine.jpg, id=1287, 1027.84pt x 1027.84pt>
 File: ../../Images/Materialliste/fraesmaschine.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/fraesmaschine.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/fraesmaschine.jpg  used on 
@@ -3773,7 +3923,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\T1/lmr/m/n/7 (+20) ARD NANO
  []
 
-<../../Images/Materialliste/arduino.png, id=1043, 602.25pt x 494.84875pt>
+<../../Images/Materialliste/arduino.png, id=1289, 602.25pt x 494.84875pt>
 File: ../../Images/Materialliste/arduino.png Graphic file (type png)
 <use ../../Images/Materialliste/arduino.png>
 Package pdftex.def Info: ../../Images/Materialliste/arduino.png  used on input 
@@ -3784,7 +3934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/jumpercablemm.jpg, id=1045, 2007.5pt x 2007.5pt>
+<../../Images/Materialliste/jumpercablemm.jpg, id=1291, 2007.5pt x 2007.5pt>
 File: ../../Images/Materialliste/jumpercablemm.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercablemm.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercablemm.jpg  used on 
@@ -3815,7 +3965,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
 \T1/lmr/m/n/7 (+20) Buchse-Buchse 20
  []
 
-<../../Images/Materialliste/jumpercableff.jpg, id=1047, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/jumpercableff.jpg, id=1293, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/jumpercableff.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercableff.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercableff.jpg  used on 
@@ -3836,7 +3986,7 @@ Underfull \hbox (badness 4492) in paragraph at lines 29--29
 \T1/lmr/m/n/7 (+20) bel Buchse-Stecker
  []
 
-<../../Images/Materialliste/jumpercablemf.jpg, id=1049, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/jumpercablemf.jpg, id=1295, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/jumpercablemf.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/jumpercablemf.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/jumpercablemf.jpg  used on 
@@ -3867,7 +4017,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
 []|\T1/lmr/m/n/7 (+20) GRV CA-
  []
 
-<../../Images/Materialliste/grove2.png, id=1051, 602.25pt x 405.515pt>
+<../../Images/Materialliste/grove2.png, id=1297, 602.25pt x 405.515pt>
 File: ../../Images/Materialliste/grove2.png Graphic file (type png)
 <use ../../Images/Materialliste/grove2.png>
 Package pdftex.def Info: ../../Images/Materialliste/grove2.png  used on input l
@@ -3898,7 +4048,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 \T1/lmr/m/n/7 (+20) Steckverbinder
  []
 
-<../../Images/Materialliste/schutzstecker.jpg, id=1053, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/schutzstecker.jpg, id=1299, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/schutzstecker.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/schutzstecker.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/schutzstecker.jpg  used on 
@@ -3909,7 +4059,7 @@ Underfull \hbox (badness 5667) in paragraph at lines 35--35
 []|\T1/lmr/m/n/7 (+20) Steckernetzteil, 12
  []
 
-<../../Images/Materialliste/netzteil.png, id=1055, 602.25pt x 404.51125pt>
+<../../Images/Materialliste/netzteil.png, id=1301, 602.25pt x 404.51125pt>
 File: ../../Images/Materialliste/netzteil.png Graphic file (type png)
 <use ../../Images/Materialliste/netzteil.png>
 Package pdftex.def Info: ../../Images/Materialliste/netzteil.png  used on input
@@ -3930,7 +4080,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 \T1/lmr/m/n/7 (+20) 24VAC 1x (Ein)
  []
 
-<../../Images/Materialliste/tasterr.png, id=1057, 602.25pt x 447.6725pt>
+<../../Images/Materialliste/tasterr.png, id=1303, 602.25pt x 447.6725pt>
 File: ../../Images/Materialliste/tasterr.png Graphic file (type png)
 <use ../../Images/Materialliste/tasterr.png>
 Package pdftex.def Info: ../../Images/Materialliste/tasterr.png  used on input 
@@ -3951,7 +4101,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 \T1/lmr/m/n/7 (+20) 24VAC 1x (Ein)
  []
 
-<../../Images/Materialliste/tasterg.png, id=1059, 602.25pt x 476.78125pt>
+<../../Images/Materialliste/tasterg.png, id=1305, 602.25pt x 476.78125pt>
 File: ../../Images/Materialliste/tasterg.png Graphic file (type png)
 <use ../../Images/Materialliste/tasterg.png>
 Package pdftex.def Info: ../../Images/Materialliste/tasterg.png  used on input 
@@ -3972,7 +4122,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 \T1/lmr/m/n/7 (+20) Mikroschalter,
  []
 
-<../../Images/Materialliste/microschalter.png, id=1061, 602.25pt x 719.68875pt>
+<../../Images/Materialliste/microschalter.png, id=1307, 602.25pt x 719.68875pt>
 
 File: ../../Images/Materialliste/microschalter.png Graphic file (type png)
 <use ../../Images/Materialliste/microschalter.png>
@@ -3999,7 +4149,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []|\T1/lmr/m/n/7 (+20) DEBO DRV
  []
 
-<../../Images/Materialliste/treiber.png, id=1063, 602.25pt x 552.0625pt>
+<../../Images/Materialliste/treiber.png, id=1309, 602.25pt x 552.0625pt>
 File: ../../Images/Materialliste/treiber.png Graphic file (type png)
 <use ../../Images/Materialliste/treiber.png>
 Package pdftex.def Info: ../../Images/Materialliste/treiber.png  used on input 
@@ -4025,7 +4175,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 []|\T1/lmr/m/n/7 (+20) DEBO OLED
  []
 
-<../../Images/Materialliste/display.png, id=1065, 602.25pt x 390.45876pt>
+<../../Images/Materialliste/display.png, id=1311, 602.25pt x 390.45876pt>
 File: ../../Images/Materialliste/display.png Graphic file (type png)
 <use ../../Images/Materialliste/display.png>
 Package pdftex.def Info: ../../Images/Materialliste/display.png  used on input 
@@ -4036,7 +4186,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/filament.jpg, id=1067, 1003.75pt x 1003.75pt>
+<../../Images/Materialliste/filament.jpg, id=1313, 1003.75pt x 1003.75pt>
 File: ../../Images/Materialliste/filament.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/filament.jpg>
 Package pdftex.def Info: ../../Images/Materialliste/filament.jpg  used on input
@@ -4052,7 +4202,7 @@ Overfull \hbox (7.85445pt too wide) in paragraph at lines 48--49
 \T1/pcr/m/n/7 roboter-[]bausatz .
  []
 
-<../../Images/Materialliste/breadboard.png, id=1069, 602.25pt x 327.2225pt>
+<../../Images/Materialliste/breadboard.png, id=1315, 602.25pt x 327.2225pt>
 File: ../../Images/Materialliste/breadboard.png Graphic file (type png)
 <use ../../Images/Materialliste/breadboard.png>
 Package pdftex.def Info: ../../Images/Materialliste/breadboard.png  used on inp
@@ -4073,7 +4223,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
 \T1/lmr/m/n/7 (+20) mehr-far-big, 200er-
  []
 
-<../../Images/Materialliste/kabelbinder.png, id=1071, 602.25pt x 374.39874pt>
+<../../Images/Materialliste/kabelbinder.png, id=1317, 602.25pt x 374.39874pt>
 File: ../../Images/Materialliste/kabelbinder.png Graphic file (type png)
 <use ../../Images/Materialliste/kabelbinder.png>
 Package pdftex.def Info: ../../Images/Materialliste/kabelbinder.png  used on in
@@ -4094,7 +4244,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
 []|\T1/lmr/m/n/7 (+20) DEBO EN-
  []
 
-<../../Images/Materialliste/drehknopf.png, id=1073, 602.25pt x 631.35875pt>
+<../../Images/Materialliste/drehknopf.png, id=1319, 602.25pt x 631.35875pt>
 File: ../../Images/Materialliste/drehknopf.png Graphic file (type png)
 <use ../../Images/Materialliste/drehknopf.png>
 Package pdftex.def Info: ../../Images/Materialliste/drehknopf.png  used on inpu
@@ -4115,7 +4265,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\T1/lmr/m/n/7 (+20) WIPPE
  []
 
-<../../Images/Materialliste/wippschalter.png, id=1075, 602.25pt x 679.53876pt>
+<../../Images/Materialliste/wippschalter.png, id=1321, 602.25pt x 679.53876pt>
 File: ../../Images/Materialliste/wippschalter.png Graphic file (type png)
 <use ../../Images/Materialliste/wippschalter.png>
 Package pdftex.def Info: ../../Images/Materialliste/wippschalter.png  used on i
@@ -4136,7 +4286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \T1/lmr/m/n/7 (+20) Senkkopfschrauben,
  []
 
-<../../Images/Materialliste/senkkopfschraube.jpg, id=1077, 301.125pt x 301.125p
+<../../Images/Materialliste/senkkopfschraube.jpg, id=1323, 301.125pt x 301.125p
 t>
 File: ../../Images/Materialliste/senkkopfschraube.jpg Graphic file (type jpg)
 <use ../../Images/Materialliste/senkkopfschraube.jpg>
@@ -4153,7 +4303,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []|\T1/lmr/m/n/7 (+20) Sechskantmuttern,
  []
 
-<../../Images/Materialliste/muttern.png, id=1079, 602.25pt x 432.61626pt>
+<../../Images/Materialliste/muttern.png, id=1325, 602.25pt x 432.61626pt>
 File: ../../Images/Materialliste/muttern.png Graphic file (type png)
 <use ../../Images/Materialliste/muttern.png>
 Package pdftex.def Info: ../../Images/Materialliste/muttern.png  used on input 
@@ -4169,7 +4319,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--62
 []|\T1/lmr/m/n/7 (+20) Unterlegscheiben,
  []
 
-<../../Images/Materialliste/unterlegscheibe.png, id=1081, 602.25pt x 511.9125pt
+<../../Images/Materialliste/unterlegscheibe.png, id=1327, 602.25pt x 511.9125pt
 >
 File: ../../Images/Materialliste/unterlegscheibe.png Graphic file (type png)
 <use ../../Images/Materialliste/unterlegscheibe.png>
@@ -4181,7 +4331,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 []|[]$\T1/pcr/m/n/7 www . reichelt .
  []
 
-<../../Images/Materialliste/loetzinn.png, id=1083, 602.25pt x 605.26125pt>
+<../../Images/Materialliste/loetzinn.png, id=1329, 602.25pt x 605.26125pt>
 File: ../../Images/Materialliste/loetzinn.png Graphic file (type png)
 <use ../../Images/Materialliste/loetzinn.png>
 Package pdftex.def Info: ../../Images/Materialliste/loetzinn.png  used on input
@@ -4202,7 +4352,7 @@ Underfull \hbox (badness 2042) in paragraph at lines 66--66
 []|\T1/lmr/m/n/7 (+20) DEBO SPEED
  []
 
-<../../Images/Materialliste/sensor.png, id=1085, 602.25pt x 412.54124pt>
+<../../Images/Materialliste/sensor.png, id=1331, 602.25pt x 412.54124pt>
 File: ../../Images/Materialliste/sensor.png Graphic file (type png)
 <use ../../Images/Materialliste/sensor.png>
 Package pdftex.def Info: ../../Images/Materialliste/sensor.png  used on input l
@@ -4218,7 +4368,7 @@ Overfull \hbox (0.14261pt too wide) in alignment at lines 15--72
  [] [] [] [] [] [] [] 
  []
 
-[67
+[75
 
 
  <../../Images/Materialliste/fraesmaschine.jpg> <../../Images/Materialliste/ard
@@ -4234,7 +4384,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[68 <../../Images/Materialliste/tasterg.png> <../../Images/Materialliste/micros
+[76 <../../Images/Materialliste/tasterg.png> <../../Images/Materialliste/micros
 chalter.png> <../../Images/Materialliste/treiber.png> <../../Images/Materiallis
 te/display.png> <../../Images/Materialliste/filament.jpg> <../../Images/Materia
 lliste/breadboard.png> <../../Images/Materialliste/kabelbinder.png> <../../Imag
@@ -4249,10 +4399,10 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[69 <../../Images/Materialliste/unterlegscheibe.png> <../../Images/Materiallist
+[77 <../../Images/Materialliste/unterlegscheibe.png> <../../Images/Materiallist
 e/loetzinn.png> <../../Images/Materialliste/sensor.png>]
 
-[70
+[78
 
 
 ]
@@ -4261,7 +4411,7 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (16.14008pt too wide) in paragraph at lines 124--124
+Overfull \hbox (16.14008pt too wide) in paragraph at lines 131--131
 []\T1/lmr/m/n/10 (-20) Arm. \T1/lmr/m/it/10 (-20) Arm-Cortex-M4-Processor-Datas
 heet\T1/lmr/m/n/10 (-20) . 2020. \T1/lmr/m/sc/10 (-20) url\T1/lmr/m/n/10 (-20) 
 : []$\T1/pcr/l/it/10 https : / / developer .
@@ -4269,47 +4419,47 @@ heet\T1/lmr/m/n/10 (-20) . 2020. \T1/lmr/m/sc/10 (-20) url\T1/lmr/m/n/10 (-20)
 
 
 
-[71]
-Overfull \hbox (4.594pt too wide) in paragraph at lines 124--124
+[79]
+Overfull \hbox (4.594pt too wide) in paragraph at lines 131--131
 \T1/lmr/m/it/10 (-20) rial pe-riph-eral in-ter-face\T1/lmr/m/n/10 (-20) . 2023.
  \T1/lmr/m/sc/10 (-20) url\T1/lmr/m/n/10 (-20) : []$\T1/pcr/l/it/10 https : / /
  infocenter . nordicsemi .
  []
 
 
-Overfull \hbox (15.72565pt too wide) in paragraph at lines 124--124
+Overfull \hbox (15.72565pt too wide) in paragraph at lines 131--131
 \T1/lmr/m/it/10 (-20) Trust-Zone Cryp-to-Cell 310\T1/lmr/m/n/10 (-20) . 2024. \
 T1/lmr/m/sc/10 (-20) url\T1/lmr/m/n/10 (-20) : []$\T1/pcr/l/it/10 https : / / i
 nfocenter . nordicsemi .
  []
 
 
-Overfull \hbox (28.97353pt too wide) in paragraph at lines 124--124
+Overfull \hbox (28.97353pt too wide) in paragraph at lines 131--131
 []\T1/lmr/m/n/10 (-20) Petr Fil^^?ipi and Ar^^?duino Tech Sup^^?port Team. \T1/
 lmr/m/it/10 (-20) Dif-fer-ence_-be-tween_-A33BLESense_-
  []
 
 
-Overfull \hbox (1.85822pt too wide) in paragraph at lines 124--124
+Overfull \hbox (1.85822pt too wide) in paragraph at lines 131--131
 []\T1/lmr/m/n/10 (-20) SIMAC Elec^^?tron^^?ics GmbH. \T1/lmr/m/it/10 (-20) SPEE
 D-SEN-SOR SEN-Speed\T1/lmr/m/n/10 (-20) . 2020. \T1/lmr/m/sc/10 (-20) url\T1/lm
 r/m/n/10 (-20) : []$\T1/pcr/l/it/10 https :
  []
 
 
-Overfull \hbox (0.95865pt too wide) in paragraph at lines 124--124
+Overfull \hbox (0.95865pt too wide) in paragraph at lines 131--131
 \T1/pcr/l/it/10 / / cdn -[] reichelt . de / documents / datenblatt / A300 / DAT
 ASHEET -[]
  []
 
 
-Overfull \hbox (6.85866pt too wide) in paragraph at lines 124--124
+Overfull \hbox (6.85866pt too wide) in paragraph at lines 131--131
 \T1/pcr/l/it/10 documents / datenblatt / A300 / SEN -[] SPEED -[] ANLEITUNG -[]
  20201015 .
  []
 
 
-Overfull \hbox (7.55865pt too wide) in paragraph at lines 124--124
+Overfull \hbox (7.55865pt too wide) in paragraph at lines 131--131
 \T1/pcr/l/it/10 lehstuhlseminar / vortraege _ lehrstuhlseminar / folder -[] 201
 0 -[]
  []
@@ -4323,7 +4473,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[72]
+[80]
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -4332,9 +4482,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.0pt}.
 
-[73]
+[81]
 
-[74
+[82
 
 
 ]
@@ -4344,9 +4494,14 @@ runsystem(makeindex Nano33BLESense.idx)...executed safely (allowed).
 
 
 
-[75
+[83
 
-]) (./Nano33BLESense.aux (./tikz/AufbauSchrittmotor.aux))
+])
+
+LaTeX Warning: Hook 'shipout/lastpage' executed on wrong page (75 not 83).
+               Rerun to correct this.
+
+(./Nano33BLESense.aux (./tikz/AufbauSchrittmotor.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -4372,22 +4527,21 @@ Package logreq Info: Writing requests to 'Nano33BLESense.run.xml'.
 \openout1 = `Nano33BLESense.run.xml'.
 
  )
-(\end occurred inside a group at level 5)
+(\end occurred inside a group at level 4)
 
-### simple group (level 5) entered at line 186 ({)
 ### simple group (level 4) entered at line 152 ({)
 ### simple group (level 3) entered at line 97 ({)
 ### simple group (level 2) entered at line 90 ({)
 ### simple group (level 1) entered at line 67 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 100352 strings out of 473190
- 2684903 string characters out of 5719979
- 3909713 words of memory out of 5000000
- 121679 multiletter control sequences out of 15000+600000
+ 100707 strings out of 473190
+ 2690788 string characters out of 5719979
+ 3948713 words of memory out of 5000000
+ 121820 multiletter control sequences out of 15000+600000
  726049 words of font info for 432 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
- 108i,12n,134p,10909b,3452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,12n,134p,10909b,3568s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c
 :/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx7.pfb><c:/texlive/2025/texm
 f-dist/fonts/type1/public/lm/lmbx8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/
@@ -4403,10 +4557,10 @@ ive/2025/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2025/texmf-d
 ist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/ur
 w/courier/ucrb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a
 .pfb>
-Output written on Nano33BLESense.pdf (75 pages, 7942863 bytes).
+Output written on Nano33BLESense.pdf (83 pages, 7960281 bytes).
 PDF statistics:
- 1741 PDF objects out of 2073 (max. 8388607)
- 1499 compressed objects within 15 object streams
- 410 named destinations out of 1000 (max. 500000)
- 78450 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 2036 PDF objects out of 2073 (max. 8388607)
+ 1783 compressed objects within 18 object streams
+ 621 named destinations out of 1000 (max. 500000)
+ 78466 words of extra memory for PDF output out of 89155 (max. 10000000)
 
